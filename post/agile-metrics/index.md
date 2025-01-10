@@ -1,0 +1,49 @@
+---
+title: "Agile Metrics"
+date: "2010-07-02"
+categories: 
+  - "agile"
+tags: 
+  - "agile-metrics"
+  - "java"
+  - "jdepend"
+  - "martin-fowler"
+  - "ndepend"
+  - "running-tested-features"
+  - "sonar"
+coverImage: "photodune-3795126-graph-xs.jpg"
+---
+
+![eps10 business graph with arrow - image licensed from Photodune](images/photodune-3795126-graph-xs.jpg) I’m frequently getting requests for good Agile Metrics and I’m never quite sure how to respond. Courtesy of some time waiting at [LGA](https://www.laguardiaairport.com), I’ve been giving this some more thought. For many organizations metrics are irrelevant, don’t bother collecting them as they will just waste your time (and money).
+
+If you must collect metrics, here is what I would consider.
+
+**Running Tested Purchased Features –** Ron Jeffries is famous the metric [Running Tested Features](https://ronjeffries.com/xprog/articles/jatrtsmetric/) (RTF). I suggest that you consider taking it one step further until you’ve sold the feature to the customer you don’t know if they value it or not. For most product organizations this is a bit of stretch to measure in which case stick with Ron’s advice.
+
+Questions to ask:
+
+- What would you like to change?
+- If you had the information the metric provided what action would you take? Can you take that action now without the proof of the metric?
+- Your key measure (i.e. RTF), should measure your widest span of control – Sold Features > Deployed > Automated Acceptance Tests > …
+- _Measure Cycle Time - i.e. how long it takes to get something done and not people._
+- Other measures can be used: i.e. test coverage from Unit Tests, but be careful they might measure what you think they mean.
+- Measures can be gamed/fooled (intentionally or otherwise): For example test coverage measures whether or not a line of code has been visited. It doesn’t measure if there its meaningfully tested. If you must use a measure like this pay attention to the trend and not the absolute number. In this case a large jump might indicate someone having written a not very useful test of the outside api of your application.
+- Metrics have best before dates. Eventually you will stop getting real value from them. At that stage throw them away.
+- Ask can I get this information by walking around, observing and asking questions.
+
+Alright, you made it this far you deserve some options:
+
+Martin Fowler says: [CannotMeasureProductivity](https://www.martinfowler.com/bliki/CannotMeasureProductivity.html). Dave Nicolette presented on this at Agile 2009 (this article links to heaps of others). I wrote this for InfoQ last year:  [What is a Good Agile Metric?](https://www.infoq.com/news/2009/11/good-agile-metrics/). InfoQ also has: [Metrics in an Agile World](https://www.infoq.com/presentations/agile-metrics/).
+
+The following tools will help you measure, but please remember they often have many bad measures (_comments?_) turned with the good ones. Think carefully when choosing your rulesets:
+
+- [Sonar](https://www.sonarsource.org/) – has a bunch of interesting measures: Cyclomatic Complexity, Duplicated code, … _._ While there are other plugins, its of most use in the Java world.
+- [JDepend](https://github.com/clarkware/jdepend) – helps you spot good vs. bad dependencies.
+- PMD, FindBugs, JLint – [see a comparison of all three](http://www.cs.tufts.edu/~jfoster/papers/issre04.pdf) (pdf). Some of these tools check some pointless things: method name too short or too long? missing Javadoc comments? Please configure these with the help of a grown adult. But they can also be configured to spot methods (> 30-40 lines) and classes (>300-400 lines) that are too long.
+- [NDepend](https://www.ndepend.com/) like JDepend and heaps more measures. Again please be careful configure only with an adults help :-) _Caveat Emptor I’ve been given a free copy of NDepend (that I’ve never had a chance to use)._
+
+_When paying attention to measures of the code, what matters is the trend and not the absolute numbers. Finally just because a tool can measure it doesn't mean its worth measuring, conversely some of the best measures don't have tools to measure them. In this case note that none of the above tools measure cycle time._
+
+_Updated to make clear the point that you shouldn't measure people and the limitations of tools._
+
+Image via: [https://photodune.net/](https://photodune.net/)

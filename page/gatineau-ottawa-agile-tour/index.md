@@ -1,0 +1,40 @@
+---
+title: "The Gatineau-Ottawa Agile Tour"
+date: "2020-02-19"
+---
+
+We're very proud to announce that Agile Pain Relief is the title sponsor of the 2019 [Gatineau-Ottawa Agile Tour](https://goagiletour.ca/) which will take place on November 22, 2019 at Ottawa Shaw Centre, Ottawa.
+
+We strongly believe in giving back and helping to grow the Agile community, and Agile Tours are a wonderful opportunity to do so.
+
+[![Gatineau-Ottawa Agile Tour](images/GOAT-featured-image-300x300-1.jpg)](https://goagiletour.ca/)
+
+Join our mailing list to receive a special discount code to save $100 off the total for any Fall or Winter course in [our upcoming training](/certified-scrum-agile-training). That's **an additional $100 savings**, over and above possible Early Bird or Team discounts!
+
+\* Email Address (required) 
+
+\* First Name (required) 
+
+Last Name (optional) 
+
+Location (optional) 
+
+Website 
+
+ 
+
+The [Gatineau-Ottawa Agile Tour](https://goagiletour.ca/) (GOAT) is the largest non-profit Agile conference in the Canadian capital region. Held annually and organized by a group of volunteers, it draws Agile practitioners, students, presenters, and keynote speakers togethe, to focus on sharing and learning in an inspiring environment.
+
+In addition to being a past organizer and an ongoing title sponsor, Mark Levison has been a presenting speaker at past GOAT conferences, including:
+
+[Creativity for Agile Teams](/blog/creativity-for-agile-teams-2.html) - 2017 Gatineau-Ottawa Agile Tour
+
+[Agile Leadership: An Oxymoron?](/blog/agile-leadership-an-oxymoron-goat2016-presentation.html) - 2016 Gatineau-Ottawa Agile Tour
+
+[Beyond Scrum: Building High-Performing Organizations Game](/blog/building-high-performing-organizations-game.html) for Managers, ScrumMasters and Product Owners - 2015 Gatineau-Ottawa Agile Tour
+
+[High-Performance Teams Game](/blog/welcome-to-the-high-performance-teams-game.html) - 2014 Gatineau-Ottawa Agile Tour
+
+[The Magic of Science and Teams](/blog/magic-of-science-and-teams-presentation.html) - 2013 Gatineau-Ottawa Agile Tour
+
+We encourage you to consider attending GOAT, or another Agile Tour in your area!

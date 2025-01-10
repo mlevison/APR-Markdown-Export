@@ -1,0 +1,25 @@
+---
+title: "DevOps"
+date: "2021-05-12"
+---
+
+**DevOps** (also now DevSecOps) is the practice of Development working more closely with Operations. Over time, the Developers automate various aspects of their deployment. In doing so, they reduce the number of defects in the process (by eliminating manual steps) and speed the rate at which applications are deployed. DevSecOps takes these ideas and integrates security into the process. One view is that DevOps is simply a Scrum Team expanding their Definition of Done downstream until their application is deployed. That also hints that the work should be done inside the Development Team and not by a downstream group (there are no "DevOps Teams").
+
+![DevOps Mindset Kanban Board](images/DevOps-Mindset-Kanban-Board-simple-1024x230.png)
+
+#### Resource Links:
+
+- [A Brief History of DevOps and Its Impact on Software Development](https://everythingdevops.dev/a-brief-history-of-devops-and-its-impact-on-software-development/)
+- [A Brief History of DevOps and the Link to Cloud Development Environments](https://www.linkedin.com/pulse/brief-history-devops-link-cloud-development-laurent-balmelli-phd-aim8e/)
+- [DevOps, SRE, GitOps, Observability: My take on some current-ish buzzwords](https://infrastructure-as-code.com/2020/01/29/defining-buzzwords.html)
+- [DevOps Is an Evolving Culture, Not a Team](https://blog.kylegalbraith.com/2019/03/18/devops-is-an-evolving-culture-not-a-team/)
+- [There’s No Such Thing as a “Devops Team”](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
+- [What Is DevOps?](https://theagileadmin.com/what-is-devops/)
+
+#### DevOps Books:
+
+- _[A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)_ \- Katrina Clokie
+
+#### See Also:
+
+[Continuous Delivery and Deployment](/glossary/continuous-delivery) [Definition of Done](/glossary/definition-of-done)

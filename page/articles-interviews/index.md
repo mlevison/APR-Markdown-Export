@@ -1,0 +1,24 @@
+---
+title: "Articles & Interviews"
+date: "2019-09-13"
+---
+
+### Scrum and Agile articles and interviews:
+
+[Learning Best Approaches for Your Brain](/blog/learning-best-approaches-for-your-brain-slide-deck.html) – Mark Levison, 2009
+
+[Making TDD Stick: Problems and Solutions for Adopters](https://www.infoq.com/articles/levison-TDD-adoption-strategy/) Mark observed that, after solid classroom training, teams in larger companies still struggle to adopt TDD. To better understand the problem he surveyed team members. In this article he shares the problems he uncovered and his own comprehensive strategy, designed to help anyone introducing TDD into an organization.- Mark Levison, 2009
+
+[Technical Debt a Perspective for Managers](https://www.infoq.com/articles/technical-debt-levison/): Developers often talk about Technical Debt saying it's slowing your projects down. What are they really saying? What measures can you take to reduce it before it cripples your projects? – Mark Levison, 2010
+
+[The Science of Learning: Best Approaches for Your Brain](https://www.infoq.com/articles/science-of-learning/): Why don’t people understand your idea in a meeting? Why does the developer you’re mentoring still not get it? Why do attendees in your course only learn 10% of the material? We are all teachers in some way, yet only professional educators receive training in this area. This article discusses lessons from neuroscience and how they can be applied to Agile Software Development and beyond. – Mark Levison, 2010
+
+### These interviews feature our team:
+
+[Scrum Alone is Not Enough – An InfoQ Interview with Mark Levison](https://www.infoq.com/articles/scrum-not-enough/): Video from the Agile 2015 Conference. Mark answers questions about his Scrum Alone is Not Enough [blog series](/blog/scrum-alone-is-not-enough.html). Also available, [written interview version](https://www.infoq.com/articles/scrum-not-enough/).
+
+[5 Steps For Creating High Performing Teams – Mark Levison at Agile 2015](https://www.solutionsiq.com/resource/agile-amped-podcast/5-steps-for-creating-high-performing-teams-mark-levison-at-agile-2015/): Video interview with Agile Amped discussing Mark’s [e-book](/high-performance-teams) on creating high-performance teams.
+
+[Mark Levison on the Magic and Science of Teams – An InfoQ Interview](https://www.infoq.com/interviews/agile2014-levison-teams/): Video interview and transcript from Agile 2014 Conference.
+
+[Creativity and Brain Science with Mark Levison and Roger Brown – An InfoQ Interview](https://www.infoq.com/interviews/creativity-and-brain-science/): Video interview and transcript from Agile 2011 Conference.

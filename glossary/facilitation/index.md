@@ -1,0 +1,51 @@
+---
+title: "Facilitation"
+date: "2021-02-08"
+---
+
+**Facilitation** is the art of helping a group of people reach agreement or understanding, without direct involvement in the process itself. In the game of Scrum, facilitation is explicitly required in the events of Sprint Planning, Sprint Review, and Sprint Retrospective. In addition, we would expect facilitation to be part of Product Backlog Refinement and whenever the opportunity arises.
+
+Facilitators need:
+
+- - Empathy
+    - Patience
+    - To stay Neutral - you're there to make sure that your group reach their own conclusions
+    - Active Listening Skills
+    - Understanding of Group Dynamics (see the Groan Zone picture)
+    - ...and perhaps PhD 👩🏽‍🎓 in Behavioural Psychology
+
+A good facilitator will always have an agenda or plan for an event. A great facilitator will allow the plan to float out the window and adlib if the group needs it.
+
+ 
+
+![Kaner Diagram of Participation - Divergent Thinking - Groan Zone](images/Kaner-Diagram-of-Participation-Divergent-Thinking-1024x557.jpg)
+
+#### Resource Links:
+
+- [Developing Facilitation Skills](https://ctb.ku.edu/en/table-of-contents/leadership/group-facilitation/facilitation-skills/main)
+- [Facilitation Tools for Meetings and Workshop](https://www.seedsforchange.org.uk/tools.pdf)
+- [How can active participation in meetings be encouraged?](https://www.retrium.com/blog/how-to-encourage-your-team-to-speak-up-in-meetings)
+- [Review your meeting performance and drive change](https://coda.io/@elise-keith/meeting-culture-how-to-achieve-meeting-performance-excellence)
+- [The Role of a Facilitator](https://www.mindtools.com/pages/article/RoleofAFacilitator.htm)
+- [When, Why and How Facilitation Skills Help Scrum Teams](https://www.infoq.com/articles/facilitation-skill-scrum/)
+
+##### Remote Teams
+
+- [7 Concrete Ways to Improve Collaboration in Remote or Distributed Scrum Teams](https://medium.com/serious-scrum/7-concrete-ways-to-improve-collaboration-in-remote-or-distributed-scrum-teams-7940fbaed52d)
+- [67 – Meeting Facilitation Tips For Virtual Teams](https://www.collaborationsuperpowers.com/67-meeting-facilitation-tips-for-remote-teams/)
+
+##### Tools List
+
+- [Virtual Collaboration tools](https://www.collaborationsuperpowers.com/tools/) - a massive list of options
+
+#### Facilitation Books:
+
+- [_Facilitator’s Guide to Participatory Decision-Making_](https://www.amazon.ca/Facilitators-Guide-Participatory-Decision-Making-Kaner/dp/1118404955/&tag=notesfromatoo-20) – Sam Kaner
+- [_Collaboration Explained: Facilitation Skills for Software Project Leaders_](https://www.amazon.ca/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776/&tag=notesfromatoo-20) – Jean Tabaka
+- [_Where the Action Is: The Meetings That Make or Break Your Organization_](https://www.amazon.ca/Where-Action-Meetings-Break-Organization/dp/1732205221/) - J. Elsie Keith
+
+#### See Also:
+
+- [Decision-Making Tools](/glossary/decision-making-tools)
+- [Team Formation Models](/glossary/team-formation-models)
+- [Working Agreements](/glossary/working-agreements)

@@ -1,0 +1,18 @@
+---
+title: "Can the Certified Scrum Product Owner Class Be Done Online?"
+date: "2023-08-15"
+---
+
+[Certified Scrum Product Owner® (CSPO®) training](/certified-scrum-product-owner-cspo-training) is a highly sought-after program for individuals looking to enhance their knowledge and skills as Product Owners in the Agile and Scrum framework. As businesses and industries increasingly adopt Agile methodologies to improve product development and project management processes, the demand for skilled Product Owners has grown significantly. To meet this demand and make the training more accessible to a broader geographical audience, we now offer Certified Scrum Product Owner classes online.
+
+Online Certified Product Owner classes bring the benefits of convenience and flexibility. Participants can attend the training sessions from the comfort of their homes or offices, eliminating the need to travel to a physical location for in-person training, which can also reduce the [cost of Certified Scrum Product Owner training](/how-much-do-cspo-courses-cost). This advantage is particularly valuable for individuals with busy schedules, those residing in remote areas, or international participants who may find it challenging to attend training sessions in specific locations.
+
+Our online CSPO training curriculum remains comprehensive and covers the same content as the in-person version. As a Scrum Alliance accredited Certified Scrum Trainer (CST), Mark Levison conducts live virtual sessions using online tools to create an immersive and interactive virtual classroom that shuns traditional, boring, and in-effective PowerPoint presentations, and  allows participants to actively participate in discussions, group activities, and exercises. Through virtual collaboration tools and platforms, participants can work in small groups to simulate real-world scenarios and practice their skills as Product Owners. These interactions provide valuable opportunities for individuals to learn from each other's experiences, exchange ideas, and understand various perspectives on agile product development. The Certified Scrum Product Owner class is run using the principles of Scrum, so by the end of it attendees already have hands-on, practical experience, and solid ideas of how to go forward thanks to case study discussions and examples.
+
+For organizations, online CSPO training offers the flexibility to train multiple employees simultaneously, irrespective of their geographical location. This scalability allows companies to invest in their employees' professional development efficiently and build a cohesive team with a standardized understanding of Scrum practices and principles.
+
+To maximize the time available to actively practice the Scrum Product Owner role in class and learn skills and strategies to deal with challenges that may come your way, our Certified Scrum Product Owner training starts with preparation learning material that you do in advance, at your own pace. This preparation material helps you gain a solid understanding of the Scrum methodology and framework, including Scrum roles, events, and artifacts, so more online class time can be devoted to deeper exploration and understanding of the Certified Scrum Product Owner role and responsibilities.
+
+After the workshop, our community helps you with ongoing support so that you know that you’re not on the journey of Product Ownership on your own.
+
+The availability of online Certified Scrum Product Owner classes has made it easier for individuals and organizations to acquire essential Agile and Scrum skills, enabling them to thrive in the ever-evolving world of product development and project management.

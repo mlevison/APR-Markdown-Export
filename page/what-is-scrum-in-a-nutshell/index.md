@@ -1,0 +1,136 @@
+---
+title: "What Is Scrum? – In a Nutshell"
+date: "2021-01-13"
+---
+
+You’ve probably heard the words Agile and Scrum a lot in your professional work life, often interchangeably, and sometimes in reference to things that are neither Agile nor Scrum. Confusing, right?
+
+This video is a simple introduction so you know what’s what, quickly and easily. If you prefer reading over video, there is a [transcript version of the video here](/the-story-of-a-sprint), as well as more information below.
+
+\[embed\]https://youtu.be/QHD4RpyWxHY\[/embed\]
+
+## What Is Agile?
+
+[**Agile**](/glossary/agile) is a _mindset_ for doing work in a team environment that improves teamwork, professional performance, and adaptability. The Agile mindset is focused on adapting to changing customer needs while still delivering a high-quality product, and is defined by the values and principles in the [Agile Manifesto](https://agilemanifesto.org/).
+
+There is no single way to put the Agile mindset into practice, and numerous approaches have been developed. **Scrum** is currently the world’s most popular approach.
+
+## So, Wait, Agile Isn’t Scrum?
+
+As you might guess from the different titles here, Agile and Scrum are _not_ the same things. [**Scrum**](/glossary/scrum) is an _approach_ to applying the Agile mindset. It provides a lightweight framework to build a product in a way that delivers value to the customer quickly and incrementally, and can adapt if needs change or priorities shift, so you don’t spend months building something only to hand it over and it’s already outdated or not what they wanted any more. Scrum grew up in the world of software development, but it can be used anywhere that individuals need to collaborate as a team to deliver something of value to a customer.
+
+## Why Choose the Scrum Approach?
+
+Whole essays have been written on this. [Mark discusses in more detail in his blog](/blog), but the simplified answer is because it works. Scrum encourages the team to improve on two levels at the same time. First on the product level, by gaining feedback from stakeholders on what is wanted. Second, collecting feedback about the team’s process and the way they work together. The first level allows us to get iteratively closer to the product the customer needs, while the second helps the team grow their skills and teamwork, and focus on delivering quality. Combined, these are very effective toward core Agile goals.
+
+![life cycle of the Scrum sprint - image by Agile Pain Relief Consulting](images/life-cycle-of-the-sprint-labelled-1024x805.jpg)
+
+## Scrum Terminology
+
+Scrum has a lot of unique terminology and concepts. Here are the main ones you’ll often hear mentioned.
+
+### [Sprint](/glossary/sprint)
+
+A fixed period, ranging from one week to one month in length, during which the Scrum Team works to meet specific customer needs. As one Sprint ends, the next Sprint begins. The purpose of defining the work period is that it enables the Team to focus on a limited and prioritized number of features, and it encourages the delivery of at least some completed work to the customer each Sprint.
+
+### [Scrum Team](/glossary/scrum-team)
+
+All of the people needed to get the product built and into the customer’s hands:
+
+- [ScrumMaster](/glossary/scrummaster-role "ScrumMaster"), who helps the team grow capacity to deliver value
+- [Product Owner](/glossary/product-owner-role "Product Owner"), who manages the vision for what they will be creating
+- [Developers](/glossary/developers "Developers"), who are the cross-functional group of people who will build the Product (e.g. in software development this group usually includes programmers, business analysts, quality assurance, user experience and more).
+
+### [Product Backlog](/glossary/product-backlog)
+
+An ordered list of all the things the Product Owner would like to see the Team work on in the foreseeable future. These items are called Product Backlog Items (PBIs).
+
+### [User Story](/glossary/user-story)\*
+
+A tool used to provoke and summarize a conversation, between the Team and their Product Owner, for a better understanding of an item on the Product Backlog. The User Story provides context regarding who a Product Backlog Item is being developed for and why it is of value. _\*It’s important to note that this isn’t part of Scrum per se, but is a tool that grew up beside Scrum and is often used in conjunction. User Stories can be helpful but aren’t required as part of the practice of Scrum._
+
+### [Sprint Planning](/glossary/sprint-planning)
+
+An event at the beginning of a Sprint where the Team plans the items they can complete in the next Sprint. They also craft a goal to act as a focus for their work.
+
+### [Sprint Goal](/glossary/sprint-goal)
+
+A single objective shared by the Team that describes the purpose of the Sprint and ensures that everyone moves in the same direction. A simply-stated goal makes it easier to prioritize Product Backlog Items, assess whether tests and feedback are relevant to the goal, and summarize the work currently being done when asked by stakeholders.
+
+### [Product Backlog Refinement](/glossary/product-backlog-refinement)
+
+A session during which the Scrum Team (Developers, Product Owner, ScrumMaster) prepare the Product Backlog for the next few sprints. New Product Backlog Items (PBIs) are added for new needs to be considered. PBIs that are too large to be worked on in a single Sprint are broken down into smaller items. Estimates are made as to how much time each PBI will require to complete. The Product Owner makes prioritization decisions about PBIs, sharing with the Team their reasoning.
+
+### [Sprint Backlog](/glossary/sprint-backlog)
+
+The list of Product Backlog Items (PBIs) the Team has committed to for the next Sprint.
+
+### [Daily Scrum](/glossary/daily-scrum)
+
+The daily meeting where the Scrum Team get ready to collaborate for the day, and check if they’re still on track to complete their goal forecast by the end of the Sprint.
+
+### [Definition of Done](/glossary/definition-of-done)
+
+The official checklist that Scrum Teams maintain of the qualities they intend their work to achieve. It helps the team assess whether their work is truly completed and deliverable to the client as having added value. It also helps them in Sprint Planning by reminding them of the quality they have committed to achieving, ensuring they only commit to PBIs they can get to truly “Done.”
+
+### [Sprint Review](/glossary/sprint-review)
+
+An event at the end of the Sprint where the Scrum Team review the completed work with stakeholders. Stakeholders provide feedback on the completed work and ideas for product improvements. The Product Backlog will get updated during future refinement to reflect what everyone learned.
+
+### [Sprint Retrospective](/glossary/sprint-retrospective)
+
+An event at the end of the Sprint where the Scrum Team reflects on all that happened in that period, with the intention to improve how they work in the next Sprint.
+
+That is Agile and Scrum forced into a ridiculously small nutshell. You can spend years learning and understanding the many nuances, and how to get the greatest benefits out of them. If you’d like to take the first step and build a solid foundational understanding of the _how_ and _why_ of Scrum, and not just the _what_ that you can learn from reading summary pages like this, join us in our training workshops. You will actually practice Scrum and learn how to make it work for you in the real world, rather than just in theory.
+
+[
+
+Get Training
+
+](/certified-scrum-agile-training)
+
+[
+
+No Idea What Training to Choose
+
+](/choose-the-right-scrum-training-for-your-needs)
+
+* * *
+
+## Questions You Might Have About Scrum
+
+### [What is Scrum used for?](/what-is-scrum-used-for "What is Scrum Used For?")
+
+### What is considered the definition of Scrum?
+
+The [_Scrum Guide_](https://www.scrum.org/resources/scrum-guide) is considered the definition of Scrum and serves as the foundational document for understanding Scrum.
+
+### How does Scrum help teams deliver value incrementally?
+
+Scrum is iterative and incremental. As mentioned above, Scrum teams work in short repeated cycles called Sprints. That’s the iterative part. The incremental part is that at the end of every Sprint the team release a new version of the product they’re working on. So the work is incremental, each Sprint building on the previous Sprint’s work.
+
+### What is the difference between Scrum and Professional Scrum?
+
+Don’t let subjective titles on the internet confuse you. There is a **huge** difference between Scrum that is practiced on a professional level, and the label on the certification offered by Scrum.org, a for-profit organization.
+
+#### Certification
+
+The most recognized Scrum certification is Certified ScrumMaster® (CSM®), with the Professional Scrum Master ™ (PSM ™) in second place. PSM I is an exam only and there is no formal learning requirement. CSM requires that you learn and practice with a Certified Scrum Trainer, who has undergone a rigorous, multi-year process to qualify. CSM certification requires comprehension of Scrum principles and the demonstration of the practices, which is in contrast to the PSM exam that tests your memory of theory.
+
+#### Practice
+
+Let’s ignore the Professional Scrum certification label, and acknowledge that there is a difference between practicing Scrum by going through the motions as you understand them, and practicing Scrum on a professional, effective level. Scrum done wrong can do a lot of harm. Misconceptions about how it fosters micromanagement and excessive…
+
+### Where can I find more resources to learn about Scrum?
+
+On this page we have forced Agile and Scrum into a ridiculously small nutshell to provide a basic explanation. You can spend years learning and understanding the many nuances, and how to get the greatest benefits out of them. If you’d like to build a solid foundational understanding of the how and why of Scrum, and not just the what that you can learn from reading summary pages like this, we offer several valuable options, no matter what level of Scrum understanding or experience you currently have.
+
+[A Jargon-Free Introduction to Scrum](/a-jargon-free-introduction-to-scrum "A Jargon-Free Introduction to Scrum") - free e-Book The language and concepts of Scrum are strange. In our Jargon-Free Introduction to Scrum we use simple, clear language to make Scrum simple and understandable.
+
+[Foundational Scrum](/foundational-scrum-series "Foundational Scrum") A free email series that offers a deeper understanding of the basics of Scrum and the Scrum Roles, as well as common mistakes people make and how to avoid them.
+
+[Certified Scrum Training](/certified-scrum-agile-training "Certified Scrum & Agile Training") Join us in a Scrum training course. You will actually practice Scrum and learn how to make it work for you in the real world, rather than just in theory. And if you’re not sure what Scrum training is right for you, we explain the differences between Certified Scrum Product Owner (CSPO) training and Certified ScrumMaster (CSM) training to help you decide.
+
+[World’s Largest Opinionated Agile Reference Library](/glossary) It’s a cheeky title, but there’s no disputing the fact that it is a huge and valuable resource for reliable information about what is proven and effective in the practice of Scrum and Agile.
+
+_(Updated January 2024)_

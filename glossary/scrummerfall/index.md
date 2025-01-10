@@ -1,0 +1,34 @@
+---
+title: "Scrummerfall"
+date: "2024-02-27"
+---
+
+Alias: Mini Waterfalls in Scrum
+
+A Scrum team should work on only a couple of Product Backlog Items (or User Stories) at a time. Most of the work should be done in a collaborative, and not isolated, process. When starting out, many Scrum teams reinvent a waterfall style approach, **affectionately called ScrummerFall** or WaterAgile or WAgile, because that’s what they’re most familiar with and comfortable practicing. There are two versions of this:
+
+One version is staggered Sprints, where the Business Analysts work one Sprint ahead of the developers and the Quality Assurance people work one behind, as illustrated here with this image by Martin Hinshelwood of [Naked Agility](https://nkdagility.com):
+
+![Staggered Iterations for Delivery - image credit Martin Hinshelwood of Naked Agility](images/staggered-iterations-for-delivery-image-credit-Martin-Hinshelwood-of-Naked-Agility.png)
+
+The other version is where everyone pretends to work in the same Sprint but the business analysts are in the lead and QA is at the end.
+
+![Staggered Sprint Starting Point](images/Staggered-Sprint-Starting-Point-1024x613.jpg)
+
+Both versions lead to:
+
+- **Lack of Flexibility** - changes after the business analysts kick into gear will be harder to accommodate. Worse, usability issues discovered in QA are easier to ignore than fix.
+- **Reduced Quality** - the longer there is in delay between doing the work and finding a problem, the harder it is to fix.
+- **Delayed Feedback** - longer work cycles for each individual item means a longer time from the start of work until the customer gives feedback. Both these approaches are a train wreck in slow motion.
+
+A better approach is to watch the work product and not the worker. Help the team focus on getting items to finished, not maximizing the number of stories through a pipeline.
+
+[Scrum by Example – Is Your Scrum Team a Victim of Scrummerfall?](/blog/scrum-team-scrummerfall.html)
+
+[Collaboration, Over Work in Isolation](/blog/collaboration-over-work-in-isolation.html)
+
+[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html)
+
+#### Resource Links:
+
+- [A better way than staggered iterations for delivery](https://nkdagility.com/blog/a-better-way-than-staggered-iterations-for-delivery/)

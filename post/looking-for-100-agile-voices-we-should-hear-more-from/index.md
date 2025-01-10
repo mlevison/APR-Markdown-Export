@@ -1,0 +1,34 @@
+---
+title: "Looking for 100 Agile Voices we should hear more from"
+date: "2012-04-24"
+categories: 
+  - "agile"
+  - "historical"
+coverImage: "photodune-3929586-microphone-xs.jpg"
+---
+
+![microphone - image licensed from Photodune](images/photodune-3929586-microphone-xs.jpg) In the past few years a number of Agile people I respect have published top 100 or even top 200 lists. While I, like many others, appreciate the attention they’ve brought, the whole idea seems very anti-agile. Agile promotes a democratic meritocracy. These lists do the opposite, they create “[heroes](/blog/agile-gurus-or-thought-leaders.html)” - people whose ideas are more important others. Instead, I think we should be widely read in the Agile community, often reaching outside our immediate realm. To that end I’m asking for your help creating a list of voices we should hear more from. My goal is find ~100, the limit is more from my time and energy than the lack of more people we could find.
+
+Some simple ground rules:
+
+- Nominees have to be a track record of doing something Agile for at least a year
+- Not the top 100 of any previous list
+- There are no algorithms involved – when I discuss backlog ranking/ordering in my Scrum training I suggest that human ordered lists have more value than those ordered ROI calculations
+- I’m most interested in people who write about their experiences (good or bad)
+- Please don’t suggest yourself
+- I will reject suggested people for no visible reason _Ok this one is poorly phrased, the only point is that if  I don't include someone I won't write a paragraph about why._
+- Inclusion in this list is completely arbitrary, based entirely on my judgement (there is no appeal board :-)
+
+When you suggest someone please tell me:
+
+- Who they are and why they’re interesting
+- Where they write blog (or some other source)
+- Twitter ID, Google+ link, etc…
+
+If you suggest someone but don’t include their blog it makes hard to find their writing, please make it easy for me. This list will only be about Agile people. Another time I will shine a light on interesting sources outside the Agile community. Suggested #100Agilelessorknowns - not perfect but it's shorter.
+
+In the spirit of inspect and adapt I’m open to suggestions that will make this better.
+
+_Update: "I will reject suggested people for no visible reason" - It was suggested that this was poorly said. Agreed. When I other talked to the authors of other lists they say they use stats to make the decision to avoid controversy and having to justify their choices. This list will come from the heart and might not include someone who you think should be there. My only point was that when I do exclude people I don't want to spend the time writing about why. I acknowledge the list is arbitrary as is any human curated list that's what will make it interesting._
+
+Images via: [https://photodune.net/](https://photodune.net/)

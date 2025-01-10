@@ -1,0 +1,8 @@
+---
+title: "Thanks for letting me know!"
+date: "2023-01-23"
+---
+
+![Certified Scrum Trainer Mark Levison, Agile Pain Relief Consulting](images/headshot-facing-left-square.jpg)It will help me better curate the information I send your way so you can get the most value and best content to help you with your Scrum and Agile goals.
+
+~ Mark

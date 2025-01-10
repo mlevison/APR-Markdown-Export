@@ -1,0 +1,31 @@
+---
+title: "SCARF Model"
+date: "2022-03-31"
+---
+
+**The SCARF Model** of human behaviour is useful to understand how people respond to the world through the lenses of **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness. In our case, we focus on how the model explains behaviour of people in the world of Agile work.
+
+The model is based on three major findings:
+
+- Social threats and rewards are treated with the same intensity as physical threats and rewards. _\- Eisenberger, N. and Lieberman, M. (2009)_
+- Our ability to solve problems and make decisions is diminished when we're in a threat state, and increases when in a reward state. _\- Fredrickson, B. (2001)._
+- People are more easily placed into Threat than Reward, so in our work we need to minimize the things that create Threat. _\- Baumeister, R., Bratslavsky, e., & Vohs, K. (2001)_
+
+![SCARF](images/SCARF-arrows.jpg)
+
+<table style="font-weight: 400;"><tbody><tr><td><strong>Attribute</strong></td><td><strong>Definition</strong></td><td><strong>Example Threat</strong></td><td><strong>Example Reward</strong></td></tr><tr><td><strong>Status:</strong></td><td>How you see yourself and how others see you.</td><td>Traditional performance review. Being mentioned in the context of a problem.</td><td>Thanking someone or acknowledging their work. Any form of recognition.</td></tr><tr><td><strong>Certainty:</strong></td><td>How confident you can be of the future.</td><td>Change - Agile or otherwise - takes away the certainty of the people involved.</td><td>Transparency of information around the change process. Help clarify goals.</td></tr><tr><td><strong>Autonomy:</strong></td><td>How much control you have over your situation.</td><td>Micromanaged people.</td><td>Involved team members - not only in assigning work, but also designing their mission or vision.</td></tr><tr><td><strong>Relatedness:</strong></td><td>How connected/safe you feel with others.</td><td>New team member, especially in <a href="/glossary/distributed-teams" target="_blank" rel="noopener">remote work </a>environment. Explains why strangers are seen as a threat.</td><td>Without enforcing socialization, give team members time and opportunity to socialize. Consider building in opportunities to exchange information about who they are.</td></tr><tr><td><strong>Fairness:</strong></td><td>How reasonable you feel that decisions involving you have been.</td><td>Unclear rules around how salary, bonuses, disputes or anything else is treated.</td><td><a href="/glossary/working-agreements" target="_blank" rel="noopener">Working Agreements</a> that cover team <a href="/glossary/decision-making-tools" target="_blank" rel="noopener">decision making</a> protocols, etc. Training/education on the the importance of diversity and how it works. Making salary and bonus tables public.</td></tr></tbody></table>
+
+#### Resource Links:
+
+- [SCARF Model of Engagement](https://www.growthengineering.co.uk/scarf-model/)
+- [The SCARF Model - Explained (Youtube)](https://www.youtube.com/watch?v=PKYP3S92RqU)
+- [Neuroscience, Leadership and David Rock's SCARF Model](https://www.edbatista.com/2010/03/scarf.html)
+- [Examples of Using the SCARF Model](https://coachcampus.com/coach-portfolios/research-papers/hillik-nissani-david-rock-scarf-model/)
+
+#### Resource Books:
+
+- [_Your Brain at Work_](https://www.amazon.ca/Your-Brain-Work-Revised-Updated/dp/0063003155/&tag=notesfromatoo-20) - David Rock
+
+#### See Also:
+
+- [Motivation](/glossary/motivation)

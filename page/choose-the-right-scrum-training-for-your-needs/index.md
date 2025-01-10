@@ -1,0 +1,67 @@
+---
+title: "Choose the Right Scrum Training for Your Needs"
+date: "2020-07-22"
+coverImage: "caleb-jones-J3JMyXWQHXU-unsplash.jpg"
+---
+
+![Different paths image - Photo by Caleb Jones on Unsplash](images/caleb-jones-J3JMyXWQHXU-unsplash.jpg)
+
+### Struggling to decide whether to take the ScrumMaster or Product Owner training?
+
+First, know the problem that you’re trying to solve, then let that guide you. The [ScrumMaster](/certified-scrummaster-csm-training "Certified ScrumMaster (CSM) Training") workshop helps grow a great team that can build a high quality product rapidly. The [Product Owner](/certified-scrum-product-owner-cspo-training "Certified Scrum Product Owner (CSPO) Training") course is all about working with the customers, stakeholders, and development team to determine which product to build.
+
+A simplified explanation of the differences between our two most popular courses:
+
+#### ScrumMaster (CSM) training
+
+##### Who Should Attend
+
+Individual Contributors (Developer, Tester, BA)
+
+ScrumMasters
+
+Product Owners
+
+Traditional Project Managers
+
+Mid-level Executives, etc
+
+- usually the best fit for anyone new to Scrum
+- focuses on the role of the team and the ScrumMaster (touches on Product Ownership but only as part of the big picture)
+- understand the _how_ and _why_ of Scrum (not just the _what_)
+- designing retrospectives that help teams overcome problems
+- coaching your team through challenges, and how to coach your Product Owner
+
+\[do\_widget id=custom-ee-upcoming-events-widget-14\]
+
+* * *
+
+#### Scrum Product Owner (CSPO) training
+
+##### Who Should Attend
+
+Product Owners
+
+ScrumMasters
+
+Business Analysts
+
+Product Managers
+
+Project Managers
+
+Business Stakeholder
+
+Program Managers
+
+- focuses on Product Ownership and the role of the Product Owner
+- collaborative efforts with your development team
+- creating an effective vision and strategy,
+- why the PO shouldn't be the one to write User Stories
+- splitting large User Stories into manageable-sized chunks
+- delivering a useable product every sprint
+- gets people who want to understand how to build, manage, and maintain an effective product backlog, and/or work with the Product Owner to do so (ScrumMasters, Business Analysts, etc).
+
+\[do\_widget id=custom-ee-upcoming-events-widget-15\]
+
+Image credit: [Caleb Jones](https://unsplash.com/@gcalebjones?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/choice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

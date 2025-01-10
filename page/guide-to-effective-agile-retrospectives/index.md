@@ -1,0 +1,46 @@
+---
+title: "The Guide to Effective Agile Retrospectives"
+date: "2020-06-29"
+---
+
+One of Canada’s leading experts on Agile and Scrum, Mark Levison, reveals dozens of tried and tested techniques for improving your Agile Retrospectives, with...
+
+![The Guide to Effective Agile Retrospectives by Mark Levison](images/The-Guide-to-Effective-Agile-Retrospectives-temp-book-cover-791x1024.jpg)[![The Guide to Effective Agile Retrospectives inforgraphic by Mark Levison, Agile Pain Relief Consulting](images/The-Guide-to-Effective-Agile-Retrospectives-infographic-v1-1-1-scaled.jpg)](/wp-content/uploads/2021/03/The-Guide-to-Effective-Agile-Retrospectives-infographic-v1-1-1-scaled.jpg)If you’re tired of having retrospective meetings greeted with groans and heavy, reluctant sighs or feeling like you’re rehashing the same old problems with no signs of improvement, the advice Mark shares with you will help make your retrospectives more effective.
+
+There’s no need to have retrospectives that people hate and aren’t even useful – with a few tweaks, you can have meetings your team will look forward to, and start seeing real improvements and results!
+
+Our world is changing at a faster rate than ever, and the speed will only increase. Covid-19 gave us a taste of how vital it is to be able to quickly adjust. Scrum helps break change into manageable chunks and then gives us focus, with retrospectives as a critical tool in that arsenal for rapid adaptation. It’s worth learning how to use them properly.
+
+In _The Guide to Effective Agile Retrospectives_, Mark shares his secrets to creating retrospectives that don’t suck!
+
+You’ll learn about:
+
+●      Common misunderstandings about retrospectives – let’s clear those up
+
+●      Recommended techniques and activities to keep the meeting fun and engaging
+
+●      How to run retrospectives with distributed teams
+
+●      Why you need data for your retrospectives - what to gather, not gather, and what it can tell you
+
+●      Turning vague ideas like “We need to do better Unit Testing” into concrete experiments
+
+●        …and how to help these improvements actually happen
+
+●      Remedies for anti-patterns like: “All Talk, No Action”, “Perennial Problems”, and “ScrumMaster Hero”
+
+Why this book? Because Mark was failing at Sprint Retrospectives before it was popular. After years of study and experimentation, his findings are now collected in this Guide so you don’t have to have to suffer the same pain.
+
+Subscribe to the Agile Pain Relief newsletter to receive your free copy of _The Guide to Effective Agile Retrospectives_ eBook. After you download the eBook, you will receive a series of follow-up support emails to reinforce what you learned and help you make real changes right away.
+
+This free eBook, and the accompanying email series, qualify for Scrum Alliance Education Units (SEUs).
+
+#drip-ef-171509277 > div { margin-bottom: .75rem; }<br /> #drip-ef-171509277 fieldset { border: none; margin: 0; padding: 0; }<br /> #drip-ef-171509277 legend { margin: 0; padding: 0; }<br /> #drip-ef-171509277 input\[type="email"\], #drip-ef-171509277 input\[type="number"\],<br /> #drip-ef-171509277 input\[type="tel"\], #drip-ef-171509277 input\[type="text"\] { margin: 0; padding: .75rem .75rem; max-width: 500px; }<br /> #drip-ef-171509277 input\[type="checkbox"\], #drip-ef-171509277 input\[type="radio"\] { margin: .1875rem .1875rem 0 0; padding: 0; }<br /> #drip-ef-171509277 input\[type="submit"\] { margin: 10px 0 0 0; padding: .375rem .5625rem; }<br />
+
+\* Email Address (required) 
+
+\* First Name (required) 
+
+Last Name (optional) 
+
+Website

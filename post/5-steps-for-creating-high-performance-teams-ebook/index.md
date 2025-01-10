@@ -1,0 +1,42 @@
+---
+title: "5 Steps for Creating High-Performance Teams eBook"
+date: "2015-01-18"
+categories: 
+  - "agile"
+  - "books"
+  - "teams"
+tags: 
+  - "games"
+coverImage: "apr-infographic-1_85_web.png"
+---
+
+Certified Scrum Trainer [Mark Levison](/about-us "About Us") has been around the block, more than a few times, and he was getting frustrated by what he saw happening in Scrum. When Mark is invited into businesses and industries to talk with Scrum teams, it's typically with the request to help them do Scrum better so they can be more productive.
+
+But practicing the mechanics of Scrum is not the answer to high performance. Yes, you'll get some benefits, but not the most important ones. You can focus on the ceremonies - the daily stand-ups, the sprint planning, the retrospectives - and still not get the performance you're expecting, or seeking.
+
+So... why? What's the secret? What's the magic formula?
+
+That's what Mark wanted to know, which led him to study the elements that are found in high-performing teams. And what he discovered was actual neuroscience and behavioural psychology that makes the social aspects of team building surprisingly clear in their importance.
+
+Now Mark has taken what he learned in those discoveries and formed them into five proven and practical Agile steps that can put a team on the path to high-performance success. And here's sharing them with you now, here:
+
+1. A free eBook of the "5 Steps Towards Creating High-Performance Teams". This outlines the key elements, the magic and neuroscience behind them, and how to implement them with your team. Subscribe below to receive your copy.
+    
+    \* Email Address (required)
+    
+    \* First Name (required)
+    
+    Last Name (optional)
+    
+    Location (optional)
+    
+    Website 
+    
+2. The [High-Performance Teams Game](/blog/welcome-to-the-high-performance-teams-game.html "Welcome to the High-Performance Teams Game"). Fun downloadable resources to help teams see the effects of choices/tradeoffs on productivity and team cohesion.
+3. This handy - and, dare we say, snazzy - infographic to summarize, focus, and remind.
+
+[![Agile Pain Relief Five Steps Towards Creating High Performance Teams Infographic](images/apr-infographic-1_85_web.png)](/wp-content/uploads/2015/01/apr-infographic-1_85_web.png)
+
+Building a high-performing team doesn't have to be complicated, nor is it luck of the draw. Surprisingly, most of it is simply common sense and awareness of human behaviour and relationships. That's it.
+
+Image by Agile Pain Relief Consulting.

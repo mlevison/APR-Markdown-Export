@@ -1,0 +1,19 @@
+---
+title: "Agile for Embedded Software"
+date: "2021-02-08"
+---
+
+Embedded Software Development is about building software that is installed inside a device example: thermostat, car engine controller, planes, WiFi router, Bluetooth Keyboard/Mouse, Camera, Roomba Vacuums. Typically Embedded software works without a user interface and often without any human interaction. Embedded Software teams face challenges that other Agile teams typically don't face:
+
+- The software once built may never be upgradeable
+- It might run on a limited CPU and memory
+- It will have high reliability and predictability requirements
+
+To face these challenges
+
+#### Resource Links:
+
+- [Agile Design and Embedded](http://blog.wingman-sw.com/agile-design-and-embedded)
+- [Agile Embedded Software Development](http://www.goodagile.com/public/embeddedscrum/0-grenning.pdf)
+- [Agile Embedded Software Development Keynote](https://www.agile42.com/en/blog/2014/03/26/video-agile-embedded-software-development-keynote/)
+- [Agile Methods and Firmware Development](https://www.ngware.eu/blog/papers/agile_firmware_punkka_V103.pdf)

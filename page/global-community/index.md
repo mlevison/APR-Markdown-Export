@@ -1,0 +1,23 @@
+---
+title: "Global Community"
+date: "2022-03-03"
+---
+
+![You help We help together for peace in Ukraine](images/Ukraine.jpg)
+
+Our vision is to help others with challenges that they face in Scrum and Agile, but our hearts right now are consumed with grief for colleagues, friends, and the citizens of Ukraine as they face challenges most of us can’t begin to imagine. We know that many people will die, many more will suffer, and there is little we can do, so we're asking for your help to do more.
+
+We have placed our own donations for aid to the people of Ukraine and we ask that you consider doing the same if you’re able.  **If you make a donation of $100** CAD or more, please send us some kind of 'soft' proof of it (using a simple honour system, e.g. screenshot of 'thank you for your donation' confirmation page) so **we can amplify the goodwill and give you a $100 discount** code off any upcoming training workshop, no exceptions, no expiry. Here are some of the charities that were suggested by _The Globe and Mail_:
+
+- [Canadian Red Cross:](https://donate.redcross.ca/page/100227/donate/1?_ga=2.125878541.1041674209.1645872049-1232769696.1645872049&_gl=1*1ro22jf*_ga*MTIzMjc2OTY5Ni4xNjQ1ODcyMDQ5*_ga_376D8LHM0R*MTY0NTg3MjA0OC4xLjAuMTY0NTg3MjA0OC4w) the local wing of an international emergency-relief organization. The federal government says it will match individual donations by Canadians.
+- [Médecins sans frontières (Doctors Without Borders):](https://www.doctorswithoutborders.ca/) a humanitarian group that’s been supporting Ukraine’s COVID-19 response.
+- [Canada-Ukraine Foundation:](https://www.cufoundation.ca/) a Toronto-based group that co-ordinates Canadian charitable aid to Ukraine.
+- [Save the Children:](https://www.savethechildren.ca/) an international NGO delivering emergency aid to Ukrainian families.
+- [Voices of Children:](https://voices.org.ua/en/) offers psychological support to children affected by the conflict in Eastern Ukraine.
+- [Come Back Alive Foundation:](https://savelife.in.ua/en/donate-en/) a Ukrainian NGO that supports veterans and co-organizes the Invictus Games in Ukraine.
+- [Phoenix Wings:](http://wings-phoenix.org.ua/en/about-fund/) a charitable foundation that supplies the Ukrainian army with medical treatment and defensive equipment such as vests and helmets.
+- [Revived Soldiers Ukraine:](https://www.rsukraine.org/) a non-profit that funds medical rehabilitation for Ukrainian soldiers.
+- [Razom for Ukraine:](https://www.razomforukraine.org//) a pro-democracy group that’s fundraising for medical supplies in Ukraine.
+- [Kyiv Independent:](https://kyivindependent.com/) a Ukraine-based, English-language independent news media outlet.
+
+Thank you, and keep well, friends.
