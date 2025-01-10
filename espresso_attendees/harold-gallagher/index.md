@@ -1,6 +1,0 @@
----
-title: "Harold Gallagher"
-date: "2021-02-08"
----
-
-No Biography Provided
