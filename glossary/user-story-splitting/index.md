@@ -22,6 +22,6 @@ date: "2021-07-08"
 - [What if I tell you requirements are like bubbles?](https://www.linkedin.com/pulse/what-i-tell-yourequirements-like-bubbles-alexey-krivitsky/)
 - [What if the User Story is too Big for the Team?](https://goodrequirements.com/2012/too-big/)
 
-**See Also:**
+#### See Also:
 
 [Acceptance Criteria](/glossary/acceptance-criteria) [Agile Architecture](/glossary/agile-architecture) [User Story](/glossary/user-story)

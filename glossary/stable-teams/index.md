@@ -22,6 +22,6 @@ Read: [In Agile, Where Change is Valued, Why Is a Stable Team So Important?](/bl
 - [Stable Teams - Predictability Edition](https://www.leadingagile.com/2016/12/stable-teams-predictability-edition/)
 - [Team Stability vs Personal Freedom](https://amateurcoach.blog/2018/05/25/team-stability-vs-personal-freedom/)
 
-**See Also:**
+#### See Also:
 
 [Scrum Team](/glossary/scrum-team)

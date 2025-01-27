@@ -19,6 +19,6 @@ The Scrum Guide offers very limited guidance, suggesting 3-9 people per team (ex
 - [What’s the ideal size of agile scrum teams for peak performance?](https://www.starttech.vc/blog/2018/agile-scrum-teams-for-peak-performance/)
 - [Why Scrum Teams Should Be Small](https://ezinearticles.com/?Why-Scrum-Teams-Should-Be-Small&id=2203090)
 
-**See Also:**
+#### See Also:
 
 [Scrum Team](/glossary/scrum-team)

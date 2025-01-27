@@ -57,6 +57,6 @@ Timothy Clark - 2020 - has extended the concept to four levels: included; safe e
 - [_The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth Hardcover_](https://www.amazon.ca/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/&tag=notesfromatoo-20) by Amy C. Edmondson
 - [_Turn the Ship Around ! A True Story of Turning Followers Into Leaders Hardcover_](https://www.amazon.ca/Around-Story-Turning-Followers-Leaders/dp/1591846404/&tag=notesfromatoo-20) by L. David Marquet. (An example of where a leader created a safe environment and changed how a team worked)
 
-**See Also:**
+#### See Also:
 
 [Scrum Team](/glossary/scrum-team)

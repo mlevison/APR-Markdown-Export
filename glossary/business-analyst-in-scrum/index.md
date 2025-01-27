@@ -32,6 +32,6 @@ This question, or a variation of it, is one that often comes up in [training wor
 - [How Agile Helped Me Survive Being a Business Analyst](https://www.leadingagile.com/2014/04/agile-helped-survive-business-analyst/)
 - [What is the Role of a Business Analyst in Scrum?](https://saat-network.ch/2012/11/what-is-the-role-of-a-business-analyst-in-scrum/)
 
-**See Also:**
+#### See Also:
 
 [Quality Assurance in Scrum](/glossary/quality-assurance-in-scrum) [UX](/glossary/agile-lean-ux)

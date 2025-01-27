@@ -17,6 +17,6 @@ Three quick reasons, among many: - other teams no longer feel responsible for de
 
 - [_Agile Organization Design_](https://leanpub.com/agileorganizationdesign) - Jeff Anderson
 
-**See Also:**
+#### See Also:
 
 [Cross-functional Teams](/glossary/cross-functional-teams) [Scrum Team](/glossary/scrum-team)

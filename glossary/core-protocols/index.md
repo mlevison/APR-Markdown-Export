@@ -12,6 +12,6 @@ A set of **protocols** that can aid teams in improving communications. They're m
 - [Core Protocols - Effective Communication](https://blog.crisp.se/2017/11/12/martinchristensen/core-protocols-effective-communication)
 - [Interview with the McCarthy's creators of the Core Protocols](https://www.infoq.com/interviews/mccarthy-core-protocols/)
 
-**See Also:**
+#### See Also:
 
 [Working Agreements](/glossary/working-agreements)
