@@ -1,6 +1,7 @@
 ---
 title: "Organizational Structure"
 date: "2022-07-13"
+relatedTerms: 'Scaled Agile Framework’, 'Scaling and Large Teams'
 ---
 
 It's strange to start becoming Agile and assume that **Organizational Structure** won't change. As Agile steers an organization to focus on Product and improving effectiveness, the structure must change too.
@@ -34,7 +35,3 @@ Warning: many articles in this area are written by the same companies that were 
 
 - [_Organizing Toward Agility_](https://leanpub.com/agileorganizationdesign) - by Jeff Anderson
 - _[Organization Design: Simplifying complex systems](https://www.amazon.ca/Organization-Design-Simplifying-complex-systems/dp/1138502863/&tag=notesfromatoo-20)_ - by Worren, Nicolay
-
-#### See Also:
-
-Culture Change Managers in Scrum Scaled Agile Framework Scaling and Large Teams
