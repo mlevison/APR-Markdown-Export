@@ -1,6 +1,7 @@
 ---
 title: "Motivation"
 date: "2021-05-20"
+relatedTerms: 'ARC Motivational Model', 'SCARF Model'
 ---
 
 Traditional approaches in the workplace assume that there is a strong linkage between **motivation** and financial reward. Theory is, if you pay people enough money, they will be engaged. Yet we know from watching everyone's favorite [Dan Pink video](https://www.youtube.com/watch?v=u6XAPnuFjJc) that isn't the case. Don’t assume that you know what motivates - trust the research. Read psychologist Fredrick Herzberg's work. Specifically, how job satisfaction and job dissatisfaction are not opposites. The opposite of Satisfaction is No Satisfaction. The opposite of Dissatisfaction is No Dissatisfaction.
@@ -31,6 +32,3 @@ Below are resources that will point you in the right direction.  My advice to i
 - [_Drive: The Surprising Truth About What Motivates Us_](https://www.amazon.ca/Drive-Surprising-Truth-About-Motivates/dp/1594484805/&tag=notesfromatoo-20)  - Daniel H. Pink
 - [_Why Motivating People Doesn't Work . . . and What Does: The New Science of Leading, Energizing, and Engaging_](https://www.amazon.ca/Motivating-People-Doesnt-Work-What/dp/1626569452/&tag=notesfromatoo-20) - Susan Fowler
 
-#### See Also:
-
-[ARC Motivational Model](/glossary/arc-motivational-model) [SCARF Model](/glossary/scarf-model)

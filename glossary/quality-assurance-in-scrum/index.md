@@ -1,6 +1,7 @@
 ---
 title: "Quality Assurance in Scrum"
 date: "2021-07-12"
+relatedTerms: 'Business Analyst in Scrum'
 ---
 
 In traditional approaches, the **QA, Tester, or Quality Assurance** tests the work of developers in a separate phase - sometimes months later. Clearly that doesn’t work in an Agile world where delivery happens after every Sprint.
@@ -23,6 +24,3 @@ Scrum doesn’t define any traditional roles (like BA, QA, DBA, Dev, UX) inside 
 - [The Role of Testers in an Agile Environment](https://www.stickyminds.com/article/role-testers-agile-environment)
 - [Software Testing in Scrum Is Not What You Think It Is](https://www.qamadness.com/software-testing-in-scrum/)
 
-#### See Also:
-
-[Business Analyst in Scrum](/glossary/business-analyst-in-scrum)

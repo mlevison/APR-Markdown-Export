@@ -1,6 +1,7 @@
 ---
 title: "Special Teams"
 date: "2021-04-20"
+relatedTerms: 'Cross-functional Teams', 'Scrum Team'
 ---
 
 Sometimes organizations form **Special Teams** assigned to tackle technical bugs or other challenges. Frequently, these special teams make the very problem that they're meant to solve, worse.
@@ -17,6 +18,3 @@ Three quick reasons, among many: - other teams no longer feel responsible for de
 
 - [_Agile Organization Design_](https://leanpub.com/agileorganizationdesign) - Jeff Anderson
 
-#### See Also:
-
-[Cross-functional Teams](/glossary/cross-functional-teams) [Scrum Team](/glossary/scrum-team)

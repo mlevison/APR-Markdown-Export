@@ -1,6 +1,7 @@
 ---
 title: "Scrum Team"
 date: "2021-03-23"
+relatedTerms: 'Cross-functional Teams', 'Effective Teams', 'Psychological Safety', 'Special Teams', 'Stable Teams', 'Team Size'
 ---
 
 The **Scrum Team** is all of the people needed to get the product built and into the customer’s hands:
@@ -43,6 +44,3 @@ The **Scrum Team** is all of the people needed to get the product built and int
 - [_The Five Dysfunctions of a Team: A Leadership Fable_](https://www.amazon.ca/Five-Dysfunctions-Team-Enhanced-Leadership-ebook/dp/B006960LQW/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Patrick M. Lencioni
 - _[The Wisdom Of Teams: Creating the High-Performance Organization](https://www.amazon.ca/The-Wisdom-Teams-High-Performance-Organization/dp/0060522003/&tag=notesfromatoo-20/&tag=notesfromatoo-20)_ – Jon Katzenbach
 
-#### See Also:
-
-[Cross-functional Teams](/glossary/cross-functional-teams) [Effective Teams](/glossary/effective-teams) [Psychological Safety](/glossary/psychological-safety) [Special Teams](/glossary/special-teams) [Stable Teams](/glossary/stable-teams) [Team Size](/glossary/team-size)

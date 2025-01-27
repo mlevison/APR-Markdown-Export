@@ -1,6 +1,7 @@
 ---
 title: "Work in Progress"
 date: "2021-12-15"
+relatedTerms: 'Kanban', 'Interruptions', 'Multitasking'
 ---
 
 In Scrum, **Work in Progress** is the batch of User Stories or Product Backlog Items that have been started but not finished. These are also referred to as partially finished items.
@@ -72,6 +73,3 @@ So, the WIP limit itself isn’t magical. Instead, it helps team members get uns
 - [WIP Limit Definition](https://searchsoftwarequality.techtarget.com/definition/WIP-limit)
 - [WiP Limit Simulator](https://no-bullshit-agile.de/wip/wip-limit-simulator.html) \* This deserves a special mention \*
 
-#### See Also:
-
-[Kanban](/glossary/kanban) [Interruptions](/glossary/interruptions) [Multitasking](/glossary/multitasking)

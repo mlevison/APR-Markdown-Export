@@ -1,6 +1,7 @@
 ---
 title: "Theory of Constraints"
 date: "2022-11-25"
+relatedTerms: 'Bottlenecks', 'Slack'
 ---
 
 The **Theory of Constraints** is a system improvement tool. It illustrates how in a system where we find a bottleneck, the bottleneck is the constraint that limits the performance of the entire system.
@@ -29,6 +30,3 @@ Theory of constraints comes to Agile from the world of manufacturing. It is the 
 - [_Rolling Rocks Downhill: The Agile+ToC Business Novel (Theory of Constraints Simplified)_](https://www.amazon.ca/gp/product/B00PJ8HBW8/&tag=notesfromatoo-20) by Clarke Ching
 - [_Theory of Constraints_](https://www.amazon.ca/Called-Theory-Constraints-Should-Implemented/dp/0884270858/&tag=notesfromatoo-20) by Eliyahu M. Goldratt
 
-#### See Also:
-
-[Bottlenecks](/glossary/bottlenecks) [Slack](/glossary/slack)

@@ -1,6 +1,7 @@
 ---
 title: "Facilitation"
 date: "2021-02-08"
+relatedTerms: 'Decision-Making Tools', 'Team Formation Models', 'Working Agreements'
 ---
 
 **Facilitation** is the art of helping a group of people reach agreement or understanding, without direct involvement in the process itself. In the game of Scrum, facilitation is explicitly required in the events of Sprint Planning, Sprint Review, and Sprint Retrospective. In addition, we would expect facilitation to be part of Product Backlog Refinement and whenever the opportunity arises.
@@ -44,8 +45,3 @@ A good facilitator will always have an agenda or plan for an event. A great faci
 - [_Collaboration Explained: Facilitation Skills for Software Project Leaders_](https://www.amazon.ca/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776/&tag=notesfromatoo-20) – Jean Tabaka
 - [_Where the Action Is: The Meetings That Make or Break Your Organization_](https://www.amazon.ca/Where-Action-Meetings-Break-Organization/dp/1732205221/) - J. Elsie Keith
 
-#### See Also:
-
-- [Decision-Making Tools](/glossary/decision-making-tools)
-- [Team Formation Models](/glossary/team-formation-models)
-- [Working Agreements](/glossary/working-agreements)

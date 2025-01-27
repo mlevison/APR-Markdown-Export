@@ -1,6 +1,7 @@
 ---
 title: "Story Mapping"
 date: "2021-04-22"
+relatedTerms: 'Impact Mapping', 'Roadmaps and Strategy'
 ---
 
 A **Story Map** is a way to help visualize the flow or story of a product. Across the top or horizontal axis of the map we place the major steps (often features) in the user's workflow. Underneath each step or feature are the individual stories that would build out the portion of the product.
@@ -36,6 +37,3 @@ Story Maps were invented because their creator Jeff Patton was frustrated with "
 
 - [_User Story Mapping Discover the Whole Story, Build the Right Product_](https://www.amazon.ca/User-Story-Mapping-Discover-Product/dp/14919049093/) – Jeff Patton
 
-#### See Also:
-
-[Impact Mapping](/glossary/impact-mapping) [Roadmaps and Strategy](/glossary/roadmaps-and-strategy)

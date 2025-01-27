@@ -1,6 +1,7 @@
 ---
 title: "Dot Voting"
 date: "2021-11-03"
+relatedTerms: 'Decision Making Tools'
 ---
 
 **Dot voting** is a mechanism to help an Agile team select a single item from many or prioritize among a number of options. It's a remarkably simple tool. We give the players an equal number of votes or dots. They place their dots on the item or items that are most important to them. It differs from straight up majority voting in that people can split their votes across multiple items. To avoid vote splitting across similar items, the team should do a round of grouping before voting.
@@ -13,6 +14,3 @@ Dot voting is the Agile community’s poster child for decision-making technique
 
 The other challenge is that you can see that people voted for an item, but not why they voted against another, missing an opportunity to improve it.
 
-#### See Also:
-
-- [Decision Making Tools](/glossary/decision-making-tools)

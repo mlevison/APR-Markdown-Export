@@ -1,6 +1,7 @@
 ---
 title: "Morale"
 date: "2021-12-02"
+relatedTerms: 'Metrics and Measurement'
 ---
 
 Team health checks have been popular in the Agile Community for years. Getting people to pay attention to the joy in their teams is a boon. The challenge is the primary measure that people like to use is Happiness. Happiness is important, but it's too broad a measure for teams at work. When measuring happiness, we're measuring many things outside of work, for example: the state of someone's marriage, did they get enough sleep last night, etc.
@@ -21,6 +22,3 @@ Caveat: if you attempt to reduce the four questions down to one or two, it's har
 - [How I Measure Scrum Team Morale](https://medium.com/serious-scrum/how-i-measure-scrum-team-morale-a8220f0a90d0) - similar ideas, the questions may not have the proven rigour of the others
 - [Agile Team Health & Morale Checks](https://www.andycleff.com/2021/02/agile-team-health-check-models/) offers every team health check you could imagine. Some good, some I wouldn't recommend.
 
-#### See Also:
-
-[Metrics and Measurement](/glossary/metrics-and-measurement) Open Office Team Rooms

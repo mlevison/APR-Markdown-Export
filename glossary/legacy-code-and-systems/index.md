@@ -1,6 +1,7 @@
 ---
 title: "Legacy Code and Systems"
 date: "2021-05-04"
+relatedTerms: 'Approval Tests', 'Technical Debt'
 ---
 
 Legacy code is often described as code checked into the system without a unit test. A popular definition from Michael Feathers, author of Working Effectively with Legacy Code.
@@ -62,6 +63,3 @@ Finally have empathy for the people who wrote this code. It might even have been
 - _[The Mikado Method](https://www.amazon.ca/Mikado-Method-Ola-Ellnestam/dp/1617291218/&tag=notesfromatoo-20/&tag=notesfromatoo-20)_ – Daniel Brolund, Ola Ellnestam
 - [_Working Effectively with Legacy Code_](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Michael Feathers
 
-#### See Also:
-
-[Approval Tests](/glossary/approval-tests) [Technical Debt](/glossary/technical-debt)

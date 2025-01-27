@@ -1,6 +1,7 @@
 ---
 title: "Sprint Planning"
 date: "2021-03-26"
+relatedTerms: 'Forecasting', 'Product Backlog Refinement', 'Production Support', 'Sprint Goal'
 ---
 
 **Sprint Planning** is an event at the beginning of a Sprint where the Team plans the items they can complete in the next Sprint. They also craft a Goal to act as a focus for their work. Sprint Planning consists of three parts: Setting the Sprint Goal; Forecasting which Work Items the Team will achieve towards the Goal; Deciding how to do the Work. _Hint from painful personal experience - the leading cause of poor Sprint Planning is inadequate Product Backlog Refinement._
@@ -20,6 +21,3 @@ date: "2021-03-26"
 - [Sprint Planning Pattern](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/sprint-planning)
 - [Should a Team Assign Work During Sprint Planning?](https://www.mountaingoatsoftware.com/blog/should-a-team-assign-work-during-sprint-planning)
 
-#### See Also:
-
-[Forecasting](/glossary/forecasting) [Product Backlog Refinement](/glossary/product-backlog-refinement) [Production Support](/glossary/production-support) [Sprint Goal](/glossary/sprint-goal)

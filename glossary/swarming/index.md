@@ -1,6 +1,7 @@
 ---
 title: "Swarming"
 date: "2021-12-02"
+relatedTerms: 'Agile Engineering Practices', 'Ensemble Programming', 'Pair Programming'
 ---
 
 If Pair Programming is two people working together on a single problem at the same time (pre-Covid, Pairing meant sitting side by side with one computer), then **Swarming** takes Pairing to the next level, with three or more people working on a problem together.
@@ -19,6 +20,3 @@ More effective teams learn to swarm _all_ items, so a team of six people might o
 - [Swarming: One-Piece Continuous Flow](http://scrumbook.org/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow.html)
 - [How Swarming Helps Agile Teams to Deliver](https://www.infoq.com/news/2013/02/swarming-agile-teams-deliver/)
 
-#### See Also:
-
-[Agile Engineering Practices](/glossary/agile-engineering-practices) [Ensemble Programming](/glossary/ensemble-programming) [Pair Programming](/glossary/pair-programming)

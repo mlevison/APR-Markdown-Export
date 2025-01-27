@@ -1,6 +1,7 @@
 ---
 title: "Agile Architecture"
 date: "2021-07-07"
+relatedTerms: 'Agile Architects', 'Agile Architectural Patterns'
 ---
 
 **Agile Architecture** emphasizes the **minimum** amount of design upfront, and focusing on building something and evolving the architecture as our understanding changes.
@@ -36,6 +37,3 @@ Architecture in software development is often defined as relationships between t
 - _[Building Evolutionary Architectures](https://shop.oreilly.com/product/0636920080237.do)_ – Neal Ford, Rebecca Parsons, Patrick Kua
 - _[Lean Architecture: for Agile Software Development](https://www.amazon.com/Lean-Architecture-Agile-Software-Development/dp/0470684208/&tag=notesfromatoo-20)_ – James O. Coplien, Gertrud Bjørnvig 
 
-#### See Also:
-
-[Agile Architects](/glossary/agile-architects) [Agile Architectural Patterns](/glossary/agile-architectural-patterns)

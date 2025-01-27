@@ -1,6 +1,7 @@
 ---
 title: "DevOps"
 date: "2021-05-12"
+relatedTerms: 'Continuous Delivery and Deployment', 'Definition of Done'
 ---
 
 **DevOps** (also now DevSecOps) is the practice of Development working more closely with Operations. Over time, the Developers automate various aspects of their deployment. In doing so, they reduce the number of defects in the process (by eliminating manual steps) and speed the rate at which applications are deployed. DevSecOps takes these ideas and integrates security into the process. One view is that DevOps is simply a Scrum Team expanding their Definition of Done downstream until their application is deployed. That also hints that the work should be done inside the Development Team and not by a downstream group (there are no "DevOps Teams").
@@ -20,6 +21,3 @@ date: "2021-05-12"
 
 - _[A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)_ \- Katrina Clokie
 
-#### See Also:
-
-[Continuous Delivery and Deployment](/glossary/continuous-delivery) [Definition of Done](/glossary/definition-of-done)

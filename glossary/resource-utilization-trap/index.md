@@ -1,6 +1,7 @@
 ---
 title: "Resource Utilization Trap"
 date: "2021-07-29"
+relatedTerms: 'Metrics and Measurement', 'Slack'
 ---
 
 In many organizations, the people who do the work are treated like economic resources (think: iron ore) and it’s felt that they have a price, and so must be utilized to maximize their value. Except these resources are actually human _beings_. Labelling it “human _resources_” is far more ironic than helpful.
@@ -38,6 +39,3 @@ Organizations that focus on utilization and busyness are not resilient. These gr
 
 [_The Principles of Product Development Flow: Second Generation Lean Product Development_](https://www.amazon.ca/Principles-Product-Development-Flow-Generation-ebook/dp/B00K7OWG7O/&tag=notesfromatoo-20) - Donald Reinertsen
 
-#### See Also:
-
-[Metrics and Measurement](/glossary/metrics-and-measurement) [Slack](/glossary/slack)

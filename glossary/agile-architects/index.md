@@ -1,6 +1,7 @@
 ---
 title: "Agile Architects"
 date: "2021-07-09"
+relatedTerms: 'Agile Architecture', 'Agile Architectural Patterns'
 ---
 
 [Agile Architect – An Oxymoron](/blog/agile_architect-2.html) [Agile Architects Reimagined? Not at the top of the pyramid, but perhaps aside](/blog/agile_architect.html)
@@ -12,6 +13,3 @@ date: "2021-07-09"
 - [The Role of an Agile Architect](https://kylegenebrown.medium.com/the-role-of-an-agile-architect-ead1e114c8f2) - Kyle Gene Brown
 - [Who Needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
-#### See Also:
-
-[Agile Architecture](/glossary/agile-architecture) [Agile Architectural Patterns](/glossary/agile-architectural-patterns)

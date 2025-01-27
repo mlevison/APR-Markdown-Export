@@ -1,6 +1,7 @@
 ---
 title: "Product Backlog"
 date: "2021-03-23"
+relatedTerms: 'Product Backlog Refinement'
 ---
 
 The **Product Backlog** is an ordered list of all the work items or value the Product Owner would like to see the Team work on in the foreseeable future. These items are called Product Backlog Items (PBIs).
@@ -14,6 +15,3 @@ The **Product Backlog** is an ordered list of all the work items or value the P
 - [Refactoring -- Not on the backlog!](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
 - [Tips for Reducing the Product Backlog Size](https://www.romanpichler.com/blog/how-to-reduce-the-product-backlog-size/)
 
-#### See Also:
-
-[Product Backlog Refinement](/glossary/product-backlog-refinement)

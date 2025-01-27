@@ -1,6 +1,7 @@
 ---
 title: "Agile Government"
 date: "2022-02-03"
+relatedTerms: 'Agile Outside of Software'
 ---
 
 Agile is about adapting to changing requirements and needs. Governments, just like anyone else, have to deal with dynamic issues as they arise and evolve, and things like climate change, COVID, and housing crises are just a few examples. The rate of change is increasing and a model (whether we use the labels of "Sprints" or "Limited WIP”) that allows for an **Agile Government** is required to handle the resulting challenges.
@@ -23,6 +24,3 @@ Agile is about adapting to changing requirements and needs. Governments, just li
 - [A bleak outlook for public sector tech](https://sboots.ca/2021/12/15/a-bleak-outlook-for-public-sector-tech/)
 - [Paperweight: a cautionary tale of onerous oversight](https://federal-field-notes.ca/articles/2021-12-15-paperweight/?utm_content=buffer8e948&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#numbers-note)
 
-#### See Also:
-
-[Agile Outside of Software](/glossary/agile-outside-of-software)

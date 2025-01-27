@@ -1,6 +1,7 @@
 ---
 title: "User Story Splitting"
 date: "2021-07-08"
+relatedTerms: 'Acceptance Criteria', 'Agile Architecture', 'User Story'
 ---
 
 **User Story Splitting** is the art of splitting User Stories or Product Backlog Items (PBI) into smaller parts when an item is too big. My recommendation is that Stories be no larger than 1/5 to 1/10 of the team's capacity for the entire Sprint. There are many reasons to split including: better flow of work; easier to understand items; easier to estimate; etc. Whenever we split a PBI, we should ensure that the resulting item still has demonstrable value, so splits that look like team member tasks don't count. Most of the time we only split stories that are candidates for work in the next few Sprints. We don't split all items in the product backlog months ahead.
@@ -22,6 +23,3 @@ date: "2021-07-08"
 - [What if I tell you requirements are like bubbles?](https://www.linkedin.com/pulse/what-i-tell-yourequirements-like-bubbles-alexey-krivitsky/)
 - [What if the User Story is too Big for the Team?](https://goodrequirements.com/2012/too-big/)
 
-#### See Also:
-
-[Acceptance Criteria](/glossary/acceptance-criteria) [Agile Architecture](/glossary/agile-architecture) [User Story](/glossary/user-story)

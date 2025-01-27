@@ -1,6 +1,7 @@
 ---
 title: "Agile Architectural Patterns"
 date: "2021-07-09"
+relatedTerms: 'Agile Architects', 'Agile Architecture'
 ---
 
 #### Resource Links:
@@ -15,6 +16,3 @@ date: "2021-07-09"
 
 - [_Patterns of Enterprise Application Architecture_](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/&tag=notesfromatoo-20) - Martin Fowler
 
-#### See Also:
-
-[Agile Architects](/glossary/agile-architects) [Agile Architecture](/glossary/agile-architecture)

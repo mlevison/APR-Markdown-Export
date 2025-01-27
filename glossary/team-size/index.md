@@ -1,6 +1,7 @@
 ---
 title: "Team Size"
 date: "2021-03-26"
+relatedTerms: 'Scrum Team'
 ---
 
 The Scrum Guide offers very limited guidance, suggesting 3-9 people per team (exclusive of ScrumMaster and Product Owner), without giving reasons or context for those numbers. The Scrum Guide provides no guidance in choosing team size and, based on the evidence, the range is too wide.
@@ -19,6 +20,3 @@ The Scrum Guide offers very limited guidance, suggesting 3-9 people per team (ex
 - [What’s the ideal size of agile scrum teams for peak performance?](https://www.starttech.vc/blog/2018/agile-scrum-teams-for-peak-performance/)
 - [Why Scrum Teams Should Be Small](https://ezinearticles.com/?Why-Scrum-Teams-Should-Be-Small&id=2203090)
 
-#### See Also:
-
-[Scrum Team](/glossary/scrum-team)

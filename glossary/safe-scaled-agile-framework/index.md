@@ -1,6 +1,7 @@
 ---
 title: "Scaled Agile Framework"
 date: "2021-05-06"
+relatedTerms: 'Scaling and Large Teams', 'Special Teams'
 ---
 
 **Scaled Agile Framework**, aka SAFe, is probably the least Agile approach to getting many teams to work together. At the heart of all of Agile approaches has been boiling the system of work down to its essence, finding the simplest way that people could work together. Scrum, eXtreme Programming, and Kanban all embrace this. SAFe takes a different approach. It claims to embrace all of those methods as part of a grab bag. Instead, it takes them and makes key changes. Scrum's Product Owner loses their responsibility for the product - instead they're responsible for alignment. SAFe adds a great deal of superstructure around normal Scrum teams. There are so many more reasons I could add but, instead, there is a great quote that I'll share: "SAFe is where Agile goes to die".
@@ -24,6 +25,3 @@ date: "2021-05-06"
 - [Un-SAFe At Any Speed: Rethinking Scale and Agility](https://www.linkedin.com/pulse/un-safe-any-speed-rethinking-scale-agility-sam-mcafee/)
 - [Why SaFE is Not the Scaled Agile Approach You Need](https://agileforest.com/2018/06/24/why-safe-is-not-the-scaled-agile-approach-you-need)
 
-#### See Also:
-
-[Scaling and Large Teams](/glossary/scaling) [Special Teams](/glossary/special-teams)

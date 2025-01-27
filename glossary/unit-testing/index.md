@@ -1,6 +1,7 @@
 ---
 title: "Unit Testing"
 date: "2021-03-08"
+relatedTerms: 'Agile Testing', 'Code Smells'
 ---
 
 **Unit Testing** is an approach to test small, isolated chunks of code that prove whether the method did what the developer intended when the test was written. This means testing only one specific aspect or path, through a single method, producing one result.\[[1](#footnotes)\] Since most methods have multiple paths through them, they need multiple tests.
@@ -67,10 +68,6 @@ _Not everything written in UnitTest tool (e.g. JUnit, NUnit, Jest or ...) is a U
 - [_Pragmatic Unit Testing in Java with JUnit_](https://www.amazon.com/Pragmatic-Unit-Testing-Java-JUnit/dp/0974514012/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Andy Hunt, Dave Thomas
 - _[xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054/&tag=notesfromatoo-20/&tag=notesfromatoo-20)_ – Gerard Meszaros
 - _[The Art of Unit Testing: with Examples in .NET](https://www.amazon.com/Art-Unit-Testing-Examples-NET/dp/1933988274/&tag=notesfromatoo-20/&tag=notesfromatoo-20)_ – Roy Osherove
-
-#### See Also:
-
-[Agile Testing](/glossary/testing) [Code Smells](/glossary/code-smells)
 
 * * *
 

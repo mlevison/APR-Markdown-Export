@@ -1,6 +1,7 @@
 ---
 title: "Effective Teams"
 date: "2024-09-16"
+relatedTerms: 'Scrum Team'
 ---
 
 Calling a group of individuals a "team" is only a label, unless they're organized and empowered with distinct characteristics to allow them to function effectively.
@@ -13,6 +14,3 @@ Too many teams struggle with Fake Agile and Bad Scrum. They know about velocity,
 
 _Coming soon..._
 
-#### See Also:
-
-[Scrum Team](/glossary/scrum-team)

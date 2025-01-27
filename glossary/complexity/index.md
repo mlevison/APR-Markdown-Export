@@ -1,6 +1,7 @@
 ---
 title: "Complexity and the Cynefin Framework"
 date: "2021-02-08"
+relatedTerms: 'Estimation'
 ---
 
 We encounter complexity whenever we're asked to estimate how long it will take to fix a bug. Or when we're asked how long it will take to bring a novel product to market. We don't know what we can't know.
@@ -71,6 +72,3 @@ Cynefin doesn't solve any problem for you, it is instead a "lens" to look at the
 - [New exercises for teaching Cynefin](https://www.chriscorrigan.com/parkinglot/new-exercises-for-teaching-cynefin/)
 - [Teaching the five Cynefin domains using physical exercises](https://www.chriscorrigan.com/parkinglot/teaching-the-five-cynefin-domains-using-physical-exercises/)
 
-#### See Also:
-
-[Estimation](/glossary/estimation)

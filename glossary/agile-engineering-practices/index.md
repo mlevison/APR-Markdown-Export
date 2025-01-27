@@ -1,6 +1,7 @@
 ---
 title: "Agile Engineering Practices"
 date: "2021-05-04"
+relatedTerms: 'Behaviour Driven Development', 'Collective Code Ownership', 'Continuous Delivery', 'Continuous Integration', 'Emergent/Evolutionary Architecture', 'Ensemble (formerly Mob) Programming', 'Pair Programming', 'Refactoring', '10 Minute Build', 'Test Driven Development', 'Trunk-Based Development', 'Unit Testing'
 ---
 
 In my [workshops](/certified-scrum-agile-training), I often have people who are focused on the question: “How can I help my team go faster?”, or “How can we deliver this Product sooner?” Whenever anyone asks, my answer is always the same: “You must slow down to go fast.” I then often get some puzzled looks.
@@ -14,21 +15,6 @@ In software development, the single best way to improve quality, and eventually 
 ![Agile Engineering Practices](images/Agile-Engineering-Practices-map-small.jpg)
 
 [Subscribe to receive your free copy of the Agile Engineering Practices and Their Effects Cheat Sheet.](https://www.getdrip.com/forms/194541779/submissions/new)
-
-#### See Also:
-
-- [Behaviour Driven Development](/glossary/behaviour-driven-development)
-- [Collective Code Ownership](/glossary/collective-code-ownership)
-- [Continuous Delivery](/glossary/continuous-delivery)
-- [Continuous Integration](/glossary/continuous-integration)
-- [Emergent/Evolutionary Architecture](/glossary/agile-architecture)
-- [Ensemble (formerly Mob) Programming](/glossary/ensemble-programming)
-- [Pair Programming](/glossary/pair-programming)
-- [Refactoring](/glossary/refactoring)
-- [10 Minute Build](/glossary/10-minute-build)
-- [Test Driven Development](/glossary/test-driven-development)
-- [Trunk-Based Development](/glossary/branching-strategies)
-- [Unit Testing](/glossary/unit-testing)
 
 #### Resource Book Link:
 

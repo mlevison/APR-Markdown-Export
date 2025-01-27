@@ -1,6 +1,7 @@
 ---
 title: "Cross-Functional Teams"
 date: "2023-09-15"
+relatedTerms: 'Cross-skilling', 'Part-time Team Members', 'Scrum Teams', 'Special Teams'
 ---
 
 In the Agile world a **cross-functional team** is one that has all the skills it requires to get the work finished, without relying on external help. Wow, that's a mouthful. Let's provide some examples. A team doing software development might have a mix of the following skills: Development, Requirements Analysis, Quality Assurance, User Experience etc. A team doing marketing work would have a different mix, maybe: Writer, Editor, Graphic Designer, etc. A key detail that often gets lost is that you don't necessarily need one person for every skill set required in your team. Instead, you need people who already have multiple skills or are willing to learn them (see cross-skilling). These people are often called [T or M-shaped people](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) because they have deep knowledge in 1-2 areas and can help out elsewhere.
@@ -44,6 +45,3 @@ It is not easy to build cross-functional teams; there are more than a few challe
 - [What does a cross-functional Agile team look like?](https://extremeuncertainty.com/what-does-cross-functional-agile-team-look-like/)
 - [What is a Cross-Functional Team?](https://www.codurance.com/publications/2020/09/15/what-is-a-cross-functional-team)
 
-#### See Also:
-
-[Cross-skilling](/glossary/cross-skilling) [Part-time Team Members](/glossary/part-time-team-members) [Scrum Teams](/glossary/scrum-team) [Special Teams](/glossary/special-teams)

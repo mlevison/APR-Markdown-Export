@@ -1,6 +1,7 @@
 ---
 title: "Behaviour Driven Development [BDD]"
 date: "2021-04-23"
+relatedTerms: 'Acceptance Criteria', 'Agile Engineering Practices', 'Test Driven Development versus Behaviour Driven Development'
 ---
 
 **Behaviour Driven Development** (or BDD) is an approach that gets team members to collaborate on describing the behaviours of the user story or product feature they're attempting to build. The behaviours are described with a series of examples, written in a language that users would be able to understand, that each prove one point about the feature or User Story. The examples can then be automated to provide acceptance tests that prove the expected behaviour, before the code is written. However, even if the examples can't be automated, there is great value in collaborating on the examples before the code is written. _Caveat: this is an amazingly powerful technique, however it takes months to learn and put into practice._
@@ -8,10 +9,6 @@ date: "2021-04-23"
 BDD improves quality and reduce defects since it ensures that several team members agreed on the problem that needed solving. BDD doesn’t replace Exploratory and other forms of Testing.
 
 [Scrum By Example – Waiting Too Long to Create Acceptance Criteria](/blog/creating-acceptance-criteria-waiting-too-long.html) [Scrum By Example – The Team Collaborate on Acceptance Criteria](/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html) [Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html)
-
-#### See Also:
-
-[Acceptance Criteria](/glossary/acceptance-criteria) [Agile Engineering Practices](/glossary/agile-engineering-practices) [Test Driven Development versus Behaviour Driven Development](/glossary/tdd-vs-bdd)
 
 #### Resource Links:
 

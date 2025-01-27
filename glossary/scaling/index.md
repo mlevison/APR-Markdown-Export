@@ -1,6 +1,7 @@
 ---
 title: "Scaling and Large Teams"
 date: "2021-05-06"
+relatedTerms: 'Large Scale Scrum (LeSS)', 'Scaled Agile Framework (SAFe)'
 ---
 
 When attempting to get many teams to work effectively together in an Agile world, we need some coordination model. This is typically referred to as **Scaling**. Be careful, many approaches do this by adding more layers, additional ceremonies, and handoffs. All of this takes the teams further away from delivering value to the customer.
@@ -41,6 +42,3 @@ When attempting to get many teams to work effectively together in an Agile world
 - [_Large-Scale Scrum: More with Less_](https://www.amazon.ca/Large-Scale-Scrum-More-Addison-Wesley-Signature-ebook/dp/B01JP91OR4/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Craig Larman, Bas Vodde \[AMAZON\]
 - [_Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum_](https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Craig Larman, Bas Vodde \[AMAZON\]
 
-#### See Also:
-
-[Large Scale Scrum (LeSS)](/glossary/less-large-scale-scrum) [Scaled Agile Framework (SAFe)](/glossary/safe-scaled-agile-framework)

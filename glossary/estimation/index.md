@@ -1,6 +1,7 @@
 ---
 title: "Estimation"
 date: "2021-02-18"
+relatedTerms: 'Forecasting', 'Complexity Theory'
 ---
 
 An **estimate** is a qualified guess to help people make a decision about doing work. In the Agile world, one approach to estimation has become prevalent: the combination of Planning Poker and Story Points.
@@ -52,8 +53,3 @@ Commonly used estimation techniques:
 
 - [_Software Estimation without Guessing_](https://www.amazon.com/gp/product/1680506986/) - George Dinwiddie
 
-#### See Also:
-
-[Forecasting](/glossary/forecasting)
-
-[Complexity Theory](/glossary/complexity-theory)

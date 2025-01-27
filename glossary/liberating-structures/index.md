@@ -1,6 +1,7 @@
 ---
 title: "Liberating Structures"
 date: "2021-12-02"
+relatedTerms: 'Self-Organization'
 ---
 
 **Liberating Structures** are tools that create balance in self-organization, which is at the heart of all Agile approaches. Too often self-organized events and conversations can be either too formal (think: presentation) or open-ended (rambling conversations), which can lead to disengagement. Facilitators can use Liberating Structures to help the team understand the minimum boundaries needed to organize well, and then leave the implementation to the participants, which allows them more freedom to self-organize. In this way the practice resembles Scrum itself. Liberating Structures can be used to structure Sprint Planning, Retrospectives, and corral important open-ended discussions.
@@ -19,6 +20,3 @@ date: "2021-12-02"
 - [the Scrum framework is a liberating structure](http://medium.com/resourceful-exformation/the-scrum-framework-is-a-liberating-structure-b75c51b90007)
 - [The Value of Liberating Structures for Scrum Masters](https://medium.com/the-liberators/the-value-of-liberating-structures-for-scrum-masters-2fd55f641481)
 
-#### See Also:
-
-[Self-Organization](/glossary/self-organization)

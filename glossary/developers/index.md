@@ -1,6 +1,7 @@
 ---
 title: "Developers"
 date: "2021-07-28"
+relatedTerms: 'ScrumMaster', 'Product Owner', 'Scrum Team'
 ---
 
 If you thought that ScrumMaster was a poorly named role in Scrum, check out **Developers**. In recent years, the ScrumGuide has been making changes to help people outside of software see that they can fit into the game of Scrum. Excellent. However, the 2020 change from "Development Team" to "Developers" just made the situation worse.
@@ -26,8 +27,3 @@ To learn more about the Doers, see: [Scrum by Example: Stories for the Working S
 - [Characteristics of a Great Scrum Team](https://www.infoq.com/articles/great-scrum-team/) - this has an excellent summary of the developer role in addition to the other roles
 - [The Role of the Developer in a Scrum Team](https://dotdotdev.com/2021/07/12/the-role-of-the-developer-in-a-scrum-team/)
 
-#### See Also:
-
-[ScrumMaster](/glossary/scrummaster-role) [Product Owner](/glossary/product-owner-role) [Scrum Team](/glossary/scrum-team)
-
-\[1\] [https://scrumguides.org/scrum-guide.html#developers](https://scrumguides.org/scrum-guide.html#developers)

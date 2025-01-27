@@ -1,6 +1,7 @@
 ---
 title: "Ensemble (formerly Mob) Programming"
 date: "2021-05-05"
+relatedTerms: 'Agile Engineering Practices', 'Collective Code Ownership', 'Pair Programming'
 ---
 
 **Ensemble Programming** (formerly known as **Mob Programming**) is the logical extension of Pair Programming. The entire team work together to deliver a single Product Backlog Item (or User Story). They work using the same computer, at the same time.  They do all of the steps of their development process together, from requirements -> code -> testing (and any other steps you want). Typically one team member acts as the "driver" - actually writing the code or the tests. While the rest of the team ask questions, make suggestions etc. The normal rule is that the person writing code, should only write things that the others suggest to them. People take turns, driving so that everyone gets time at the keyboard.
@@ -28,6 +29,3 @@ Because the entire team focused on one story at a time, then it is truly Limitin
 - [_Code with the Wisdom of the Crowd_](https://pragprog.com/titles/mpmob/code-with-the-wisdom-of-the-crowd/) - Mark Pearl
 - [_Remote Mob Programming_](https://leanpub.com/remotemobprogramming) - Dr. Simon Harrer, Martin Huber, and Jochen Christ
 
-#### See Also:
-
-[Agile Engineering Practices](/glossary/agile-engineering-practices) [Collective Code Ownership](/glossary/collective-code-ownership) [Pair Programming](/glossary/pair-programming)

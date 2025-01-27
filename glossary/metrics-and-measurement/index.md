@@ -1,6 +1,7 @@
 ---
 title: "Metrics and Measurement"
 date: "2021-04-28"
+relatedTerms: 'Cycle Time', 'Dependencies', 'Forecasting', 'Impediments', 'Improvement Experiments'
 ---
 
 **Metrics** are the tools we use (and misuse) to help us understand how we're evolving. Used well, Metrics can give us feedback on our team's experiments and help us become aware of problems sooner. Used poorly, they become a stick to beat the team into submission. It's important to be careful when using them, because all metrics have cost, will introduce noise into the system, and might be gamed.
@@ -49,10 +50,3 @@ date: "2021-04-28"
 - [_Escape Velocity - Better Metrics for Agile Teams_](https://leanpub.com/escapevelocity/) - Doc Norton
 - _[Software Development Metrics Paperback](https://www.amazon.ca/Software-Development-Metrics-Dave-Nicolette/dp/1617291358/)_ – Dave Nicolette
 
-#### See Also:
-
-- [Cycle Time](/glossary/cycle-time)
-- [Dependencies](/glossary/dependencies)
-- [Forecasting](/glossary/forecasting)
-- [Impediments](/glossary/impediments)
-- [Improvement Experiments](/glossary/improvement-experiments)

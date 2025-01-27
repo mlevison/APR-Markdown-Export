@@ -1,6 +1,7 @@
 ---
 title: "Lean Startup Experiments"
 date: "2022-11-23"
+relatedTerms: 'Lean Startup'
 ---
 
 A core concept of Lean Startup is that we need to validate aspects of your product or business idea that are assumptions or that represent risk. Looking at your Lean Canvas (your one-page plan outlining your Customer Segments, Problem you solve, and Unique Selling Proposition, etc.), are you certain that you have your customers well-understood? If you're less sure about whether they have problems you're not imagining, do customer interviews with open-ended questions. Do their answers match your hypothesis or lead you in a different direction? If the hypothesis is validated, fantastic, then it’s time to run experiments and validate your product idea. Example: include a landing page to validate your value proposition.
@@ -30,6 +31,3 @@ The list below gives you a start on some experiments to run.
 
 - [_Testing Business Ideas: A Field Guide for Rapid Experimentation_](https://www.amazon.ca/Testing-Business-Ideas-David-Bland/dp/1119551447/&tag=notesfromatoo-20) by David J. Bland
 
-#### See Also:
-
-[Lean Startup](/glossary/lean-startup)

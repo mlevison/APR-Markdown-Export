@@ -1,6 +1,7 @@
 ---
 title: "Safety Check"
 date: "2022-08-03"
+relatedTerms: 'Sprint Retrospective', 'Psychological Safety'
 ---
 
 A team **safety check** is a way of understanding the team’s readiness to be open and honest. It starts with a question like “Are you able to be open and honest and say everything that needs to be said in this retrospective?”
@@ -23,6 +24,3 @@ If the results are high 4s and 5s, acknowledge that and move on with your plan. 
 - [Safety Check Team Radar](https://www.retrium.com/retrospective-techniques/safety-check-team-radar)
 - [Team Safety Check Retrospective - Building Psychological Safety](https://www.andycleff.com/2018/02/team-safety-check-retrospective/)
 
-#### See Also:
-
-[Sprint Retrospective](/glossary/sprint-retrospective) [Psychological Safety](/glossary/psychological-safety)

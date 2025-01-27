@@ -1,6 +1,7 @@
 ---
 title: "Multitasking"
 date: "2021-03-08"
+relatedTerms: 'Interruptions', 'Part Time Team Members', 'Work in Progress'
 ---
 
 Buried in most job ads is the phrase "Looking for a great multitasker". Too bad they don't exist. Contrary to what some books would have you believe, **multitasking** effectively is not an actual thing. As humans, we suffer from the problem of dual task interference. When we're already doing one thing, splitting our focus with an additional item causes us to make mistakes with both.
@@ -53,6 +54,3 @@ _This just a sampling_
 - [_The Myth of Multitasking: How “Doing It All” Gets Nothing Done_ – Dave Crenshaw](https://www.amazon.com/The-Myth-Multitasking-Doing-Nothing/dp/0470372257/&tag=notesfromatoo-20)
 - [_Slack: Getting Past Burnout, Busywork and the Myth of Total Efficiency_ - Tom DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0932633617/&tag=notesfromatoo-20)
 
-#### See Also:
-
-[Interruptions](/glossary/interruptions) [Part Time Team Members](/glossary/part-time-team-members) [Work in Progress](/glossary/work-in-progress)

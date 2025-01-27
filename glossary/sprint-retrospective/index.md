@@ -1,6 +1,7 @@
 ---
 title: "Sprint Retrospective"
 date: "2021-03-26"
+relatedTerms: 'Improvement Experiments', 'Metrics and Measurement'
 ---
 
 ![The Guide to Effective Agile Retrospectives Infographic by Mark Levison Agile Pain Relief](images/The-Guide-to-Effective-Agile-Retrospectives-infographic-v1-1-1-scaled.jpg)](/guide-to-effective-agile-retrospectives)The **Sprint Retrospective** is an event at the end of the [Sprint where the Scrum Team reflects on all that happened in that period, with the intention to improve how they work in the next Sprint.
@@ -59,6 +60,3 @@ Sprint Review and Retrospective are often confused. The Sprint Review is focused
 - [_Fifty Quick Ideas To Improve Your Retrospectives_](https://fiftyquickideas.com/) by Ben Williams and Tom Roden
 - _[Retrospectives for everyone – Powerful metaphors for effective retrospectives](https://www.amazon.ca/Retrospectives-everyone-metaphors-effective-retrospectives/dp/164760849X/&tag=notesfromatoo-20)_ - Madhavi Ledalla
 
-#### See Also:
-
-[Improvement Experiments](/glossary/improvement-experiments) [Metrics and Measurement](/glossary/metrics-and-measurement)

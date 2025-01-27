@@ -1,6 +1,7 @@
 ---
 title: "Burndowns"
 date: "2021-02-08"
+relatedTerms: 'Cumulative Flow Diagram', 'Forecasting', 'Metrics and Measurement', 'Work in Progress'
 ---
 
 **Burndown charts** graph work remaining vs time. They were originally used for tracking work in Sprints and across releases. Sprint Burndowns that track hours of task work remaining are usually considered an anti-pattern now. Instead, try limiting Work in Progress. Tracking (if required at all) can be done at the level of completed tasks or, better, completed User Stories. Burndowns for release imply the Product Backlog has fixed contents and we're only releasing every few months. Look instead at a Cumulative Flow Diagram to help improve flow.
@@ -12,12 +13,3 @@ date: "2021-02-08"
 - [Hours-Remaining Burndown Charts: An Agile Anti-Pattern?](https://www.solutionsiq.com/resource/blog-post/burndown-charts-anti-agile/)
 - [Why Burn-up Chart Is Better Than Burn-down Chart](https://brodzinski.com/2012/10/burn-up-better-burn-down.html)
 
-#### See Also:
-
-[Cumulative Flow Diagram](/glossary/cumulative-flow-diagram)
-
-[Forecasting](/glossary/forecasting)
-
-[Metrics and Measurement](/glossary/metrics-and-measurement)
-
-[Work in Progress](/glossary/work-in-progress)

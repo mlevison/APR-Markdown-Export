@@ -1,6 +1,7 @@
 ---
 title: "Servant Leadership"
 date: "2022-08-16"
+relatedTerms: 'Psychological Safety', 'ScrumMaster'
 ---
 
 **Servant leadership** is the act of leading through service to others. Okay, so how does that differ from traditional leadership? Traditional leadership emphasizes accumulating power and then using that power to get things done.
@@ -37,6 +38,3 @@ For what it's worth, recent changes to the Scrum Guide mean that it no longer di
 - [Servant leadership: why being a servant leader is worth the work](https://nesslabs.com/servant-leadership)
 - [What is leadership: A definition and way forward](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-leadership)
 
-#### See Also:
-
-[Psychological Safety](/glossary/psychological-safety) [ScrumMaster](/glossary/scrummaster-role)

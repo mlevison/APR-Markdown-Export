@@ -1,6 +1,7 @@
 ---
 title: "User Story"
 date: "2023-11-09"
+relatedTerms: 'Acceptance Criteria', 'User Story Splitting'
 ---
 
 In Scrum, a **User Story** is a tool used to provoke, and then summarize, a conversation between the Development Team and their Product Owner, for a better understanding of an item on the Product Backlog. The User Story provides context regarding who a Product Backlog Item is being developed for, and why it is of value.
@@ -93,10 +94,6 @@ Confusion over what is a user story vs. definition of done vs. acceptance criter
 ##### USER STORIES BOOKS
 
 - [_User Stories Applied: For Agile Software Development_](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Mike Cohn
-
-#### See Also:
-
-[Acceptance Criteria](/glossary/acceptance-criteria) [User Story Splitting](/glossary/user-story-splitting)
 
  
 

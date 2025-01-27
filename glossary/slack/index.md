@@ -1,6 +1,7 @@
 ---
 title: "Slack"
 date: "2021-07-26"
+relatedTerms: 'Theory of Constraints'
 ---
 
 **Slack**, in the context of Agile/Scrum, is when the time isn't solely focused on delivering. _(It's important not to confuse this with Slack, a popular electronic communication tool, or the general vocabulary word defined as "a spell of inactivity or laziness".)_ 
@@ -35,6 +36,3 @@ Show me the rate at which your team is Learning (and adapting) and I will predic
 - [_The Fifth Discipline: The Art & Practice of The Learning Organization_](https://www.amazon.ca/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK/&tag=notesfromatoo-20) - Peter Senge
 - [_Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency_](https://www.amazon.ca/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y/&tag=notesfromatoo-20) - Tom DeMarco
 
-#### See Also:
-
-[Theory of Constraints](/glossary/theory-of-constraints)

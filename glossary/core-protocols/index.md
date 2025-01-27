@@ -1,6 +1,7 @@
 ---
 title: "Core Protocols"
 date: "2021-04-22"
+relatedTerms: 'Working Agreements'
 ---
 
 A set of **protocols** that can aid teams in improving communications. They're modelled on a similar principle to Design patterns.
@@ -12,6 +13,3 @@ A set of **protocols** that can aid teams in improving communications. They're m
 - [Core Protocols - Effective Communication](https://blog.crisp.se/2017/11/12/martinchristensen/core-protocols-effective-communication)
 - [Interview with the McCarthy's creators of the Core Protocols](https://www.infoq.com/interviews/mccarthy-core-protocols/)
 
-#### See Also:
-
-[Working Agreements](/glossary/working-agreements)

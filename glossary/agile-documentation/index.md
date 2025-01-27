@@ -1,6 +1,7 @@
 ---
 title: "Agile Documentation"
 date: "2022-08-26"
+relatedTerms: 'Behaviour Driven Development', 'User Stories'
 ---
 
 **Agile Documentation.** Is it an oxymoron? The _Agile Manifesto_ says "Working Software over Comprehensive Documentation". It doesn't say _no_ documentation, and it doesn't say _how much_, if at all.
@@ -26,6 +27,3 @@ If you expected a template, effective ones don't exist. Ultimately the team memb
 - [Four goals of Agile documentation: Part one](https://www.thoughtworks.com/insights/blog/four-goals-agile-documentation-part-one) and [Four goals of agile documentation: Part two](https://www.thoughtworks.com/insights/blog/four-goals-agile-documentation-part-two)
 - [A Roadmap to Agile Documentation](https://www.infoq.com/articles/roadmap-agile-documentation/)
 
-#### See Also:
-
-[Behaviour Driven Development](/glossary/behaviour-driven-development) [User Stories](/glossary/user-story)

@@ -1,6 +1,7 @@
 ---
 title: "ScrumMaster Anti-Patterns"
 date: "2022-11-10"
+relatedTerms: 'Anti-Patterns'
 ---
 
 An Anti-Pattern is a recurring pattern that frequently shows up, where the behaviour creates new problems somewhere else in the system. Example: the common practice of MicroManagement allows the MicroManager to feel like they’re maintaining control, yet their control reduces self-organization, creates disengagement, slows decision-making etc. So even though the MicroManager feels like they’re in control, their behaviour is damaging the system they’re part of.
@@ -24,6 +25,3 @@ Even the ScrumMaster can join in the AntiPattern fun:
 - [Understanding the anti-patterns of a Scrum Master](https://www.incrementone.com/perspectives/understanding-the-anti-patterns-of-a-scrum-master)
 - [When the Scrum Master Role is Set Up to Be an Anti-Pattern](https://nextupsolutions.com/insights/when-the-scrum-master-role-is-set-up-to-be-an-anti-pattern)
 
-#### See Also:
-
-[Anti-Patterns](/glossary/anti-patterns)

@@ -1,6 +1,7 @@
 ---
 title: "10 Minute Build"
 date: "2022-09-28"
+relatedTerms: 'Engineering Practices'
 ---
 
 **10 Minute Build** is the idea that we should be able to build a system and run its test suites in 10 minutes or less. Fast build-and-test provides quicker feedback to the developers who wrote the code. It allows them to move on to the next thing - a new feature or improving the current one. Fast builds allow for multiple check-ins per person/pair a day, which in turn makes small check-ins practical. These smaller check-ins reduce the risk of team members stepping on each other's virtual toes and, with a bit of practice, allow them to develop a rhythm that results in continuous small improvements.
@@ -17,6 +18,3 @@ In comparison, when builds are slow, Developers wander off to do new things whil
 - [Ten-Minute Build - The Art of Agile Development](https://www.jamesshore.com/v2/books/aoad1/ten_minute_build)
 - [The Ten Minute Build - Roger Hughes](https://www.javacodegeeks.com/2011/09/ten-minute-build.html)
 
-#### See Also:
-
-[Engineering Practices](/glossary/agile-engineering-practices)

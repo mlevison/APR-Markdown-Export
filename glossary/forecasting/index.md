@@ -1,6 +1,7 @@
 ---
 title: "Forecasting"
 date: "2021-02-18"
+relatedTerms: 'Estimation'
 ---
 
 **Forecasting** in the Agile world asks the difficult questions: How much of our product backlog will ready by a certain date? **or** By which date a specific feature will be ready?
@@ -31,6 +32,3 @@ Many teams attempt to forecast by measuring their Product Backlog in Story Point
 - [_Forecasting using Data_](https://medium.com/forecasting-using-data) - a free eBook - Troy Magennis
 - [_When Will it be Done_](https://leanpub.com/whenwillitbedone) - Dan Vacanti
 
-#### See Also:
-
-[Estimation](/glossary/estimation)

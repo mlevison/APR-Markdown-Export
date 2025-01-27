@@ -1,6 +1,7 @@
 ---
 title: "Cross-Skilling"
 date: "2021-05-04"
+relatedTerms: 'Cross-functional Teams', 'Ensemble Programming', 'Pair Programming', 'Work In Progress'
 ---
 
 **Cross-skilling** is where a team member decides (without being pushed) to learn a new skill area. This learning will, of course, take time and in the short term slow the team down. In the long run, the team benefits from the shared knowledge with increased quality, fewer bottlenecks, etc. All of this of course will eventually lead to greater speed.
@@ -31,6 +32,3 @@ Teams that do not encourage cross-skilling and who have only person who perform 
 - [Stress Testing Skills Liquidity](https://theitriskmanager.com/2020/03/)
 - [Using a Skill Matrix for Growth and Learning](https://www.infoq.com/news/2016/12/skill-matrix-teams/)
 
-#### See Also:
-
-[Cross-functional Teams](/glossary/cross-functional-teams) [Ensemble Programming](/glossary/ensemble-programming) [Pair Programming](/glossary/pair-programming) [Work In Progress](/glossary/work-in-progress)

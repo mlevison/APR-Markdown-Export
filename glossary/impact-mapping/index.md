@@ -1,6 +1,7 @@
 ---
 title: "Impact Mapping"
 date: "2021-04-22"
+relatedTerms: 'Roadmaps and Strategy', 'Story Mapping'
 ---
 
 **Impact Mapping** is a tool to help teams focus their work on the feature by identifying portfolio items or strategic changes that will have the greatest effect on achieving their goal. Impact Maps are intended to be drawn, and not just written in words.
@@ -22,8 +23,3 @@ date: "2021-04-22"
 - [_Impact Mapping: Making a big impact with software products and projects_](https://www.impactmapping.org/book.html) – Gojko Adzic
 - [_Inspired: How to Create Tech Products Customers Love_](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/&tag=notesfromatoo-20/) - Marty Cagan
 
-#### See Also:
-
-[Roadmaps and Strategy](/glossary/roadmaps-and-strategy)
-
-[Story Mapping](/glossary/story-mapping)

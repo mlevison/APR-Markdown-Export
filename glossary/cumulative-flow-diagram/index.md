@@ -1,6 +1,7 @@
 ---
 title: "Cumulative Flow Diagram [CFD]"
 date: "2021-04-30"
+relatedTerms: 'Burndowns', 'Kanban'
 ---
 
 A **Cumulative Flow Diagram** is a visual summary of the information contained on the Scrum Wall, Task Board, or Kanban Wall. A Cumulative Flow Diagram differs from a Burnup in that it tracks work through all of its states. It's useful because it can help spot bottlenecks and trends, but don’t confuse a Cumulative Flow Diagram or other measurement with the real world. A measurement is just a hint to go find out what is really happening.
@@ -15,8 +16,3 @@ A **Cumulative Flow Diagram** is a visual summary of the information contained o
 - [The Cumulative Flow Diagram: High Performance Monitoring](https://ourfounder.typepad.com/leblog/2009/08/the-cumulative-flow-diagram-high-performance-monitoring.html)
 - [Why we love metrics? Cumulative flow diagrams](http://blog.plataformatec.com.br/2016/03/why-we-love-metrics-cumulative-flow-diagrams/) - a good story about what one team learned
 
-#### See Also:
-
-[Burndowns](/glossary/burndowns)
-
-[Kanban](/glossary/kanban)

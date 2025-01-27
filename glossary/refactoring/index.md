@@ -1,6 +1,7 @@
 ---
 title: "Refactoring"
 date: "2021-05-05"
+relatedTerms: 'Agile Engineering Practices'
 ---
 
 **Refactoring** is the process of restructuring existing code without changing its external behaviour. Refactoring is done to improve the simplicity and readability of a piece of code. Most refactorings are simple (e.g. rename method, extract method, etc) and have been automated by modern development tools to guarantee safety/correctness. A refactoring is like renaming a section header in a document to better convey the core idea to the reader, or splitting a large, unwieldy paragraph into smaller parts.
@@ -19,6 +20,3 @@ date: "2021-05-05"
 - _[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/&tag=notesfromatoo-20)_ – Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
 - [_Refactoring to Patterns_](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351/&tag=notesfromatoo-20) – Joshua Kerievsky
 
-#### See Also:
-
-[Agile Engineering Practices](/glossary/agile-engineering-practices)

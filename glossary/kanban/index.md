@@ -2,6 +2,7 @@
 title: "Kanban"
 date: "2021-04-30"
 coverImage: "2017CSM-Sample-Scrum-Task-Board-v2.jpg"
+relatedTerms: 'Cumulative Flow Diagram', 'Metrics and Measurement', 'Scrum vs. Kanban', 'Work in Progress'
 ---
 
 **Kanban** isn't just a board that you find in JIRA or Trello. It is a method to help improve the flow of work through a system. A kanban board is one way to visualize the work in your system, but use of a board alone will not improve things. Kanban, done as intended, requires discipline and the habit of continuous experimental improvement of the system. (Strangely, it has this in common with all Agile approaches.)
@@ -52,6 +53,3 @@ Kanban is process agnostic. You can use it with Agile or Scrum Teams, but also i
 - [_Making Work Visible: Exposing Time Theft to Optimize Work & Flow_](https://www.amazon.ca/gp/product/B076BYZ6VN/&tag=notesfromatoo-20) - Dominica DeGrandis
 - _[Priming Kanban](https://www.infoq.com/minibooks/priming-kanban-jesper-boeg/)_ – Jesper Boeg - _This mini-book offers an easy to follow 10 step guide to taking the initial plunge and start using Lean Principles to optimizing value and flow in your system. Each step consists of a section explaining “why” followed by examples of specific tools, practices and rules that have helped other teams better understand and optimize their system._
 
-#### See Also:
-
-[Cumulative Flow Diagram](/glossary/cumulative-flow-diagram) [Metrics and Measurement](/glossary/metrics-and-measurement) [Scrum vs. Kanban](/glossary/scrum-vs-kanban) [Work in Progress](/glossary/work-in-progress)

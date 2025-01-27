@@ -1,6 +1,7 @@
 ---
 title: "Lean Software Development"
 date: "2021-04-29"
+relatedTerms: 'Kanban'
 ---
 
 #### Resource Links:
@@ -19,6 +20,3 @@ date: "2021-04-29"
 - [_Lean Thinking: Banish Waste and Create Wealth in Your Corporation, Revised and Updated_](https://www.amazon.com/Lean-Thinking-Corporation-Revised-Updated/dp/0743249275/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – James P. Womack, Daniel T. Jones - the classic Introduction to Lean (as it pertains to manufacturing)
 - [_Critical Chain_](https://www.amazon.com/Critical-Chain-Eliyahu-M-Goldratt/dp/0884271536/&tag=notesfromatoo-20/&tag=notesfromatoo-20) – Eliyahu M. Goldratt 
 
-#### See Also:
-
-[Kanban](/glossary/kanban)
