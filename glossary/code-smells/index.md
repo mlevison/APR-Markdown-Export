@@ -70,6 +70,6 @@ There is also an excellent academic paper accompanying the Github repo, that att
 
 Boolean Flags are so popular they may need additional reference sources to wipe out: [Are Boolean Flags on Methods a Code Smell?](https://ardalis.com/are-boolean-flags-on-methods-a-code-smell/) [Clean code: The curse of a boolean parameter](https://medium.com/@amlcurran/clean-code-the-curse-of-a-boolean-parameter-c237a830b7a3)
 
-See Also:
+#### See Also:
 
 [Technical Debt](/glossary/technical-debt)

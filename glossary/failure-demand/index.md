@@ -13,7 +13,7 @@ Examples: - When John Seddon coined the phrase, he was working with DEC trying t
 
 Seddon (the ideas originator) says to make your measurement a snapshot. Use it to create awareness of the problem, then put the effort into fixing the system, not monitoring.
 
-### Resources:
+#### Resources:
 
 - [Avoidable Contact - Early Paper on Failure Demand](//beyondcommandandcontrol.com/wp-content/uploads/2020/07/ni-14-avoidable-contact.pdf)
 - [A definition of failure demand - for Digital](//medium.com/@stephen.gill/failure-demand-a-definition-471d9c99b81e)
@@ -23,6 +23,6 @@ Seddon (the ideas originator) says to make your measurement a snapshot. Use it t
 - [Failure demand vs Value Demand - Is churn affecting how you deliver value](//medium.com/10x-curiosity/failure-demand-vs-value-demand-bbcbb5811c80)
 - [How Understanding Failure Demand Can Transform Your Product Into a Fit-For-Purpose Value Proposition](//getnave.com/blog/failure-demand/)
 
-### See also:
+#### See also:
 
 [Systems Thinking](/glossary/systems-thinking) [Lean Software Development](/glossary/lean_software_development) [Kanban](/glossary/kanban) [Special Teams](/glossary/special-teams)
