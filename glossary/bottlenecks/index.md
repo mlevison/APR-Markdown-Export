@@ -1,6 +1,7 @@
 ---
 title: "Bottlenecks"
 date: "2023-02-07"
+relatedTerms: 'Theory of Constraints'
 ---
 
 A **bottleneck** is a constraint that slows the delivery of value in our system. That is awfully abstract language, so let’s provide an example from everyday life.
@@ -25,7 +26,3 @@ A Kanban board can be an effective tool in visualizing bottlenecks. _Gentle remi
 - [Strengthen the Weakest Link: Theory of Constraints](https://getnave.com/blog/theory-of-constraints/)
 - [Theory of Constraints (TOC) 3 Bottle Oiled Wheels Demonstration](https://www.youtube.com/watch?v=mWh0cSsNmGY) - Video demonstration
 - [Three Questions to Ask When Figuring Out Software Development Bottlenecks](https://matcha.fyi/questions-for-software-bottlenecks/)
-
-### See Also:
-
-Theory of Constraints

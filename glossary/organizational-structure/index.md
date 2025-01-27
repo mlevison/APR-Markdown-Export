@@ -20,7 +20,7 @@ There is a famous set of videos showing how Spotify organized nearly ten years a
 
 Warning: many articles in this area are written by the same companies that were providing advice on Org Structure before Agile showed up. Take their advice with a grain of salt. Also, if someone recommends using the Spotify model, run screaming from the room.
 
-### Resources:
+#### Resources:
 
 - [Don’t Reorganize: Run Your Firm As An Agile Network](https://www.forbes.com/sites/stevedenning/2020/06/07/dont-reorganize-run-your-firm-as-an-agile-network/?sh=1f4d6d441ff6)
 - [Principles To Guide Your Agile Organizational Design](https://agilebydesign.com/blog/design-principles-to-guide-your-agile-organizational-design/)
@@ -35,6 +35,6 @@ Warning: many articles in this area are written by the same companies that were 
 - [_Organizing Toward Agility_](https://leanpub.com/agileorganizationdesign) - by Jeff Anderson
 - _[Organization Design: Simplifying complex systems](https://www.amazon.ca/Organization-Design-Simplifying-complex-systems/dp/1138502863/&tag=notesfromatoo-20)_ - by Worren, Nicolay
 
-### See also:
+#### See Also:
 
 Culture Change Managers in Scrum Scaled Agile Framework Scaling and Large Teams

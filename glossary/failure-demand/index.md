@@ -23,6 +23,6 @@ Seddon (the ideas originator) says to make your measurement a snapshot. Use it t
 - [Failure demand vs Value Demand - Is churn affecting how you deliver value](//medium.com/10x-curiosity/failure-demand-vs-value-demand-bbcbb5811c80)
 - [How Understanding Failure Demand Can Transform Your Product Into a Fit-For-Purpose Value Proposition](//getnave.com/blog/failure-demand/)
 
-#### See also:
+#### See Also:
 
 [Systems Thinking](/glossary/systems-thinking) [Lean Software Development](/glossary/lean_software_development) [Kanban](/glossary/kanban) [Special Teams](/glossary/special-teams)

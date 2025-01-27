@@ -38,6 +38,6 @@ I suggest part of the challenge is that an Agile coach needs to take on many sta
 - [Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition](https://www.amazon.ca/Coaching-Agile-Teams-ScrumMasters-Transition/dp/0321637704/&tag=notesfromatoo-20) - Lyssa Adkins
 - [Solution-focused coaching for agile teams: A guide to collaborative leadership](https://www.amazon.ca/Solution-focused-coaching-agile-teams-collaborative-ebook/dp/B09JT4LQT6/&tag=notesfromatoo-20) - Veronika Jungwirth, Dr. Ralph Miarka
 
-#### See also:
+#### See Also:
 
 [Facilitation](/glossary/facilitation)
