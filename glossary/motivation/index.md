@@ -7,9 +7,9 @@ Traditional approaches in the workplace assume that there is a strong linkage be
 
 Below are resources that will point you in the right direction.  My advice to improving motivation and enagement in team members goes roughly like this:
 
-1. Look for demotivators in your environment and clear those away. Otherwise other efforts will have little effect. Hint: if you're stuck, use [Systems Thinking](/glossary/systems-thinking)  as a lens. You're aiming for No Dissatisfaction, so you aren't pushing a rock uphill in an avalanche.
+1. Look for demotivators in your environment and clear those away. Otherwise other efforts will have little effect. Hint: if you're stuck, use Systems Thinking  as a lens. You're aiming for No Dissatisfaction, so you aren't pushing a rock uphill in an avalanche.
 2. Look for opportunities to turn No Satisfaction into Satisfaction. We're talking about what research shows actually motivates: autonomy, mastery, purpose, recognition, etc.
-3. Conduct one-on-ones on a regular basis with team members. Research will point you in the right general direction, but everyone is unique. Everyone wants to know they have a voice. [Make a safe place for your team](/glossary/psychological-safety) to be honest, then ask them what they need to feel motivated, and _listen_ when they tell you.
+3. Conduct one-on-ones on a regular basis with team members. Research will point you in the right general direction, but everyone is unique. Everyone wants to know they have a voice. Make a safe place for your team to be honest, then ask them what they need to feel motivated, and _listen_ when they tell you.
 
 #### Resource Links:
 

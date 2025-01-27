@@ -3,9 +3,9 @@ title: "Sprint Retrospective"
 date: "2021-03-26"
 ---
 
-[![The Guide to Effective Agile Retrospectives Infographic by Mark Levison Agile Pain Relief](images/The-Guide-to-Effective-Agile-Retrospectives-infographic-v1-1-1-scaled.jpg)](/guide-to-effective-agile-retrospectives)The **Sprint Retrospective** is an event at the end of the [Sprint](/glossary/sprint) where the Scrum Team reflects on all that happened in that period, with the intention to improve how they work in the next Sprint.
+![The Guide to Effective Agile Retrospectives Infographic by Mark Levison Agile Pain Relief](images/The-Guide-to-Effective-Agile-Retrospectives-infographic-v1-1-1-scaled.jpg)](/guide-to-effective-agile-retrospectives)The **Sprint Retrospective** is an event at the end of the [Sprint where the Scrum Team reflects on all that happened in that period, with the intention to improve how they work in the next Sprint.
 
-Sprint Review and Retrospective are often confused. The [Sprint Review](/glossary/sprint-review) is focused on the Product, Product Improvement, and feedback from Stakeholders/Customers. The Retrospective is focused on improving the team, their process and approach to the work.
+Sprint Review and Retrospective are often confused. The Sprint Review is focused on the Product, Product Improvement, and feedback from Stakeholders/Customers. The Retrospective is focused on improving the team, their process and approach to the work.
 
 **[_The Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives) by Mark Levison - get the free eBook and email learning series [here](/guide-to-effective-agile-retrospectives)**
 

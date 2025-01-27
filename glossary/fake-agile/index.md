@@ -9,7 +9,7 @@ Agile's success is also its Achilles heel. Everyone wants to **do** Agile, but n
 - Agile means no testing
 - Focus on Output measurement (hello velocity) and not Outcomes (value to happy customers)
 - Low communication
-- No [Engineering Practice](/glossary/agile-engineering-practices)
+- No Engineering Practice
 - Slow rate of improvement
 - Saying 'yes' to all requests from stakeholders
 - ...

@@ -5,9 +5,9 @@ date: "2022-09-28"
 
 **10 Minute Build** is the idea that we should be able to build a system and run its test suites in 10 minutes or less. Fast build-and-test provides quicker feedback to the developers who wrote the code. It allows them to move on to the next thing - a new feature or improving the current one. Fast builds allow for multiple check-ins per person/pair a day, which in turn makes small check-ins practical. These smaller check-ins reduce the risk of team members stepping on each other's virtual toes and, with a bit of practice, allow them to develop a rhythm that results in continuous small improvements.
 
-Fast builds are a stepping stone for [Continuous Integration](/glossary/continuous-integration) and [Continuous Delivery](/glossary/continuous-delivery).
+Fast builds are a stepping stone for Continuous Integration and Continuous Delivery.
 
-In comparison, when builds are slow, Developers wander off to do new things while waiting (See: [Multitasking](/glossary/multitasking)), which results in increased cost to go back and fix defects when they're found later in the build, especially since longer builds are run less often so it will take longer to find errors.
+In comparison, when builds are slow, Developers wander off to do new things while waiting (See: Multitasking), which results in increased cost to go back and fix defects when they're found later in the build, especially since longer builds are run less often so it will take longer to find errors.
 
 #### Resources:
 

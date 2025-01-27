@@ -3,7 +3,7 @@ title: "Improvement Experiments"
 date: "2021-05-10"
 ---
 
-Agile teams attempt to use Retrospectives as a tool for Team Improvement. Yet our improvements often lead nowhere. Consider making your improvements into concrete actions, or even full-blown experiments, and adding them to the [Sprint Backlog](/glossary/sprint-backlog).
+Agile teams attempt to use Retrospectives as a tool for Team Improvement. Yet our improvements often lead nowhere. Consider making your improvements into concrete actions, or even full-blown experiments, and adding them to the Sprint Backlog.
 
 This is at the core of our eBook: [_The Guide to Effective Agile Retrospecti_ves](/guide-to-effective-agile-retrospectives) - hint: plan your improvements into the Sprint, track them on the Sprint Backlog, and review them in the next Retrospective.
 

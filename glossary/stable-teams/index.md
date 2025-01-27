@@ -3,7 +3,7 @@ title: "Stable Teams"
 date: "2021-03-26"
 ---
 
-**A stable team** is one in which team membership doesn’t change often and, instead, is consistent over time.  When team membership changes every few months, teams (Scrum, Kanban, XP or otherwise) struggle to: create [Psychological Safety](/glossary/psychological-safety), maintain Predictability, stay focused on [Product Vision](/glossary/vision), and grow their capability to Deliver. _Stable teams isn't a requirement of Scrum or Kanban, but its absence causes great harm._
+**A stable team** is one in which team membership doesn’t change often and, instead, is consistent over time.  When team membership changes every few months, teams (Scrum, Kanban, XP or otherwise) struggle to: create Psychological Safety, maintain Predictability, stay focused on Product Vision, and grow their capability to Deliver. _Stable teams isn't a requirement of Scrum or Kanban, but its absence causes great harm._
 
 Read: [In Agile, Where Change is Valued, Why Is a Stable Team So Important?](/blog/in-agile-where-change-is-valued-why-is-a-stable-team-so-important.html)
 

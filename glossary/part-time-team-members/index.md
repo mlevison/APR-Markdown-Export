@@ -16,7 +16,7 @@ But let's be clear from the beginning about some costs of having part-time team 
 
 If you have an [expert](/blog/specialists-are-overrated.html) whose skills are essential, it might be tempting to just split them over, for example, three teams giving each team 33% of their time, but the costs are high. They may be worth paying, but the choice shouldn’t be made lightly.
 
-If a team needs this skill for the long term, then we should look into [Cross-Skilling](/glossary/cross-skilling). In this case, the expert would move from being an individual contributor to helping someone in the team learn the rudiments of the skill. Over the course of enough Sprints, our regular team member will move from having little knowledge, to being able to do the work without outside help. Our part-timer, meanwhile, will move from doing the work, to reviewing the quality of the work.
+If a team needs this skill for the long term, then we should look into Cross-Skilling. In this case, the expert would move from being an individual contributor to helping someone in the team learn the rudiments of the skill. Over the course of enough Sprints, our regular team member will move from having little knowledge, to being able to do the work without outside help. Our part-timer, meanwhile, will move from doing the work, to reviewing the quality of the work.
 
 [Scrum Development Team - Who is in it?](/blog/scrum-development-team-whos-in-it.html)
 

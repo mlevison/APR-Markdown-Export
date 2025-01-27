@@ -11,7 +11,7 @@ When people are given the opportunity to form **self-selecting teams**, we gain 
 
 ## The Power of Autonomy and Reducing Resistance
 
-Autonomy is at the centre of all the human [motivational models](/glossary/motivation) we recommend: [SCARF](/glossary/scarf-model), [ARC](/glossary/arc-motivational-model), AMP. Self -selection gives team members more of their autonomy back.
+Autonomy is at the centre of all the human motivational models we recommend: SCARF, ARC, AMP. Self -selection gives team members more of their autonomy back.
 
 When team members choose their teams, they naturally align with roles and projects that complement their competencies and interests. This liberty doesn’t just create a dynamic work environment, but it also breeds motivation and engagement, driving innovation and productivity.
 

@@ -3,11 +3,11 @@ title: "Test Driven Development [TDD]"
 date: "2021-04-23"
 ---
 
-**Test Driven Development (TDD)** is the [engineering practice](/glossary/agile-engineering-practices) where the developer writes their [Unit Test](/glossary/unit-testing) case before they write their code. Like Unit Testing, it is not a replacement for Exploratory Testing nor will Testers be unemployed. Instead, it forces a Developer to declare their intentions before they start to write the code. By declaring their intentions in a testable form first, they’re forced to take time and reflect more carefully on what they’re trying to achieve. As a side effect, developers write code that is simpler and more readable. In addition, code that is written “Test First” tends to be better isolated from other classes and methods because the developer was challenged to minimize dependencies to make it easier to test.
+**Test Driven Development (TDD)** is the engineering practice where the developer writes their Unit Test case before they write their code. Like Unit Testing, it is not a replacement for Exploratory Testing nor will Testers be unemployed. Instead, it forces a Developer to declare their intentions before they start to write the code. By declaring their intentions in a testable form first, they’re forced to take time and reflect more carefully on what they’re trying to achieve. As a side effect, developers write code that is simpler and more readable. In addition, code that is written “Test First” tends to be better isolated from other classes and methods because the developer was challenged to minimize dependencies to make it easier to test.
 
 It is a practice or discipline that is used inside other Agile processes (Scrum, XP, Kanban etc.), however it isn't a process itself. TDD is an excellent technique, however it has limits. It works by ensuring the developer built what they intended, and by reducing complexity. Reducing complexity reduces defects. However, TDD doesn't prove that the code does what the _user_ expected, just what the _developer_ expected.
 
-[Test Driven Development versus Behaviour Driven Development](/glossary/tdd-vs-bdd) [Misconceptions with Test Driven Development](/blog/misconceptions-with-test-driven-development.html)
+Test Driven Development versus Behaviour Driven Development [Misconceptions with Test Driven Development](/blog/misconceptions-with-test-driven-development.html)
 
 #### Resource Links:
 

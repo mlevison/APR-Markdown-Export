@@ -16,13 +16,13 @@ Get people to put a number on a note and collect them **anonymously**. Share the
 
 If the results are high 4s and 5s, acknowledge that and move on with your plan. If the results are medium 3s and 4s – perhaps one 2 – comment on the safety level and point out that silence in any activity is okay. If the results are low with any 1 or multiple 2s, then we would want to turn the retrospective toward nourishing Psychological Safety since it is clearly low in the group.
 
-### Resource Links
+#### Resource Links
 
 - [Retrospectives don't need a Safety Check](https://www.linkedin.com/pulse/retrospectives-dont-need-safety-check-vishal-prasad/)
 - [Safety Check](https://www.funretrospectives.com/safety-check/)
 - [Safety Check Team Radar](https://www.retrium.com/retrospective-techniques/safety-check-team-radar)
 - [Team Safety Check Retrospective - Building Psychological Safety](https://www.andycleff.com/2018/02/team-safety-check-retrospective/)
 
-### See Also:
+#### See Also:
 
 [Sprint Retrospective](/glossary/sprint-retrospective) [Psychological Safety](/glossary/psychological-safety)

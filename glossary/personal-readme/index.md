@@ -29,6 +29,6 @@ _Are they needed? No. Are they fun? Yes. Do they give an avenue to sharing a bit
 - [shawinnes.com/personal-readme/](https://shawinnes.com/personal-readme/)
 - [Working with Brendan Best: A Manual](https://www.rocketsurgery.ca/static/media/brendan-best/Brendan%20Best%20Manual%20aka%20Working%20With%20Me.PDF)
 
-#### See also:
+#### See Also:
 
 [Working Agreements](/glossary/working-agreements)

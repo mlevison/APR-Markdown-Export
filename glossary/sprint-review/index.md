@@ -3,9 +3,9 @@ title: "Sprint Review"
 date: "2021-03-26"
 ---
 
-**Sprint Review** is an event at the end of the [Sprint](/glossary/sprint) where the Scrum Team review the completed work with stakeholders. Stakeholders provide feedback on the completed work and ideas for product improvements. The [Product Backlog](/glossary/product-backlog) will get updated during future refinement to reflect what everyone learned.
+**Sprint Review** is an event at the end of the Sprint where the Scrum Team review the completed work with stakeholders. Stakeholders provide feedback on the completed work and ideas for product improvements. The Product Backlog will get updated during future refinement to reflect what everyone learned.
 
-Sprint Review and Retrospective are often confused. The Review is focused on the Product, Product Improvement, and feedback from Stakeholders/Customers. The [Retrospective](/glossary/sprint-retrospective) is focused on improving the team, their process and approach to the work.
+Sprint Review and Retrospective are often confused. The Review is focused on the Product, Product Improvement, and feedback from Stakeholders/Customers. The Retrospective is focused on improving the team, their process and approach to the work.
 
 **Resources:**
 

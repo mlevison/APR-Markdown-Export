@@ -5,7 +5,7 @@ date: "2021-04-23"
 
 When a team has a product that is live in the field, they need a pattern to handle the support issues that come up, so that the critical defects get fixed rapidly and the team is still able to focus on delivering value.
 
-Hint: creating a separate team to handle fixing defects is an anti-pattern - see: [Special Teams](/glossary/special-teams)
+Hint: creating a separate team to handle fixing defects is an anti-pattern - see: Special Teams
 
 [Scrum by Example – How to Handle Production Support Issues in Scrum](/blog/scrum-production-support.html)
 

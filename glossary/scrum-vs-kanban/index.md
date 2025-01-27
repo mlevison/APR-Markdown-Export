@@ -3,7 +3,7 @@ title: "Scrum vs Kanban"
 date: "2021-07-07"
 ---
 
-[**Scrum**](/glossary/scrum) is a tool that organizes a team to deliver value to a customer. Along the way, the team is expected to improve the product and also the way they work together. [**Kanban**](/glossary/kanban) is a tool to improve the flow of work through your existing process. As a famous ad from the '70s suggested, they work better together.
+**Scrum** is a tool that organizes a team to deliver value to a customer. Along the way, the team is expected to improve the product and also the way they work together. **Kanban** is a tool to improve the flow of work through your existing process. As a famous ad from the '70s suggested, they work better together.
 
 Scrum doesn't solve all problems: see [Limits of Scrum](/blog/what-are-the-limits-of-the-scrum-framework.html). It's most effective when it's used to build a team that learns to deliver value. Scrum is a revolutionary change, often radically different from the past way of working, which can be good since breaking old habits can sometimes form better habits.
 

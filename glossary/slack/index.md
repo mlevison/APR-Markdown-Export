@@ -7,7 +7,7 @@ date: "2021-07-26"
 
 ![](images/healthy-sprint-small.jpg)
 
-Slack time can be used as buffer to deal with unexpected problems, issues, etc (see: [Production Support](/glossary/production-support)) and Slack time is also for learning. Problems ensue when the Slack time for learning gets taken over by issues and problems.
+Slack time can be used as buffer to deal with unexpected problems, issues, etc (see: Production Support) and Slack time is also for learning. Problems ensue when the Slack time for learning gets taken over by issues and problems.
 
 In the Agile world, some approaches, like Scaled Agile, conflate both kinds of slack by lumping unexpected problems and learning time into the same bucket. This means Learning Time gets the short end of the stick.
 

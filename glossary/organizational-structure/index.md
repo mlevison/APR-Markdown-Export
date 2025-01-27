@@ -37,4 +37,4 @@ Warning: many articles in this area are written by the same companies that were 
 
 ### See also:
 
-Culture Change Managers in Scrum [Scaled Agile Framework](/glossary/safe-scaled-agile-framework) [Scaling and Large Teams](/glossary/scaling)
+Culture Change Managers in Scrum Scaled Agile Framework Scaling and Large Teams

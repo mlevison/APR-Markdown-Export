@@ -16,7 +16,7 @@ When individual busyness increases, a team suffers a number of problems: \[capti
 - **There is minimal, or no, improvement.** Process Improvement and learning requires time for reflection, experimentation and learning. A focus on busyness, doesn't leave room for improvement.
 - Dealing with innovation and complexity requires slack. The slack is used by team members to adapt as the work evolves. Complex problems and innovation require dealing with a large amount of uncertainty. Without room to manoeuvre, **teams generally stop innovating altogether.**
 
-Organizations that focus on utilization and busyness are not resilient. These groups struggle to adapt when faced with change. The problem is often further compounded by violating the core constraint of Scrum that says team members can be a member of only one team. (See [Part-time Team Members](/glossary/part-time-team-members) for more, including suggestions on how to handle experts.)
+Organizations that focus on utilization and busyness are not resilient. These groups struggle to adapt when faced with change. The problem is often further compounded by violating the core constraint of Scrum that says team members can be a member of only one team. (See Part-time Team Members for more, including suggestions on how to handle experts.)
 
 "When you focus on keeping people busy, what you get is a bunch of busy people" - Henrik Kniberg
 

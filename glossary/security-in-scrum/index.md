@@ -11,15 +11,15 @@ People have tried different approaches over time, with varying degrees of succes
 
 - Fix security issues as defects after the implementation
 - [Hardening Sprints](/blog/antipattern-hardening-sprint.html) (which is just a formal version of fixing security issues later)
-- [Special Teams](/glossary/special-teams) - where the special team take care of the security work. Like all special teams in a Agile world, this team will likely become the bottleneck to frequent releases.
+- Special Teams - where the special team take care of the security work. Like all special teams in a Agile world, this team will likely become the bottleneck to frequent releases.
 
 **Try:**
 
 - Special Team members/experts become advisers or coaches to teams trying to improve the security of their feature work. _This scales better than a special team, because we're spreading the knowledge over more people._
 - Automate - for classes of problems that come up repeatedly, use automated tools to spot the problems. _This is not a panacea, it merely reduces the load so that the experts can focus on more important work._ 
-- [Definition of Done](/glossary/definition-of-done) - Add the security requirements to Done. Now development team members are expected to check the specific requirement every time they declare an item as Done. _Works well with automation, and experts become advisers._
-- Acceptance Criteria - when team members meet to discuss other acceptance criteria (hint: [BDD](/glossary/behaviour-driven-development)), they also review their Definition of Done, they're reminded of security requirements. Based on this conversation, they write the acceptance criteria for that feature.
-- Separate [Product Backlog Items](/glossary/product-backlog) - if some security needs are large enough, they might become their own Product Backlog Item. _Caveat: the risk here is that product can't be released until key security features are implemented, contravening the Agile principle of "__Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."_
+- Definition of Done - Add the security requirements to Done. Now development team members are expected to check the specific requirement every time they declare an item as Done. _Works well with automation, and experts become advisers._
+- Acceptance Criteria - when team members meet to discuss other acceptance criteria (hint: BDD), they also review their Definition of Done, they're reminded of security requirements. Based on this conversation, they write the acceptance criteria for that feature.
+- Separate Product Backlog Items - if some security needs are large enough, they might become their own Product Backlog Item. _Caveat: the risk here is that product can't be released until key security features are implemented, contravening the Agile principle of "__Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."_
 - Build into all Scrum events - ask questions that relate to security in Sprint Planning; Sprint Review; Sprint Retrospective and Daily Scrum.
 
 Everything mentioned about security is also applicable to any highly-regulated environment where the team are required to meet a compliance goal.

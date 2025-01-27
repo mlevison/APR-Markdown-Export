@@ -7,7 +7,7 @@ If Pair Programming is two people working together on a single problem at the sa
 
 Most teams discover Swarming as they approach the end of the Sprint with multiple Sprint Backlog Items in progress. If it's clear that not all items will get to 'Done', they start to swarm one or two items at a time to complete them.
 
-More effective teams learn to swarm _all_ items, so a team of six people might only have two items in progress at one time. Each item gets worked on by several people collaboratively until it gets to 'Done'. Beware, Swarming is often a gateway drug to [Ensemble Programming](/glossary/ensemble-programming).
+More effective teams learn to swarm _all_ items, so a team of six people might only have two items in progress at one time. Each item gets worked on by several people collaboratively until it gets to 'Done'. Beware, Swarming is often a gateway drug to Ensemble Programming.
 
 [Scrum by Example – Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html) - Swarming would have helped, just a bit. [Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html) - the classic example that should lead to a team discovering Swarming.
 

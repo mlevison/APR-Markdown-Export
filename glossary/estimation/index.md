@@ -15,7 +15,7 @@ Commonly used estimation techniques:
 - Bucketing, which is where a team sort a large number of Product Backlog Items into clusters using numbers that look like story points _\- Good for sorting through a large list of items._
 - T-Shirt Sizing, where the story point numbers are replaced by Small, Medium and Large. _Anything classified as Medium or larger needs to be split before being worked on in a Sprint._
 - Simply count the number of product backlog items. If the Product Backlog contains a number of large items, notice on average how many small items they decompose to. Use that as a rough multiplier to go from large to small.
-- Abandon estimation and focus on [Forecasting](/glossary/forecasting) instead.
+- Abandon estimation and focus on Forecasting instead.
 
 [Blind Estimation for Planning Poker](/blog/blind-estimation-planning-poker.html) [Scrum By Example: Learning How to Estimate](/blog/scrummaster-tales-learning-how-to-estimate.html)
 

@@ -3,7 +3,7 @@ title: "Sprint Length"
 date: "2021-03-26"
 ---
 
-The ScrumGuide says that [Sprints](/glossary/sprint) "are fixed length events of one month or less to create consistency" and "When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame."
+The ScrumGuide says that Sprints "are fixed length events of one month or less to create consistency" and "When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame."
 
 That's useful but incomplete. What is too long? What is too short? Where do most teams start?
 

@@ -3,7 +3,7 @@ title: "Sprint Planning"
 date: "2021-03-26"
 ---
 
-**Sprint Planning** is an event at the beginning of a [Sprint](/glossary/sprint) where the Team plans the items they can complete in the next Sprint. They also craft a Goal to act as a focus for their work. Sprint Planning consists of three parts: Setting the [Sprint Goal](/glossary/sprint-goal); [Forecasting](/glossary/forecasting) which Work Items the Team will achieve towards the Goal; Deciding how to do the Work. _Hint from painful personal experience - the leading cause of poor Sprint Planning is inadequate [Product Backlog Refinement](/glossary/product-backlog-refinement)._
+**Sprint Planning** is an event at the beginning of a Sprint where the Team plans the items they can complete in the next Sprint. They also craft a Goal to act as a focus for their work. Sprint Planning consists of three parts: Setting the Sprint Goal; Forecasting which Work Items the Team will achieve towards the Goal; Deciding how to do the Work. _Hint from painful personal experience - the leading cause of poor Sprint Planning is inadequate Product Backlog Refinement._
 
 [Sprint Goals Provide Purpose](/blog/sprint-goals-provide-purpose.html) [Basic Explanation of the Different Parts of Agile Planning](/blog/basic-explanation-of-the-different-parts-of-agile-planning.html) [Scrum by Example - How Sprint Planning Mistakes Can Derail a Team](/blog/how-sprint-planning-mistakes-can-derail-a-team.html)
 

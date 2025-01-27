@@ -5,7 +5,7 @@ date: "2022-09-30"
 
 **MVP or Minimum Viable Product** is often misunderstood, and confused with MCF - Minimum Crappy Feature. Where MCF is the minimum version of a product or feature that a customer could live with, Minimum Viable Product is intended to focus on the team learning from customer use of their feature/experiment.
 
-Eric Ries (creator of the [Lean Startup](/glossary/lean-startup) concept), defined it as "that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort." So it's not about sales, it's about understanding what the customer needs.
+Eric Ries (creator of the Lean Startup concept), defined it as "that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort." So it's not about sales, it's about understanding what the customer needs.
 
 Many groups ignore the key points of an MVP: - It is instrumented to gather data - e.g. what actions does the user take? - It is designed for learning and is not the final version of the feature, just one we can learn from. - The experiments don't need to be large or even involve writing code.
 

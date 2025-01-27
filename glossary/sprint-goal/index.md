@@ -3,7 +3,7 @@ title: "Sprint Goal"
 date: "2021-03-26"
 ---
 
-**Sprint Goal** is a single product objective shared by the [Scrum Team](/glossary/scrum-team) that describes the purpose of the Sprint and ensures that everyone moves in the same direction. A simply-stated goal makes it easier to prioritize [Product Backlog](/glossary/product-backlog) Items, assess whether tests and feedback are relevant to the goal, and summarize the work currently being done when asked by stakeholders. _Sprint Goals are hard and not well understood. As a result, many teams skip or avoid them, but this is a missed opportunity._
+**Sprint Goal** is a single product objective shared by the Scrum Team that describes the purpose of the Sprint and ensures that everyone moves in the same direction. A simply-stated goal makes it easier to prioritize Product Backlog Items, assess whether tests and feedback are relevant to the goal, and summarize the work currently being done when asked by stakeholders. _Sprint Goals are hard and not well understood. As a result, many teams skip or avoid them, but this is a missed opportunity._
 
 A Sprint Goal isn't imposed on the team by the Product Owner. Rather, the PO explains what business objective they're attempting to meet then the team work with the Product Owner to describe what is feasible. So the Sprint Goal is something that is created through negotiation. Since all team members are participating in setting the Sprint Goal, they have a greater sense of ownership and purpose during the Sprint.
 

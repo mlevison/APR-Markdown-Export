@@ -7,7 +7,7 @@ A **bottleneck** is a constraint that slows the delivery of value in our system.
 
 In the morning, you’re driving to work on a highway. Traffic slows down for no apparent reason. You’re looking for the accident, but can’t find one. You emerge from the other side and traffic speeds up. You’ve just been through a bottleneck.
 
-As the [Theory of Constraints](/glossary/theory-of-constraints) shows, nothing we do to either side of the bottleneck affects the throughput of the system. Let’s consider the morning commute again. If we speed up the rate at which cars arrive at the bottleneck, all we’ve done is increased the size of the queue in front of the bottleneck. If we increase the speed of the cars after they leave the bottleneck, we get only marginal improvements in the rate at which they get to work.
+As the Theory of Constraints shows, nothing we do to either side of the bottleneck affects the throughput of the system. Let’s consider the morning commute again. If we speed up the rate at which cars arrive at the bottleneck, all we’ve done is increased the size of the queue in front of the bottleneck. If we increase the speed of the cars after they leave the bottleneck, we get only marginal improvements in the rate at which they get to work.
 
 In the world of work, one way we find bottlenecks is by looking where there is work stacking up in front of a work station. For example, in many teams the developers are churning out features and they start stacking up in front of [Quality Assurance](https://agilepainrelief.com/glossary/quality-assurance-in-scrum). In this case the QA is the bottleneck. Either there aren’t enough people to do the work expected of them, or the way the work is being done is inefficient. Since most organizations don’t have an infinite supply of money to hire more people, then either people [cross-skill](https://agilepainrelief.com/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) to help with QA or they find more effective ways of working (hint: start testing earlier in the process with either Behaviour Driven Development and/or Ensemble Programming).
 
@@ -28,4 +28,4 @@ A Kanban board can be an effective tool in visualizing bottlenecks. _Gentle remi
 
 ### See Also:
 
-[Theory of Constraints](/glossary/theory-of-constraints)
+Theory of Constraints

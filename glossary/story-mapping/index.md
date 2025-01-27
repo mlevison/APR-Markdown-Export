@@ -5,7 +5,7 @@ date: "2021-04-22"
 
 A **Story Map** is a way to help visualize the flow or story of a product. Across the top or horizontal axis of the map we place the major steps (often features) in the user's workflow. Underneath each step or feature are the individual stories that would build out the portion of the product.
 
-Story Maps were invented because their creator Jeff Patton was frustrated with "flat" Product Backlogs that lost track of the Product Vision. People use Story Maps as a stepping stone from Vision to User Stories, they're also used to help sort out and recover from a messy [Large Product Backlog](/glossary/product-backlog).
+Story Maps were invented because their creator Jeff Patton was frustrated with "flat" Product Backlogs that lost track of the Product Vision. People use Story Maps as a stepping stone from Vision to User Stories, they're also used to help sort out and recover from a messy Large Product Backlog.
 
 [Learning Story Mapping Through Exercises](/blog/learning-story-mapping-exercises.html)
 

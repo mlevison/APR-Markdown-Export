@@ -5,9 +5,9 @@ date: "2021-03-23"
 
 The **Scrum Team** is all of the people needed to get the product built and into the customer’s hands:
 
-- [ScrumMaster](/glossary/scrummaster-role), who helps the team grow capacity to deliver value
-- [Product Owner](/glossary/product-owner-role), who manages the vision for what they will be creating
-- [Developers](/glossary/developers), who are the cross-functional group of people who will build the Product (e.g. in software development this group usually includes programmers, business analysts, quality assurance, user experience and more).
+- ScrumMaster, who helps the team grow capacity to deliver value
+- Product Owner, who manages the vision for what they will be creating
+- Developers, who are the cross-functional group of people who will build the Product (e.g. in software development this group usually includes programmers, business analysts, quality assurance, user experience and more).
 
 [Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team.html)
 

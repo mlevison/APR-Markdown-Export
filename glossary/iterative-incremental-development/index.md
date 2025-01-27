@@ -3,7 +3,7 @@ title: "Iterative and Incremental Development"
 date: "2021-07-27"
 ---
 
-**Iterative and Incremental Development** is fancy language for working in cycles and always releasing a version of the product at the end of a cycle. In Scrum that cycle is called a Sprint and the increment is expected to have releasable quality. This is done as designed Scrum Teams produce releasable quality products at the end of every Sprint. More advanced teams discover [Continuous Delivery and Deployment](/glossary/continuous-delivery), and the best teams discover [DevOps](/glossary/devops).
+**Iterative and Incremental Development** is fancy language for working in cycles and always releasing a version of the product at the end of a cycle. In Scrum that cycle is called a Sprint and the increment is expected to have releasable quality. This is done as designed Scrum Teams produce releasable quality products at the end of every Sprint. More advanced teams discover Continuous Delivery and Deployment, and the best teams discover DevOps.
 
 #### Resource Links:
 
