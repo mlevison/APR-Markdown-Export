@@ -1,6 +1,7 @@
 ---
 title: "Testing"
 date: "2022-09-29"
+relatedTerms: 'Unit Testing'
 ---
 
 **Agile Testing** is "collaborative testing practices that occur continuously, from inception to delivery and beyond, supporting frequent delivery of value for our customers. Testing activities focus on building quality into the product, using fast feedback loops to validate our understanding. The practices strengthen and support the idea of whole-team responsibility for quality." - Lisa Crispin and Janet Gregory in _Agile Testing Condensed_.
@@ -71,6 +72,3 @@ _No separate role - rather a need that a self organizing team needs to fulfill. 
 - [_Agile Testing Condensed_](https://leanpub.com/agiletesting-condensed) by Janet Gregory and Lisa Crispin - Summarizes their first two books in a way that makes Agile Testing accessible to all team members.
 - [_Explore It! Reduce Risk and Increase Confidence with Exploratory Testing_](https://pragprog.com/titles/ehxta/explore-it/) by Elisabeth Hendrickson - Provides depth on the oft-ignored subject of testing beyond the automation.
 
-#### See Also:
-
-[Unit Testing](/glossary/unit-testing) Note: Unit testing is developer-level activity. It doesn't test if your code meets the customer's needs. It tests whether or not your code meets your expectations. If your intentions were incorrect when you wrote the Unit Tests, then the test cases will prove that.

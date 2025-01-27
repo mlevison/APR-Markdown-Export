@@ -1,6 +1,7 @@
 ---
 title: "Failure Demand"
 date: "2022-07-07"
+relatedTerms: 'Systems Thinking', 'Lean Software Development', 'Kanban', 'Special Teams'
 ---
 
 "**Failure demand** is demand caused by a failure to do something or do something right for the customer." - John Seddon 2009
@@ -23,6 +24,3 @@ Seddon (the ideas originator) says to make your measurement a snapshot. Use it t
 - [Failure demand vs Value Demand - Is churn affecting how you deliver value](//medium.com/10x-curiosity/failure-demand-vs-value-demand-bbcbb5811c80)
 - [How Understanding Failure Demand Can Transform Your Product Into a Fit-For-Purpose Value Proposition](//getnave.com/blog/failure-demand/)
 
-#### See Also:
-
-[Systems Thinking](/glossary/systems-thinking) [Lean Software Development](/glossary/lean_software_development) [Kanban](/glossary/kanban) [Special Teams](/glossary/special-teams)
