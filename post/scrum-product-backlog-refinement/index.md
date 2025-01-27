@@ -16,7 +16,7 @@ tags:
 coverImage: "AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_B_v1.png"
 ---
 
-_In Scrum, [**Product Backlog Refinement**](/glossary/product-backlog-refinement) is an essential meeting of the Product Owner and the Development Team to gain clarity and a shared understanding of what needs to be done through discussion and sharing of ideas. The following is a guide example of how to run an effective Product Backlog Refinement meeting. We know that many people learn more effectively by example, so the story comes first, using our fictional World’s Smallest Online Bookstore (WSOBS) Scrum team. If you’re in a rush and just need a clear definition and facilitation trick, scroll to the end, or review the general information in the framed areas._
+_In Scrum, **Product Backlog Refinement** is an essential meeting of the Product Owner and the Development Team to gain clarity and a shared understanding of what needs to be done through discussion and sharing of ideas. The following is a guide example of how to run an effective Product Backlog Refinement meeting. We know that many people learn more effectively by example, so the story comes first, using our fictional World’s Smallest Online Bookstore (WSOBS) Scrum team. If you’re in a rush and just need a clear definition and facilitation trick, scroll to the end, or review the general information in the framed areas._
 
 **Dramatis Personae:** Steve – a ScrumMaster and the hero of our story Paula – the Product Owner of Steve’s team
 

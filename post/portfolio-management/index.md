@@ -24,11 +24,11 @@ In many organizations, we see common challenges:
 - People/Teams working on multiple unrelated items at the same time
 - A focus on Projects and a traditional project staffing model, instead of stable teams
 - Stakeholders making demands that don't fit the product vision or strategy
-- Stakeholders asking for new features without consideration for what is already planned I frequently tell people that [Portfolio Management](/glossary/portfolio-management) can help solve these problems, but what does that really mean? Let me help break it down.
+- Stakeholders asking for new features without consideration for what is already planned I frequently tell people that Portfolio Management can help solve these problems, but what does that really mean? Let me help break it down.
 
 ## Principles of Portfolio Management
 
-Portfolio Management in Scrum (or Kanban) aims to ensure that the team(s) are always working on the highest priority work without pressure that dilutes their focus from a manageable goal.  This is particularly critical if they are being asked to work in multiple teams or on unrelated projects. **Without [Stable, Focused Teams](/glossary/stable-teams), there is no predictability in the system.** 
+Portfolio Management in Scrum (or Kanban) aims to ensure that the team(s) are always working on the highest priority work without pressure that dilutes their focus from a manageable goal.  This is particularly critical if they are being asked to work in multiple teams or on unrelated projects. **Without Stable, Focused Teams, there is no predictability in the system.** 
 
 Agile Portfolio Management is the art of deciding which big picture items the business wants its Scrum Teams to invest in over the next few months, so a Product Owner can understand the priorities and the Team can work on them in appropriate order.
 
@@ -47,7 +47,7 @@ But when the number of teams becomes too large for informal coordination to be s
 - Creating Options, not Contracts – Traditional Portfolio Management emphasizes Predictability and Forecasts, but our world now has shorter time horizons and increased Complexity, so focus instead on creating options.
 - Allowing for agility and slack (spare capacity) – If a team or person isn’t busy with the highest priority work, they can go and help someone else (getting the existing items to “Done” faster) rather than start something new.
 
-[SAFe](/glossary/safe-scaled-agile-framework) is famous for introducing portfolio management. It's infamous for creating masses of additional overhead in the name of Alignment. It doesn't need to be that hard.
+SAFe is famous for introducing portfolio management. It's infamous for creating masses of additional overhead in the name of Alignment. It doesn't need to be that hard.
 
 ### How to Make It Happen
 

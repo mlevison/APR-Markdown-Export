@@ -166,7 +166,7 @@ Never implement the whole map – instead, run experiments to see which path wil
 
 Finally, you can use Impact Maps for more than just product development work; they also help when undertaking organizational change.
 
-#### [Impact Mapping – Glossary and Additional References](/glossary/impact-mapping)
+#### Impact Mapping – Glossary and Additional References
 
 Want to learn more about Impact Mapping and other strategies to help your team identify the best way to get more bang for the buck? Our [Certified Scrum Product Owner training](/certified-scrum-product-owner-cspo-training) uses real-life examples and hands-on practice to help you and your team understand how to create ideal customer and organization outcomes, not just produce widgets and complete tasks.
 
@@ -188,6 +188,6 @@ Want to learn more about Impact Mapping and other strategies to help your team i
 
 \[8\] “Splitting user stories -- the hamburger method” by Gojko Adzic - [https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
 
-\[9\] [https://agilepainrelief.com/glossary/facilitation](/glossary/facilitation)
+\9\] [https://agilepainrelief.com/glossary/facilitation
 
 (Updated November 2023)

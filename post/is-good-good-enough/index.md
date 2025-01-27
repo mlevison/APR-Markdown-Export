@@ -72,19 +72,19 @@ Depending on the prevailing culture in the work environment, some of these, like
 
 The team will need to learn skills outside of their normal area of expertise to keep things moving whenever some of the team gets stuck or there are bottlenecks in an area. Ideally cross-skilling starts early, however it will take many months before it becomes habitual.
 
-The ScrumMaster is responsible for coaching team members to pay attention to bottlenecks in the system and for facilitating this learning. Sometimes cross-skilling goes against the corporate grain, on other occasions team members would prefer not to learn new skills or feel reluctant to work outside their comfort zone. [Cross-skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) is critical to an effective team, so it falls to the ScrumMaster to coach in this situation. The ScrumMaster is going to need a good understanding of human [motivation](/glossary/motivation) and also how to influence effectively to help people, and organizations, see the benefits and come around.
+The ScrumMaster is responsible for coaching team members to pay attention to bottlenecks in the system and for facilitating this learning. Sometimes cross-skilling goes against the corporate grain, on other occasions team members would prefer not to learn new skills or feel reluctant to work outside their comfort zone. Cross-skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) is critical to an effective team, so it falls to the ScrumMaster to coach in this situation. The ScrumMaster is going to need a good understanding of human [motivation and also how to influence effectively to help people, and organizations, see the benefits and come around.
 
 #### Creating high-value increments that meet the Definition of Done
 
 This is a very subtle one. Most teams (Scrum or otherwise) struggle to deliver high-quality product at the start. Scrum expects the team to grow their skill and collaboration to improve quality. As a team meet the existing Definition of Done, they’re expected to add more rigour to it. As the rigour increases they will need to slow down for a period of time until they’re more technically skilled at achieving Done. Once again, as they get good at meeting Done, they should increase the rigour. (Hint: this quality improvement cycle should never stop).
 
-**DevOps** Some teams are satisfied with a product that they hand off to another group for deployment and monitoring. From a Scrum perspective, this is a strange choice. A Scrum team should keep improving Done. **In the world of modern software development, the Scrum Team should be embracing a [DevOps mindset](/glossary/devops): the team that builds the product is responsible for deployment and monitoring.** _Caveat, from experience it can take more than a year for the team to build this degree of technical excellence._
+**DevOps** Some teams are satisfied with a product that they hand off to another group for deployment and monitoring. From a Scrum perspective, this is a strange choice. A Scrum team should keep improving Done. **In the world of modern software development, the Scrum Team should be embracing a DevOps mindset: the team that builds the product is responsible for deployment and monitoring.** _Caveat, from experience it can take more than a year for the team to build this degree of technical excellence._
 
 After all, the customer doesn’t see the value of what the team delivered until it is deployed. And if it’s delayed in getting deployed by a different group, that increases the cycle time and so, from the customer perspective, the work is delivered slowly. Even in the modern age, I’ve seen Scrum teams deliver working software every two weeks only to be stuck waiting 6+ weeks for their work to get released. In addition, as the application is being prepared for deployment, problems are often found. The longer it has been since the original work was done, the more time it will take to remember what was going on and fix the problem. Building to a high-quality definition of done and releasing it, all within the same team, finds and fixes problems faster, avoids confusion and conflict over responsibilities, and delivers to the customer quickly.
 
 _Note: Some organizations put up significant barriers that make it difficult for Scrum teams to move downstream into the DevOps space. It is still an important class of improvements, however it may be easier to start working upstream first._![DevOps Mindset Kanban Board](images/DevOps-Mindset-Kanban-Board-simple.png)
 
-**Agile Engineering** Creating high-value increments isn’t limited to DevOps improvements. Teams also benefit from learning to practice the many [Agile Engineering practices](/glossary/agile-engineering-practices), from Ensemble Programming to Trunk-Based Development.
+**Agile Engineering** Creating high-value increments isn’t limited to DevOps improvements. Teams also benefit from learning to practice the many Agile Engineering practices, from Ensemble Programming to Trunk-Based Development.
 
 ### ScrumMaster and Product Ownership
 
@@ -94,7 +94,7 @@ Some see the ScrumMaster as having only the responsibility of ensuring the Produ
 
 ![Scrum Product Team](images/DevOps-Mindset-Kanban-Board-blog-variation-1.jpg)
 
-The team implements this in areas such as [Behaviour Driven Development](/glossary/behaviour-driven-development) (aka BDD) to ensure that the acceptance criteria for a given Product Backlog Item are both clear and agreed on by all. Many ScrumMasters are also discovering that it helps to coach their team in Lean Startup and Lean U/X.
+The team implements this in areas such as Behaviour Driven Development (aka BDD) to ensure that the acceptance criteria for a given Product Backlog Item are both clear and agreed on by all. Many ScrumMasters are also discovering that it helps to coach their team in Lean Startup and Lean U/X.
 
 **Becoming Lean** Lean Startup is useful when the team needs do fundamental experimental work answering questions such as: Will anyone pay for this product? Is this module or large feature area useful to our audience?
 

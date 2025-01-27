@@ -35,6 +35,6 @@ So what should Team members with test background learn? I get them to learn BDD 
 
 In all [Product Owner](/certified-scrum-product-owner-cspo-training) trainings and many [ScrumMaster](/certified-scrummaster-csm-training) trainings, we practice a simple version of this technique. My goal would be to simply hint to them what is possible, and then open the door.
 
-If this intrigued you and you want to learn more, see: [Behaviour Driven Development](/glossary/behaviour-driven-development) in our glossary.
+If this intrigued you and you want to learn more, see: Behaviour Driven Development in our glossary.
 
 (Image attribution: Agile Pain Relief Consulting)

@@ -4,7 +4,7 @@ date: "2024-11-12"
 coverImage: "Example-Mapping.jpg"
 ---
 
-**Example mapping** is a collaborative technique for a team to take a User Story (or PBI) and have a deeper conversation to clarify their understanding of it. The conversation generates the [Acceptance Criteria](/glossary/acceptance-criteria). (Acceptance Criteria is the generic idea - Example Mapping is the approach I generally recommend.)
+**Example mapping** is a collaborative technique for a team to take a User Story (or PBI) and have a deeper conversation to clarify their understanding of it. The conversation generates the Acceptance Criteria. (Acceptance Criteria is the generic idea - Example Mapping is the approach I generally recommend.)
 
 We need an example. Let's pretend that we're building an app to reconcile store receipts with month end credit card statements. We're doing it because it was boring and time consuming to do it manually. The system has the job of categorizing our spending for future analysis.
 
@@ -57,4 +57,4 @@ Original idea from [Matt Wynne](https://cucumber.io/blog/bdd/example-mapping-in
 
 ### References
 
-[Acceptance Criteria](/glossary/acceptance-criteria) [Behaviour Driven Development (BDD)](/glossary/behaviour-driven-development)
+Acceptance Criteria Behaviour Driven Development (BDD)

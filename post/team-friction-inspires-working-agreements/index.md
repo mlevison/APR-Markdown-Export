@@ -14,7 +14,7 @@ coverImage: "APR_Blog-Illustrations_Aug2019_ScrumByExample_WorkingAgreements_v2-
 
 ![Team Friction? Working Agreements may be the solution you need.](images/APR_Blog-Illustrations_Aug2019_ScrumByExample_WorkingAgreements_v2-A.jpg)
 
-_Scrum team [**Working Agreements**](/glossary/working-agreements) are a simple, powerful way of creating explicit guidelines for what kind of work culture you want for your Team. They are a reminder for everyone about how they can commit to respectful behaviour and communication. In this post we’ll see how the fictional World’s Smallest Online Bookstore (WSOBS) Scrum team struggles without a Working Agreement, and why having one would be useful._
+_Scrum team **Working Agreements** are a simple, powerful way of creating explicit guidelines for what kind of work culture you want for your Team. They are a reminder for everyone about how they can commit to respectful behaviour and communication. In this post we’ll see how the fictional World’s Smallest Online Bookstore (WSOBS) Scrum team struggles without a Working Agreement, and why having one would be useful._
 
 **Dramatis Personae**
 

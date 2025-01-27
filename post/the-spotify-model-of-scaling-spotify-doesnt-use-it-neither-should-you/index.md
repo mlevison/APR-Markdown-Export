@@ -8,7 +8,7 @@ categories:
 coverImage: "spotify-model-meme.png"
 ---
 
-The "[Spotify Model](/glossary/spotify-model)" probably isn't a model and definitely isn't what is currently practiced at Spotify today. (Some suggest it never was.) The below image was made famous in a video by Henrik Kniberg, where he explains how work was organized into Squads, Tribes, and Guilds. Many people see the structure and try to mimic it in their organization. Worse, many attempt to get the supposed benefit by renaming existing organizational structures with the same labels. As a result, most attempts at the Spotify Model are in fact Cargo Cult.
+The "Spotify Model" probably isn't a model and definitely isn't what is currently practiced at Spotify today. (Some suggest it never was.) The below image was made famous in a video by Henrik Kniberg, where he explains how work was organized into Squads, Tribes, and Guilds. Many people see the structure and try to mimic it in their organization. Worse, many attempt to get the supposed benefit by renaming existing organizational structures with the same labels. As a result, most attempts at the Spotify Model are in fact Cargo Cult.
 
 \[caption id="attachment\_15638" align="aligncenter" width="974"\]![Spotify Scaling model image, credit Henrik Kniberg and Anders Ivarsson](images/spotify-scaling-model-credit-Kniberg-Ivarsson.png) Figure 1 - The famous picture from: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf\[/caption\]
 

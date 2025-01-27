@@ -25,7 +25,7 @@ They then selected the following Product Backlog Items:
 - Reviews feature the date they were written and the location of the author
 - They also planned to fix two bugs that affect how books are displayed to buyers.
 
-The Sprint went surprisingly well. They finished the top five of seven items and fixed one bug. (B_y the standards of many teams this is remarkably good._) They are now ready to hold a [Sprint Review](/glossary/sprint-review).
+The Sprint went surprisingly well. They finished the top five of seven items and fixed one bug. (B_y the standards of many teams this is remarkably good._) They are now ready to hold a Sprint Review.
 
 Steve, being a well-organized ScrumMaster, has an agenda in place:
 
@@ -96,7 +96,7 @@ Done well, a Sprint Review is a point of pride for the team. This one was a down
 
 It starts long before the Sprint Review meeting. When the strategic work is done in Product Backlog Refinement, ScrumMaster Steve and Product Owner Paula need to make sure that key stakeholders, like Jan (Marketing) and Eric (Support), are involved. ScrumMaster and Product Owner should also commit to spending a couple of hours a month reviewing the strategy and looking for things that might turn into surprises. When there are items that represent more risk or challenge, Paula can invite the Stakeholders to the Backlog Refinement session so they can provide input and clarity. These two actions will go a long way toward reducing surprises in the Sprint Review.
 
-Seeing a feature get reviewed by the PO and checked against the Definition of Done has never been a recipe to increase engagement. As an alternative, Paula could review features as fully completed, having already checked them against “Done” prior to the Sprint Review. This approach fits well in a world of [Continuous Delivery](/glossary/continuous-delivery), something many modern teams are already employ. As a good final check just before Sprint Review, Paula could recheck all features to make sure they work well together.
+Seeing a feature get reviewed by the PO and checked against the Definition of Done has never been a recipe to increase engagement. As an alternative, Paula could review features as fully completed, having already checked them against “Done” prior to the Sprint Review. This approach fits well in a world of Continuous Delivery, something many modern teams are already employ. As a good final check just before Sprint Review, Paula could recheck all features to make sure they work well together.
 
 Get End Users in the room. Where humanly possible involve actual users of the product to get feedback, to learn more about their needs, and generate enthusiasm. _There are clear limits as most users won’t have the time or energy to participate every Sprint._
 

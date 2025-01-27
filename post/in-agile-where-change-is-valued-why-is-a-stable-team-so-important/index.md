@@ -7,7 +7,7 @@ categories:
 coverImage: "Unstable-Teams-Tuckman-stages.jpg"
 ---
 
-A [stable team](/glossary/stable-teams) is one in which team membership doesn’t change often and, instead, is consistent over time.
+A stable team is one in which team membership doesn’t change often and, instead, is consistent over time.
 
 Why should we care? Isn’t Scrum like basketball where you can change the players on the court anytime there is an interruption? Let’s find out…
 

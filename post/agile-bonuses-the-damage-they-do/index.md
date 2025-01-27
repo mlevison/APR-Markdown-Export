@@ -11,7 +11,7 @@ tags:
 coverImage: "Bonuses-anti-pattern-CLD.png"
 ---
 
-_A design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the challenge without prompting the reader to address the issue in a specific way._ _Unfortunately, we also regularly see recurring patterns of ineffective behaviour. These are called [Anti-Patterns](/glossary/scrummaster-anti-patterns). The following explores the common anti-pattern of a performance bonus. Micromanagement._
+_A design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the challenge without prompting the reader to address the issue in a specific way._ _Unfortunately, we also regularly see recurring patterns of ineffective behaviour. These are called Anti-Patterns. The following explores the common anti-pattern of a performance bonus. Micromanagement._
 
 A few months ago a friend asked me about setting up a bonus scheme at his work. From working with Scrum and Kanban teams, I know that bonuses are counter-productive anywhere team members are doing knowledge work and their work is interdependent. The same might apply in other areas too, but I know this to be true in the context of software development in particular, because of my experience and study.
 
@@ -37,13 +37,13 @@ To see what goes wrong with bonuses, we’re going to draw on a few tools.
 - Motivational Models - specifically ARC
 - Systems Thinking - many of the problems created by bonuses come from a lack of consideration to knock effects. I.E. If we do X, what other effects will that have downstream? What effects will it have in a few months?
 
-And to visually illustrate cause and effect, we’ll use [Causal Loop diagrams](/glossary/causal-loop-diagram) to show positive and negative links. Remember, “positive” and “negative” shouldn’t be read as good or bad, but simply as increasing or decreasing.
+And to visually illustrate cause and effect, we’ll use Causal Loop diagrams to show positive and negative links. Remember, “positive” and “negative” shouldn’t be read as good or bad, but simply as increasing or decreasing.
 
 ### Individual Bonuses
 
 Here’s a hint right out of the gate if you’re new to Agile: you never want to measure anything for one person.
 
-**Individual Bonus (-ve)-> Autonomy** - Chasing a bonus lessens the opportunities we have to make decisions to better the team because meeting the bonus requirements becomes the higher priority. This reduces (i.e. negative link) a team member’s _Autonomy_ (see [ARC](/glossary/arc-motivational-model) and [SCARF models](/glossary/scarf-model)).
+**Individual Bonus (-ve)-> Autonomy** - Chasing a bonus lessens the opportunities we have to make decisions to better the team because meeting the bonus requirements becomes the higher priority. This reduces (i.e. negative link) a team member’s _Autonomy_ (see ARC and SCARF models).
 
 **Autonomy (delayed ->) Engagement** - When we have Autonomy —control over our own choices— we have a greater sense of Engagement. But the bonus has reduced Autonomy, causing an opposite effect. It turns out, Autonomy is a core driver for _Engagement_ at work.
 
@@ -77,7 +77,7 @@ Competition is a fun one because it sparks a lot of effects of its own…
 
 **\# of Features (-ve) -> Peer to Peer Help** - As the number of Features being worked on at any one time increases, there are fewer people who have capacity to help their peers.
 
-**Peer to Peer Help -> Throughput at the Bottleneck** - We know from the [Theory of Constraints](/glossary/theory-of-constraints) that all systems have bottlenecks that limit its throughput. Bottlenecks are inevitable in a normal Agile environment, but when a bottleneck happens, we would expect another team member to help out until it is no longer the constraint for Throughput. If a bonus makes Peer to Peer Help less likely, _Throughput at the Bottleneck_ will not improve.
+**Peer to Peer Help -> Throughput at the Bottleneck** - We know from the Theory of Constraints that all systems have bottlenecks that limit its throughput. Bottlenecks are inevitable in a normal Agile environment, but when a bottleneck happens, we would expect another team member to help out until it is no longer the constraint for Throughput. If a bonus makes Peer to Peer Help less likely, _Throughput at the Bottleneck_ will not improve.
 
 **Throughput at the Bottleneck -> Number of Features** - If we improve the bottleneck, the number of features delivered will increase. Unfortunately, the use of bonuses means that there’s no incentive to help clear the constraint, so the bottleneck is likely to persist.
 
@@ -148,4 +148,4 @@ In a study of what happened to patent applications at Thales, a change in the bo
 
 \[4\] [Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html)
 
-\[5\] [SCARF Model](/glossary/scarf-model)
+\5\] [SCARF Model

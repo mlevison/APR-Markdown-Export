@@ -12,7 +12,7 @@ tags:
 coverImage: "2017CSM-Sample-Scrum-Task-Board-v2.jpg"
 ---
 
-We might not be able to make [Sprint Backlogs](/glossary/sprint-backlog) exciting, but we can make them more effective. Let’s look at what a Sprint Backlog is, what purpose it serves, and how to create, manage, and improve it.
+We might not be able to make Sprint Backlogs exciting, but we can make them more effective. Let’s look at what a Sprint Backlog is, what purpose it serves, and how to create, manage, and improve it.
 
 ## What is a Sprint Backlog?
 
@@ -94,7 +94,7 @@ Teams that limit Work in Progress to only two or three Product Backlog Items at 
 
 So, used well, a Sprint Backlog combined with the Kanban WIP limit can solve challenges that many teams face.
 
-### Bringing [Retrospective](/glossary/sprint-retrospective) into the Sprint Backlog
+### Bringing Retrospective into the Sprint Backlog
 
 The example Team has also put a swim lane at the top for their actions or improvements that they committed to in the [Sprint Retrospective](/guide-to-effective-agile-retrospectives). It’s at the top of the picture to act as a visual reminder that continually improving their process and Team is important. It’s recommended that the Developers include at least one action item from their previous Sprint’s Retrospective.
 
@@ -189,7 +189,7 @@ In the past, Teams used to use a [Sprint Burndown Chart](/blog/scrummaster-tales
 
 While the Sprint Backlog is the Team’s plan for the Sprint, the Product Backlog is the Teams queue of work. So the funny thing is that the Sprint Backlog and Product Backlog have easily confused names, but vastly different meanings. In my [workshops](/certified-scrum-agile-training), whenever an attendee answers a question with, “Backlog”, my instant response is, “Which one?”
 
-A Sprint Backlog is far more like the (better-named) [Kanban](/glossary/kanban) board. A Kanban board is a visual control system from the world of Kanban. It combines the Product Backlog with the Sprint Backlog. The key difference between Scrum’s Sprint backlog and Kanban’s board is that Kanban has a Work In Progess Limit. As you’ve already seen, I strongly recommend Scrum Teams steal a leaf from the Kanban world and do this.
+A Sprint Backlog is far more like the (better-named) Kanban board. A Kanban board is a visual control system from the world of Kanban. It combines the Product Backlog with the Sprint Backlog. The key difference between Scrum’s Sprint backlog and Kanban’s board is that Kanban has a Work In Progess Limit. As you’ve already seen, I strongly recommend Scrum Teams steal a leaf from the Kanban world and do this.
 
 ## Key Points on Sprint Backlogs:
 
@@ -204,13 +204,13 @@ A Sprint Backlog is far more like the (better-named) [Kanban](/glossary/kanban) 
 
 Good Scrum teams know that they own the Sprint Backlog. _Great_ teams experiment every few Sprints to find what they can do to make their Sprint Backlog even better.Bottom of Form
 
-#### See Also: [Sprint Backlogs](/glossary/sprint-backlog)
+#### See Also: Sprint Backlogs
 
 ### Still Unsure How to Create an Effective Sprint Backlog?
 
 Consider attending one of our [Certified ScrumMaster workshops](/certified-scrummaster-csm-training), where we discuss the _how_ and _why_ of Scrum, not just the _what_.  You'll get hands-on practical experience, and learn about some of the challenges – and solutions – along with tips on how to help your Team learn and grow to realize their potential.
 
-\[1\] [https://scrumguides.org/scrum-guide.html#sprint-backlog](https://scrumguides.org/scrum-guide.html#sprint-backlog) \[2\] This term describes work done out of sight of the team. It is also sometimes referred to as “dark work” (as in done in the dark), but “Hidden” or “Ghost” work is more culturally sensitive. \[3\] This isn’t a hard and fast rule. Instead, it’s a pattern. As ScrumMaster or Agile Coach, if you see that the board is hinting at a problem, use that hint and look further to understand what is going on. \[4\] Github did a [Developer Good Day survey](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/) and discovered that the more meetings someone is involved with, the less work they get done. My strong recommendation is that your only meeting most days should be Daily Scrum. \[5\] These are called [Niko Niko boards](/glossary/niko-niko) and not everyone thinks that they’re a good idea.
+\1\] [https://scrumguides.org/scrum-guide.html#sprint-backlog](https://scrumguides.org/scrum-guide.html#sprint-backlog) \[2\] This term describes work done out of sight of the team. It is also sometimes referred to as “dark work” (as in done in the dark), but “Hidden” or “Ghost” work is more culturally sensitive. \[3\] This isn’t a hard and fast rule. Instead, it’s a pattern. As ScrumMaster or Agile Coach, if you see that the board is hinting at a problem, use that hint and look further to understand what is going on. \[4\] Github did a [Developer Good Day survey](https://github.blog/2021-05-25-octoverse-spotlight-good-day-project/) and discovered that the more meetings someone is involved with, the less work they get done. My strong recommendation is that your only meeting most days should be Daily Scrum. \[5\] These are called [Niko Niko boards and not everyone thinks that they’re a good idea.
 
 Image attributes: Agile Pain Relief Consulting
 

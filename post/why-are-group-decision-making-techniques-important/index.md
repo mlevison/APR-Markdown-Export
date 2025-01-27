@@ -102,7 +102,7 @@ When the cost and/or uncertainty is high, we should not look for an immediate de
 
 No single magic technique will overcome all of these biases, but we can take steps to minimize their effect.
 
-- Use [Systems Thinking](/glossary/systems-thinking) tools like change perspective (What happen if we take another person’s point of view?) or change time frame (What will the effects be in 5 days? 5 months? 5 years? This is also known as 10/10/10 Analysis – 10 days, months and years.) This ties back to the Future Perspective approach\[[8](#footnotes)\] of stepping mentally into the future and imagining afresh where we want to arrive.
+- Use Systems Thinking tools like change perspective (What happen if we take another person’s point of view?) or change time frame (What will the effects be in 5 days? 5 months? 5 years? This is also known as 10/10/10 Analysis – 10 days, months and years.) This ties back to the Future Perspective approach\[[8](#footnotes)\] of stepping mentally into the future and imagining afresh where we want to arrive.
 - Explore other sources of data or information. (From outside the team? From outside our organization? Who else has made similar decisions before?)
 - Use the Rule of Three.\[[9](#footnotes)\] If you don’t have at least three options, you don’t have enough.
 - Ask what assumptions are being made and test if those assumptions are valid.

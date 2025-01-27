@@ -55,7 +55,7 @@ Participants write down the changes on sticky notes or the virtual equivalent us
 
 When the team have created enough examples, they select the best one(s) and that becomes their change vision. When choosing, look for one that gets people jazzed up about making change.
 
-The change vision feeds into creating their change strategy – think [Story Maps](/glossary/story-mapping) or [Impact Maps](/glossary/impact-mapping), adapted from the Product world to the Change world.
+The change vision feeds into creating their change strategy – think Story Maps or Impact Maps, adapted from the Product world to the Change world.
 
 ### Facilitation Notes
 

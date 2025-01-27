@@ -87,7 +87,7 @@ As with many questions in Scrum, start with asking the team. What do they need t
 
 There are many approaches that lead to increased collaboration; I will touch on three specifically. But more important than any individual technique is the goal to create a team culture that defaults to asking the question: How could I do this piece of work with the help of at least one other person? This will result in collaboration becoming a healthy habit.
 
-All of these approaches are documented in our [Agile Engineering Practices](/glossary/agile-engineering-practices) section of our glossary.
+All of these approaches are documented in our Agile Engineering Practices section of our glossary.
 
 - **Pair Programming** - Two people work together in a single development environment to do a chunk of work.
 - **Ensemble Programming** (formerly called Mob Programming) - The whole team work together to build a feature and get it to truly done.

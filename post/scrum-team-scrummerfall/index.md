@@ -88,4 +88,4 @@ When some or all of a Scrum team goes to the Scrum Master and resists the basic 
 
 The Scrum framework leaves a lot of wiggle room to adapt it in unique ways to best suit your own team’s needs. But don’t abandon the basic structure (like retrospectives) when something isn’t convenient. All of the Scrum events serve a critical role in the overall effectiveness of Scrum.
 
-**Related:**  [Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html) [Quality Assurance in Scrum](/glossary/quality-assurance-in-scrum)
+**Related:**  Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html) [Quality Assurance in Scrum
