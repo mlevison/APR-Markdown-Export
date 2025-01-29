@@ -1,7 +1,7 @@
 ---
 title: "Agile Schools"
 date: "2022-02-04"
-relatedTerms: 'Agile Outside of Software'
+relatedTerms: 'agile-outside-of-software'
 ---
 
 Scrum in the world of work, allows teams to self-organize around a common goal (Delivering a Product). Scrum in education is about getting kids to self organize in teams to learn and deliver their own school work. Kids who haven't been molded for years by a traditional hierarchical control system seem like the perfect audience. They learn to be critical thinkers, question authority and explore.

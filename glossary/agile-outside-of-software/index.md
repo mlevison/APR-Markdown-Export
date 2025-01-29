@@ -1,7 +1,7 @@
 ---
 title: "Agile Outside of Software"
 date: "2022-04-29"
-relatedTerms: 'Agile Business Intelligence', 'Agile Contracts', 'Agile for Embedded Software', 'Agile Government', 'Agile Hardware', 'Agile Sales and Marketing', 'Agile Schools'
+relatedTerms: 'agile-business-intelligence', 'agile-contracts', 'agile-for-embedded-software', 'agile-government', 'agile-hardware', 'agile-sales-and-marketing', 'agile-schools'
 ---
 
 In the over 20 years since the Agile Manifesto was written, we've seen Agile approaches applied in a large variety of fields outside of software development. Scrum has been used for sales, marketing, manufacturing, human resources, gas plant design and construction, academic research, schools... the list goes on.

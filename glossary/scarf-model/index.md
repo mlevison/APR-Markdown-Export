@@ -1,7 +1,7 @@
 ---
 title: "SCARF Model"
 date: "2022-03-31"
-relatedTerms: 'Motivation'
+relatedTerms: 'motivation'
 ---
 
 **The SCARF Model** of human behaviour is useful to understand how people respond to the world through the lenses of **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness. In our case, we focus on how the model explains behaviour of people in the world of Agile work.

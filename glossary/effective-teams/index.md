@@ -1,7 +1,7 @@
 ---
 title: "Effective Teams"
 date: "2024-09-16"
-relatedTerms: 'Scrum Team'
+relatedTerms: 'scrum-team'
 ---
 
 Calling a group of individuals a "team" is only a label, unless they're organized and empowered with distinct characteristics to allow them to function effectively.

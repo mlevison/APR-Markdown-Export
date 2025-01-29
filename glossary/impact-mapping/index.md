@@ -1,7 +1,7 @@
 ---
 title: "Impact Mapping"
 date: "2021-04-22"
-relatedTerms: 'Roadmaps and Strategy', 'Story Mapping'
+relatedTerms: 'roadmaps-and-strategy', 'story-mapping'
 ---
 
 **Impact Mapping** is a tool to help teams focus their work on the feature by identifying portfolio items or strategic changes that will have the greatest effect on achieving their goal. Impact Maps are intended to be drawn, and not just written in words.

@@ -1,7 +1,7 @@
 ---
 title: "Slack"
 date: "2021-07-26"
-relatedTerms: 'Theory of Constraints'
+relatedTerms: 'theory-of-constraints'
 ---
 
 **Slack**, in the context of Agile/Scrum, is when the time isn't solely focused on delivering. _(It's important not to confuse this with Slack, a popular electronic communication tool, or the general vocabulary word defined as "a spell of inactivity or laziness".)_ 

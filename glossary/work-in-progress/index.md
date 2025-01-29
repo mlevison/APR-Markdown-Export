@@ -1,7 +1,7 @@
 ---
 title: "Work in Progress"
 date: "2021-12-15"
-relatedTerms: 'Kanban', 'Interruptions', 'Multitasking'
+relatedTerms: 'kanban', 'interruptions', 'multitasking'
 ---
 
 In Scrum, **Work in Progress** is the batch of User Stories or Product Backlog Items that have been started but not finished. These are also referred to as partially finished items.

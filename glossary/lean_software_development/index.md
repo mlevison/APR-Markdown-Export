@@ -1,7 +1,7 @@
 ---
 title: "Lean Software Development"
 date: "2021-04-29"
-relatedTerms: 'Kanban'
+relatedTerms: 'kanban'
 ---
 
 #### Resource Links:

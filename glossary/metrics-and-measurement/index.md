@@ -1,7 +1,7 @@
 ---
 title: "Metrics and Measurement"
 date: "2021-04-28"
-relatedTerms: 'Cycle Time', 'Dependencies', 'Forecasting', 'Impediments', 'Improvement Experiments'
+relatedTerms: 'cycle-time', 'dependencies', 'forecasting', 'impediments', 'improvement-experiments'
 ---
 
 **Metrics** are the tools we use (and misuse) to help us understand how we're evolving. Used well, Metrics can give us feedback on our team's experiments and help us become aware of problems sooner. Used poorly, they become a stick to beat the team into submission. It's important to be careful when using them, because all metrics have cost, will introduce noise into the system, and might be gamed.

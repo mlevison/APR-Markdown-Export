@@ -1,7 +1,7 @@
 ---
 title: "Bottlenecks"
 date: "2023-02-07"
-relatedTerms: 'Theory of Constraints'
+relatedTerms: 'theory-of-constraints'
 ---
 
 A **bottleneck** is a constraint that slows the delivery of value in our system. That is awfully abstract language, so let’s provide an example from everyday life.

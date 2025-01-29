@@ -1,7 +1,7 @@
 ---
 title: "Core Protocols"
 date: "2021-04-22"
-relatedTerms: 'Working Agreements'
+relatedTerms: 'working-agreements'
 ---
 
 A set of **protocols** that can aid teams in improving communications. They're modelled on a similar principle to Design patterns.

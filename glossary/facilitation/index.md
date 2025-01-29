@@ -1,7 +1,7 @@
 ---
 title: "Facilitation"
 date: "2021-02-08"
-relatedTerms: 'Decision-Making Tools', 'Team Formation Models', 'Working Agreements'
+relatedTerms: 'decision-making-tools', 'team-formation-models', 'working-agreements'
 ---
 
 **Facilitation** is the art of helping a group of people reach agreement or understanding, without direct involvement in the process itself. In the game of Scrum, facilitation is explicitly required in the events of Sprint Planning, Sprint Review, and Sprint Retrospective. In addition, we would expect facilitation to be part of Product Backlog Refinement and whenever the opportunity arises.

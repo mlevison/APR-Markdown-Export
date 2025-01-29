@@ -1,7 +1,7 @@
 ---
 title: "Sprint Review"
 date: "2021-03-26"
-relatedTerms: 'Facilitation'
+relatedTerms: 'facilitation'
 ---
 
 **Sprint Review** is an event at the end of the Sprint where the Scrum Team review the completed work with stakeholders. Stakeholders provide feedback on the completed work and ideas for product improvements. The Product Backlog will get updated during future refinement to reflect what everyone learned.

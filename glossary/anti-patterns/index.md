@@ -1,7 +1,7 @@
 ---
 title: "Agile Anti-Patterns"
 date: "2021-02-08"
-relatedTerms: 'ScrumMaster Anti-Patterns'
+relatedTerms: 'scrummaster-anti-patterns'
 ---
 
 In software development work, a design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the problem, including context and the consequences of certain actions, without prompting the reader to solve the problem a specific way, leaving them with the agency to write code as they see fit.![Scrum Anti-Patterns - image by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5-300x178.jpg)

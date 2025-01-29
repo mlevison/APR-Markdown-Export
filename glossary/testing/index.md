@@ -1,7 +1,7 @@
 ---
 title: "Testing"
 date: "2022-09-29"
-relatedTerms: 'Unit Testing'
+relatedTerms: 'unit-testing'
 ---
 
 **Agile Testing** is "collaborative testing practices that occur continuously, from inception to delivery and beyond, supporting frequent delivery of value for our customers. Testing activities focus on building quality into the product, using fast feedback loops to validate our understanding. The practices strengthen and support the idea of whole-team responsibility for quality." - Lisa Crispin and Janet Gregory in _Agile Testing Condensed_.

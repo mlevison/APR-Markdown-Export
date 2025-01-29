@@ -1,7 +1,7 @@
 ---
 title: "Agile Engineering Practices"
 date: "2021-05-04"
-relatedTerms: 'Behaviour Driven Development', 'Collective Code Ownership', 'Continuous Delivery', 'Continuous Integration', 'Emergent/Evolutionary Architecture', 'Ensemble (formerly Mob) Programming', 'Pair Programming', 'Refactoring', '10 Minute Build', 'Test Driven Development', 'Trunk-Based Development', 'Unit Testing'
+relatedTerms: 'behaviour-driven-development', 'collective-code-ownership', 'continuous-delivery', 'continuous-integration', 'emergentevolutionary-architecture', 'ensemble-formerly-mob-programming', 'pair-programming', 'refactoring', '10-minute-build', 'test-driven-development', 'trunk-based-development', 'unit-testing'
 ---
 
 In my [workshops](/certified-scrum-agile-training), I often have people who are focused on the question: “How can I help my team go faster?”, or “How can we deliver this Product sooner?” Whenever anyone asks, my answer is always the same: “You must slow down to go fast.” I then often get some puzzled looks.

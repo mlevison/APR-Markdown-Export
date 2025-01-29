@@ -1,7 +1,7 @@
 ---
 title: "Agile Documentation"
 date: "2022-08-26"
-relatedTerms: 'Behaviour Driven Development', 'User Stories'
+relatedTerms: 'behaviour-driven-development', 'user-stories'
 ---
 
 **Agile Documentation.** Is it an oxymoron? The _Agile Manifesto_ says "Working Software over Comprehensive Documentation". It doesn't say _no_ documentation, and it doesn't say _how much_, if at all.

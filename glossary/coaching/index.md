@@ -1,7 +1,7 @@
 ---
 title: "Coaching"
 date: "2021-02-08"
-relatedTerms: 'Facilitation'
+relatedTerms: 'facilitation'
 ---
 
 **Agile Coaching** is an ill-defined concept. Self-described "Agile Coaches" appeared in the Agile world long before there was a definition.

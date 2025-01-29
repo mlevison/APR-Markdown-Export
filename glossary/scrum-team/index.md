@@ -1,7 +1,7 @@
 ---
 title: "Scrum Team"
 date: "2021-03-23"
-relatedTerms: 'Cross-functional Teams', 'Effective Teams', 'Psychological Safety', 'Special Teams', 'Stable Teams', 'Team Size'
+relatedTerms: 'cross-functional-teams', 'effective-teams', 'psychological-safety', 'special-teams', 'stable-teams', 'team-size'
 ---
 
 The **Scrum Team** is all of the people needed to get the product built and into the customer’s hands:

@@ -1,7 +1,7 @@
 ---
 title: "Agile Architects"
 date: "2021-07-09"
-relatedTerms: 'Agile Architecture', 'Agile Architectural Patterns'
+relatedTerms: 'agile-architecture', 'agile-architectural-patterns'
 ---
 
 [Agile Architect – An Oxymoron](/blog/agile_architect-2.html) [Agile Architects Reimagined? Not at the top of the pyramid, but perhaps aside](/blog/agile_architect.html)

@@ -1,7 +1,7 @@
 ---
 title: "Roadmaps and Strategy"
 date: "2021-04-22"
-relatedTerms: 'Impact Mapping', 'Story Mapping'
+relatedTerms: 'impact-mapping', 'story-mapping'
 ---
 
 In traditional approaches, a **Roadmap** is a list of dates and promises that are being made to the customer. Traditional Roadmaps don’t work because there is an implied linear flow and promise of what will be delivered in 18-36 months time. In an Agile world, a Roadmap is a set of options to open a conversation with the customer about what could be built.

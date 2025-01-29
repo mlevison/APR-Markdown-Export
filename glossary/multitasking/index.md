@@ -1,7 +1,7 @@
 ---
 title: "Multitasking"
 date: "2021-03-08"
-relatedTerms: 'Interruptions', 'Part Time Team Members', 'Work in Progress'
+relatedTerms: 'interruptions', 'part-time-team-members', 'work-in-progress'
 ---
 
 Buried in most job ads is the phrase "Looking for a great multitasker". Too bad they don't exist. Contrary to what some books would have you believe, **multitasking** effectively is not an actual thing. As humans, we suffer from the problem of dual task interference. When we're already doing one thing, splitting our focus with an additional item causes us to make mistakes with both.

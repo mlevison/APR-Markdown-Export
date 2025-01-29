@@ -1,7 +1,7 @@
 ---
 title: "Developers"
 date: "2021-07-28"
-relatedTerms: 'ScrumMaster', 'Product Owner', 'Scrum Team'
+relatedTerms: 'scrummaster', 'product-owner', 'scrum-team'
 ---
 
 If you thought that ScrumMaster was a poorly named role in Scrum, check out **Developers**. In recent years, the ScrumGuide has been making changes to help people outside of software see that they can fit into the game of Scrum. Excellent. However, the 2020 change from "Development Team" to "Developers" just made the situation worse.

@@ -1,7 +1,7 @@
 ---
 title: "Failure Demand"
 date: "2022-07-07"
-relatedTerms: 'Systems Thinking', 'Lean Software Development', 'Kanban', 'Special Teams'
+relatedTerms: 'systems-thinking', 'lean-software-development', 'kanban', 'special-teams'
 ---
 
 "**Failure demand** is demand caused by a failure to do something or do something right for the customer." - John Seddon 2009

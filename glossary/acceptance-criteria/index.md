@@ -1,7 +1,7 @@
 ---
 title: "Acceptance Criteria"
 date: "2021-04-28"
-relatedTerms: 'Behaviour Driven Development', 'Definition of Done', 'User Stories'
+relatedTerms: 'behaviour-driven-development', 'definition-of-done', 'user-stories'
 ---
 
 **Acceptance Criteria** are used to ensure that a feature (or User Story) the team is building meets the needs of the End User. The common practice is for team members to collaborate on writing a series of examples that demonstrate the expected behaviours of a feature.
