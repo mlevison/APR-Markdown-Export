@@ -1,7 +1,7 @@
 ---
 title: "Code Smells"
 date: "2024-10-10"
-relatedTerms: 'technical-debt'
+relatedTerms: ['technical-debt']
 ---
 
 A **code smell** is a hint that something might be wrong in your codebase. A smell isn't always a problem, rather it’s a hint that a further look is warranted. Code smells are a clue that says more time is needed to examine this area of the code.

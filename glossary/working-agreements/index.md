@@ -1,7 +1,7 @@
 ---
 title: "Working Agreements"
 date: "2021-03-08"
-relatedTerms: 'decision-making-tools', 'facilitation'
+relatedTerms: ['decision-making-tools', 'facilitation']
 ---
 
 A **Working Agreement** is a short set of guidelines created by the Team, for the Team, that establishes what the expectations of the Team are for one another. A well-written Agreement should help establish, as well as reinforce, a clear, shared understanding between all Team members about what they acknowledge is good behaviour and communication. It is usually referred to as a single “Working Agreement”, but in reality it’s comprised of many individual agreements for each topic or issue.

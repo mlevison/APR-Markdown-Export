@@ -1,7 +1,7 @@
 ---
 title: "Forecasting"
 date: "2021-02-18"
-relatedTerms: 'estimation'
+relatedTerms: ['estimation']
 ---
 
 **Forecasting** in the Agile world asks the difficult questions: How much of our product backlog will ready by a certain date? **or** By which date a specific feature will be ready?

@@ -1,7 +1,7 @@
 ---
 title: "Stable Teams"
 date: "2021-03-26"
-relatedTerms: 'scrum-team'
+relatedTerms: ['scrum-team']
 ---
 
 **A stable team** is one in which team membership doesn’t change often and, instead, is consistent over time.  When team membership changes every few months, teams (Scrum, Kanban, XP or otherwise) struggle to: create Psychological Safety, maintain Predictability, stay focused on Product Vision, and grow their capability to Deliver. _Stable teams isn't a requirement of Scrum or Kanban, but its absence causes great harm._

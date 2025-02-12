@@ -1,7 +1,7 @@
 ---
 title: "Swarming"
 date: "2021-12-02"
-relatedTerms: 'agile-engineering-practices', 'ensemble-programming', 'pair-programming'
+relatedTerms: ['agile-engineering-practices', 'ensemble-programming', 'pair-programming']
 ---
 
 If Pair Programming is two people working together on a single problem at the same time (pre-Covid, Pairing meant sitting side by side with one computer), then **Swarming** takes Pairing to the next level, with three or more people working on a problem together.

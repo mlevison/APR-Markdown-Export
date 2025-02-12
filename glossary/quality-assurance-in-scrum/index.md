@@ -1,7 +1,7 @@
 ---
 title: "Quality Assurance in Scrum"
 date: "2021-07-12"
-relatedTerms: 'business-analyst-in-scrum'
+relatedTerms: ['business-analyst-in-scrum']
 ---
 
 In traditional approaches, the **QA, Tester, or Quality Assurance** tests the work of developers in a separate phase - sometimes months later. Clearly that doesn’t work in an Agile world where delivery happens after every Sprint.

@@ -1,7 +1,7 @@
 ---
 title: "Business Analyst in Scrum"
 date: "2021-05-03"
-relatedTerms: 'quality-assurance-in-scrum', 'ux'
+relatedTerms: ['quality-assurance-in-scrum', 'ux']
 ---
 
 In traditional approaches, the **Business Analyst** gathers the requirements months or years ahead of the team. Clearly that doesn't work in an Agile world. Scrum doesn't define any traditional roles inside the team: BA, QA, DBA, Dev, UX - instead everyone is a Developer or, better yet, a doer. This creates discomfort, but also opportunities.

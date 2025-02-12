@@ -1,7 +1,7 @@
 ---
 title: "User Story"
 date: "2023-11-09"
-relatedTerms: 'acceptance-criteria', 'user-story-splitting'
+relatedTerms: ['acceptance-criteria', 'user-story-splitting']
 ---
 
 In Scrum, a **User Story** is a tool used to provoke, and then summarize, a conversation between the Development Team and their Product Owner, for a better understanding of an item on the Product Backlog. The User Story provides context regarding who a Product Backlog Item is being developed for, and why it is of value.

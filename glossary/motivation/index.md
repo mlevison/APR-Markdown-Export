@@ -1,7 +1,7 @@
 ---
 title: "Motivation"
 date: "2021-05-20"
-relatedTerms: 'arc-motivational-model', 'scarf-model'
+relatedTerms: ['arc-motivational-model', 'scarf-model']
 ---
 
 Traditional approaches in the workplace assume that there is a strong linkage between **motivation** and financial reward. Theory is, if you pay people enough money, they will be engaged. Yet we know from watching everyone's favorite [Dan Pink video](https://www.youtube.com/watch?v=u6XAPnuFjJc) that isn't the case. Don’t assume that you know what motivates - trust the research. Read psychologist Fredrick Herzberg's work. Specifically, how job satisfaction and job dissatisfaction are not opposites. The opposite of Satisfaction is No Satisfaction. The opposite of Dissatisfaction is No Dissatisfaction.

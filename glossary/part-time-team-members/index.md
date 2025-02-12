@@ -1,7 +1,7 @@
 ---
 title: "Part-time Team Members"
 date: "2021-12-03"
-relatedTerms: 'cross-functional-teams', 'cross-skilling', 'multitasking', 'scrum-team'
+relatedTerms: ['cross-functional-teams', 'cross-skilling', 'multitasking', 'scrum-team']
 ---
 
 People should be dedicated to one and only one team. The science of team work shows this over and over again. Yet, on occasion, we’re stuck when we have one person and their skills are unique enough that we can’t avoid having them work in multiple teams as **part-time members**.

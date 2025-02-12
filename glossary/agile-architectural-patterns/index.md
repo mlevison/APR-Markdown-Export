@@ -1,7 +1,7 @@
 ---
 title: "Agile Architectural Patterns"
 date: "2021-07-09"
-relatedTerms: 'agile-architects', 'agile-architecture'
+relatedTerms: ['agile-architects', 'agile-architecture']
 ---
 
 #### Resource Links:

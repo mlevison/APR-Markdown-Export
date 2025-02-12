@@ -1,7 +1,7 @@
 ---
 title: "Special Teams"
 date: "2021-04-20"
-relatedTerms: 'cross-functional-teams', 'scrum-team'
+relatedTerms: ['cross-functional-teams', 'scrum-team']
 ---
 
 Sometimes organizations form **Special Teams** assigned to tackle technical bugs or other challenges. Frequently, these special teams make the very problem that they're meant to solve, worse.

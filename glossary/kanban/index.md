@@ -2,7 +2,7 @@
 title: "Kanban"
 date: "2021-04-30"
 coverImage: "2017CSM-Sample-Scrum-Task-Board-v2.jpg"
-relatedTerms: 'cumulative-flow-diagram', 'metrics-and-measurement', 'scrum-vs-kanban', 'work-in-progress'
+relatedTerms: ['cumulative-flow-diagram', 'metrics-and-measurement', 'scrum-vs-kanban', 'work-in-progress']
 ---
 
 **Kanban** isn't just a board that you find in JIRA or Trello. It is a method to help improve the flow of work through a system. A kanban board is one way to visualize the work in your system, but use of a board alone will not improve things. Kanban, done as intended, requires discipline and the habit of continuous experimental improvement of the system. (Strangely, it has this in common with all Agile approaches.)

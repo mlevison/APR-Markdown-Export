@@ -1,7 +1,7 @@
 ---
 title: "Large Scale Scrum"
 date: "2023-05-18"
-relatedTerms: 'causal-loop-diagrams', 'scaling-and-large-teams'
+relatedTerms: ['causal-loop-diagrams', 'scaling-and-large-teams']
 ---
 
 **LeSS, aka Large Scale Scrum.** The abbreviation leads to some good puns (do more with LeSS). There isn’t a one-size-fits-all solution to scaling. When the topic comes up, I recommend starting with LeSS because it was derived from running experiments, and it adds the minimum additional overhead to one team Scrum.

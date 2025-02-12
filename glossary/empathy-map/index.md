@@ -1,7 +1,7 @@
 ---
 title: "Empathy Map"
 date: "2022-02-02"
-relatedTerms: 'lean-startup', 'personas', 'product-vision'
+relatedTerms: ['lean-startup', 'personas', 'product-vision']
 ---
 
 **Empathy Maps** are a tool to help us record what we understand about our audience. The maps prompt the team to answer questions about what the users do, say, hear, see, etc. In the course of building the map the team gains greater empathy for the users.

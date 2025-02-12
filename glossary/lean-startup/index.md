@@ -1,7 +1,7 @@
 ---
 title: "Lean Startup"
 date: "2021-04-28"
-relatedTerms: 'lean-startup-experiments'
+relatedTerms: ['lean-startup-experiments']
 ---
 
 **Lean Startup** is a way for a group of people with a product idea to test it with the market and gain rapid feedback on whether the world wants what they're building.  "Love the Problem, Not Your Solution" - Ash Maurya. In this approach, the team work to discover their biggest risk, and then run a small experiment to validate their choices. Lean Startup is the source of the badly misunderstood MVP and the mis-used Pivot.

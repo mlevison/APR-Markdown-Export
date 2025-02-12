@@ -1,7 +1,7 @@
 ---
 title: "Product Backlog"
 date: "2021-03-23"
-relatedTerms: 'product-backlog-refinement'
+relatedTerms: ['product-backlog-refinement']
 ---
 
 The **Product Backlog** is an ordered list of all the work items or value the Product Owner would like to see the Team work on in the foreseeable future. These items are called Product Backlog Items (PBIs).

@@ -1,7 +1,7 @@
 ---
 title: "Interruptions"
 date: "2021-03-02"
-relatedTerms: 'multitasking', 'work-in-progress'
+relatedTerms: ['multitasking', 'work-in-progress']
 ---
 
 Team members get interrupted throughout their working day. Some of the interruptions are high value - e.g. a team member asking questions that helps the team stay in flow. Some are important, such as a production support issue, although we should understand their cost to see where to improve our system. In other cases, the interruptions are from outside the team and most of these interruptions should be blocked by the ScrumMaster or Product Owner, and redirected or saved for a better time.
