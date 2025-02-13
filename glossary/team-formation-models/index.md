@@ -1,6 +1,7 @@
 ---
 title: "Team Formation Models"
 date: "2022-05-30"
+excerpt: '**Team Formation Models** are helpful in understanding what state a team is at, and then'
 ---
 
 **Team Formation Models** are helpful in understanding what state a team is at, and then using that information to make an educated guess as to what will help them progress. There are a large number of models to be found, however many of them don't appear to offer any evidence to support their validity.

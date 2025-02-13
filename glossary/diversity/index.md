@@ -1,6 +1,7 @@
 ---
 title: "Diversity"
 date: "2023-09-20"
+excerpt: '**Diversity in Agile** helps reduce the risk of problems created through cognitive and'
 ---
 
 **Diversity in Agile** helps reduce the risk of problems created through cognitive and other biases, by ensuring the Scrum team has access to a wider range of ideas.

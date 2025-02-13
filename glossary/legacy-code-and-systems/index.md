@@ -2,6 +2,7 @@
 title: "Legacy Code and Systems"
 date: "2021-05-04"
 relatedTerms: ['approval-tests', 'technical-debt']
+excerpt: 'Legacy code is often described as code checked into the system without a unit test. A'
 ---
 
 Legacy code is often described as code checked into the system without a unit test. A popular definition from Michael Feathers, author of Working Effectively with Legacy Code.

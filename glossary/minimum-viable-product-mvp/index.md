@@ -1,6 +1,7 @@
 ---
 title: "Minimum Viable Product [MVP]"
 date: "2022-09-30"
+excerpt: '**MVP or Minimum Viable Product** is often misunderstood, and confused with MCF - Minimum'
 ---
 
 **MVP or Minimum Viable Product** is often misunderstood, and confused with MCF - Minimum Crappy Feature. Where MCF is the minimum version of a product or feature that a customer could live with, Minimum Viable Product is intended to focus on the team learning from customer use of their feature/experiment.

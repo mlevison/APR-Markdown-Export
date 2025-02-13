@@ -1,6 +1,7 @@
 ---
 title: "Technical Debt"
 date: "2021-05-04"
+excerpt: '**Technical Debt** is a deeply misunderstood term. It was originally coined at the'
 ---
 
 **Technical Debt** is a deeply misunderstood term. It was originally coined at the beginning of Agile time by Ward Cunningham - from 1992:

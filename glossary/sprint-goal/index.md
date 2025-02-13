@@ -1,6 +1,7 @@
 ---
 title: "Sprint Goal"
 date: "2021-03-26"
+excerpt: '**Sprint Goal** is a single product objective shared by the Scrum Team that describes the'
 ---
 
 **Sprint Goal** is a single product objective shared by the Scrum Team that describes the purpose of the Sprint and ensures that everyone moves in the same direction. A simply-stated goal makes it easier to prioritize Product Backlog Items, assess whether tests and feedback are relevant to the goal, and summarize the work currently being done when asked by stakeholders. _Sprint Goals are hard and not well understood. As a result, many teams skip or avoid them, but this is a missed opportunity._

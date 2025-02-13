@@ -1,6 +1,7 @@
 ---
 title: "Trunk Based Development"
 date: "2021-04-23"
+excerpt: 'Git, Mercurial and other **source control** tools provide robust and easy to use'
 ---
 
 Git, Mercurial and other **source control** tools provide robust and easy to use **branching capabilities**. For work with OpenSource software —where anyone could be a contributor and the environment is low trust— the use of branches is useful. For modern Agile teams attempting to continually improve (refactor) the code and use tools like Continuous Integration, Continuous Delivery etc, long-lived (> 1 day) branches just add overhead. If you've ever experienced merge hell, you know the problem. If you've delayed a refactoring because it would make the branch harder to merge, your code has suffered. The long-lived feature branching strategy became popular under the name "GitFlow", which even [Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) (not known for being leading edge) says, "_Gitflow has fallen in popularity in favor of trunk-based workflows, which are now considered best practices for modern continuous software development and DevOps practices._"

@@ -1,6 +1,7 @@
 ---
 title: "Persona"
 date: "2021-04-28"
+excerpt: 'A **Persona** is a fictional character created to represent a group of users of a product.'
 ---
 
 A **Persona** is a fictional character created to represent a group of users of a product. A persona is based in research of real users, usually discovered through structured interviews. The use of structure interviews helps reduce the cognitive biases of the researcher doing the work.

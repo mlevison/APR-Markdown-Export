@@ -1,6 +1,7 @@
 ---
 title: "Portfolio Management"
 date: "2021-03-22"
+excerpt: 'Agile **Portfolio Management** is a tool for a group of teams that have too many major'
 ---
 
 Agile **Portfolio Management** is a tool for a group of teams that have too many major chunks of work in flight. Traditional Portfolio Management is centred around the idea that we fund projects and assign people (or fractions of these people) to work on the project. By contrast in an Agile world, we have a fixed number of stable teams, so we can only have one project or major chunk of work being worked on by any one team at a time. This is a form of Limiting Work In Progress per team.

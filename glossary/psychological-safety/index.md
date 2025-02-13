@@ -2,6 +2,7 @@
 title: "Psychological Safety"
 date: "2021-03-25"
 relatedTerms: ['scrum-team']
+excerpt: '**Psychological safety** is about being part of a team and knowing that you can share'
 ---
 
 **Psychological safety** is about being part of a team and knowing that you can share ideas and information without fear. Psychological safety isn’t the avoidance of conflict, rather it is knowing that we can share information inside a team instead of focusing on protecting ourselves.

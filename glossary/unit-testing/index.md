@@ -2,6 +2,7 @@
 title: "Unit Testing"
 date: "2021-03-08"
 relatedTerms: ['agile-testing', 'code-smells']
+excerpt: '**Unit Testing** is an approach to test small, isolated chunks of code that prove whether'
 ---
 
 **Unit Testing** is an approach to test small, isolated chunks of code that prove whether the method did what the developer intended when the test was written. This means testing only one specific aspect or path, through a single method, producing one result.\[[1](#footnotes)\] Since most methods have multiple paths through them, they need multiple tests.

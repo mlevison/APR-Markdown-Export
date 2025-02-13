@@ -1,6 +1,7 @@
 ---
 title: "Agile"
 date: "2021-03-23"
+excerpt: '**Agile** is a _mindset_ for doing work in a team environment that improves teamwork,'
 ---
 
 **Agile** is a _mindset_ for doing work in a team environment that improves teamwork, professional performance, and adaptability. The Agile mindset is focused on adapting to changing customer needs while still delivering a high-quality product, and is defined by the values and principles in the [Agile Manifesto](https://agilemanifesto.org/).

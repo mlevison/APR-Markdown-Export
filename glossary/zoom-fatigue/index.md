@@ -1,6 +1,7 @@
 ---
 title: "Zoom Fatigue"
 date: "2021-04-20"
+excerpt: 'During the COVID-19 pandemic, we learned the hard way that being on Zoom, or any other'
 ---
 
 During the COVID-19 pandemic, we learned the hard way that being on Zoom, or any other video conferencing system, wears us down.

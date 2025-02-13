@@ -1,6 +1,7 @@
 ---
 title: "Systems Thinking"
 date: "2021-04-30"
+excerpt: '**Systems Thinking** takes the view that any problem we're working on is part of a larger,'
 ---
 
 **Systems Thinking** takes the view that any problem we're working on is part of a larger, interconnected system. Instead of making a quick fix, Systems Thinking encourages us to work with our team to discover the larger context that surrounds our current problem.

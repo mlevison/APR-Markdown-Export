@@ -1,6 +1,7 @@
 ---
 title: "Agile Game Development"
 date: "2021-06-24"
+excerpt: '**Agile Game Development** is different from classical software development. Building a'
 ---
 
 **Agile Game Development** is different from classical software development. Building a game from scratch will require a broader group of people than we're used to: Artists (multiple kinds), Animators, Sound Designer, Game Designers, etc. In a normal Scrum team, we expect a high degree of Cross-skilling - e.g. a programmer learning the basics of Quality Assurance or User Experience work. It is unlikely that people will cross-skill from Programmer to Artist/Sound Designer in the course of building a game.

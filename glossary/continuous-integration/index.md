@@ -1,6 +1,7 @@
 ---
 title: "Continuous Integration [CI]"
 date: "2021-03-08"
+excerpt: 'In software development, **Continuous Integration** is the practice of merging all'
 ---
 
 In software development, **Continuous Integration** is the practice of merging all developers' working code to the main or head branch several times a day. This makes other practices from Automated Builds -> Continuous Delivery possible. _Note: contrary to popular belief, Continuous Integration is the habit of frequent checkins and not the build automation. The automated builds are the supporting tools that make CI practical._

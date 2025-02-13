@@ -2,6 +2,7 @@
 title: "Agile Architecture"
 date: "2021-07-07"
 relatedTerms: ['agile-architects', 'agile-architectural-patterns']
+excerpt: '**Agile Architecture** emphasizes the **minimum** amount of design upfront, and focusing'
 ---
 
 **Agile Architecture** emphasizes the **minimum** amount of design upfront, and focusing on building something and evolving the architecture as our understanding changes.

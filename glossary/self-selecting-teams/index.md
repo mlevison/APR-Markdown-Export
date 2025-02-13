@@ -2,6 +2,7 @@
 title: "Self-Selecting Teams"
 date: "2023-06-27"
 relatedTerms: ['scrum-teams', 'self-organization']
+excerpt: 'The default assumption when creating a new team is that the management and team leads will'
 ---
 
 The default assumption when creating a new team is that the management and team leads will do the selecting and organizing. (Wait, team leads... are they even part of Scrum?) When a team is formed this way and then members are told that they have autonomy and they can self-organize, there is a bit of a dichotomy.

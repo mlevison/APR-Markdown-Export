@@ -1,6 +1,7 @@
 ---
 title: "Work Week"
 date: "2021-07-28"
+excerpt: 'Our modern work week of five days on and two days off is nothing more than an accident of'
 ---
 
 Our modern work week of five days on and two days off is nothing more than an accident of history. Many organizations, and now even countries, are experimenting with what is most effective.

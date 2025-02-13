@@ -1,6 +1,7 @@
 ---
 title: "Agile Contracts"
 date: "2021-03-22"
+excerpt: 'Traditional fixed price, fixed outcome contracts don't fare well in an Agile world. The'
 ---
 
 Traditional fixed price, fixed outcome contracts don't fare well in an Agile world. The traditional approach puts the emphasis on getting the details right up front. **Agile Contracts** acknowledge that it isn't possible to know everything at the start. They turn the procurement process into an exploration between the customer and the vendor.

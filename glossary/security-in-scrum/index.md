@@ -1,6 +1,7 @@
 ---
 title: "Security in Scrum"
 date: "2021-04-26"
+excerpt: 'How do we build Secure products in Scrum? In a world where the development team deliver'
 ---
 
 How do we build Secure products in Scrum? In a world where the development team deliver value every Sprint, it is hard to see how to ensure products are secure and still delivered every Sprint.

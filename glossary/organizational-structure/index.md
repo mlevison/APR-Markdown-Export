@@ -2,6 +2,7 @@
 title: "Organizational Structure"
 date: "2022-07-13"
 relatedTerms: ['scaled-agile-framework-scaling-and-large-teams']
+excerpt: 'It's strange to start becoming Agile and assume that **Organizational Structure** won't'
 ---
 
 It's strange to start becoming Agile and assume that **Organizational Structure** won't change. As Agile steers an organization to focus on Product and improving effectiveness, the structure must change too.

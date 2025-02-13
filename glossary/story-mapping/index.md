@@ -2,6 +2,7 @@
 title: "Story Mapping"
 date: "2021-04-22"
 relatedTerms: ['impact-mapping', 'roadmaps-and-strategy']
+excerpt: 'A **Story Map** is a way to help visualize the flow or story of a product. Across the top'
 ---
 
 A **Story Map** is a way to help visualize the flow or story of a product. Across the top or horizontal axis of the map we place the major steps (often features) in the user's workflow. Underneath each step or feature are the individual stories that would build out the portion of the product.

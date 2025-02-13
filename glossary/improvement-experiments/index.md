@@ -1,6 +1,7 @@
 ---
 title: "Improvement Experiments"
 date: "2021-05-10"
+excerpt: 'Agile teams attempt to use Retrospectives as a tool for Team Improvement. Yet our'
 ---
 
 Agile teams attempt to use Retrospectives as a tool for Team Improvement. Yet our improvements often lead nowhere. Consider making your improvements into concrete actions, or even full-blown experiments, and adding them to the Sprint Backlog.

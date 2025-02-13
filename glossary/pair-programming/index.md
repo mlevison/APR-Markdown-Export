@@ -2,6 +2,7 @@
 title: "Pair Programming"
 date: "2021-05-05"
 relatedTerms: ['agile-engineering-practices', 'ensemble-programming']
+excerpt: '**Pair Programming** is when two people write code together on one machine. This'
 ---
 
 **Pair Programming** is when two people write code together on one machine. This collaboration helps improve code quality, readability, and simplicity. Not only is it an on-the-fly code review, since it has two pairs of eyes looking it over, but it is also a form of design review, thereby beating regular code reviews on several fronts. Pairing also helps with Sprint progress by moving the focus to completing stories and limiting the WIP. There are too many other benefits to list in a short glossary entry.

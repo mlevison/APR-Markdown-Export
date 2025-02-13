@@ -2,6 +2,7 @@
 title: "Causal Loop Diagram"
 date: "2021-05-12"
 relatedTerms: ['improvement-experiments', 'large-scale-scrum-less', 'systems-thinking']
+excerpt: 'A **Causal Loop Diagram** is a visual representation and reference that helps to'
 ---
 
 A **Causal Loop Diagram** is a visual representation and reference that helps to understand cause and effect connections. It works best when people work together to create it, and the collaboration is used to tease out the common understanding of a problem. I like using them with teams to help think about moving beyond the Quick Fix mentality to deeper, more systemic solutions.

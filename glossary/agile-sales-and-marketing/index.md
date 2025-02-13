@@ -1,6 +1,7 @@
 ---
 title: "Agile Sales and Marketing"
 date: "2022-02-02"
+excerpt: '**Sales and Marketing** are challenged in the same way that software development was over'
 ---
 
 **Sales and Marketing** are challenged in the same way that software development was over 20 years ago. The work is often split over multiple groups, and individuals may be working on many things at the same time, with several competing deadlines. With all of the challenges the world of Sales and Marketing face, it's ripe for a change toward being more Agile.

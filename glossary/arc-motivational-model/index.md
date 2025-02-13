@@ -1,6 +1,7 @@
 ---
 title: "ARC Motivational Model"
 date: "2022-12-02"
+excerpt: '**ARC motivation model** is part of Self Determination Theory, which shows there are two'
 ---
 
 **ARC motivation model** is part of Self Determination Theory, which shows there are two kinds of motivation: Intrinsic and Extrinsic.

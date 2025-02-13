@@ -1,6 +1,7 @@
 ---
 title: "ScrumMaster Role"
 date: "2021-07-27"
+excerpt: 'The **ScrumMaster** is one of the more poorly-named aspects of Scrum. The intended meaning'
 ---
 
 The **ScrumMaster** is one of the more poorly-named aspects of Scrum. The intended meaning isn’t to imply a controller or giver of orders. Rather, a ScrumMaster is expected to have Mastery of the knowledge of Scrum. _This is a fairly tall order since Scrum touches on many parts of organizational life so true mastery takes years._

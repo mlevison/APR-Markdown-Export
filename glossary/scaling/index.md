@@ -2,6 +2,7 @@
 title: "Scaling and Large Teams"
 date: "2021-05-06"
 relatedTerms: ['large-scale-scrum-less', 'scaled-agile-framework-safe']
+excerpt: 'When attempting to get many teams to work effectively together in an Agile world, we need'
 ---
 
 When attempting to get many teams to work effectively together in an Agile world, we need some coordination model. This is typically referred to as **Scaling**. Be careful, many approaches do this by adding more layers, additional ceremonies, and handoffs. All of this takes the teams further away from delivering value to the customer.

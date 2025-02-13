@@ -2,6 +2,7 @@
 title: "Complexity and the Cynefin Framework"
 date: "2021-02-08"
 relatedTerms: ['estimation']
+excerpt: 'We encounter complexity whenever we're asked to estimate how long it will take to fix a'
 ---
 
 We encounter complexity whenever we're asked to estimate how long it will take to fix a bug. Or when we're asked how long it will take to bring a novel product to market. We don't know what we can't know.

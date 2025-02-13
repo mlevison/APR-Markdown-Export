@@ -1,6 +1,7 @@
 ---
 title: "Decision Making Tools"
 date: "2021-11-03"
+excerpt: 'Agile Teams need to make small decisions frequently. Many teams experiment with majority'
 ---
 
 Agile Teams need to make small decisions frequently. Many teams experiment with majority rules and quickly discover that it's a way to ensure a few team members feel ignored. Usually it's the quiet people who get missed.

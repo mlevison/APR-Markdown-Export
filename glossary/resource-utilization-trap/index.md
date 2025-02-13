@@ -2,6 +2,7 @@
 title: "Resource Utilization Trap"
 date: "2021-07-29"
 relatedTerms: ['metrics-and-measurement', 'slack']
+excerpt: 'In many organizations, the people who do the work are treated like economic resources'
 ---
 
 In many organizations, the people who do the work are treated like economic resources (think: iron ore) and it’s felt that they have a price, and so must be utilized to maximize their value. Except these resources are actually human _beings_. Labelling it “human _resources_” is far more ironic than helpful.

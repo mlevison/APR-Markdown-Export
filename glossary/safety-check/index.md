@@ -2,6 +2,7 @@
 title: "Safety Check"
 date: "2022-08-03"
 relatedTerms: ['sprint-retrospective', 'psychological-safety']
+excerpt: 'A team **safety check** is a way of understanding the team’s readiness to be open and'
 ---
 
 A team **safety check** is a way of understanding the team’s readiness to be open and honest. It starts with a question like “Are you able to be open and honest and say everything that needs to be said in this retrospective?”

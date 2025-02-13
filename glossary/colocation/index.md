@@ -1,6 +1,7 @@
 ---
 title: "Colocation"
 date: "2021-03-10"
+excerpt: '**Colocation** is when team members are in the same physical location so in-person'
 ---
 
 **Colocation** is when team members are in the same physical location so in-person interaction and collaboration can take place. While the Scrum Guide does not specify that teams must be co-located, one of the principles of the Agile Manifesto states "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation."

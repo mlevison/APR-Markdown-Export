@@ -1,6 +1,7 @@
 ---
 title: "Scrum vs Kanban"
 date: "2021-07-07"
+excerpt: '**Scrum** is a tool that organizes a team to deliver value to a customer. Along the way,'
 ---
 
 **Scrum** is a tool that organizes a team to deliver value to a customer. Along the way, the team is expected to improve the product and also the way they work together. **Kanban** is a tool to improve the flow of work through your existing process. As a famous ad from the '70s suggested, they work better together.

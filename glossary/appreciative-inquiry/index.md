@@ -1,6 +1,7 @@
 ---
 title: "Appreciative Inquiry"
 date: "2023-08-02"
+excerpt: '**Appreciative Inquiry** is an approach to team development and organizational change that'
 ---
 
 **Appreciative Inquiry** is an approach to team development and organizational change that works by focusing on the strengths and positive aspects of the current system. This is in contrast to most approaches for improvement which get you to find out what is wrong with a system and then fix it. This can create ongoing negative mindset, with all of the problems the team or organization has. In addition, we can end up with a system full of band-aid fixes.

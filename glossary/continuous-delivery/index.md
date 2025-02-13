@@ -2,6 +2,7 @@
 title: "Continuous Delivery and Deployment"
 date: "2021-05-05"
 relatedTerms: ['agile-engineering-practices', 'continuous-integration', 'devops']
+excerpt: '**Continuous Delivery** is the game of delivering features to Production whenever a change'
 ---
 
 **Continuous Delivery** is the game of delivering features to Production whenever a change is made. It shortens the feedback, and even the payment cycle, because you are delivering product more frequently. Because the steps are run multiple times a Sprint, teams need to automate all of the steps along the way to deployment.

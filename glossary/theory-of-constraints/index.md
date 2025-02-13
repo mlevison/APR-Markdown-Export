@@ -2,6 +2,7 @@
 title: "Theory of Constraints"
 date: "2022-11-25"
 relatedTerms: ['bottlenecks', 'slack']
+excerpt: 'The **Theory of Constraints** is a system improvement tool. It illustrates how in a system'
 ---
 
 The **Theory of Constraints** is a system improvement tool. It illustrates how in a system where we find a bottleneck, the bottleneck is the constraint that limits the performance of the entire system.

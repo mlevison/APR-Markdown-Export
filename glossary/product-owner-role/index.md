@@ -1,6 +1,7 @@
 ---
 title: "Product Owner Role"
 date: "2021-04-30"
+excerpt: '**"The Product Owner** owns the product that the team is building." “The Product Owner is'
 ---
 
 **"The Product Owner** owns the product that the team is building." “The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team.” \[[1](#footnotes)\]

@@ -1,6 +1,7 @@
 ---
 title: "Pull Requests"
 date: "2024-10-10"
+excerpt: 'Pull Requests are a proposal to merge a set of changes from one branch to another. They'
 ---
 
 Pull Requests are a proposal to merge a set of changes from one branch to another. They emerged from the world of open source and are optimized for low-trust, low-communication environments.

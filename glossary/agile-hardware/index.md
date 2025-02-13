@@ -1,6 +1,7 @@
 ---
 title: "Agile Hardware"
 date: "2021-02-08"
+excerpt: 'Agile approaches have taken over the world of software, because teams that deliver value'
 ---
 
 Agile approaches have taken over the world of software, because teams that deliver value sooner with higher quality beat the slow. Hardware teams face challenges software teams do not: Cost of Fabricating new hardware; Lead time for new parts; Cost of Change; Lack of test automation Infrastructure; How to iterate on hardware components separately; Compliance; Proof of Safety, Dependancies; ...

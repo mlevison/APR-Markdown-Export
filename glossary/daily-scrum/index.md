@@ -1,6 +1,7 @@
 ---
 title: "Daily Scrum"
 date: "2021-02-08"
+excerpt: 'The **Daily Scrum** is the daily meeting where the Scrum Team get ready to collaborate for'
 ---
 
 The **Daily Scrum** is the daily meeting where the Scrum Team get ready to collaborate for the day, and check if they’re still on track to complete their goal forecast by the end of the Sprint.

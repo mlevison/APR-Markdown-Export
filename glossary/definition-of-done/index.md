@@ -1,6 +1,7 @@
 ---
 title: "Definition of Done"
 date: "2023-11-29"
+excerpt: '**Definition of Done** is the official checklist that Scrum Teams maintain of the'
 ---
 
 **Definition of Done** is the official checklist that Scrum Teams maintain of the qualities they intend their work to achieve. It helps the team assess whether their work is truly completed and deliverable to the client as having added value. It also helps them in Sprint Planning by reminding them of the quality they have committed to achieving, ensuring they only commit to Product Backlog Items (PBIs) that they can get to truly “Done.”

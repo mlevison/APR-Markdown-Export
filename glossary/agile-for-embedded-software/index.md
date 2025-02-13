@@ -1,6 +1,7 @@
 ---
 title: "Agile for Embedded Software"
 date: "2021-02-08"
+excerpt: 'Embedded Software Development is about building software that is installed inside a device'
 ---
 
 Embedded Software Development is about building software that is installed inside a device example: thermostat, car engine controller, planes, WiFi router, Bluetooth Keyboard/Mouse, Camera, Roomba Vacuums. Typically Embedded software works without a user interface and often without any human interaction. Embedded Software teams face challenges that other Agile teams typically don't face:

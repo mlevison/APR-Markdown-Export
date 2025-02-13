@@ -1,6 +1,7 @@
 ---
 title: "Vision"
 date: "2021-03-08"
+excerpt: 'The **Product Vision** is a shared understanding of the overall goal and purpose for'
 ---
 
 The **Product Vision** is a shared understanding of the overall goal and purpose for creating a product. Your vision describes the motivation behind creating the product, it is not the product itself.

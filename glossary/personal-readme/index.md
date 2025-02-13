@@ -2,6 +2,7 @@
 title: "Personal README"
 date: "2024-03-06"
 relatedTerms: ['working-agreements']
+excerpt: 'Github style READMEs can be turned to personal use. A Personal README, aka Personal'
 ---
 
 Github style READMEs can be turned to personal use. A Personal README, aka Personal Manual, is a document that describes how a person likes to communicate (Slack, email, text message, …), their timezone, the hours they like to work, etc. Most include enough information that a new teammate knows a little bit about their new colleague on a personal level as well.

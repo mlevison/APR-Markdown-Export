@@ -2,6 +2,7 @@
 title: "Sprint"
 date: "2021-03-23"
 relatedTerms: ['sprint-length', 'sprint-goal', 'sprint-planning', 'sprint-backlog', 'daily-scrum', 'product-backlog-refinement', 'sprint-review', 'sprint-retrospective']
+excerpt: 'A **Sprint** is a fixed period, ranging from one week to one month in length, during which'
 ---
 
 A **Sprint** is a fixed period, ranging from one week to one month in length, during which the Scrum Team works to meet specific customer needs. As one Sprint ends, the next Sprint begins. The purpose of defining the work period is that it enables the Team to focus on a limited and prioritized number of features, and it encourages the delivery of at least some completed work to the customer each Sprint.

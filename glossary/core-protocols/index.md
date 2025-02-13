@@ -2,6 +2,7 @@
 title: "Core Protocols"
 date: "2021-04-22"
 relatedTerms: ['working-agreements']
+excerpt: 'A set of **protocols** that can aid teams in improving communications. They're modelled on'
 ---
 
 A set of **protocols** that can aid teams in improving communications. They're modelled on a similar principle to Design patterns.

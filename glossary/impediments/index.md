@@ -1,6 +1,7 @@
 ---
 title: "Impediments"
 date: "2023-11-10"
+excerpt: 'In the context of a Scrum team, _**anything that slows the team’s progress towards'
 ---
 
 In the context of a Scrum team, _**anything that slows the team’s progress towards the Sprint Goal is an impediment.**_ And since one of the primary responsibilities in the role as Scrum Master is removing impediments to the Scrum team’s progress, it’s important to have a clear understanding on this point.

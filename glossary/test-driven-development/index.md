@@ -1,6 +1,7 @@
 ---
 title: "Test Driven Development [TDD]"
 date: "2021-04-23"
+excerpt: '**Test Driven Development (TDD)** is the engineering practice where the developer writes'
 ---
 
 **Test Driven Development (TDD)** is the engineering practice where the developer writes their Unit Test case before they write their code. Like Unit Testing, it is not a replacement for Exploratory Testing nor will Testers be unemployed. Instead, it forces a Developer to declare their intentions before they start to write the code. By declaring their intentions in a testable form first, they’re forced to take time and reflect more carefully on what they’re trying to achieve. As a side effect, developers write code that is simpler and more readable. In addition, code that is written “Test First” tends to be better isolated from other classes and methods because the developer was challenged to minimize dependencies to make it easier to test.

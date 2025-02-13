@@ -1,6 +1,7 @@
 ---
 title: "Production Support"
 date: "2021-04-23"
+excerpt: 'When a team has a product that is live in the field, they need a pattern to handle the'
 ---
 
 When a team has a product that is live in the field, they need a pattern to handle the support issues that come up, so that the critical defects get fixed rapidly and the team is still able to focus on delivering value.
