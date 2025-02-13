@@ -10,13 +10,13 @@ Ideally our cross-functional team owns the work from the moment a feature or ide
 
 Typical initial case:
 
-![Typical Scrum Team](images/DevOps-Mindset-Kanban-Board-Typical-Scrum-Team-1024x161.png)
+![Typical Scrum Team](src/content/glossary/cross-functional-teams/images/DevOps-Mindset-Kanban-Board-Typical-Scrum-Team-1024x161.png)
 
  
 
 Example of a team that owns their value stream from end to end:
 
-![Truly Cross-Functional Scrum Team](images/DevOps-Mindset-Kanban-Board-blog-variation-2-1024x170.jpg)
+![Truly Cross-Functional Scrum Team](src/content/glossary/cross-functional-teams/images/DevOps-Mindset-Kanban-Board-blog-variation-2-1024x170.jpg)
 
 Traditionally groups are often organized into departments by role or job title – e.g. the Development Department and Quality Assurance group. But **cross-functional teams are not departments**, and shouldn’t be treated as synonymous. We will explore why departments, often referred to as silos, are not as effective and why cross-functional teams are a better choice.
 

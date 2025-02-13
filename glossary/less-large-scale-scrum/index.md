@@ -26,7 +26,7 @@ All teams have the same Sprint start and end, meaning they can then do coordinat
 
 LeSS also provides guidance on multi-team Product Backlog Refinement, however the details are more involved than we can cover in a glossary entry.
 
-![Why LeSS image - creative commons usage, original by less.works ](images/why-LeSS.png)
+![Why LeSS image - creative commons usage, original by less.works ](src/content/glossary/less-large-scale-scrum/images/why-LeSS.png)
 
 LeSS has a few other rules that are important to mention here:
 
@@ -37,7 +37,7 @@ LeSS has a few other rules that are important to mention here:
 
 The principles exist in place of hard and fast rules to aid in guiding decisions.
 
-![LeSS principles image - creative commons usage, original by less.works ](images/LeSS-principles.png)
+![LeSS principles image - creative commons usage, original by less.works ](src/content/glossary/less-large-scale-scrum/images/LeSS-principles.png)
 
 - **Large-Scale Scrum is Scrum** – just because there are some minor adaptations, it doesn’t change the core values
 - **Transparency** – be clear about what is done, use common definitions

@@ -7,7 +7,7 @@ Pull Requests are a proposal to merge a set of changes from one branch to anothe
 
 __If worker busyness were the measure of software productivity, then pull requests would be well__ __suited to the task.__ But we know that's not how quality and productivity are formed.
 
-![Pull Request Scrum Anti-Pattern](images/Pull-Request-Anti-Pattern.jpg)
+![Pull Request Scrum Anti-Pattern](src/content/glossary/pull-requests/images/Pull-Request-Anti-Pattern.jpg)
 
 ****Weaknesses to Pull Requests include:****
 

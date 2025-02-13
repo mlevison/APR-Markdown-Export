@@ -12,7 +12,7 @@ In software development, the single best way to improve quality, and eventually 
 
  
 
-![Agile Engineering Practices](images/Agile-Engineering-Practices-map-small.jpg)
+![Agile Engineering Practices](src/content/glossary/agile-engineering-practices/images/Agile-Engineering-Practices-map-small.jpg)
 
 [Subscribe to receive your free copy of the Agile Engineering Practices and Their Effects Cheat Sheet.](https://www.getdrip.com/forms/194541779/submissions/new)
 

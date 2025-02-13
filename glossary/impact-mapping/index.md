@@ -6,7 +6,7 @@ relatedTerms: ['roadmaps-and-strategy', 'story-mapping']
 
 **Impact Mapping** is a tool to help teams focus their work on the feature by identifying portfolio items or strategic changes that will have the greatest effect on achieving their goal. Impact Maps are intended to be drawn, and not just written in words.
 
-#### ![impact mapping example](images/impact-mapping-WSOBS-example3.png)
+#### ![impact mapping example](src/content/glossary/impact-mapping/images/impact-mapping-WSOBS-example3.png)
 
 [Want to Get the Most Bang for Your Buck? Try Impact Mapping](/blog/to-get-bang-for-your-buck-try-impact-mapping.html)
 

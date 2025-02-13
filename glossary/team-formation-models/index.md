@@ -5,7 +5,7 @@ date: "2022-05-30"
 
 **Team Formation Models** are helpful in understanding what state a team is at, and then using that information to make an educated guess as to what will help them progress. There are a large number of models to be found, however many of them don't appear to offer any evidence to support their validity.
 
-![Tuckman's stages of team formation in Unstable Teams- image owned by Agile Pain Relief Consulting](images/Unstable-Teams-Tuckman-stages.jpg)
+![Tuckman's stages of team formation in Unstable Teams- image owned by Agile Pain Relief Consulting](src/content/glossary/team-formation-models/images/Unstable-Teams-Tuckman-stages.jpg)
 
 The Tuckman Model is the one I refer to most often:
 

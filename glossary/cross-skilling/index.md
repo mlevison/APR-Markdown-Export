@@ -6,7 +6,7 @@ relatedTerms: ['cross-functional-teams', 'ensemble-programming', 'pair-programmi
 
 **Cross-skilling** is where a team member decides (without being pushed) to learn a new skill area. This learning will, of course, take time and in the short term slow the team down. In the long run, the team benefits from the shared knowledge with increased quality, fewer bottlenecks, etc. All of this of course will eventually lead to greater speed.
 
-![cross-skilled team of five vs non cross-skilled team - image by Agile Pain Relief Consulting](images/Cross-skilled-Team-of-5.jpg)
+![cross-skilled team of five vs non cross-skilled team - image by Agile Pain Relief Consulting](src/content/glossary/cross-skilling/images/Cross-skilled-Team-of-5.jpg)
 
 Teams that do not encourage cross-skilling and who have only person who perform a certain activity (e.g. Analysis, Database work, Testing) will suffer a variety of problems:
 

@@ -15,16 +15,16 @@ This topic is insanely deep and much larger than we can cover in a short glossar
 - Tasks or work gets lost
 - Degrades short-term memory (which is probably part of the source of errors)
 
-![Multitasking Kills Individual Productivity](images/Multitasking-Kills-Individual-Productivity-1024x544.png) **Effects of multi-tasking when individuals are members of multiple teams:**
+![Multitasking Kills Individual Productivity](src/content/glossary/multitasking/images/Multitasking-Kills-Individual-Productivity-1024x544.png) **Effects of multi-tasking when individuals are members of multiple teams:**
 
 - Work items are often stuck waiting for a team who is currently switched to another project
 - Coordination overhead is increased
 
-![illustration of the costs of multitasking costs with multi-project assignments - image by Agile Pain Relief Consulting](images/Multi-tasking-Project-Costs-slide1.jpg) Teams working on multiple projects in parallel ensure that all projects get done later.
+![illustration of the costs of multitasking costs with multi-project assignments - image by Agile Pain Relief Consulting](src/content/glossary/multitasking/images/Multi-tasking-Project-Costs-slide1.jpg) Teams working on multiple projects in parallel ensure that all projects get done later.
 
 Key takeaways: Don't split people over multiple teams. Where humanly possible, get teams to focus on one major item at a time.
 
-![illustration of the reduced costs of multitasking with a focused Scrum team - image by Agile Pain Relief Consulting](images/Multi-tasking-Project-Costs-slide3.jpg)
+![illustration of the reduced costs of multitasking with a focused Scrum team - image by Agile Pain Relief Consulting](src/content/glossary/multitasking/images/Multi-tasking-Project-Costs-slide3.jpg)
 
 #### Resource Links:
 

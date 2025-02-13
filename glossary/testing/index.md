@@ -6,7 +6,7 @@ relatedTerms: ['unit-testing']
 
 **Agile Testing** is "collaborative testing practices that occur continuously, from inception to delivery and beyond, supporting frequent delivery of value for our customers. Testing activities focus on building quality into the product, using fast feedback loops to validate our understanding. The practices strengthen and support the idea of whole-team responsibility for quality." - Lisa Crispin and Janet Gregory in _Agile Testing Condensed_.
 
-![Agile Testing Manifesto image courtesy of Sam Laing and Karen Greaves](images/Agile-Testing-Manifesto-722x1024.png)
+![Agile Testing Manifesto image courtesy of Sam Laing and Karen Greaves](src/content/glossary/testing/images/Agile-Testing-Manifesto-722x1024.png)
 
 ## Role
 
@@ -35,7 +35,7 @@ _No separate role - rather a need that a self organizing team needs to fulfill. 
 - Collaborate with Customers
 - See the Big Picture
 
-![Test Automation Pyramid](images/Test-Automation-Pyramid.jpg)
+![Test Automation Pyramid](src/content/glossary/testing/images/Test-Automation-Pyramid.jpg)
 
 #### Resource Links:
 

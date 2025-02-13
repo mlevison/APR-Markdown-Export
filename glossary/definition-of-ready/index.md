@@ -19,13 +19,13 @@ This list has strong parallels to the INVEST criteria and, as long as it remains
 
 A team with a Definition of Ready isn’t optimizing for getting an idea from entering the Product Backlog to Deployed. Instead, they’re optimizing for Sprint Backlog to Deployed. The Definition of Ready acts a gate between the Product Backlog and the Sprint Backlog. Items can be held up at the gate for trivial reasons (e.g. incomplete Acceptance Criteria, missing user interface mockup, etc).
 
-![Scrum Definition of Ready - harmful and helpful examples](images/Definition-of-Ready-harmful-helpful-examples-1024x538.jpg)
+![Scrum Definition of Ready - harmful and helpful examples](src/content/glossary/definition-of-ready/images/Definition-of-Ready-harmful-helpful-examples-1024x538.jpg)
 
 A rigid Definition of Ready encourages local optimization for the throughput of just the Scrum Team. This sounds like a more positive thing than it really is. The problem is that we should be optimizing for the whole system from the moment the customer places asks for their feature, until it is delivered. A rigid “Ready”, makes the Scrum Team look better by improving their cycle time, without necessarily improving things for the client. Imagine an example where a Definition of Ready holds up a feature for 6+ weeks while requirements are being gathered (perhaps the User Interface details, or final Acceptance criteria). Sure, once the work starts, it proceeds at a normal pace, but now the Scrum Team can say that they’ve reduced their cycle time, when all that really happened is the delay was pushed to early in the system. The team feels good but the customer isn't any happier. The customer's item still spent a long time sitting in a queue, and it doesn't matter what the queue was.
 
 For teams that use a Definition of Ready, they should consider measuring Lead Time and not Cycle Time. By measuring Lead Time, any time spent waiting at the Ready gate is accounted for, making it harder to sub-optimize. This also leads to a general principle that says, when measuring, prefer measurements that observe the whole system.
 
-![Lead time Cycle time kanban board example](images/Lead-time-Cycle-time-kanban-board-example.png)
+![Lead time Cycle time kanban board example](src/content/glossary/definition-of-ready/images/Lead-time-Cycle-time-kanban-board-example.png)
 
 My own preference is that, if your team has items that are frequently getting stuck in Sprint, consider a Definition of Ready but only cover the details that are currently causing problems. Hold on to the definition lightly - it shouldn't be rigid, and everything must 100% compliance check. Instead of making statements like "all acceptance criteria", consider "some or enough acceptance criteria have been found". Instead of a "requires a mockup" element, try "features that require large UI changes check to see if a mockup would help, preferring pencil sketches". Finally, as the team matures, check to see if the Definition of Ready can be made thinner by reducing the number of elements in it. Be careful that this doesn’t become a dumping ground  for every little problem the team ever had.
 

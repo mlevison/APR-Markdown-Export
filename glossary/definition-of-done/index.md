@@ -62,7 +62,7 @@ Trying to stuff more work into the pipeline always fails. Instead of more work, 
 
 ## Undone Work
 
-![Undone work vs Truly Done in Scrum](images/Un-Done-and-Done.jpg)
+![Undone work vs Truly Done in Scrum](src/content/glossary/definition-of-done/images/Un-Done-and-Done.jpg)
 
 When a product is not truly releasable at the end of Sprint, the difference is often referred to as Undone work. Why is this a problem? It’s a problem because it reduced transparency. The Product Owner and clients think the team have completed work on those User Stories. Yet the work isn’t complete. Here are a few examples of how the work that looks finished, but doesn’t meet the Definition of Done, becomes a problem later:
 
@@ -86,7 +86,7 @@ The team need to be honest about what is Done and what is not really done. The b
 
 _Eewww._ This sounds very traditional. I only include this because I’ve seen this with clients and we need to stamp it out. Definition of Done is for the Scrum Team to understand the quality of the product they’re creating. It’s not a reporting standard. From the teams I’ve heard from, using it as a reporting standard leads to micro management. Someone reads or hears a report related to Done and asks the team to stop doing some aspect of Done, so they can produce more User Stories. As shown above, this always leads to an increase in defects weeks or months after the initial decision was made.
 
-#### ![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2-1024x607.jpg)
+#### ![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](src/content/glossary/definition-of-done/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2-1024x607.jpg)
 
 [Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html)
 

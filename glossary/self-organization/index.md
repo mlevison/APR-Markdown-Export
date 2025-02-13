@@ -20,7 +20,7 @@ A self-organizing team is one where team members make all relevant decisions on 
 
 Self-organizing teams need both **support** and **space** from management to be able to function effectively. In particular, management need to **make the team’s Goal clear**, and they also need to **set decision-making boundaries**.
 
-**![manager led team with central decision making](images/self-organization-manager-led-team.jpg)Decentralizing decision making** and putting it into the  hands of those who will implement the decisions is the whole point of self-organization. However, many companies claim to embrace self-org, only for someone to say, “Yes, but I still need to make this decision.” Change the default. Most decisions should be left to the team.
+**![manager led team with central decision making](src/content/glossary/self-organization/images/self-organization-manager-led-team.jpg)Decentralizing decision making** and putting it into the  hands of those who will implement the decisions is the whole point of self-organization. However, many companies claim to embrace self-org, only for someone to say, “Yes, but I still need to make this decision.” Change the default. Most decisions should be left to the team.
 
 Without a **Common Purpose and commitment**, team members have no reason to break out of their silos.\[[1](#footnotes)\] In the game of Scrum, their Product Vision is the long-term part of the goal and product strategy is the medium-term goal. Best case scenario, the team members are involved in co-creating the Vision with the stakeholders, so they feel a sense of ownership in addition to having a deeper and clearer understanding.
 
@@ -30,7 +30,7 @@ Creating a **Learning Environment** is a key step to making the team work effect
 
 Finally, leaders and experts should start asking **open-ended questions**. This sends the signal that they’re not presupposing solutions and aren’t imposing their ideas on the team.
 
-![self organizing team oriented toward a common goal](images/self-organization-self-org-team.jpg)
+![self organizing team oriented toward a common goal](src/content/glossary/self-organization/images/self-organization-self-org-team.jpg)
 
 ## Challenges to Becoming a Self-Organizing Scrum Team
 

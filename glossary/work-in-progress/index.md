@@ -8,7 +8,7 @@ In Scrum, **Work in Progress** is the batch of User Stories or Product Backlog I
 
 Work that hasn’t been deployed, shipped, or otherwise delivered to a customer has no real value. Value is only realized when the work is available for use by the customer. The naive assumption is that the more work in progress there is, the more work will get to ‘Done’. Yet evidence is to the contrary. More work in progress results in _less_ work done. (See  The Impact of Agile Quantified for more).
 
-![Limit Work in Progress Kanban board](images/WSOBS-limit-work-in-progress.png)
+![Limit Work in Progress Kanban board](src/content/glossary/work-in-progress/images/WSOBS-limit-work-in-progress.png)
 
 The use of a Kanban board is a simple way to help limit Work in Progress (WIP) by having a column that visually displays the work that exists in that state, and setting a maximum limit of the quantity. The idea is that we shouldn’t start new work before the existing work gets to the Definition of Done.
 

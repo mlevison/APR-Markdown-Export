@@ -13,7 +13,7 @@ We can't prescribe a specific structure, since each organization is unique. Howe
 - The system adapts as business needs change over time
 - A flatter organization, fewer layers of management
 
-\[caption id="attachment\_14150" align="aligncenter" width="1024"\][![Organizational Structure used with permission Jeff Anderson](images/Organizational-Structure-used-with-permission-Jeff-Anderson.png)](https://leanpub.com/agileorganizationdesign) From _[Organizing Toward Agility](https://leanpub.com/agileorganizationdesign)_ by Jeff Anderson, used with permission\[/caption\]
+\[caption id="attachment\_14150" align="aligncenter" width="1024"\][![Organizational Structure used with permission Jeff Anderson](src/content/glossary/organizational-structure/images/Organizational-Structure-used-with-permission-Jeff-Anderson.png)](https://leanpub.com/agileorganizationdesign) From _[Organizing Toward Agility](https://leanpub.com/agileorganizationdesign)_ by Jeff Anderson, used with permission\[/caption\]
 
  
 

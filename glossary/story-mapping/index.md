@@ -10,7 +10,7 @@ Story Maps were invented because their creator Jeff Patton was frustrated with "
 
 [Learning Story Mapping Through Exercises](/blog/learning-story-mapping-exercises.html)
 
-![story mapping example](images/story-mapping.png)
+![story mapping example](src/content/glossary/story-mapping/images/story-mapping.png)
 
 #### Resource Links:
 

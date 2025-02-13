@@ -6,7 +6,7 @@ relatedTerms: ['continuous-delivery-and-deployment', 'definition-of-done']
 
 **DevOps** (also now DevSecOps) is the practice of Development working more closely with Operations. Over time, the Developers automate various aspects of their deployment. In doing so, they reduce the number of defects in the process (by eliminating manual steps) and speed the rate at which applications are deployed. DevSecOps takes these ideas and integrates security into the process. One view is that DevOps is simply a Scrum Team expanding their Definition of Done downstream until their application is deployed. That also hints that the work should be done inside the Development Team and not by a downstream group (there are no "DevOps Teams").
 
-![DevOps Mindset Kanban Board](images/DevOps-Mindset-Kanban-Board-simple-1024x230.png)
+![DevOps Mindset Kanban Board](src/content/glossary/devops/images/DevOps-Mindset-Kanban-Board-simple-1024x230.png)
 
 #### Resource Links:
 

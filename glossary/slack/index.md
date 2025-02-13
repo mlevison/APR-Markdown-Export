@@ -6,7 +6,7 @@ relatedTerms: ['theory-of-constraints']
 
 **Slack**, in the context of Agile/Scrum, is when the time isn't solely focused on delivering. _(It's important not to confuse this with Slack, a popular electronic communication tool, or the general vocabulary word defined as "a spell of inactivity or laziness".)_ 
 
-![](images/healthy-sprint-small.jpg)
+![](src/content/glossary/slack/images/healthy-sprint-small.jpg)
 
 Slack time can be used as buffer to deal with unexpected problems, issues, etc (see: Production Support) and Slack time is also for learning. Problems ensue when the Slack time for learning gets taken over by issues and problems.
 

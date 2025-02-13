@@ -10,7 +10,7 @@ This is where Cynefin helps. Unfortunately, this theory has a complicated descri
 
 Its creator, David Snowden, calls it a sensemaking tool, i.e. a tool to help you understand which domain your current problem lies in, and what actions to take based on that fact.
 
-![](images/cynefin-chart.jpg)
+![](src/content/glossary/complexity/images/cynefin-chart.jpg)
 
 That's a fancy picture with a lot of words.
 

@@ -9,11 +9,11 @@ A Scrum team should work on only a couple of Product Backlog Items (or User Stor
 
 One version is staggered Sprints, where the Business Analysts work one Sprint ahead of the developers and the Quality Assurance people work one behind, as illustrated here with this image by Martin Hinshelwood of [Naked Agility](https://nkdagility.com):
 
-![Staggered Iterations for Delivery - image credit Martin Hinshelwood of Naked Agility](images/staggered-iterations-for-delivery-image-credit-Martin-Hinshelwood-of-Naked-Agility.png)
+![Staggered Iterations for Delivery - image credit Martin Hinshelwood of Naked Agility](src/content/glossary/scrummerfall/images/staggered-iterations-for-delivery-image-credit-Martin-Hinshelwood-of-Naked-Agility.png)
 
 The other version is where everyone pretends to work in the same Sprint but the business analysts are in the lead and QA is at the end.
 
-![Staggered Sprint Starting Point](images/Staggered-Sprint-Starting-Point-1024x613.jpg)
+![Staggered Sprint Starting Point](src/content/glossary/scrummerfall/images/Staggered-Sprint-Starting-Point-1024x613.jpg)
 
 Both versions lead to:
 

@@ -19,7 +19,7 @@ A good facilitator will always have an agenda or plan for an event. A great faci
 
  
 
-![Kaner Diagram of Participation - Divergent Thinking - Groan Zone](images/Kaner-Diagram-of-Participation-Divergent-Thinking-1024x557.jpg)
+![Kaner Diagram of Participation - Divergent Thinking - Groan Zone](src/content/glossary/facilitation/images/Kaner-Diagram-of-Participation-Divergent-Thinking-1024x557.jpg)
 
 #### Resource Links:
 

@@ -8,7 +8,7 @@ A **Causal Loop Diagram** is a visual representation and reference that helps to
 
 You can see examples of CLDs in action in these anti-patterns, where the Causal Loop Diagram makes more obvious the detrimental affect they can have:
 
-\[caption id="attachment\_12355" align="alignright" width="449"\]![Example of a Causal Loop Diagram](images/Causal-Loop-Diagram.jpg) Example of a Causal Loop Diagram\[/caption\]
+\[caption id="attachment\_12355" align="alignright" width="449"\]![Example of a Causal Loop Diagram](src/content/glossary/causal-loop-diagram/images/Causal-Loop-Diagram.jpg) Example of a Causal Loop Diagram\[/caption\]
 
 [Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint.html)
 

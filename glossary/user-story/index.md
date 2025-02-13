@@ -14,7 +14,7 @@ In Scrum, a **User Story** is a tool used to provoke, and then summarize, a c
 
 User stories replace traditional written requirements. The often-used language of a “Use Case” is stilted and hard to read. A user story acts a reminder of the conversations that created it, to move the focus from What we’re building (what often happens with traditional requirements) to Why and Who. As humans, we’re very good at remembering stories and conversations, but we’re not good at remembering a list of facts. User stories leverage this principle by capturing the main points in the form of a natural conversation.
 
-![User Story slices, image by Agile Pain Relief Consulting](images/User-Story-slices.png)
+![User Story slices, image by Agile Pain Relief Consulting](src/content/glossary/user-story/images/User-Story-slices.png)
 
 ## Thin Vertical Slice
 
@@ -26,7 +26,7 @@ Everyone who has seen a user story before can rhyme this format off:
 
 “As a <User/Role>, I want <to do something> so that <value>”
 
-![user story index card - common format](images/user-story-index-card-blank.jpg)
+![user story index card - common format](src/content/glossary/user-story/images/user-story-index-card-blank.jpg)
 
 This is so popular that many people think this is a User Story itself. (It’s not.) The original user stories (going back to 1996/7) had no predetermined format. The above format is just one of several that is popular today. Here are two more:
 
@@ -52,13 +52,13 @@ Some Scrum teams invite interested stakeholders (e.g. Marketing or Sales Manager
 
 ## A User Story is Different From Definition of Done or Acceptance Criteria
 
-![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_B_v2-1024x607.jpg)
+![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](src/content/glossary/user-story/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_B_v2-1024x607.jpg)
 
 "Where do the details go?" is a question I often hear in Product Owner workshops. The original user stories had the text of the story on the front and the detailed acceptance criteria on the back. Specific details about what a story allows and disallows become the acceptance criteria, that are effectively the children of the user story.
 
 Confusion over what is a user story vs. definition of done vs. acceptance criteria is one of the most common problems in Scrum, and [we cover it in detail here](/blog/definition-of-done-user-stories-acceptance-criteria.html). But, in a nutshell, Definition of “Done” is the global quality checklist for all user stories. Acceptance criteria are the specific details needed to complete a user story. A user story is a placeholder for a conversation about meeting a User need.
 
-![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2-1024x607.jpg)
+![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](src/content/glossary/user-story/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2-1024x607.jpg)
 
 ## Goals of a User Story
 

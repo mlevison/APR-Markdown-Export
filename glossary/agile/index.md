@@ -9,4 +9,4 @@ There is no single way to put the Agile mindset into practice, and numerous appr
 
 Agile and Scrum are _not_ the same things.
 
-![What is Agile](images/agile-umbrella2-1024x804.png)
+![What is Agile](src/content/glossary/agile/images/agile-umbrella2-1024x804.png)

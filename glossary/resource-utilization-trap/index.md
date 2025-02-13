@@ -8,7 +8,7 @@ In many organizations, the people who do the work are treated like economic reso
 
 Thinking of people as resources reduces them to common, replaceable parts. It also leads to the mindset that, to deliver the most value, they must always be busy. This is known as the **Resource Utilization Trap**. People aren’t machines or assembly lines, and if they always look busy, much of their work will be low value.
 
-When individual busyness increases, a team suffers a number of problems: \[caption id="attachment\_15654" align="alignright" width="479"\]![](images/How_Does_Utilization_Impact_Lead-time_of_Work____Troy_Magennis-1024x505.jpg) From https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work\[/caption\]
+When individual busyness increases, a team suffers a number of problems: \[caption id="attachment\_15654" align="alignright" width="479"\]![](src/content/glossary/resource-utilization-trap/images/How_Does_Utilization_Impact_Lead-time_of_Work____Troy_Magennis-1024x505.jpg) From https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work\[/caption\]
 
 - With the emphasis on busyness, **quality is sacrificed**. The team look to ensure that they're seen ticking off tasks from their list. Whereas things that improve quality (e.g. pair programming, improving simplicity, refactoring, etc. See: Agile Engineering Practice), don't show up on task lists and so lose focus.
 - **Bottlenecks ensue** when tasks wait for a team member who is already busy (or utilized) on another task.

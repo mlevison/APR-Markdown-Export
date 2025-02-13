@@ -42,7 +42,7 @@ Why include Development Team? When they’re not included, then we spend 2–4 s
 
 **Mechanics:**
 
-![Kaner Diagram of Participation - Divergent Thinking - Groan Zone](images/Kaner-Diagram-of-Participation-Divergent-Thinking-1024x557.jpg)
+![Kaner Diagram of Participation - Divergent Thinking - Groan Zone](src/content/glossary/vision/images/Kaner-Diagram-of-Participation-Divergent-Thinking-1024x557.jpg)
 
 All of these tools are trying to foster divergence to generate good ideas, then cross-pollinate and, finally, convergence select the winner(s).
 

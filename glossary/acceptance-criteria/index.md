@@ -8,7 +8,7 @@ relatedTerms: ['behaviour-driven-development', 'definition-of-done', 'user-stori
 
 [Example Mapping: Your Secret Weapon for Effective Acceptance Criteria](/blog/example-mapping-your-secret-weapon-for-effective-acceptance-criteria.html) [Scrum By Example – Waiting Too Long to Create Acceptance Criteria](/blog/creating-acceptance-criteria-waiting-too-long.html) [Scrum By Example – The Team Collaborate on Acceptance Criteria](/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html) [Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html) [Lifecycle of a User Story](/blog/lifecycle-of-a-user-story.html)
 
-#### ![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_B_v2-1024x607.jpg)
+#### ![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](src/content/glossary/acceptance-criteria/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_B_v2-1024x607.jpg)
 
 #### Resource Links:
 
