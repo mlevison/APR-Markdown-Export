@@ -16,7 +16,7 @@ tags:
 coverImage: "High-Performance-Teams-Game.jpg"
 ---
 
-![High Performance Teams Game Banner](images/High-Performance-Teams-Game.jpg) _Your team is working on the World’s Smallest Online Bookstore, a site that provides the best results (just a few) for every search, not every result on earth. We’re a vulture capital funded company, so if we don’t deliver, our funding will be cut._
+![High Performance Teams Game Banner](src/content/blog/welcome-to-the-high-performance-teams-game/images/High-Performance-Teams-Game.jpg) _Your team is working on the World’s Smallest Online Bookstore, a site that provides the best results (just a few) for every search, not every result on earth. We’re a vulture capital funded company, so if we don’t deliver, our funding will be cut._
 
 So begins the opening of the **High-Performance Teams Game**.
 
@@ -53,7 +53,7 @@ In this session we will use this research to discover:
 
 In addition to the game material, I’ve written a paper on the “[5 Steps Towards High-Performance Teams](https://www.dropbox.com/s/n5k56pg8wo3vsni/Five%20Steps%20Towards%20Creating%20High%20Performance%20Teams.pdf?dl=0)”.
 
-Enjoy playing with your team. [![Creative Commons License Icon](images/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) High-Performance Teams Game by [Mark Levison - Agile Pain Relief Consulting](https://agilepainrelief.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Enjoy playing with your team. [![Creative Commons License Icon](src/content/blog/welcome-to-the-high-performance-teams-game/images/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) High-Performance Teams Game by [Mark Levison - Agile Pain Relief Consulting](https://agilepainrelief.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 * * *
 

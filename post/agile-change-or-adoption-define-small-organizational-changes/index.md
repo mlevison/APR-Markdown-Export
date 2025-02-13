@@ -20,7 +20,7 @@ tags:
   - "work-environment"
 ---
 
-![Be Always Changing - execute changes - image by Agile Pain Relief Consulting](images/Be-Always-Changing-execute-changes.jpg)(Continued from _Agile Change or Adoption Always Starts with Why_ : [1](/blog/agile-change-or-adoption-always-starts-with-why.html) , [2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html) , [3](/blog/agile-change-or-adoption-sense-your-current-culture.html) , [4](/blog/agile-change-or-adoption-create-a-vision.html) , [5](/blog/agile-change-or-adoption-turn-vision-into-strategy.html) )
+![Be Always Changing - execute changes - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/Be-Always-Changing-execute-changes.jpg)(Continued from _Agile Change or Adoption Always Starts with Why_ : [1](/blog/agile-change-or-adoption-always-starts-with-why.html) , [2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html) , [3](/blog/agile-change-or-adoption-sense-your-current-culture.html) , [4](/blog/agile-change-or-adoption-create-a-vision.html) , [5](/blog/agile-change-or-adoption-turn-vision-into-strategy.html) )
 
 Seeing an organizational change map with seven to eight proposed major changes can feel daunting and discouraging. It’s even worse when we realize that list will keep growing as new organizational problems are discovered.
 
@@ -42,9 +42,9 @@ There are two different templates you can try for creating Improvement Stories.
 
 “Template B - Start with Why” emphasizes the importance of why more than the standard template.
 
-[](https://www.innovel.net/wp-content/uploads/improvementstorytemplateB.png)[![Sample Improvement Story Template - by Robin Dymond](images/improvementstorytemplateB-1024x628.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateB.png)Template A is likely more familiar to most people who are using User Stories.
+[](https://www.innovel.net/wp-content/uploads/improvementstorytemplateB.png)[![Sample Improvement Story Template - by Robin Dymond](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/improvementstorytemplateB-1024x628.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateB.png)Template A is likely more familiar to most people who are using User Stories.
 
-[![Sample Improvement Story Template - by Robin Dymond](images/improvementstorytemplateA-1024x636.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateA.png)
+[![Sample Improvement Story Template - by Robin Dymond](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/improvementstorytemplateA-1024x636.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateA.png)
 
 User Stories invite conversation, focus on the needs of the end user, have a clearly stated value, are small enough to be manageable, and can be implemented individually. They help us to break big challenges down into smaller, more manageable ones, and execute small changes
 

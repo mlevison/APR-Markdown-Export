@@ -14,7 +14,7 @@ tags:
 coverImage: "telephone-xs.jpg"
 ---
 
-![telephone - image licensed from Photodune](images/telephone-xs.jpg)
+![telephone - image licensed from Photodune](src/content/blog/yahoo-bans-work-home-alternative-perspective/images/telephone-xs.jpg)
 
 In the past week, Yahoo has said that its employees must work in a Yahoo office by June. The stated goal is to bring people together to increase collaboration. In addition, comments on [Quora](https://www.quora.com/Yahoo/What-has-been-the-internal-reaction-at-Yahoo-to-Marissa-Mayers-no-work-from-home-policy?srid=Bi&share=1) suggest that current and former employees feel the old work from home policy was badly abused – with Fridays being known as a “no work day”.
 

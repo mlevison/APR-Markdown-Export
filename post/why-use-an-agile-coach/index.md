@@ -6,7 +6,7 @@ categories:
 coverImage: "photodune-4994790-whistle-xs.jpg"
 ---
 
-![whistle - image licensed from Photodune](images/photodune-4994790-whistle-xs.jpg)Occasionally, I’m asked why should you use an Agile Coach. I’ve read a book or taken a CSM course. It seems pretty easy. So why would I want to hire a coach?
+![whistle - image licensed from Photodune](src/content/blog/why-use-an-agile-coach/images/photodune-4994790-whistle-xs.jpg)Occasionally, I’m asked why should you use an Agile Coach. I’ve read a book or taken a CSM course. It seems pretty easy. So why would I want to hire a coach?
 
 With a single team you can bootstrap without too much trouble. Even then a good coach will still help you navigate the adoption process.
 

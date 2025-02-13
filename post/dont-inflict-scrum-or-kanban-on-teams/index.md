@@ -28,7 +28,7 @@ Forcing change conflicts with the essential human need for autonomy – No one l
 
 As your organization evolves to become more effective (remember, [_Agile_ is not the goal in and of itself](/blog/agile-change-or-adoption-always-starts-with-why.html)) and you want your teams to follow and take ownership of the changes happening, instead of telling them, “we’re switching the whole organization to Scrum, Kanban, or another flavour of Agile,” invite them to [join you on the transformational journey](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html).
 
-![Outstretched hand image designed by FreePik](images/196891-OYDUHU-168-1024x683.jpg)
+![Outstretched hand image designed by FreePik](src/content/blog/dont-inflict-scrum-or-kanban-on-teams/images/196891-OYDUHU-168-1024x683.jpg)
 
 ## Invite, Don’t Impose
 

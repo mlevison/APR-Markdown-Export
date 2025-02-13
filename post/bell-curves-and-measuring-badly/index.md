@@ -23,19 +23,19 @@ To keep life manageable, and so we don’t run out of steam before we leave the 
 
 In the business world we tend to assume that a bell curve or normal distribution applies anytime a number is quoted to us (numbers are often quoted as an average). For example, if I asked you to show me a model of the wealth of 10,000 randomly selected people it would probably end up being a graph like this:
 
-![bell curve - image by Agile Pain Relief Consulting](images/bell-curve.jpg)
+![bell curve - image by Agile Pain Relief Consulting](src/content/blog/bell-curves-and-measuring-badly/images/bell-curve.jpg)
 
 2 standard deviations – 95% confidence interval 3 standard deviations – 99.7% confidence interval
 
 Yet there is a very good chance that your sample included a few people with a net worth of over $50 million and even one of $500 million. In which case, our bell curve isn’t a good model for what we actually found. Even better, if I ask you to ensure that your graph includes the wealth of Bill Gates, now the graph likely looks more like this:
 
-![reality curve - image by Agile Pain Relief Consulting](images/reality-curve-e1575395920757.jpg)
+![reality curve - image by Agile Pain Relief Consulting](src/content/blog/bell-curves-and-measuring-badly/images/reality-curve-e1575395920757.jpg)
 
 Because we tend to assume that normal distribution applies to most numbers we see, we fail to correctly estimate the likelihood of extreme events.
 
 Nassim Taleb (“[Antifragile: Things That Gain from Disorder](https://www.amazon.ca/gp/product/B0083DJWGO/&tag=notesfromatoo-20)”) calls these extreme events “Black Swan events”. Events that normal distributions underpredict by a multiple of thousands. For example, assume that stock price movements on the S&P 500 index fit a normal distribution, and that events that fall 5th standard deviations from the mean have a 1 in 3.5 million chance of happening. Yet in 1987, the S&P index had 3 such days, and over 50 since it was first created. The S&P 500 was founded nearly 60 years or <22,000 days ago (this includes weekends and holidays), so if a bell curve applied, we would expect 0 or 1 extreme events thus far.
 
-![original image by AGorohov: Photodune](images/photodune-1447482-measures-xs.jpg)We think we know stock market, and we think we can model risk in the stock market. Yet we can’t. So don’t assume that we understand, and can model, business risk either.
+![original image by AGorohov: Photodune](src/content/blog/bell-curves-and-measuring-badly/images/photodune-1447482-measures-xs.jpg)We think we know stock market, and we think we can model risk in the stock market. Yet we can’t. So don’t assume that we understand, and can model, business risk either.
 
 Our attempt to use numbers as our primary way to measure and manage risk misrepresents the real risks because our models give us false assurance. Our models do a good job predicting the normal, everyday events, so we believe them. However, we significantly underrepresent drastic events, making them seem almost impossible even though they’re not.
 

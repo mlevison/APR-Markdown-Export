@@ -20,7 +20,7 @@ Your organization has decided to become more “Agile.” Why? As we learned in 
 
 Before embarking on a change, adoption, or improvement program, you need to know the rationale behind that decision. So… why Agile?
 
-![Group of people - licensed from Photodune](images/photodune-352256-group-of-people-xs.jpg)A traditional approach to answering this question might see the executive team going off-site for two to three days and holding a workshop where they decide why they should be Agile, then design an adoption strategy, and then summarize the whole thing in a few sentences to be sent out in a memo.
+![Group of people - licensed from Photodune](src/content/blog/agile-change-or-adoption-always-starts-with-why/images/photodune-352256-group-of-people-xs.jpg)A traditional approach to answering this question might see the executive team going off-site for two to three days and holding a workshop where they decide why they should be Agile, then design an adoption strategy, and then summarize the whole thing in a few sentences to be sent out in a memo.
 
 Typically, large-scale change initiatives have a lot more ceremony, more meetings, and more setup than this. However, there are several key failings, including that they involve only a select few executives in the envisioning and decision-making process, and they attempt to plan for the long haul.
 

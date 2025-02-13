@@ -25,7 +25,7 @@ _I was recently approached by a client who asked about effective Agile Organizat
 - [How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html)
 - [How to Be an Effective Manager in Scrum](/blog/how-to-be-an-effective-manager-in-scrum.html)
 
-## ![The Role of Agile Managers: Why Job Titles Are Dangerous](images/APR_BlogImage1_Oct2018-1024x607.jpg)
+## ![The Role of Agile Managers: Why Job Titles Are Dangerous](src/content/blog/the-role-of-agile-managers-why-job-titles-are-dangerous/images/APR_BlogImage1_Oct2018-1024x607.jpg)
 
 ## Scrum Team Titles
 

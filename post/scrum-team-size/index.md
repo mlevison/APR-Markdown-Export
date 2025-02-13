@@ -22,7 +22,7 @@ There isn’t one universally correct answer for optimal team size, but there ar
 
 In this post, we’ll explore the research, and I’ll share my personal experiences about effective team size. While this is primarily about Scrum, the lessons are applicable for any work that is collaborative and knowledge-based.
 
-![What is the Recommended Scrum Team Size? This is a larger than ideal scrum team size!](images/APR-09_Blog-Illustrations_Mar2020_ScrumTeamSize_v2-A.jpg)
+![What is the Recommended Scrum Team Size? This is a larger than ideal scrum team size!](src/content/blog/scrum-team-size/images/APR-09_Blog-Illustrations_Mar2020_ScrumTeamSize_v2-A.jpg)
 
 ## Effective Scrum Team Size is More than Just a Number
 
@@ -54,7 +54,7 @@ Many other coaches cite historical examples going back to the Roman army, which 
 
 ## What Happens to Relationships When Teams Get Large?
 
-![Scrum team size diagram.](images/team-size.jpg)
+![Scrum team size diagram.](src/content/blog/scrum-team-size/images/team-size.jpg)
 
 In a team, each individual will connect with another individual and form a unique relationship. The bigger the team, the more the relationships. The equation that describes this is N (N – 1)/2. But what exactly does that _mean_? More importantly, how is it supposed to help you? Let’s start by treating it as a high-school math problem, then turn it into something we can actually use in real life.
 
@@ -76,7 +76,7 @@ We all want to believe that if we go from 1 person to 2 people, or from 2 to 4 p
 
 What we’re missing is _why_. Enter “[Amdahl’s Law](https://en.wikipedia.org/wiki/Amdahl%27s_law).” The formula, first presented in 1967, estimates how much of a speedup might be gained if we took a computing task and ran parts of it in parallel. If that sounds like gobbledygook, it just means sometimes programs have parts that can be worked on by multiple processors at the same time (i.e. parallel processing), but other parts that must be done one at a time (i.e. serial programming).
 
-![Scrum Team Size - Parallelizable vs Serial Work.](images/Parallelizable-vs-Serial-Work-image-1.jpg)
+![Scrum Team Size - Parallelizable vs Serial Work.](src/content/blog/scrum-team-size/images/Parallelizable-vs-Serial-Work-image-1.jpg)
 
 The first picture imagines work done by one processor. It takes 5 units of time.
 
@@ -84,13 +84,13 @@ If we take the 5 units of work and apply 3 processors to the parts that can be d
 
 The math to explain the problem might look intimidating at first:
 
-![Parallelizable vs Serial Work.](images/Parallelizable-vs-Serial-Work-image-3-equation.jpg)
+![Parallelizable vs Serial Work.](src/content/blog/scrum-team-size/images/Parallelizable-vs-Serial-Work-image-3-equation.jpg)
 
-![Parallelizable vs Serial Work.](images/Parallelizable-vs-Serial-Work-image-2.jpg)
+![Parallelizable vs Serial Work.](src/content/blog/scrum-team-size/images/Parallelizable-vs-Serial-Work-image-2.jpg)
 
 Work in teams has similar properties. In fact, if we turn it into a graph, we see just how inefficient increased team size can be:
 
-![Amdahl's Law graph.](images/Amdahls-Law-graph.jpg)
+![Amdahl's Law graph.](src/content/blog/scrum-team-size/images/Amdahls-Law-graph.jpg)
 
 Just focus for now on the 80% line (teal, at the top) of the graph. Let’s be optimistic (and unrealistic) and assume that 80% of the work can be done by working in parallel. This suggests that the more people doing it, the faster it will get done – right?  Ah, but wait. If we go from 1 person to 2 people, we don’t get twice as much done. To get a 2 times improvement in work completed, we actually need 3 people. 7 people only create a 3.2 times improvement over 1 person. To get 4 times as much work done as 1 person, we would need 16 people!
 
@@ -108,7 +108,7 @@ Speed doesn’t come from throwing more people at the job and making bigger team
 
 The American Sociological Association published a study by Hackman JR, Vidmar NJ on the “Effects of size and task type on group performance and member reactions.”\[[15](#footnotes)\]
 
-![Figure 1 - Source: Hackman JR, Vidmar NJ. Effects of size and task type on group performance and member reactions. Sociometry. 1970;33 :37-54.](images/Sociometry-group-size.jpg)
+![Figure 1 - Source: Hackman JR, Vidmar NJ. Effects of size and task type on group performance and member reactions. Sociometry. 1970;33 :37-54.](src/content/blog/scrum-team-size/images/Sociometry-group-size.jpg)
 
 ##### Figure 1 – Source: Hackman JR, Vidmar NJ. Effects of size and task type on group performance and member reactions. Sociometry. 1970;33 :37-54.
 
@@ -126,7 +126,7 @@ It’s not just personal opinions from team members that teach us about optimal 
 
 When you multiply the number of team members times the number of months, you get a graph that is even more shocking:
 
-![Putnam Myers study graph. ](images/Putnam-Myers-study-person-months.jpg)
+![Putnam Myers study graph. ](src/content/blog/scrum-team-size/images/Putnam-Myers-study-person-months.jpg)
 
 A team of 9-11 people took  around2.5-3.5 times as long as teams of 5-7 and 3-5 to complete projects of a similar size. That suggests that teams larger than seven in this dataset were just a way to spend money faster because of the increased team size but reduced net performance.
 
@@ -134,7 +134,7 @@ A team of 9-11 people took  around2.5-3.5 times as long as teams of 5-7 and 3-5
 
 Larry Maccherone, in his work through both Rally, Tasktop, and AgileCraft, has helped build large datasets about practices in Agile Teams. His data shows:
 
-![Used with Permission from Larry Maccherone – from Impact of Agile Quantified Late 2014.](images/Larry-Maccherone-team-size-to-performance.png)
+![Used with Permission from Larry Maccherone – from Impact of Agile Quantified Late 2014.](src/content/blog/scrum-team-size/images/Larry-Maccherone-team-size-to-performance.png)
 
 ##### Figure 2 – Used with Permission from Larry Maccherone – from Impact of Agile Quantified Late 2014
 
@@ -142,7 +142,7 @@ Based on Larry’s data, it would appear that teams of 1-3 are more productive b
 
 WAIT! Before you read on, remember that the whole point of this article is to stress that your mileage may vary! Don’t substitute the opinions or evidence of others for your own knowledge of, and experimentation with, your teams. Start with this information, then tweak to find what works best for your team.
 
-![Scrum team engaging with each other.](images/APR-09_Blog-Illustrations_Mar2020_ScrumTeamSize_v1-B.jpg)
+![Scrum team engaging with each other.](src/content/blog/scrum-team-size/images/APR-09_Blog-Illustrations_Mar2020_ScrumTeamSize_v1-B.jpg)
 
 ## My Experience
 

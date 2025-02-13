@@ -70,7 +70,7 @@ In the Retrospectives book, we shared some summary notes about Christiaan Verwij
 
 Example Data - Morale
 
-![Example of data collected to measure team morale presenting results using red-yellow-green colour coding](images/Example-Data-Team-Morale-1024x534.png)
+![Example of data collected to measure team morale presenting results using red-yellow-green colour coding](src/content/blog/be-better-with-better-data/images/Example-Data-Team-Morale-1024x534.png)
 
 In a retrospective, we could ask questions like:
 
@@ -94,7 +94,7 @@ Quantitative – count the _number_ of these impediments, interruptions, or bloc
 
 The qualitative data can be used immediately; the quantitative will take a few Sprints until we have enough data that we can show people the correlations. There’s an example in the Retrospective book that shows where, in the Sprints where there are more outside interruptions, the team deliver less value. Take the time to assemble this correlative data, because it can be very powerful at helping to start bigger organizational changes.
 
-![Graph measuring number of defects found in a product over time, measured in weeks.](images/Example-Data-Quality-1024x574.jpg)
+![Graph measuring number of defects found in a product over time, measured in weeks.](src/content/blog/be-better-with-better-data/images/Example-Data-Quality-1024x574.jpg)
 
 Remember, metrics are a tool to help a team know where to focus its energy for improvement. There is no magic, but the closest thing to it can usually be found with teams that make an ongoing effort to consistently make small, positive changes. Something as manageable as a 3% improvement rate will add up to noticeable benefit quicker than you might think. Data, both quantitative and qualitative, can be a source of ideas for those improvements. Or, if the desired improvements are outside of the team’s control, the same data can be used to spark conversation around deeper changes.
 

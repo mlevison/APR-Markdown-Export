@@ -28,7 +28,7 @@ Start with a User Story
 
 There isn't any correct order. Sometimes when a team is stuck trying to define a rule, I ask them to give an example or two. Then we can derive the rule from the example.
 
-![Example Mapping sample](images/Example-Mapping.jpg)
+![Example Mapping sample](src/content/blog/example-mapping-your-secret-weapon-for-effective-acceptance-criteria/images/Example-Mapping.jpg)
 
 ## Suggestions
 

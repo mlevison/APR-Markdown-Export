@@ -67,7 +67,7 @@ These days, businesses are usually working in **Complex Domains**, which means t
 
 We can’t afford to have the DNA of **Simple** organizations persist, if organizations want to thrive in this new, rapidly-evolving world. So we need to create organizations that can adapt – and even thrive - in a **Complex** world, and help **Simple** and **Complicated** structure businesses evolve to that goal. We can do that by creating Agile Organizations that understand the Cynefin Framework, and how different responses are appropriate for different complexities of situations.
 
-![Cynefin Framework - image by Agile Pain Relief Consulting](images/cynefin-chart.jpg)
+![Cynefin Framework - image by Agile Pain Relief Consulting](src/content/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization/images/cynefin-chart.jpg)
 
 Agile Organizations:
 

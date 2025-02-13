@@ -26,7 +26,7 @@ Make onboarding a priority, one that trumps regular work. Helping the new person
 - A good team will have built trust and a high degree of Psychological Safety. With a new teammate, everyone’s guard goes back up. No one is at fault -  people simply don’t know how much to trust the new person.
 - A good team will also have built a mind of its own. Not _literally_ an external brain (although that might be fun), rather, they have a shared mental model of how they work. This model includes knowing who to ask a particular question of, and what we can trust someone to do well. The model even includes shared language (e.g. abbreviations or words with special meaning). This shared mind is part of what makes a team high-performing. However, the new team member doesn’t have access to this model, so they don’t know who to ask for something nor do they know understand the shared language.
 
-![Scrum by Example - image owned by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel1-1024x607.jpg)
+![Scrum by Example - image owned by Agile Pain Relief Consulting](src/content/blog/onboard-new-people-without-losing-scrum-team-magic/images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel1-1024x607.jpg)
 
 ## How to help new hires join a Scrum team
 
@@ -43,13 +43,13 @@ Make onboarding a priority, one that trumps regular work. Helping the new person
 - **Back Channels**. When the team needs to get things taken care of, what informal networks exist outside of the formal company hierarchy? (All companies have informal networks, not always for healthy reasons.)
 - What else does your new team mate need to know beyond the team? **What is the company culture?**
 
-![Scrum by Example - image owned by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel3-1024x607.jpg)
+![Scrum by Example - image owned by Agile Pain Relief Consulting](src/content/blog/onboard-new-people-without-losing-scrum-team-magic/images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel3-1024x607.jpg)
 
 These shared review activities start to rebuild the team cognition, and the work activities build trust.
 
 Note: avoid personality surveys. Most of them are pseudo-science and none are useful in helping teams work together. (e.g. Myers Briggs, DISC, etc.)
 
-![Scrum By Example – image owned by Agile Pain Relief Consulting](images/APR_Blog-Illustrations_Aug2019_ScrumByExample_WorkingAgreements_v2-B-1024x607.jpg)
+![Scrum By Example – image owned by Agile Pain Relief Consulting](src/content/blog/onboard-new-people-without-losing-scrum-team-magic/images/APR_Blog-Illustrations_Aug2019_ScrumByExample_WorkingAgreements_v2-B-1024x607.jpg)
 
 ## If you’re the new person on an Agile team
 

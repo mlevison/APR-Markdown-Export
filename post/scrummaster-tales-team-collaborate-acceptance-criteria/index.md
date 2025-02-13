@@ -13,7 +13,7 @@ tags:
 coverImage: "photodune-352256-group-of-people-xs.jpg"
 ---
 
-![Group of people - licensed from Photodune](images/photodune-352256-group-of-people-xs.jpg)
+![Group of people - licensed from Photodune](src/content/blog/scrummaster-tales-team-collaborate-acceptance-criteria/images/photodune-352256-group-of-people-xs.jpg)
 
 The team has just completed [Sprint Planning](/blog/creating-acceptance-criteria-waiting-too-long.html), committing to four stories:
 

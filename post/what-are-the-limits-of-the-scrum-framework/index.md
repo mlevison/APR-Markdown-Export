@@ -16,7 +16,7 @@ tags:
 coverImage: "AgilePainRelief_BlogIllustrations_Jan2019_LimitationsOfScrum_v1a.jpg"
 ---
 
-_Frequently in workshops, I get asked, “Where shouldn’t we use Scrum?” The short answer is there are lots of instances where the Scrum framework doesn’t fit. However, to give a more complete and effective answer to this question, first we need to have an idea of why and when Scrum does work and what the key conditions are for success. We can then show examples of where it isn’t a good fit._ ![What Are the Limits of the Scrum Framework?](images/AgilePainRelief_BlogIllustrations_Jan2019_LimitationsOfScrum_v1a-1024x607.jpg)
+_Frequently in workshops, I get asked, “Where shouldn’t we use Scrum?” The short answer is there are lots of instances where the Scrum framework doesn’t fit. However, to give a more complete and effective answer to this question, first we need to have an idea of why and when Scrum does work and what the key conditions are for success. We can then show examples of where it isn’t a good fit._ ![What Are the Limits of the Scrum Framework?](src/content/blog/what-are-the-limits-of-the-scrum-framework/images/AgilePainRelief_BlogIllustrations_Jan2019_LimitationsOfScrum_v1a-1024x607.jpg)
 
 ## Where is Scrum Applicable?
 
@@ -40,7 +40,7 @@ Understanding now where Scrum is effective, we can consider what structural foun
 
 **Stable Team Membership** – Effective teams take time to form. It takes 6-8 months before a new team develops the cohesion necessary to be truly effective. Furthermore, every time there is a change in membership [the team takes a temporary drop in productivity](/blog/new-people-on-your-project.html). After a few months, they may regain strength, and may even eventually improve, however some teams never recover. In situations where there is frequent changeover in team members, the team will always be stuck at a lower level of performance.
 
-![Tuckman's stages of team formation in Unstable Teams](images/Unstable-Teams-Tuckman-stages.jpg)
+![Tuckman's stages of team formation in Unstable Teams](src/content/blog/what-are-the-limits-of-the-scrum-framework/images/Unstable-Teams-Tuckman-stages.jpg)
 
 **Low Cost of Change** – Agile came of age as the cost of making changes in software was being drastically reduced. Much of the work in the years since has been focused on further reducing the cost of making change – from [Continuous Integration](/scrum-developer-resources-and-references#continuous-integration-and-setting-builds) and [Test Driven Development](/scrum-developer-resources-and-references#test-driven-development) to [DevOps](/scrum-developer-resources-and-references#devops) and [Behaviour Driven Development](/scrum-developer-resources-and-references#behaviour-driven-development-aka-acceptance-test-driven-aka-specification-by-example). The cost of change in modern software development work isn’t zero, but it is considerably lower than the green screens\[[7](#footnotes)\] and mainframes. For any flavour of Agile to succeed in a new environment, reducing the cost of change (even late in the game) needs to be a priority. In work that incurs a significant cost if changes are made, Agile/Scrum isn’t going to be as practical.
 

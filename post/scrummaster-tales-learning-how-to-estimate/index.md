@@ -15,7 +15,7 @@ tags:
 coverImage: "photodune-1602425-cards-hand-xs.jpg"
 ---
 
-![Hand of cards - - image licensed from Photodune](images/photodune-1602425-cards-hand-xs.jpg)
+![Hand of cards - - image licensed from Photodune](src/content/blog/scrummaster-tales-learning-how-to-estimate/images/photodune-1602425-cards-hand-xs.jpg)
 
 _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
@@ -75,7 +75,7 @@ Again Steve asks the low (Doug) and high (Ian) Estimators to explain their think
 
 ## Analysis
 
-![An image of two architects' hands doing work - image licensed from Photodune ](images/architects-xs.jpg)What are the team’s options at this point?
+![An image of two architects' hands doing work - image licensed from Photodune ](src/content/blog/scrummaster-tales-learning-how-to-estimate/images/architects-xs.jpg)What are the team’s options at this point?
 
 - A difference of one size, i.e. 5 vs. 8, or 8 vs. 13, isn’t meaningful. But a difference of two steps, i.e. 5 vs. 13, is meaningful. _Editor: In this case the team could easily just pick one._
 - Averages lead to arbitrarily precise numbers – a precision that doesn’t really exist. In addition, averaging takes away the power of the individual voice.

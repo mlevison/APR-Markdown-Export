@@ -49,7 +49,7 @@ Here’s a hint right out of the gate if you’re new to Agile: you never want t
 
 **Individual Bonus -> Competition** - An individual bonus also increases (i.e. positive link) _Competition_ between team members. It automatically means you should put your own needs ahead of the team’s needs, to maximize your bonus payout. Since others are doing the same thing, your cooperative Scrum team starts to have competition between members.
 
-![](images/Bonuses-anti-pattern-CLD-1.png)
+![](src/content/blog/agile-bonuses-the-damage-they-do/images/Bonuses-anti-pattern-CLD-1.png)
 
 Competition is a fun one because it sparks a lot of effects of its own…
 
@@ -65,7 +65,7 @@ Competition is a fun one because it sparks a lot of effects of its own…
 
 **Autonomy -> Peer to Peer Help** - When we have freedom to make choices, it is easier to collaborate because you don’t feel as much pressure inside yourself to get your own work done first. Instead, you can help a peer and expect the help will be repaid.
 
-![](images/Bonuses-anti-pattern-CLD-2.png)
+![](src/content/blog/agile-bonuses-the-damage-they-do/images/Bonuses-anti-pattern-CLD-2.png)
 
 **Individual Bonus (-ve)-> Experimentation** - Experimentation allows a team to learn and improve through learning what succeeds and what fails. As people focus on meeting their bonus, and avoiding failure, Experiments are reduced and so is team learning and improvement.
 
@@ -87,7 +87,7 @@ Competition is a fun one because it sparks a lot of effects of its own…
 
 **Quality (Delayed) -> # of Features** - When a team makes the effort to do quality work, through the Agile Engineering Practices, they increase the code quality. It is easier and faster to add new features in a code base where team members tidy up small messes and automate many of their acceptance tests. Unfortunately, in an environment where # of Features is consider a measure of success, corners get cut and quality degrades slowly.
 
-![Bonuses anti pattern CLD](images/Bonuses-anti-pattern-CLD.png)
+![Bonuses anti pattern CLD](src/content/blog/agile-bonuses-the-damage-they-do/images/Bonuses-anti-pattern-CLD.png)
 
 Reviewing these results, we can see that bonuses might result in an increased number of features, but to stop analysis there is short-sighted and foolish. An increase in features doesn’t automatically lead to greater customer happiness. We should be focusing on Outcomes (features with good quality, that solved the customer problem) over Output (# of Features delivered). We may have got more of the target, but if the target was poorly chosen in the first place, the focus on it didn’t give us more of what we wanted.
 

@@ -12,7 +12,7 @@ tags:
 coverImage: "AgilePainRelief_Dysfunction_FNL.jpg"
 ---
 
-![Banner image of distracted team members not effectively communicating with each other](images/AgilePainRelief_Dysfunction_FNL-1024x606.jpg)
+![Banner image of distracted team members not effectively communicating with each other](src/content/blog/daily-scrum-pain/images/AgilePainRelief_Dysfunction_FNL-1024x606.jpg)
 
 _**Dramatis Personae**_ Steve – a ScrumMaster and the hero of our story Michael – another ScrumMaster for a different team Doug – a member of Steve’s team James – a member of Steve’s team Fred – a member of Steve’s team Paula – the Product Owner of Steve’s team
 
@@ -53,7 +53,7 @@ Michael sits down with Steve and talks about the things he noticed:
 - Discussion around each update isn't supposed to be part of Daily Scrum.
 - Fred needs to understand most of his audience will get lost if he goes into too much technical detail.
 
-![Image of four team members effectively communicating with each other as part of their daily scrum](images/AgilePainRelief_Collaboration_FNL-1024x606.jpg)
+![Image of four team members effectively communicating with each other as part of their daily scrum](src/content/blog/daily-scrum-pain/images/AgilePainRelief_Collaboration_FNL-1024x606.jpg)
 
 ### The Purpose of Daily Scrum:
 

@@ -10,7 +10,7 @@ tags:
 coverImage: "test-xs.jpg"
 ---
 
-![a pencil sitting on a test bubble sheet - image licensed from Photodune](images/test-xs.jpg) In the past few weeks I've heard several misconceptions raised about Test Driven Development:
+![a pencil sitting on a test bubble sheet - image licensed from Photodune](src/content/blog/misconceptions-with-test-driven-development/images/test-xs.jpg) In the past few weeks I've heard several misconceptions raised about Test Driven Development:
 
 - Does TDD really work? I've written about this before: [Advantages of TDD](/blog/advantages-of-tdd.html "Advantages of TDD"); In addition [George Dinwiddie maintains a list](https://biblio.gdinwiddie.com/biblio/StudiesOfTestDrivenDevelopment) of case studies (including one from IBM). Finally Keith Braithwaite has recently done some research on measuring the benefit of TDD. Currently the results are buried in a presentation ([pdf](https://www.keithbraithwaite.demon.co.uk/professional/presentations/2008/qcon/MeasureForMeasure.pdf)). Key message: "measuring a over 20 projects: if you have a large number of unit tests your code will be **an order of magnitude** less complex."
 - Writing the tests **after** the code has been written is the same as Test Driven Development. Its not, there are significant benefits to TDD that I outlined in: "[Test Driven Development vs Plain Old Unit Testing](/blog/test-driven-dev.html)".

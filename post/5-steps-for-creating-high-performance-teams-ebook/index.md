@@ -35,7 +35,7 @@ Now Mark has taken what he learned in those discoveries and formed them into fiv
 2. The [High-Performance Teams Game](/blog/welcome-to-the-high-performance-teams-game.html "Welcome to the High-Performance Teams Game"). Fun downloadable resources to help teams see the effects of choices/tradeoffs on productivity and team cohesion.
 3. This handy - and, dare we say, snazzy - infographic to summarize, focus, and remind.
 
-[![Agile Pain Relief Five Steps Towards Creating High Performance Teams Infographic](images/apr-infographic-1_85_web.png)](/wp-content/uploads/2015/01/apr-infographic-1_85_web.png)
+[![Agile Pain Relief Five Steps Towards Creating High Performance Teams Infographic](src/content/blog/5-steps-for-creating-high-performance-teams-ebook/images/apr-infographic-1_85_web.png)](/wp-content/uploads/2015/01/apr-infographic-1_85_web.png)
 
 Building a high-performing team doesn't have to be complicated, nor is it luck of the draw. Surprisingly, most of it is simply common sense and awareness of human behaviour and relationships. That's it.
 

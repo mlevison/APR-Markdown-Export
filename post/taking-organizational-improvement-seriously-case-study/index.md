@@ -15,7 +15,7 @@ tags:
 coverImage: "scrum-alone-not-enough-organizational-improvement.jpg"
 ---
 
-![Beyond Scrum: Scrum Alone Is Not Enough](images/scrum-alone-not-enough-organizational-improvement.jpg)
+![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/taking-organizational-improvement-seriously-case-study/images/scrum-alone-not-enough-organizational-improvement.jpg)
 
 (_Presented as an accompanying case study to Part 4 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough.html)._)
 
@@ -33,11 +33,11 @@ _Hereafter: LongRegressionCycle_
 
 The Org Team recognizes that it has a problem with the regression cycles as illustrated:
 
-![Regression Runtime in Days](images/Regression-Runtime-in-Days.jpg)
+![Regression Runtime in Days](src/content/blog/taking-organizational-improvement-seriously-case-study/images/Regression-Runtime-in-Days.jpg)
 
 When long regression cycles are an issue, without a systemic approach the organization might first try adding more people to do regression testing. As a second step, they might try automated testing through the browser/GUI using a special team who has access to an expensive tool. Unfortunately, as we see below, this will likely lead us down the wrong path:
 
-![Long Regression Cycle Casual Loop Diagram](images/LongRegressionCycle.png)
+![Long Regression Cycle Casual Loop Diagram](src/content/blog/taking-organizational-improvement-seriously-case-study/images/LongRegressionCycle.png)
 
 This is a simple [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram) – it’s intended to help us look past the initial problem and see deeper causes.
 
@@ -57,7 +57,7 @@ _Hereafter: UnfocusedProductOwner_
 
 In a second example, the Team sees a Product Owner making frequent revisions to the Team’s work in Sprint. We can talk to the PO about this, but we can’t just expect the PO to change unless we also identify and fix the underlying problem.
 
-![Product Owner Can't Stay Focused](images/PO-cant-stay-focused.jpg)
+![Product Owner Can't Stay Focused](src/content/blog/taking-organizational-improvement-seriously-case-study/images/PO-cant-stay-focused.jpg)
 
 As this image illustrates, we can see that the real problem is that the PO is under daily pressure from stakeholders to solve real and perceived customer problems. The challenge is how to set aside enough time to deal with those issues, while still making progress in the bigger goal. A causal loop diagram like this should help the organization discover the need for [Portfolio Management](/blog/portfolio-management.html), which would give the Product Owner some boundaries on how much short term work they should accept from the Team.
 

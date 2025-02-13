@@ -15,7 +15,7 @@ tags:
 coverImage: "photodune-9444702-yellow-working-sign-xs.jpg"
 ---
 
-![Yellow vector working sign - image licensed from Photodune](images/photodune-9444702-yellow-working-sign-xs.jpg) The first law of holes is “When you’re in one, stop digging”. [In the last sprint](/blog/scrummaster-tales-technical-debt-is-slowing-the-team.html) the team discovered that they’re in a hole – in this case they had dug themselves into technical debt.
+![Yellow vector working sign - image licensed from Photodune](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/photodune-9444702-yellow-working-sign-xs.jpg) The first law of holes is “When you’re in one, stop digging”. [In the last sprint](/blog/scrummaster-tales-technical-debt-is-slowing-the-team.html) the team discovered that they’re in a hole – in this case they had dug themselves into technical debt.
 
 We join the team this week in their Sprint Planning session as they start by rechecking their Retrospective action items:
 
@@ -30,11 +30,11 @@ Once the planning actually gets going, the team finds that they can’t even com
 
 After the Sprint Planning Meeting, Steve modifies the Story/Task Board to look like:
 
-![Scrum Story / Task board](images/Story-Task-board.png)
+![Scrum Story / Task board](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/Story-Task-board.png)
 
 Adding the “Definition of Done” at the top (permanently) and a “Unit Test” column (only until Unit Testing becomes a habit).
 
-On **Day 1**, Ian (the unofficial Build Master) and Doug sit down together to get [Sonar](https://www.sonarsource.org/) up and running. After spending a few hours getting it configured in their CI system they have a pretty page of Java projects to visit from their dashboard.![Screenshot from Sonar's own Nemo](images/Sonar-screenshot.png)
+On **Day 1**, Ian (the unofficial Build Master) and Doug sit down together to get [Sonar](https://www.sonarsource.org/) up and running. After spending a few hours getting it configured in their CI system they have a pretty page of Java projects to visit from their dashboard.![Screenshot from Sonar's own Nemo](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/Sonar-screenshot.png)
 
 After having some fun looking at the worst violations, they come to realize that the default configurations of PMD can be very noisy (with warnings for method name too long and too short). They quickly decide to load up PMD in Eclipse and make a first pass at simplifying rules. Even after simplification they find the code base still has over 10,000 rule violations. They agree to raise the issue in the next [Daily Scrum](/blog/pathologies-of-the-daily-scrum-or-standup.html). They also decide to write a short note to the team explain which rules they dropped and why. In addition they discovered that their existing Unit Tests only provide 10% Code Coverage.
 

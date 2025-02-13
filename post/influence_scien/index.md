@@ -6,7 +6,7 @@ categories:
 coverImage: "Influence-Science-and-Practice-book-cover.jpg"
 ---
 
-[![Influence- Science and Practice book cover](images/Influence-Science-and-Practice-book-cover.jpg)](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)
+[![Influence- Science and Practice book cover](src/content/blog/influence_scien/images/Influence-Science-and-Practice-book-cover.jpg)](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)
 
 After my [introductory notes](/blog/influence_why_a.html), I've received a few inquires about more notes on Cialdini's [Influence Science and Practice](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20). So I dug around on the web and offer up my discoveries.
 

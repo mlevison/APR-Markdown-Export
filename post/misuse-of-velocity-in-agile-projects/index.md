@@ -11,7 +11,7 @@ tags:
 coverImage: "architects-xs.jpg"
 ---
 
-![An image of two architects' hands doing work - image licensed from Photodune](images/architects-xs.jpg) Like clockwork every month, someone on one of the Agile Mailing lists asks a question about “comparing velocity between teams” or “benchmarking data on velocity.” Before we examine the problem, let’s recheck what velocity is—the amount of work completed by the team/time taken to complete it. The amount of work is usually measured in Story Points (a relative measure of size). So velocity is just the number of points the team completes in the average iteration/sprint.
+![An image of two architects' hands doing work - image licensed from Photodune](src/content/blog/misuse-of-velocity-in-agile-projects/images/architects-xs.jpg) Like clockwork every month, someone on one of the Agile Mailing lists asks a question about “comparing velocity between teams” or “benchmarking data on velocity.” Before we examine the problem, let’s recheck what velocity is—the amount of work completed by the team/time taken to complete it. The amount of work is usually measured in Story Points (a relative measure of size). So velocity is just the number of points the team completes in the average iteration/sprint.
 
 The underlying point is that Agile/Scrum teams use relative estimation (e.g. is this story/feature bigger or smaller than our standard story?) vs. the traditional approach of absolute estimation. The problem with comparisons, benchmarking, or any other attempts to compare velocity is that my story points ≠ your story points, because different projects use different standard stories. They work in different problem domains, and they have different people.
 

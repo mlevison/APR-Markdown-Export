@@ -24,7 +24,7 @@ Steve – a ScrumMaster and the hero of our story Paula – the Product Owner of
 
 ## A Bad User Story Helps No One
 
-![Scrum By Example – How to Deal with Bad User Stories as a ScrumMaster](images/AgilePainRelief_BlogIllustrations_Jan2019_Image1_v2-1024x607.jpg)
+![Scrum By Example – How to Deal with Bad User Stories as a ScrumMaster](src/content/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster/images/AgilePainRelief_BlogIllustrations_Jan2019_Image1_v2-1024x607.jpg)
 
 Steve is preparing for tomorrow’s [Sprint Planning session](/blog/basic-explanation-of-the-different-parts-of-agile-planning.html). He asks Paula to show him the Product Backlog and she sends him a spreadsheet. Besides how difficult it is to read anything in this format, he’s shocked by how poorly the User Stories are formulated:
 

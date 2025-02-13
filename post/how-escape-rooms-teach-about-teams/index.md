@@ -14,7 +14,7 @@ Mark and his wife, Doris, along with a small group of their friends, have become
 
 In their first escape room in 2015, they were two puzzles away from success but failed to get out. So they changed the team membership.
 
-![Successful Escape Room Team photo](images/escape-room-group-shot-768x1024.jpg)Over the years, they failed another four or five attempts, but they kept the team together.
+![Successful Escape Room Team photo](src/content/blog/how-escape-rooms-teach-about-teams/images/escape-room-group-shot-768x1024.jpg)Over the years, they failed another four or five attempts, but they kept the team together.
 
 Then after one frustrating failure in Jan 2017, they tried again and successfully escaped! It was at this point they realized that they stopped being a bunch of people trying to escape a locked room, and they had become a true _team_. There was no magic discovery that suddenly made the difference. Part of it was just learning over time how to get out of each other's way.
 

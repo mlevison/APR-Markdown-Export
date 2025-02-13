@@ -11,7 +11,7 @@ Grouping individuals together doesn’t make them a team. It takes more than jus
 
 In 1993, Jon Katzenbach and Douglas Smith published, _The Wisdom of Teams_\[[1](#footnotes)\], which highlighted the difference between Working Groups and Real Teams. In this article, we summarize Katzenbach and Smith’s work and then offer a modern example of what is required for Effective Scrum Teams.
 
-![graph comparing working group to real team to hig-performing team](images/Effective-Teams.jpg)
+![graph comparing working group to real team to hig-performing team](src/content/blog/characteristics-of-effective-scrum-teams/images/Effective-Teams.jpg)
 
 Katzenbach and Douglas described teams as needing open interaction, fact-based problem-solving, open communication, and a way to improve. This is a simplified list from their book of how a real team is distinguishable from a working group:
 

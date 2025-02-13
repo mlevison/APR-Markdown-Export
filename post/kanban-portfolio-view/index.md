@@ -10,7 +10,7 @@ categories:
 coverImage: "scrum-alone-not-enough-kanban.jpg"
 ---
 
-![Beyond Scrum: Scrum Alone Is Not Enough - portfolio kanban](images/scrum-alone-not-enough-kanban.jpg)
+![Beyond Scrum: Scrum Alone Is Not Enough - portfolio kanban](src/content/blog/kanban-portfolio-view/images/scrum-alone-not-enough-kanban.jpg)
 
 _(Presented as Part 3 in the [Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough.html "Scrum Alone is Not Enough") series.)_
 
@@ -38,7 +38,7 @@ The details: gather the Product Owner(s), ScrumMaster(s), Team Members and Stake
 
 I've seen a simple board like the one pictured below work well. Your board will be different; don't copy ours.
 
-![](images/Kanban-Portfolio-View-2024-Basic2-1024x592.jpg)
+![](src/content/blog/kanban-portfolio-view/images/Kanban-Portfolio-View-2024-Basic2-1024x592.jpg)
 
 With the basic board in place, consider how to visualize the problem children of the kanban board. I'll explain below.
 

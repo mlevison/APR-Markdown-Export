@@ -31,7 +31,7 @@ There is no order to this scrollable list.
 
 _I know that the table formatting is a bit of an issue – I will fix this when I have a chance._
 
-Just for fun I created a simple button if you want to post in your sidebar: ![Agile Voices](images/Agile-Voices.png)I know several people don’t have blogs or Twitter IDs listed, so I can’t find them; I’m hoping this post will encourage them to come out of the woodwork.
+Just for fun I created a simple button if you want to post in your sidebar: ![Agile Voices](src/content/blog/agile-voices-finally/images/Agile-Voices.png)I know several people don’t have blogs or Twitter IDs listed, so I can’t find them; I’m hoping this post will encourage them to come out of the woodwork.
 
 As I find new names and new blogs I will update the list periodically. Thanks to the many people who helped make this happen.
 

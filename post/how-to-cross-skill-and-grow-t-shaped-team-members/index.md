@@ -21,9 +21,9 @@ There are two major ways to discover opportunities for cross-skilling:
 
 ## Kanban/Scrum Team Board
 
-![How to Cross-Skill and Grow T-shaped Team Members - sample Scrum Kanban board](images/AgilePainRelief_KanbanBoard_Mockup_B_v2-1024x609.jpg)
+![How to Cross-Skill and Grow T-shaped Team Members - sample Scrum Kanban board](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/AgilePainRelief_KanbanBoard_Mockup_B_v2-1024x609.jpg)
 
-![How to Cross-Skill and Grow T-shaped Team Members - sample Scrum Kanban board](images/AgilePainRelief_KanbanBoard_Mockup_A_v2-1024x696.jpg)
+![How to Cross-Skill and Grow T-shaped Team Members - sample Scrum Kanban board](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/AgilePainRelief_KanbanBoard_Mockup_A_v2-1024x696.jpg)
 
 The Team Board is a rich source of information as to where missing skills exist among a team’s members. If you’re unfamiliar with how a Team Board works or what it looks like, I posted an [example of a Kanban Board](/blog/kanban-portfolio-view.html) previously on this blog. Walk along the board every few days, look to see which column work items use up the most time. The board should also help you spot any item that gets blocked or is waiting for outside work. Every time an item is blocked because of an external dependency, record the reason. Over a few months, it will become clear which external dependencies impede work getting done the most. Any of these areas discovered are now opportunities for the team to cross-skill into. Once there is enough evidence to start (perhaps after 3-4 Sprints of collecting), share the data in a retrospective and ask the team two key questions:
 
@@ -54,9 +54,9 @@ A Skills Matrix is a self-reporting system where team members provide their own 
 
 ### Sample Skills Matrix
 
-![Cross-Skilling in Scrum Teams](images/1-4_Cross_Skilling_in_Scrum_Teams.jpg)
+![Cross-Skilling in Scrum Teams](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/1-4_Cross_Skilling_in_Scrum_Teams.jpg)
 
-![Cross-Skilling in Scrum Teams](images/1-4_Cross_Skilling_in_Scrum_Teams2.jpg)
+![Cross-Skilling in Scrum Teams](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/1-4_Cross_Skilling_in_Scrum_Teams2.jpg)
 
 I like to create a Skills Matrix whenever I start working with a new team. If we haven’t started work yet, then I do it at the same time as we [create the initial Definition of “Done”](/blog/definition-of-done-user-stories-acceptance-criteria.html), before the first Sprint. Once the Skills Matrix has been created, I recommend teams revisit it every few retrospectives to answer two questions:
 
@@ -71,7 +71,7 @@ In an organization that is sufficiently mature that it won’t get misused, I li
 
 Skills Matrices and Scrum/Kanban Team Boards will only get you to the point where you know there is a need for growth, and where. Using that information in Sprint Planning helps remind you to set aside time for skills growth, but we still haven’t grown a skill yet.
 
-![](images/cross-skilling-Tshaped-cross-skilled2-684x1024.jpg)T-Shaped people don’t grow on trees.
+![](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/cross-skilling-Tshaped-cross-skilled2-684x1024.jpg)T-Shaped people don’t grow on trees.
 
 Cross-skilling is important in every industry, and in each one there will obviously be different approaches to grow these skills. If you are in an IT environment, here are tools that you can use right now to help you grow skills related to software development and design:
 

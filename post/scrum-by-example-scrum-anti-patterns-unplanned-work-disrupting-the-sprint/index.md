@@ -31,7 +31,7 @@ ScrumMaster Steve, Product Owner Paula, and the rest of the Scrum team have star
 
 Every couple of days, they get a User Story accepted. Things are going just as planned.
 
-![Scrum Anti-Patterns & Unplanned Work Disrupting the Sprint](images/APR_BlogImage2_Oct2018-1024x607.jpg)
+![Scrum Anti-Patterns & Unplanned Work Disrupting the Sprint](src/content/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint/images/APR_BlogImage2_Oct2018-1024x607.jpg)
 
 ## A Scrum Anti-Pattern of the Product Owner and ScrumMaster
 

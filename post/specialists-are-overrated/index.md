@@ -22,7 +22,7 @@ Scrum, and Agile generally, work by forming stable teams, which operate cohesive
 
 ## What is T-Shaped?
 
-![Specialists Are Overrated](images/cross-skilling-expert-366x1024.jpg)A specialist (i.e. an expert) is someone who has the skills and knowledge to work highly effectively at one station or one type of work. The drawback to having many specialists, and the downfall of matrixed organizations, is that, in any system, they are often just piling up inventory\[[2](#footnotes)\]. If they keep producing when their work isn’t in immediate demand, such an unused specialized work product becomes a source of risk for the business. It might contain defects or represent a misunderstanding of the customer need, but because the work is not in demand, it is unlikely to be checked for errors. This is a waste and does nothing for efficiency.
+![Specialists Are Overrated](src/content/blog/specialists-are-overrated/images/cross-skilling-expert-366x1024.jpg)A specialist (i.e. an expert) is someone who has the skills and knowledge to work highly effectively at one station or one type of work. The drawback to having many specialists, and the downfall of matrixed organizations, is that, in any system, they are often just piling up inventory\[[2](#footnotes)\]. If they keep producing when their work isn’t in immediate demand, such an unused specialized work product becomes a source of risk for the business. It might contain defects or represent a misunderstanding of the customer need, but because the work is not in demand, it is unlikely to be checked for errors. This is a waste and does nothing for efficiency.
 
 ### Some Examples
 
@@ -35,7 +35,7 @@ In Scrum, we have discovered something in the middle is far more effective: “T
 
 ## Why Have Generalizing Specialists?
 
-![How to Cross-Skill and Grow T-shaped Team Members](images/cross-skilling-Tshaped-cross-skilled2-684x1024.jpg)
+![How to Cross-Skill and Grow T-shaped Team Members](src/content/blog/specialists-are-overrated/images/cross-skilling-Tshaped-cross-skilled2-684x1024.jpg)
 
 There are many advantages and rewards to developing T-shaped individuals in the team. These include:
 

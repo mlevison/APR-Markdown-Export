@@ -16,7 +16,7 @@ tags:
 coverImage: "APR_Blog-Illustrations_June2019_Production-Support-Issues_v3.jpg"
 ---
 
-![Office workers stressed out by the delivery of an entire box of support tickets](images/APR_Blog-Illustrations_June2019_Production-Support-Issues_v3.jpg)
+![Office workers stressed out by the delivery of an entire box of support tickets](src/content/blog/scrum-production-support/images/APR_Blog-Illustrations_June2019_Production-Support-Issues_v3.jpg)
 
 _Whenever you are building and deploying a complex system, there are always going to be bugs, defects, and unforeseen problems with usability — commonly referred to as Production Support issues. Today, our ScrumMaster and their Team grapple with these issues, to help you understand how they affect a Scrum Team and what you can do to prevent them from dragging you down._
 
@@ -30,11 +30,11 @@ At the company developing the World’s Smallest Online Bookstore, they have a c
 
 It is this second line support that is causing frequent interruptions, as whenever they find a defect or usability issue, they submit a production support ticket to Steve’s Team. To document this, Steve adds a “swimlane” at the bottom of the Team’s Sprint Backlog board, labelled “Production Support and Other Interruptions.”
 
-![How to Handle Production Support Issues in Scrum - an example of a sprint backlog with lower section for support tickets](images/2019CSM-Sample-Scrum-Task-Board_2-1024x975.jpg)
+![How to Handle Production Support Issues in Scrum - an example of a sprint backlog with lower section for support tickets](src/content/blog/scrum-production-support/images/2019CSM-Sample-Scrum-Task-Board_2-1024x975.jpg)
 
 After four or five Sprints, he charts the resulting effect on the Team’s Sprint Burnup ([Burndowns](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns.html) and [Cumulative Flow Diagrams](/scrummaster-resources-and-references#estimation) could be used as well), to show the correlation between Production Support Issues each Sprint and the number of Backlog Items completed.
 
-![Example of a release burnup chart](images/Release-Burnup-Support-Issues.jpg)
+![Example of a release burnup chart](src/content/blog/scrum-production-support/images/Release-Burnup-Support-Issues.jpg)
 
 During the next retrospective, Steve chooses a [timeline](https://www.thekua.com/rant/2006/03/a-retrospective-timeline/) to help the Team review what has happened.\[[1](#footnotes)\] He also uses the data from the burnup chart to help them see the resulting effects. They discover that it’s even worse than Steve realized - Team members aren’t just being interrupted, they’re spending most of their time handling support issues.
 

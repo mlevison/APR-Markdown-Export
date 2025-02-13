@@ -12,7 +12,7 @@ tags:
 coverImage: "photodune-2657109-crayons-xs.jpg"
 ---
 
-![Crayons image licensed from Photodune](images/photodune-2657109-crayons-xs.jpg)
+![Crayons image licensed from Photodune](src/content/blog/creativity-for-agile-teams-2/images/photodune-2657109-crayons-xs.jpg)
 
 There are many ways to redefine a work environment to support greater creativity that have been discovered through experience, experimentation, and accident. At the same time, modern neuroscience suggests guidelines for deliberately designing conditions to enhance creativity, using our best understanding of how our brains work, learn, integrate, and create.
 

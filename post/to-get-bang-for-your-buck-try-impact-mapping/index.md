@@ -60,7 +60,7 @@ Identify the **Goal** first, then **Who** (**Actor**), **How** (**Impact**), and
 
 ## Example of an Impact Map:
 
-![Impact Mapping example](images/impact-mapping.jpg) Figure 2 - Creative Commons 4.0 as per: [https://www.impactmapping.org/drawing.html](https://www.impactmapping.org/drawing.html). Credit: [http://impactmapping.org/](http://impactmapping.org/)
+![Impact Mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping.jpg) Figure 2 - Creative Commons 4.0 as per: [https://www.impactmapping.org/drawing.html](https://www.impactmapping.org/drawing.html). Credit: [http://impactmapping.org/](http://impactmapping.org/)
 
 ## Tips for Drawing an Impact Map
 
@@ -97,19 +97,19 @@ Our example: One month after the team complete this work they have increased sal
     - Find the Actors who could have a positive or negative effect on the milestone.
     - If people already have ideas or features, put them around the outside. Then ask some questions: Does the feature contribute towards the Goal? Is the Impact valid for the Actor it is ascribed to? Gojko offers a user story-like technique for testing: "<someone> can help us achieve our <objective> by doing <something differently>"
 
-Our example: For the “Actor” we decide to focus on current book-buying customers for our milestone: ![impact mapping example](images/impact-mapping-WSOBS-example1.png)
+Our example: For the “Actor” we decide to focus on current book-buying customers for our milestone: ![impact mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example1.png)
 
 Then we ask ourselves: What “Impact” can the Actor have? Or: How can the Actor help us?
 
-In our example, the answer might be “buy more books” or “refer friends”. ![](images/impact-mapping-WSOBS-example2.png)
+In our example, the answer might be “buy more books” or “refer friends”. ![](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example2.png)
 
 What Deliverable could we build to achieve this?
 
-![impact mapping example](images/impact-mapping-WSOBS-example3.png)
+![impact mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example3.png)
 
 **2\. Find alternatives.** What else could these people do for us? Who else can help? Who can obstruct? If you find that you’re struggling, try Hohmann Innovation Games\[[4](#footnotes)\] or Gray Gamestorming\[[5](#footnotes)\]. Also try asking which of the following factors to consider: New Business, Upsell, Retainment, Operational Efficiency\[[6](#footnotes)\]
 
-![impact mapping example](images/impact-mapping-WSOBS-example4.png)
+![impact mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example4.png)
 
 **3\. Identify key priorities.** Look for obstructions. What can stop us before we start? Is there high-value, low-hanging fruit? What key assumptions should be tested? These questions should all be focused on business activities, impacts, and outcomes, not software features.
 

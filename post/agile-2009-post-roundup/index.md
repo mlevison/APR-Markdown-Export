@@ -7,7 +7,7 @@ categories:
 coverImage: "agile-2009-conference-logo.png"
 ---
 
-![](images/agile-2009-conference-logo.png) Last year I did the [Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html), so I thought it might be fun to do this again this year. As usual, [InfoQ](https://www.infoq.com/agile2009/) has a number of items, including presentations and now MP3 downloads.
+![](src/content/blog/agile-2009-post-roundup/images/agile-2009-conference-logo.png) Last year I did the [Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html), so I thought it might be fun to do this again this year. As usual, [InfoQ](https://www.infoq.com/agile2009/) has a number of items, including presentations and now MP3 downloads.
 
 ### Retrospectives
 

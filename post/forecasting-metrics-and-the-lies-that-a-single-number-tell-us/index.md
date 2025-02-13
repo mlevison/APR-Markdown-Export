@@ -36,13 +36,13 @@ Consider reporting a range.[\[1\]](#footnotes)[\[2\]](#footnotes)
 - Last three sprints – you’re 50% likely to achieve this number
 - Worst three sprints in the past year - the least you’re likely to achieve
 
-![Image by Agile Pain Relief Consulting](images/Forecasting-Metrics-burndown-e1468266364183.jpg)
+![Image by Agile Pain Relief Consulting](src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-burndown-e1468266364183.jpg)
 
 Along with projecting a cone of uncertainty in your burndown/burnup/cumulative flow diagram, it can also be used to illustrate which items in the product backlog are more or less likely to be achieved by drawing lines in the product backlog.
 
 If you need a more sophisticated model than these, consider using a Monte Carlo simulation. Larry Maccherone has a Chrome only example: [https://lumenize.com/](https://lumenize.com/) and code showing how he uses it: [https://jsfiddle.net/lmaccherone/j3wh61r7/](https://jsfiddle.net/lmaccherone/j3wh61r7/).
 
-![Forecasting Metrics confidence line](images/Forecasting-Metrics-confidence-line.jpg)With five Sprints to go, we have a clear picture of where in the product backlog we will likely get.
+![Forecasting Metrics confidence line](src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-confidence-line.jpg)With five Sprints to go, we have a clear picture of where in the product backlog we will likely get.
 
 So instead of forecasting a number, now we’re forecasting which items will be delivered, i.e. we’re forecasting value. This drives a better quality conversation because we can have real discussions about which stories or features to sort into which part of the Product Backlog.
 

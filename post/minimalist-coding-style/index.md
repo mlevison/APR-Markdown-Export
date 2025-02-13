@@ -6,7 +6,7 @@ categories:
 coverImage: "modern-office-xs.jpg"
 ---
 
-![modern office - image licensed from Photodune](images/modern-office-xs.jpg) “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away” - **[Antoine de Saint  Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint_Exup%C3%A9ry)**. If you’ve ever invited me do some pair programming with you, you probably have a good idea what this quote is all about. I often wind up asking questions like:
+![modern office - image licensed from Photodune](src/content/blog/minimalist-coding-style/images/modern-office-xs.jpg) “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away” - **[Antoine de Saint  Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint_Exup%C3%A9ry)**. If you’ve ever invited me do some pair programming with you, you probably have a good idea what this quote is all about. I often wind up asking questions like:
 
 - Why do you need this boolean named retVal? Could it be eliminated the use of early return statements?
 - Is the else clause in this if statement necessary? Could it be avoided with a return statement? Or break/continue in a loop?

@@ -18,7 +18,7 @@ To overcome this doubt, they implemented a simple approach: [use Agile to implem
 
 For teams and organizations that are considering following in Red Hat’s footsteps, but like them, find that management is hesitant to commit, there are three things that are always helpful in focusing on when presenting Scrum or any Agile framework for doing work:
 
-![Image licensed from iStock](images/iStock_000002232087_Large-682x1024.jpg)
+![Image licensed from iStock](src/content/blog/how-to-get-the-c-suite-to-support-agile-the-state-of-scrum-red-hats-agile-success/images/iStock_000002232087_Large-682x1024.jpg)
 
 **1) Delivering Value**
 

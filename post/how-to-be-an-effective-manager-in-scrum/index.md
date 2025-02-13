@@ -35,7 +35,7 @@ Self-Organizing Teams are often chaotic, especially in the first few months of i
 
 One of the biggest problems with management in the traditional, “waterfall” world is it is often not well-defined. However, to say anything meaningful about Agile management we need a definition of what traditional management does to show how the two differ. The list below is a summary based on “The Wall Street Journal Guide to Management”\[[1](#footnotes)\] and the Open University course, “Managing and managing people.”\[[2](#footnotes)\]
 
-**![How to Be an Effective Manager in Scrum - image owned by Agile Pain Relief Consulting](images/ScrumManager_Vector_1_vFNL-1024x607.jpg)**
+**![How to Be an Effective Manager in Scrum - image owned by Agile Pain Relief Consulting](src/content/blog/how-to-be-an-effective-manager-in-scrum/images/ScrumManager_Vector_1_vFNL-1024x607.jpg)**
 
 #### Traditional Management:
 
@@ -53,7 +53,7 @@ One of the biggest problems with management in the traditional, “waterfall” 
 
 Beyond these, in the course of my own career as a manager, I’d also include: set deadlines, make technical decisions, and play favourites.
 
-**![How to Be an Effective Manager in Scrum - image owned by Agile Pain Relief Consulting](images/ScrumManager_Vector_2_vFNL-1024x607.jpg)**
+**![How to Be an Effective Manager in Scrum - image owned by Agile Pain Relief Consulting](src/content/blog/how-to-be-an-effective-manager-in-scrum/images/ScrumManager_Vector_2_vFNL-1024x607.jpg)**
 
 #### Agile Management
 

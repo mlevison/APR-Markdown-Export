@@ -39,7 +39,7 @@ Steve, being a well-organized ScrumMaster, has an agenda in place:
 
 Steve has invited all stakeholders to attend, which include the Team’s Director, and the Directors of Support and Marketing.
 
-![Illustration of Scrum team meeting with shareholders, with the Product Owner moderating discussion.](images/APR-Story-of-a-Sprint-board-12-1024x576.png)
+![Illustration of Scrum team meeting with shareholders, with the Product Owner moderating discussion.](src/content/blog/dont-let-sprint-review-be-a-missed-opportunity/images/APR-Story-of-a-Sprint-board-12-1024x576.png)
 
 At the start of the Review, Steve reminds everyone of their Sprint Goal: “Have basic reader review system ….”.
 
@@ -53,7 +53,7 @@ The first few features that Ian demonstrates garner almost no feedback except pe
 
 When Ian demonstrates the Product Backlog Item “Reviews from a verified buyer are highlighted and displayed above other reviews”, Paula asks a few questions about the behaviour of the feature. She also checks the Definition of Done and learns from the team it is Done except for testing the text-only book review in Safari on MacOS and iPad.
 
-![Placeholder example of an online review with a 1-5 star rating](images/SbE-WSOBS-buyer-reviews-unverified-buyer.png)
+![Placeholder example of an online review with a 1-5 star rating](src/content/blog/dont-let-sprint-review-be-a-missed-opportunity/images/SbE-WSOBS-buyer-reviews-unverified-buyer.png)
 
 Jan, the Director of Marketing, asks, “How are we handling fraudulent reviews? Our reviews have always been from staff. That has been a differentiator. If we take this feature live, we lose our ability to differentiate on that.”
 
@@ -67,7 +67,7 @@ Ian is almost afraid to bring up the next feature, “Registered site users can 
 
 As he shows the feature, Jan interrupts. “We can’t have that at all. It’s another source of fraud. Sellers will often pay for many users to click the helpful review button on any review that has 4+ star rating. Their goal is to bury critical reviews.”
 
-![A placeholder example of an online review from a verified buyer of a product](images/SbE-WSOBS-buyer-reviews-helpful-vote.png)
+![A placeholder example of an online review from a verified buyer of a product](src/content/blog/dont-let-sprint-review-be-a-missed-opportunity/images/SbE-WSOBS-buyer-reviews-helpful-vote.png)
 
 At this point Paula can’t contain her frustration. “Why didn’t you tell us this before? Why wait until we wasted the team’s effort on implementing these features?”
 

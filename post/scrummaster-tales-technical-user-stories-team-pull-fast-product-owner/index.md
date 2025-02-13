@@ -18,7 +18,7 @@ tags:
 coverImage: "away-1020088_640.jpg"
 ---
 
-![Diverging paths - image licensed from Photodune](images/away-1020088_640.jpg)
+![Diverging paths - image licensed from Photodune](src/content/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner/images/away-1020088_640.jpg)
 
 _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 

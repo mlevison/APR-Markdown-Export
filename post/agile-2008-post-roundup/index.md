@@ -6,7 +6,7 @@ categories:
 coverImage: "agile-2008-conference-logo.png"
 ---
 
-![agile 2008 conference logo](images/agile-2008-conference-logo.png)
+![agile 2008 conference logo](src/content/blog/agile-2008-post-roundup/images/agile-2008-conference-logo.png)
 
 I keep on stumbling across posts about Agile 2008 and thought it might be worth sharing.
 

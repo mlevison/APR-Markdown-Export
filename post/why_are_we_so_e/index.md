@@ -6,7 +6,7 @@ categories:
 coverImage: "Influence-Science-and-Practice-book-cover.jpg"
 ---
 
-[![Influence- Science and Practice book cover](images/Influence-Science-and-Practice-book-cover.jpg)](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)
+[![Influence- Science and Practice book cover](src/content/blog/why_are_we_so_e/images/Influence-Science-and-Practice-book-cover.jpg)](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)
 
 Do you ever walk into a clothing store just to buy a suit and walk out having bought the suit, tie, belt and several shirts? This chapter will explain what just happened.
 

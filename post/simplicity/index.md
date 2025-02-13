@@ -19,7 +19,7 @@ In 201x, the global financial markets collapsed. Reason: mortgages were given to
 
 The answer? Complexity.
 
-![Dog and frisbee - Image attribute - Photodune](images/photodune-12493274-dog-and-owner-playing-xs.jpg)
+![Dog and frisbee - Image attribute - Photodune](src/content/blog/simplicity/images/photodune-12493274-dog-and-owner-playing-xs.jpg)
 
 In “[The Dog and the Frisbee](https://www.bis.org/review/r120905a.pdf)” (pdf), Andrew Haldane, Executive Director Financial Stability at the Bank of England, explains all the things a dog would have to know and understand to catch a Frisbee: wind speed and direction, rotational velocity of the Frisbee, atmospheric conditions, and gravitation. It might require a degree in physics to know how to express the control problem involved in catching the Frisbee.
 

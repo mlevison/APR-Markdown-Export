@@ -6,7 +6,7 @@ categories:
 coverImage: "agile-2008-conference-logo.png"
 ---
 
-![agile 2008 conference logo](images/agile-2008-conference-logo.png) This was my second Agile conference and I was pleasantly surprised at just how well it went. For a gathering of 1600 people I was pleasantly surprised at how intimate it can be, I kept on running into many of the same people again and again.
+![agile 2008 conference logo](src/content/blog/agile-2008-a-personal-retrospective/images/agile-2008-conference-logo.png) This was my second Agile conference and I was pleasantly surprised at just how well it went. For a gathering of 1600 people I was pleasantly surprised at how intimate it can be, I kept on running into many of the same people again and again.
 
 I already wrote about my top sessions for InfoQ so I will just link to them instead of repeating myself here:
 

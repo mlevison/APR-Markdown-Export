@@ -50,11 +50,11 @@ The Team starts work on the first four Stories right away. Tonia (Quality Assura
 
 ### ... but then it became clear these were big problems they were tackling.
 
-![Scrum by Example – The Story of an Incomplete Sprint](images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel1-1024x607.jpg)
+![Scrum by Example – The Story of an Incomplete Sprint](src/content/blog/scrum-by-example-the-story-of-an-incomplete-sprint/images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel1-1024x607.jpg)
 
 By Monday, the fifth day of the Sprint,  Tonia had completed all of this work and was hungry for an application to test. In fact, she was wondering why she hadn’t seen anything yet. Lacking an application to test she found other things to do outside the team.\[[1](#footnotes)\] It wasn’t until Wednesday (Day 7) that she finally had the first story (add my book to my shopping cart) to test. Because it was such a big story and technically complex, it took much of the day just to get everything set up to run the test. By the end of the day though, she had found a dozen issues and shared them with Ian, the Team’s Business Logic programmer.
 
-“Add my book to my shopping cart” was clearly not ready. In the meantime, the other, smaller User Stories were piling up in front of Tonia, leaving her unable to keep up with testing.![Scrum by Example – The Story of an Incomplete Sprint](images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel2-1024x607.jpg)
+“Add my book to my shopping cart” was clearly not ready. In the meantime, the other, smaller User Stories were piling up in front of Tonia, leaving her unable to keep up with testing.![Scrum by Example – The Story of an Incomplete Sprint](src/content/blog/scrum-by-example-the-story-of-an-incomplete-sprint/images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel2-1024x607.jpg)
 
 By the end of the Sprint, the Product Owner, Paula, had accepted only two User Stories as complete: “see the price for my books with shipping and tax” and “choose my payment type;”  a total of five Story Points out of the 42 they had committed to. Everything else was incomplete.
 
@@ -82,7 +82,7 @@ The final problem is a more advanced concept and it is unlikely that a Team in t
 
 In Scrum, [Teams are cross-functional](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) to better learn and adapt to constantly changing circumstances.
 
-![Scrum by Example – The Story of an Incomplete Sprint](images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel3-1024x607.jpg)
+![Scrum by Example – The Story of an Incomplete Sprint](src/content/blog/scrum-by-example-the-story-of-an-incomplete-sprint/images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel3-1024x607.jpg)
 
 However, Steve’s Team is still learning this. Tonia, Brad, and Ian all have their specializations and, during the Sprint, do little work that falls outside their areas of expertise. This is also known as [Scrummerfall](/blog/scrummaster-tales-cascades-team-discover-scrummerfall.html), and is common for organizations starting with Scrum to do, as it is usually one of the biggest shifts in the way they do work, and it takes time to make this transition.
 

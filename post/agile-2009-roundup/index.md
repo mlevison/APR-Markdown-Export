@@ -6,7 +6,7 @@ categories:
 coverImage: "agile-2009-conference-logo.png"
 ---
 
-![agile 2009 conference logo](images/agile-2009-conference-logo.png) I’ve been home for a few days and have some time to digest what I learned. More of sessions were interactive this year, so I have fewer notes and can write fewer articles than last year ([Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html)).
+![agile 2009 conference logo](src/content/blog/agile-2009-roundup/images/agile-2009-conference-logo.png) I’ve been home for a few days and have some time to digest what I learned. More of sessions were interactive this year, so I have fewer notes and can write fewer articles than last year ([Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html)).
 
 ## **The Good**:
 

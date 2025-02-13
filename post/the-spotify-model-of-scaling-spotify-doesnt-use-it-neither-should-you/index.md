@@ -10,7 +10,7 @@ coverImage: "spotify-model-meme.png"
 
 The "Spotify Model" probably isn't a model and definitely isn't what is currently practiced at Spotify today. (Some suggest it never was.) The below image was made famous in a video by Henrik Kniberg, where he explains how work was organized into Squads, Tribes, and Guilds. Many people see the structure and try to mimic it in their organization. Worse, many attempt to get the supposed benefit by renaming existing organizational structures with the same labels. As a result, most attempts at the Spotify Model are in fact Cargo Cult.
 
-\[caption id="attachment\_15638" align="aligncenter" width="974"\]![Spotify Scaling model image, credit Henrik Kniberg and Anders Ivarsson](images/spotify-scaling-model-credit-Kniberg-Ivarsson.png) Figure 1 - The famous picture from: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf\[/caption\]
+\[caption id="attachment\_15638" align="aligncenter" width="974"\]![Spotify Scaling model image, credit Henrik Kniberg and Anders Ivarsson](src/content/blog/the-spotify-model-of-scaling-spotify-doesnt-use-it-neither-should-you/images/spotify-scaling-model-credit-Kniberg-Ivarsson.png) Figure 1 - The famous picture from: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf\[/caption\]
 
 Structure isn't the most important. Culture will eat any structure. (Hint: that's why renaming your Teams as “Squads” and calling Departmental Managers “Chapter Leads” didn't help.) That said, if I don't summarize those labels, you will look elsewhere anyway, so here we go:
 
@@ -25,7 +25,7 @@ Is this just another matrix model, the sort of thing that Agile coaches have bee
 
 There are a myriad of other mistakes people make from reading a whitepaper and watching a video. The list would be longer than the original paper. So popular is this problem, it's even got its own meme:
 
-\[caption id="attachment\_15639" align="aligncenter" width="749"\]![spotify model meme](images/spotify-model-meme.png) Figure 2 from: https://medium.com/serious-scrum/you-want-to-adopt-the-spotify-model-i-dont-think-it-means-what-you-think-it-means-7df4316081f\[/caption\]
+\[caption id="attachment\_15639" align="aligncenter" width="749"\]![spotify model meme](src/content/blog/the-spotify-model-of-scaling-spotify-doesnt-use-it-neither-should-you/images/spotify-model-meme.png) Figure 2 from: https://medium.com/serious-scrum/you-want-to-adopt-the-spotify-model-i-dont-think-it-means-what-you-think-it-means-7df4316081f\[/caption\]
 
 _You can't copy and paste someone else's approach to Agile. Their approach grew from their people and their culture. In addition, all attempts to document a culture are simplifications that are missing details that were important. Instead of copying the Spotify model, or model from another random company (e.g. FitBit, John Deere), grow your own Agile model. It is the only long-term path to success._
 

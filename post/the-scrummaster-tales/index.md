@@ -15,7 +15,7 @@ tags:
 coverImage: "photodune-9297562-example-stamp-xs.jpg"
 ---
 
-![Example stamp - image licensed from Photodune](images/photodune-9297562-example-stamp-xs.jpg) I’ve been struck by how little is written about being a great Scrum Master. There have been a stack of articles written about Scaling Agile and many great technical books, but very little on playing individual roles well. Scrum By Example is intend to fill this gap.
+![Example stamp - image licensed from Photodune](src/content/blog/the-scrummaster-tales/images/photodune-9297562-example-stamp-xs.jpg) I’ve been struck by how little is written about being a great Scrum Master. There have been a stack of articles written about Scaling Agile and many great technical books, but very little on playing individual roles well. Scrum By Example is intend to fill this gap.
 
 ## Cast of Characters
 

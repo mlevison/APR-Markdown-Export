@@ -7,7 +7,7 @@ categories:
 coverImage: "19631-scaled.jpg"
 ---
 
-![Two male partners shaking hands at the office - image by senivpetro via Freepik](images/19631-1024x683.jpg)Your project schedule says that you will get 2 more team members this week and 3 more next month. How do you integrate them into the team? How do you bring them on board? How do you avoid slowdowns? In a word you can’t avoid the slowdown – adding new people to the project will slow the existing team down.
+![Two male partners shaking hands at the office - image by senivpetro via Freepik](src/content/blog/new-people-on-your-project/images/19631-1024x683.jpg)Your project schedule says that you will get 2 more team members this week and 3 more next month. How do you integrate them into the team? How do you bring them on board? How do you avoid slowdowns? In a word you can’t avoid the slowdown – adding new people to the project will slow the existing team down.
 
 On any project it will take from 2-4 months for the team to integrate a new person and recover from the slowdown:
 

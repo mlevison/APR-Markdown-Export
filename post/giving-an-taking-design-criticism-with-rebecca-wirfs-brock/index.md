@@ -6,7 +6,7 @@ categories:
 coverImage: "photodune-1316681-scales-xs.jpg"
 ---
 
-![scales with zen stone - image licensed from Photodune](images/photodune-1316681-scales-xs.jpg)I recently had the opportunity to attend a webinar “Giving and Taking Design Criticism” with [Rebecca Wirfs-Brock](https://www.wirfs-brock.com/index.html). The session teaser was: “Have you ever engaged in a design review where people didn’t play fair? Do you have trouble giving design advice that sticks? An effective software developer or designer needs to be skilled at giving, asking for, and reacting appropriately to criticism.”
+![scales with zen stone - image licensed from Photodune](src/content/blog/giving-an-taking-design-criticism-with-rebecca-wirfs-brock/images/photodune-1316681-scales-xs.jpg)I recently had the opportunity to attend a webinar “Giving and Taking Design Criticism” with [Rebecca Wirfs-Brock](https://www.wirfs-brock.com/index.html). The session teaser was: “Have you ever engaged in a design review where people didn’t play fair? Do you have trouble giving design advice that sticks? An effective software developer or designer needs to be skilled at giving, asking for, and reacting appropriately to criticism.”
 
 As someone who has done design/code reviews, I’ve always wondered why the advice didn’t stick and needed to be repeated so often. As a victim of the same reviews, I wondered why the reviewer needed to be so picky and unpleasant _Two sides of the same coin?_
 

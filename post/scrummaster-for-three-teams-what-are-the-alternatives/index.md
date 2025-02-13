@@ -17,7 +17,7 @@ tags:
 coverImage: "PulledInManyDirections-small.jpg"
 ---
 
-![Pulled In Many Directions - by FreeImages.com](images/PulledInManyDirections-small.jpg)
+![Pulled In Many Directions - by FreeImages.com](src/content/blog/scrummaster-for-three-teams-what-are-the-alternatives/images/PulledInManyDirections-small.jpg)
 
 Scrum succeeds because it helps build a high performance team, i.e. a team that is capable of delivering significantly more work than the individuals are capable of separately. The role of the ScrumMaster is to help build the high performing team through observing their relationships, helping them understand Scrum, improving their technical practices, improving their relationship with their product owner, and improving the organization they’re part of. Read this story through the lens of building team(s) and ask what Steve could have done.
 

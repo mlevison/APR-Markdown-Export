@@ -16,7 +16,7 @@ tags:
 coverImage: "photodune-8431094-done-text-and-check-mark-xs.jpg"
 ---
 
-![Done image licensed from Photodune](images/photodune-8431094-done-text-and-check-mark-xs.jpg) The recent [Backlog Refinement](/blog/scrummaster-tales-story-splitting-fun.html) session helped split the upcoming User Stories.
+![Done image licensed from Photodune](src/content/blog/creating-acceptance-criteria-waiting-too-long/images/photodune-8431094-done-text-and-check-mark-xs.jpg) The recent [Backlog Refinement](/blog/scrummaster-tales-story-splitting-fun.html) session helped split the upcoming User Stories.
 
 The team was able to get from a very large Story: “As a first time book buyer I want to read a trustworthy review before I buy a book” to:
 

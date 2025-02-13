@@ -22,7 +22,7 @@ Scrum by Example is meant to empower readers to **become excellent in their prac
 
 Scrum by Example is written as an episodic story, with a small cast of characters and a simple fictional product. In each episode, there will be a breakdown of a specific problem or issue, as well as information and advice for how to handle it, whether you are a ScrumMaster or in any of the Scrum roles.
 
-![A lineup of characters used in the Scrum By Example series](images/Scrum-by-Example-Characters-1024x711.jpg)
+![A lineup of characters used in the Scrum By Example series](src/content/blog/scrum-by-example/images/Scrum-by-Example-Characters-1024x711.jpg)
 
 _Dramatis Personae_
 

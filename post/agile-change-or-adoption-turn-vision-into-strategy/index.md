@@ -18,7 +18,7 @@ tags:
 coverImage: "Be-Always-Changing-vision-to-strategy.jpg"
 ---
 
-![Be Always Changing - vision to strategy - image by Agile Pain Relief Consulting](images/Be-Always-Changing-vision-to-strategy.jpg)
+![Be Always Changing - vision to strategy - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-turn-vision-into-strategy/images/Be-Always-Changing-vision-to-strategy.jpg)
 
 (Continued from _Agile Change or Adoption Always Starts with Why_ : [1](/blog/agile-change-or-adoption-always-starts-with-why.html) , [2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html) , [3](/blog/agile-change-or-adoption-sense-your-current-culture.html) , [4](/blog/agile-change-or-adoption-create-a-vision.html) )
 
@@ -28,7 +28,7 @@ But collaboration is the key. Both Vision and Strategy should be created with in
 
 Some prefer to use the X-Matrix as a Strategy Deployment Tool – basically another way of visualizing the relationship between an objective, a strategy, and the tactics used to implement the strategy. _Caveat: most of the examples you will find on the subject are around manufacturing and are heavily focused on metrics. Given the limitations of measurement in the world of software development (i.e. knowledge work), I don’t find that an X-Matrix adds much more than a good Story Map._
 
-![X Matrix cc license Karl Scotland](images/X-Matrix-Karl-Scotland.jpeg)
+![X Matrix cc license Karl Scotland](src/content/blog/agile-change-or-adoption-turn-vision-into-strategy/images/X-Matrix-Karl-Scotland.jpeg)
 
 If you choose the Story Map method, break down a few items at a time into manageable changes. Changes at this level should be small enough that it’s clear which team(s) needs to be involved in making the change.
 
@@ -46,7 +46,7 @@ At the WorldsSmallestOnlineBookStore, there are over one hundred people involved
 
 They reframe them as more positive goals:
 
-![Worlds Smallest Online Bookstore Vision for Improvement - image by Agile Pain Relief Consulting with elements from Freepik](images/WSOBS-Vision-for-Improvement.jpeg)
+![Worlds Smallest Online Bookstore Vision for Improvement - image by Agile Pain Relief Consulting with elements from Freepik](src/content/blog/agile-change-or-adoption-turn-vision-into-strategy/images/WSOBS-Vision-for-Improvement.jpeg)
 
 Next step: [Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes.html)
 

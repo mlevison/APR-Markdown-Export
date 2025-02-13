@@ -11,7 +11,7 @@ tags:
 coverImage: "APR-BlogIllustration_July2020_AgileRetrospectives_v1.jpg"
 ---
 
-![Agile and Scrum Retrospectives](images/APR-BlogIllustration_July2020_AgileRetrospectives_v1.jpg) The goal of this post is to give teams a basic, solid introduction on how to have not-sucky Sprint Retrospectives. I cover here the common misunderstandings about retrospectives and share the fundamentals of how to have an effective Sprint Retrospective. If you're later interested in going in-depth on this topic, my [_Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives) also includes examples and descriptions of recommended activities to help improve this Scrum Event that Team Members and ScrumMasters often struggle with.
+![Agile and Scrum Retrospectives](src/content/blog/agile-retrospectives/images/APR-BlogIllustration_July2020_AgileRetrospectives_v1.jpg) The goal of this post is to give teams a basic, solid introduction on how to have not-sucky Sprint Retrospectives. I cover here the common misunderstandings about retrospectives and share the fundamentals of how to have an effective Sprint Retrospective. If you're later interested in going in-depth on this topic, my [_Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives) also includes examples and descriptions of recommended activities to help improve this Scrum Event that Team Members and ScrumMasters often struggle with.
 
 Retrospectives are _explicitly_ part of Scrum – “[The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint](https://scrumguides.org/scrum-guide.html#events-retro).” and _implicitly_ part of the whole Agile movement – witness Agile Manifesto Principle #12: “[At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly](http://agilemanifesto.org/principles.html)."
 
@@ -131,7 +131,7 @@ Need a prompt to help create effective ground rules? Try “Think of the best or
 
 Many retrospectives use the model originally outlined in “[Agile Retrospectives – Making Good Teams Great](https://pragprog.com/titles/dlret/agile-retrospectives/)” – Esther Derby and Diana Larsen.
 
-![Sprint Retrospective Structure](images/Retrospective-Structure-Chris-Smith.jpg)
+![Sprint Retrospective Structure](src/content/blog/agile-retrospectives/images/Retrospective-Structure-Chris-Smith.jpg)
 
 ##### Figure 1 - Creative Commons - Chris Smith [https://leadingagileteams.com](https://leadingagileteams.com/)
 

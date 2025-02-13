@@ -24,7 +24,7 @@ Learning from [their recent experience with bad User Stories](/blog/deal-with-ba
 
 Remember: Scrum doesn’t require User Stories. However, for relatability purposes of this story, we refer to User Story, but you can substitute Product Backlog Item.
 
-![A Product Backlog Refinement meeting is where the Product Owner and the Development Team discuss the items at the top of the Product Backlog.](images/AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_A_v1-1024x607.png)
+![A Product Backlog Refinement meeting is where the Product Owner and the Development Team discuss the items at the top of the Product Backlog.](src/content/blog/scrum-product-backlog-refinement/images/AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_A_v1-1024x607.png)
 
 ## What is Product Backlog Refinement
 
@@ -52,7 +52,7 @@ To prepare for the Product Backlog Refinement event, Product Owner Paula doesn�
 
 ## Backlog Refinement Is All About Discussion and Asking Questions
 
-![Backlog Refinement Meeting Agenda in Action](images/AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_B_v1-1024x607.png) Paula and the Team review the current list of items in the Product Backlog. They clarify the User Stories by discussing the context for a desired product feature and what kind of value it is meant to give the user. Taking the time to discuss each User Story solves [the earlier problem of bad User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html) which lacked a clear ‘Why’ statement. It also gives the whole Scrum Team the needed context and clarity to provide useful estimates. ScrumMaster Steve’s guidance toward having this backlog refinement session, instead of blindly launching into Sprint Planning, has been a huge help.
+![Backlog Refinement Meeting Agenda in Action](src/content/blog/scrum-product-backlog-refinement/images/AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_B_v1-1024x607.png) Paula and the Team review the current list of items in the Product Backlog. They clarify the User Stories by discussing the context for a desired product feature and what kind of value it is meant to give the user. Taking the time to discuss each User Story solves [the earlier problem of bad User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html) which lacked a clear ‘Why’ statement. It also gives the whole Scrum Team the needed context and clarity to provide useful estimates. ScrumMaster Steve’s guidance toward having this backlog refinement session, instead of blindly launching into Sprint Planning, has been a huge help.
 
 The topmost items are estimated by the Developers and split into a digestible size (i.e. small or 1, 2, or 3 Story Points). In addition, they have at least two or three Acceptance Criteria associated with them.
 

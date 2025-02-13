@@ -18,7 +18,7 @@ tags:
 coverImage: "Be-Always-Changing-sense-culture.jpg"
 ---
 
-![Be Always Changing - sense culture - image by Agile Pain Relief Consulting](images/Be-Always-Changing-sense-culture.jpg)
+![Be Always Changing - sense culture - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-sense-your-current-culture/images/Be-Always-Changing-sense-culture.jpg)
 
 (Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](/blog/agile-change-or-adoption-always-starts-with-why.html), [Part 2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html))
 
@@ -35,7 +35,7 @@ The model we will use is the Schneider Culture Model.[\[1\]](#footnotes) [\[2\]
 
 These attributes are mapped on two axes: Horizontal – People vs. Company oriented; Vertical - Reality vs. Possibility oriented.
 
-![Schneider Culture Model by Michael Sahota - used with permission](images/Schneider-Culture-Model.Michael-Sahota.jpg)
+![Schneider Culture Model by Michael Sahota - used with permission](src/content/blog/agile-change-or-adoption-sense-your-current-culture/images/Schneider-Culture-Model.Michael-Sahota.jpg)
 
 _([Image by Michael Sahota, used with permission](https://shift314.com/how-to-make-your-culture-work/))_
 

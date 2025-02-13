@@ -11,7 +11,7 @@ tags:
 coverImage: "3d-men-holding-hands-in-a-circle-xs.jpg"
 ---
 
-![3D men holding hands in a circle. - image by PhotoDune](images/3d-men-holding-hands-in-a-circle-xs.jpg) I wrote about this last week on [InfoQ](https://www.infoq.com/news/2008/10/agile-games/) but I thought it worthwhile to call out the games I think are the most useful and interesting. In the news item I used a quote from Mike Sutton, that neatly sums up the value of games to my mind: "There is nothing as effective to accelerate learning as a physical immersive game. The simpler the better, better still with near to no props. As low tech as possible. You get to see the penny actually drop with some folks too - and that is a great moment".
+![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/agile-games-for-making-retrospectives-interesting/images/3d-men-holding-hands-in-a-circle-xs.jpg) I wrote about this last week on [InfoQ](https://www.infoq.com/news/2008/10/agile-games/) but I thought it worthwhile to call out the games I think are the most useful and interesting. In the news item I used a quote from Mike Sutton, that neatly sums up the value of games to my mind: "There is nothing as effective to accelerate learning as a physical immersive game. The simpler the better, better still with near to no props. As low tech as possible. You get to see the penny actually drop with some folks too - and that is a great moment".
 
 ### Games
 

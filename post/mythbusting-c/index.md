@@ -10,7 +10,7 @@ tags:
 coverImage: "working-together-xs.jpg"
 ---
 
-![Working together - image licensed from Photodune](images/working-together-xs.jpg) In researching "[Are there weaknesses with Collective Code Ownership?](https://www.infoq.com/news/2008/05/weaknesses_collective_code)" for a news item on InfoQ I was struck by the number of myths that get repeated around Collective Code Ownership. I thought it time to burst a few balloons.
+![Working together - image licensed from Photodune](src/content/blog/mythbusting-c/images/working-together-xs.jpg) In researching "[Are there weaknesses with Collective Code Ownership?](https://www.infoq.com/news/2008/05/weaknesses_collective_code)" for a news item on InfoQ I was struck by the number of myths that get repeated around Collective Code Ownership. I thought it time to burst a few balloons.
 
 A number of writers equated Collective Code Ownership (CCO) with "no ownership" or chaos. Yet nothing could be further from the truth. Let's revisit [Martin Fowler's definition](https://www.martinfowler.com/bliki/CodeOwnership.html) (he's a better writer than I):
 

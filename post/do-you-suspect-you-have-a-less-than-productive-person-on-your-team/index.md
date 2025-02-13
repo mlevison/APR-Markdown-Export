@@ -6,7 +6,7 @@ categories:
 coverImage: "typewriter-xs.jpg"
 ---
 
-![typewriter - image licensed from Photodune](images/typewriter-xs.jpg) In the past couple of days on the Scrum Development mailing list an interesting thread has developed around what to do with a poor-performing team member.
+![typewriter - image licensed from Photodune](src/content/blog/do-you-suspect-you-have-a-less-than-productive-person-on-your-team/images/typewriter-xs.jpg) In the past couple of days on the Scrum Development mailing list an interesting thread has developed around what to do with a poor-performing team member.
 
 Too my mind there have been a number of key takeaways:
 

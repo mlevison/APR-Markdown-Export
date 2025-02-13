@@ -18,7 +18,7 @@ coverImage: "photodune-925282-calendar-xs.jpg"
 
 No, of course not. So when should your Team start and end Sprints? The usual rules of Scrum apply – ask the Team. Run an experiment.
 
-![Calendar image licensed from Photodune](images/photodune-925282-calendar-xs.jpg)
+![Calendar image licensed from Photodune](src/content/blog/is-there-a-best-day-to-start-and-finish-a-sprint/images/photodune-925282-calendar-xs.jpg)
 
 There is an instinctive tendency to want to wrap up things at the end of the work week so we can unplug our brains for the weekend, and start things at the beginning of a new week. This is the biggest reason people cite for choosing Monday to Friday for Sprint cycles. But this doesn’t take into account some factors that your Team may want to consider:
 

@@ -13,7 +13,7 @@ tags:
 coverImage: "photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg"
 ---
 
-![yellow road warning sign - image licensed from Photodune](images/photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg) _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
+![yellow road warning sign - image licensed from Photodune](src/content/blog/scrum-master-tales-more-interruptions/images/photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg) _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
 Last time we read about our team they were suffering from a very high rate of interruptions after the product had gone live: [The Story of Production Support](/blog/scrum-production-support.html).
 

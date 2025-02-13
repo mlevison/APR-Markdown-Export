@@ -13,7 +13,7 @@ tags:
 coverImage: "APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2.jpg"
 ---
 
-![Definition of Done vs. User Stories vs. Acceptance Criteria](images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2.jpg)
+![Definition of Done vs. User Stories vs. Acceptance Criteria](src/content/blog/definition-of-done-user-stories-acceptance-criteria/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2.jpg)
 
 One of the more frequently asked questions in my Scrum workshops is around the difference between **Definition of “Done”** and **Acceptance Criteria**, and how they relate to User Stories.
 
@@ -25,7 +25,7 @@ Since both Definition of “Done” and Acceptance Criteria apply to User Storie
 
 A User Story is a tool to move the focus from What we’re building (what often happens with traditional requirements) to Why and Who. It's intended to start a conversation between the people who will implement the Story and the Product Owner, with the goal of ensuring the Team solves the underlying business problem instead of just delivering a requirement.
 
-![User Story slices](images/User-Story-slices.png)The goals of a User Story are:
+![User Story slices](src/content/blog/definition-of-done-user-stories-acceptance-criteria/images/User-Story-slices.png)The goals of a User Story are:
 
 - to focus on the business problem that needs to be solved, not the solution to that problem.
 - to start a conversation about why a problem needs solving, who needs it, and what problem to solve.
@@ -79,7 +79,7 @@ To summarize, the goals of “Done” are:
 - to be a checklist that User Stories are checked against.
 - to ensure the increment shipped at the end of the Sprint has high quality and that the quality is well understood by all involved.
 
-![Definition of Done vs. User Stories vs. Acceptance Criteria](images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_B_v2.jpg)
+![Definition of Done vs. User Stories vs. Acceptance Criteria](src/content/blog/definition-of-done-user-stories-acceptance-criteria/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_B_v2.jpg)
 
 ## Acceptance Criteria
 

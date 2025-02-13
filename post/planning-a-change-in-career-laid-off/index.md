@@ -5,7 +5,7 @@ categories:
   - "software-development"
 ---
 
-![Businessman with clipboard: out of work - image licensed from Photodune](images/out-of-work-xs.jpg) A few good friends have been recently laid off, and I’ve been left thinking what to do after that happens. First up—I don’t have any jobs in my back pocket, and I don’t know anyone hiring right this second. My thoughts are more general than that.
+![Businessman with clipboard: out of work - image licensed from Photodune](src/content/blog/planning-a-change-in-career-laid-off/images/out-of-work-xs.jpg) A few good friends have been recently laid off, and I’ve been left thinking what to do after that happens. First up—I don’t have any jobs in my back pocket, and I don’t know anyone hiring right this second. My thoughts are more general than that.
 
 Even if you haven’t been laid off, I would start preparing now. You should start building your profile and be prepared for whatever happens. This is pretty much what I have done the past few years, as I started thinking about moving from day-to-day software development to a full-time Agile Coaching role.
 

@@ -5,7 +5,7 @@ categories:
   - "agile"
 ---
 
-![children raising their hand in the classroom - from iStockPhoto](images/iStock_000010106237_Double-1024x700.jpg) John Miller recently challenged some of us to summarize Agile for the K-12 crowd. I wound up writing a tweet I could share with my nine year old:
+![children raising their hand in the classroom - from iStockPhoto](src/content/blog/agile-in-a-tweet/images/iStock_000010106237_Double-1024x700.jpg) John Miller recently challenged some of us to summarize Agile for the K-12 crowd. I wound up writing a tweet I could share with my nine year old:
 
 “Focus on the customer. Build amazing quality stuff. Release frequently. Always improving. Two heads are better than one.”
 

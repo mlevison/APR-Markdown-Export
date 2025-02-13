@@ -15,7 +15,7 @@ tags:
 coverImage: "photodune-3570112-cutting-xs.jpg"
 ---
 
-![Story Slicing. Cutting - image licensed from Photodune](images/photodune-3570112-cutting-xs.jpg) When Agile/Scrum Trainers teach about new teams about User Stories, we usually talk about Bill Wake’s [INVEST](https://xp123.com/xplor/xp0308/index.shtml) criteria, which includes Small:
+![Story Slicing. Cutting - image licensed from Photodune](src/content/blog/story-slicing-how-small-is-enough/images/photodune-3570112-cutting-xs.jpg) When Agile/Scrum Trainers teach about new teams about User Stories, we usually talk about Bill Wake’s [INVEST](https://xp123.com/xplor/xp0308/index.shtml) criteria, which includes Small:
 
 > Good stories tend to be small. Stories typically represent at most a few person-weeks worth of work. (Some teams restrict them to a few person-days of work.) Above this size, and it seems to be too hard to know what's in the story's scope. Saying, "it would take me more than month" often implicitly adds, "as I don't understand what-all it would entail." Smaller stories tend to get more accurate estimates.
 

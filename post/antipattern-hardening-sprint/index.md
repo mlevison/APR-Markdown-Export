@@ -16,7 +16,7 @@ coverImage: "APR_Blog-Illustrations_June2019_SpecialSprints_v3.jpg"
 
 _Hardening Sprints are one of the most common kinds of Scrum Anti-Patterns: ways of addressing recurring problems that seem like effective solutions at the time but in fact hamper productivity or create more problems later on. Here we introduce why they are used, why they are not an effective design pattern, and how you can create more effective solutions._
 
-![Scrum Anti-Patterns](images/APR_Blog-Illustrations_June2019_SpecialSprints_v3.jpg) In software development work, a design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the problem, including context and the consequences of certain actions, without prompting the reader to solve the problem a specific way, leaving them with the agency to write code as they see fit. Patterns, when applied well and not overused, provide a guide to solving repetitive problems rapidly. A good pattern provides enough background information to help the reader appreciate where it is applicable, without declaring that is the best solution in all instances.
+![Scrum Anti-Patterns](src/content/blog/antipattern-hardening-sprint/images/APR_Blog-Illustrations_June2019_SpecialSprints_v3.jpg) In software development work, a design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the problem, including context and the consequences of certain actions, without prompting the reader to solve the problem a specific way, leaving them with the agency to write code as they see fit. Patterns, when applied well and not overused, provide a guide to solving repetitive problems rapidly. A good pattern provides enough background information to help the reader appreciate where it is applicable, without declaring that is the best solution in all instances.
 
 Scrum, Agile, and Kanban, in this sense, are sets of behavioural design patterns. In the Scrum Community, we have [Scrum PLOP](https://www.scrumplop.org/) (Pattern Language of Programs) that documents known patterns of effective behaviour.
 
@@ -26,7 +26,7 @@ Unfortunately, we also regularly see recurring patterns of ineffective behaviour
 
 _To explore the topic more deeply, please see this [growing collection of articles](/blog/scrum-anti-patterns.html)._ 
 
-[![Anti-Patterns in Agile Banner Illustration](images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5.jpg " ")](/blog/scrum-anti-patterns.html)
+[![Anti-Patterns in Agile Banner Illustration](src/content/blog/antipattern-hardening-sprint/images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5.jpg " ")](/blog/scrum-anti-patterns.html)
 
 Scrum as an approach is already designed to deal with the unpredictable, without having to force exceptions. Whenever a team creates an exception, such as a special Sprint to solve a challenge, it creates an Anti-Pattern, which often results in additional problems.
 
@@ -60,7 +60,7 @@ Teams who have spent a long time working in a waterfall fashion often elect for 
 
 ### Consequences of using Hardening Sprints
 
-[![The Hardening Sprint - Causal Loop Diagram](images/Hardening-Sprint-CLD-1024x769.jpg)](/wp-content/uploads/2019/09/Hardening-Sprint-CLD.jpg)
+[![The Hardening Sprint - Causal Loop Diagram](src/content/blog/antipattern-hardening-sprint/images/Hardening-Sprint-CLD-1024x769.jpg)](/wp-content/uploads/2019/09/Hardening-Sprint-CLD.jpg)
 
 Hardening Sprints are essentially the Scrum developers' version of “we’ll fix it in post.” They tend to decrease the readability of the code base because people have a habit\[[3](#footnotes)\] of delaying any tidy-up work until then. The messier the code is to read, the harder and more time-intensive it is to add new features or test existing ones. Many people call this Technical Debt.\[[4](#footnotes)\] It doesn’t take long before the team needs to add more time into the Hardening Sprint to get the work fully tested.
 

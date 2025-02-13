@@ -12,7 +12,7 @@ tags:
   - "workshop"
 ---
 
-## ![Scrum training session run by Certified Scrum Trainer Mark Levison](images/2011-11-03-11.16.49.jpg) _2011 Session_
+## ![Scrum training session run by Certified Scrum Trainer Mark Levison](src/content/blog/learning-scrum-through-games/images/2011-11-03-11.16.49.jpg) _2011 Session_
 
 Last week at Agile Tour Toronto I had the privilege of working with my friend Paul Heidema to help introduce the basic concepts of Scrum in 60 minutes. This is a really interesting challenge, what's the minimum amount you can teach people and still give them a taste of Scrum. In end we opted for about ~10 minutes of talking heads (spread throughout), ~30 minutes of simulation time and 15 minutes of debrief.
 
@@ -35,7 +35,7 @@ Feel free to use this simple simulation to help teach the **very basic** concep
 
 ## _2012 Update_
 
-![Learning Scrum Through Games](images/wpid-LearningScrumThroughGamesSuccess-2012-11-27-07-30.jpg)
+![Learning Scrum Through Games](src/content/blog/learning-scrum-through-games/images/wpid-LearningScrumThroughGamesSuccess-2012-11-27-07-30.jpg)
 
 Last year I created a short session - Learning Scrum Through Games - to help people explore the basics of Scrum in a one hour format. This year I rewrote it and took it to both Agile Tour Toronto and Ottawa.
 
@@ -43,7 +43,7 @@ We learned a number of interesting things from both sessions:
 
 - Even with a poor quality Product Backlog _(the Backlog I gave attendees has many issues_) the team was still able to create a pretty good product.
 - I don’t give the best instructions to start the exercise and yet attendees manage to create some great comics. _When a real Scrum team starts, it's chaotic at first. I would prefer attendees get a sense of this during the exercise so I give deliberately vague instructions._
-- Ask the Product Owner Questions - in Ottawa only one team did this. As a result many teams were surprised when it turned out that a nine-page comic book was the only thing I accepted as complete.![Learning Scrum Through Games](images/wpid-ScrumThroughGames-2012-11-27-07-30.jpg)
+- Ask the Product Owner Questions - in Ottawa only one team did this. As a result many teams were surprised when it turned out that a nine-page comic book was the only thing I accepted as complete.![Learning Scrum Through Games](src/content/blog/learning-scrum-through-games/images/wpid-ScrumThroughGames-2012-11-27-07-30.jpg)
 - Done or Not Done - Incomplete Comics lead to a good discussion, there is no such thing as 80% done in Scrum. Working software (or comics in this case) is the only measure of progress. This topic led to a brief conversation around the importance of shippable product after every Sprint.
 - Many teams jumped around the Product Backlog: choosing whichever stories they felt they could complete. They didn’t ask the Product Owner if it was okay to implement items out of order. Some teams went even further by implementing things the Product Owner didn’t ask for. _Quick reminder: if the team wants to do things in a different order or do new things, they have to ask the Product Owner first._
 - In Toronto several attendees remarked that it was difficult to understand what was going to happen next. In Ottawa I created an Index Card - Scrum Task wall.

@@ -16,11 +16,11 @@ Let's look at how this works by using an example. Imagine an organization or dep
 
 Their Portfolio Kanban board might look like this:
 
-![](images/Kanban-Portfolio-View-2024-upstream-downstream-1024x230.png)
+![](src/content/blog/portfolio-management-with-upstream-and-downstream-teams/images/Kanban-Portfolio-View-2024-upstream-downstream-1024x230.png)
 
 All of the same challenges we visualized on the simpler board before still apply and some of them will get worse. Much worse. Before showing how,  we will study a fictional value stream map for this organization.
 
-![](images/value-stream-map-example-1024x261.png)
+![](src/content/blog/portfolio-management-with-upstream-and-downstream-teams/images/value-stream-map-example-1024x261.png)
 
 Assuming items never wait (which is unrealistic), it will take from two weeks to a month to get a Feature/Epic/Large PBI deployed. Worse, a system designed like this has a big failure risk built in. What happens if an item is rejected or requires rework after it goes through the legal/regulatory process? Depending on the problem, its UX may need to be redesigned or parts rewritten. Once the rework happens, it must then take another trip through the system. This will exacerbate all of the other problems illustrated on their kanban board.
 

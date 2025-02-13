@@ -11,7 +11,7 @@ categories:
 coverImage: "scrum-alone-not-enough-organizational-improvement.jpg"
 ---
 
-![Beyond Scrum: Scrum Alone Is Not Enough](images/scrum-alone-not-enough-organizational-improvement.jpg)
+![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/taking-organizational-improvement-with-scrum-seriously/images/scrum-alone-not-enough-organizational-improvement.jpg)
 
 (_Presented as Part 4 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough.html), and accompanied by this [worked example](/blog/taking-organizational-improvement-seriously-case-study.html) of Organizational Improvement in WorldsSmallestOnlineBookstore._)
 

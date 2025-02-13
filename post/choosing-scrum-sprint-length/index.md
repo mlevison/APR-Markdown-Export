@@ -31,7 +31,7 @@ Before getting into the pros and cons of different Sprint lengths, something tha
 
 To understand why you ideally want to lean toward a shorter Sprint, let’s look at some pros and cons of different Sprint lengths. I’ve also included some tips to help you decide what might work best for your Team. Remember: this isn’t a substitute for getting the Team to make their own decision based on their understanding of Scrum.
 
-![How to choose a Scrum Sprint Length - image by Agile Pain Relief Consulting](images/APR-Blog-Illustrations_Oct2019_SprintLengths_A_v1.jpg)
+![How to choose a Scrum Sprint Length - image by Agile Pain Relief Consulting](src/content/blog/choosing-scrum-sprint-length/images/APR-Blog-Illustrations_Oct2019_SprintLengths_A_v1.jpg)
 
 ### Longer Sprints (3-4 weeks)
 
@@ -53,7 +53,7 @@ Important: If your Sprint is longer than one calendar month, you’re not doing 
 - Makes it easier to do “Mini-Waterfalls” within Scrum, i.e. Analysis -> Development -> Manual Test, with a certain number of days planned for each. This leads to the dark side and Scrum Theatre. Mini-Waterfalls also usually lead to the use of [Hardening or Stabilization Sprints](/blog/antipattern-hardening-sprint.html).
 - Team and Organizational problems tend to be discovered and addressed more slowly.
 
-### ![How to choose a Scrum Sprint Length – Shorter Beats Longer - image by Agile Pain Relief Consulting](images/APR-Blog-Illustrations_Oct2019_SprintLengths_B_v2.jpg)
+### ![How to choose a Scrum Sprint Length – Shorter Beats Longer - image by Agile Pain Relief Consulting](src/content/blog/choosing-scrum-sprint-length/images/APR-Blog-Illustrations_Oct2019_SprintLengths_B_v2.jpg)
 
 ### Shorter Sprints (1-2 weeks)
 

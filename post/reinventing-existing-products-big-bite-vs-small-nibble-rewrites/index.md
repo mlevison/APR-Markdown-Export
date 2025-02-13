@@ -14,7 +14,7 @@ tags:
 coverImage: "big-bit-small-nibble.jpg"
 ---
 
-![Big Bite Small Nibble - images licensed from Unsplash: Alec Weir, Bonnie Kittle](images/big-bit-small-nibble.jpg)
+![Big Bite Small Nibble - images licensed from Unsplash: Alec Weir, Bonnie Kittle](src/content/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites/images/big-bit-small-nibble.jpg)
 
 Twice now in my career I’ve done a massive rewrite to replace an existing product. In both cases, it didn’t end well. Each time, the new product was competing with an existing product that was making the company money. So, of course, the existing product got enhancements on a rickety structure, and on the new product we never caught up. In one case we solved the problem by getting bought out, in the other, the two products lived side by side for far too long.
 

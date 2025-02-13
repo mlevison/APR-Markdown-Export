@@ -11,7 +11,7 @@ tags:
 coverImage: "APR_Blog-Illustrations_June2019_Anti-Patterns_v5.jpg"
 ---
 
-![Banner image of a set of gears forming the word 'anti-pattern' with a person lifting a gear containing the hyphen](images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5-1024x607.jpg)
+![Banner image of a set of gears forming the word 'anti-pattern' with a person lifting a gear containing the hyphen](src/content/blog/scrum-anti-patterns/images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5-1024x607.jpg)
 
 In software development work, a design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the problem, including context and the consequences of certain actions, without prompting the reader to solve the problem a specific way, leaving them with the agency to write code as they see fit.
 

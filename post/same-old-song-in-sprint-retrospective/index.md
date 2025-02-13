@@ -42,7 +42,7 @@ Doug and Ian are silent.
 
 Steve asks the team to repeat the process to answer: What didn’t go well?  This time, the five minutes results in over forty sticky notes. Like the first round, they group them and Steve asks his killer question, “Looking over our notes, what is the biggest area for improvement in the next Sprint?”
 
-![Two members of the scrum team argue during the sprint retrospective while the rest of the team gets anxious or tune out](images/APR-Sept2021_BlogIllustration_SprintRetrospectives_v1-1024x607.jpg)
+![Two members of the scrum team argue during the sprint retrospective while the rest of the team gets anxious or tune out](src/content/blog/same-old-song-in-sprint-retrospective/images/APR-Sept2021_BlogIllustration_SprintRetrospectives_v1-1024x607.jpg)
 
 At this point Kirby and Martin start talking animatedly. Kirby is really interested in tidying some of their technical debt. He thinks simplifying the worst of their code will make it easier to add the new features that Paula is asking for. Martin, who keeps talking over top of Kirby, says the database is a bit of a mess and he wants help from his teammates. Jasmine and Brad struggle to get a word in, but they do at least try.
 

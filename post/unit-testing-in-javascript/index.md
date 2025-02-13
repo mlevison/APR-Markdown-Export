@@ -13,7 +13,7 @@ tags:
 coverImage: "hacking-codes-xs.jpg"
 ---
 
-![Hacking codes - image licensed from Photodune](images/hacking-codes-xs.jpg)
+![Hacking codes - image licensed from Photodune](src/content/blog/unit-testing-in-javascript/images/hacking-codes-xs.jpg)
 
 Last week a colleague asked for my help finding better unit test tools for Java Script. He's done some digging on the state of the art with JavaScript unit tests and finds the whole lot wanting. His discoveries:
 

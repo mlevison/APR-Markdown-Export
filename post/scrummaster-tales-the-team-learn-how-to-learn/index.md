@@ -14,7 +14,7 @@ tags:
 coverImage: "photodune-1277447-dark-dojo-xs.jpg"
 ---
 
-![dark dojo - image licensed from Photodune](images/photodune-1277447-dark-dojo-xs.jpg) The Team is struggling to pay off the [Technical Debt](https://agilepainrelief.com/blog/scrummaster-tales-stop-digging-new-holes.html) (or mess) that they’ve spent the last six months accumulating. They’ve started to institutionalize writing Unit Tests (by adding it to “Done”) and they’re using [Sonar](https://www.sonarsource.org/) to help track Code Coverage, PMD warnings, et al. (_Ed: Don’t take Sonar or any other measure as more than a first order view of the code. It hints where you need to look, no more)._
+![dark dojo - image licensed from Photodune](src/content/blog/scrummaster-tales-the-team-learn-how-to-learn/images/photodune-1277447-dark-dojo-xs.jpg) The Team is struggling to pay off the [Technical Debt](https://agilepainrelief.com/blog/scrummaster-tales-stop-digging-new-holes.html) (or mess) that they’ve spent the last six months accumulating. They’ve started to institutionalize writing Unit Tests (by adding it to “Done”) and they’re using [Sonar](https://www.sonarsource.org/) to help track Code Coverage, PMD warnings, et al. (_Ed: Don’t take Sonar or any other measure as more than a first order view of the code. It hints where you need to look, no more)._
 
 ## Story
 

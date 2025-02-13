@@ -30,7 +30,7 @@ When we see a team struggling, if we take the time to review the [Sprint Backlog
 
 It’s day 8 of a 10 day Sprint and their board looks like this:
 
-![Sprint Backlog - Scrum by Example Scrummerfall example](images/Sprint-Backlog-SbE-Scrumerfall-example.jpg)
+![Sprint Backlog - Scrum by Example Scrummerfall example](src/content/blog/scrum-team-scrummerfall/images/Sprint-Backlog-SbE-Scrumerfall-example.jpg)
 
 From this we can see that:
 
@@ -51,7 +51,7 @@ Except it’s the exact opposite of great. Because while our developers moved on
 
 The simplest thing to say is that this resembles a mini waterfall. However, that doesn't help our team. In practice, **the team have created what’s called Scrummerfall**.
 
-![Scrummerfall Staggered Sprint Starting Point](images/Staggered-Sprint-Starting-Point-1024x613.jpg)
+![Scrummerfall Staggered Sprint Starting Point](src/content/blog/scrum-team-scrummerfall/images/Staggered-Sprint-Starting-Point-1024x613.jpg)
 
 ## Why is Scrummerfall (or Mini Waterfall) in Scrum a problem?
 

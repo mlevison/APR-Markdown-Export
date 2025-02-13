@@ -28,7 +28,7 @@ This happens because our brains are only able to extrapolate from the current st
 
 Variants of this technique have been used by Amazon,\[[1](#footnotes)\] Komatsu\[[2](#footnotes)\] and any number of groups imaging a world without the use of fossil fuels.\[[3](#footnotes)\] In this case, we will use this approach when starting or sustaining an Organizational Improvement Process. By slightly tweaking the initial question, this is can also be used for Product Vison.
 
-![backcasting - c.The Natural Step](images/backcasting-The-Natural-Step.jpg)
+![backcasting - c.The Natural Step](src/content/blog/future-perspective-for-organizational-change/images/backcasting-The-Natural-Step.jpg)
 
  
 
@@ -51,7 +51,7 @@ The exercise starts off with the facilitator asking the attendees to imagine a m
 
 Participants write down the changes on sticky notes or the virtual equivalent using as much detail as they can. Once everyone has had a chance to write, draw, and reflect (10 – 15 minutes), participants take some time to group common themes (another 10-15 minutes). Once the themes are found, they’re reviewed to see if they suggest a headline (e.g. “World’s most improved quality” or “Our clients are so happy with our work, they surprised us with a paid vacation for the whole team”). _Some approaches have boxes or prompts that invite people to answer specific questions – e.g. a newspaper article has a headline, main story, a picture and related news:_\[[5](#footnotes)\]
 
-![future perspective newspaper - blank](images/future-perspective-newspaper-blank-1024x643.png)
+![future perspective newspaper - blank](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-newspaper-blank-1024x643.png)
 
 When the team have created enough examples, they select the best one(s) and that becomes their change vision. When choosing, look for one that gets people jazzed up about making change.
 
@@ -78,11 +78,11 @@ We know we want to improve our quality and how our customers see our product. We
 
 The team work with the prompt and say:
 
-![future perspective example cards](images/future-perspective-example-cards.png)
+![future perspective example cards](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-example-cards.png)
 
 From this they might create a number of  newspaper stories that shows the effect of their quality work from the customer perspective:
 
-![future perspective example newspaper headline](images/future-perspective-newspaper-1024x643.png)
+![future perspective example newspaper headline](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-newspaper-1024x643.png)
 
 We’ve only shown one here, but a group will create many and then select the best idea(s) for their change vision.
 
@@ -94,7 +94,7 @@ Just by changing the opening question, this exercise can also work well for a Pr
 
 Blank newspaper headline template:
 
-[![future perspective newspaper - blank](images/future-perspective-newspaper-blank-1024x643.png)](/wp-content/uploads/2022/04/future-perspective-newspaper-blank.png)
+[![future perspective newspaper - blank](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-newspaper-blank-1024x643.png)](/wp-content/uploads/2022/04/future-perspective-newspaper-blank.png)
 
 Also see our “[Agile Change or Adoption Always Starts with Why](/blog/agile-change-or-adoption-always-starts-with-why.html)” article.
 

@@ -17,7 +17,7 @@ If your Scrum Team has been together for years and you’ve been following the A
 
 Many teams stop growing because they become satisfied with the status quo. The ScrumMaster is expected to challenge them to continue growing. Just because your team has stagnated and you don’t know where to improve, doesn’t mean that you can’t be even better. Good is good, but great is better. And if you’re a ScrumMaster, your role is critical in that evolution. In fact, it’s your _responsibility_ to not rest on laurels, and to tackle some of the more advanced, but incredibly beneficial, aspects of Scrum.
 
-![Scrum by Example Team Member ScrumMaster Steve - image owned by Agile Pain Relief Consulting](images/Scrum-by-Example-Characters-Steve.jpg)
+![Scrum by Example Team Member ScrumMaster Steve - image owned by Agile Pain Relief Consulting](src/content/blog/is-good-good-enough/images/Scrum-by-Example-Characters-Steve.jpg)
 
 ### Is the ScrumMaster a Temporary Position?
 
@@ -82,7 +82,7 @@ This is a very subtle one. Most teams (Scrum or otherwise) struggle to deliver h
 
 After all, the customer doesn’t see the value of what the team delivered until it is deployed. And if it’s delayed in getting deployed by a different group, that increases the cycle time and so, from the customer perspective, the work is delivered slowly. Even in the modern age, I’ve seen Scrum teams deliver working software every two weeks only to be stuck waiting 6+ weeks for their work to get released. In addition, as the application is being prepared for deployment, problems are often found. The longer it has been since the original work was done, the more time it will take to remember what was going on and fix the problem. Building to a high-quality definition of done and releasing it, all within the same team, finds and fixes problems faster, avoids confusion and conflict over responsibilities, and delivers to the customer quickly.
 
-_Note: Some organizations put up significant barriers that make it difficult for Scrum teams to move downstream into the DevOps space. It is still an important class of improvements, however it may be easier to start working upstream first._![DevOps Mindset Kanban Board](images/DevOps-Mindset-Kanban-Board-simple.png)
+_Note: Some organizations put up significant barriers that make it difficult for Scrum teams to move downstream into the DevOps space. It is still an important class of improvements, however it may be easier to start working upstream first._![DevOps Mindset Kanban Board](src/content/blog/is-good-good-enough/images/DevOps-Mindset-Kanban-Board-simple.png)
 
 **Agile Engineering** Creating high-value increments isn’t limited to DevOps improvements. Teams also benefit from learning to practice the many Agile Engineering practices, from Ensemble Programming to Trunk-Based Development.
 
@@ -92,7 +92,7 @@ Some see the ScrumMaster as having only the responsibility of ensuring the Produ
 
 **One way an effective ScrumMaster serves the Product Owner is by coaching the team to have a broad and deep understanding of the Product/Consumer/Need**, illustrated here as a Scrum Product Team.
 
-![Scrum Product Team](images/DevOps-Mindset-Kanban-Board-blog-variation-1.jpg)
+![Scrum Product Team](src/content/blog/is-good-good-enough/images/DevOps-Mindset-Kanban-Board-blog-variation-1.jpg)
 
 The team implements this in areas such as Behaviour Driven Development (aka BDD) to ensure that the acceptance criteria for a given Product Backlog Item are both clear and agreed on by all. Many ScrumMasters are also discovering that it helps to coach their team in Lean Startup and Lean U/X.
 
@@ -114,7 +114,7 @@ You’re correct, I didn’t answer this, and here’s why. An effective Scrum T
 
 Instead, effective Scrum Teams should eventually discover all of the things described above until they look like a  truly cross-functional Scrum Team. Clearly no team will get to this point after six months. I can’t imagine a team getting there in less than a year.
 
-![Truly Cross-Functional Scrum Team](images/DevOps-Mindset-Kanban-Board-blog-variation-2.jpg)
+![Truly Cross-Functional Scrum Team](src/content/blog/is-good-good-enough/images/DevOps-Mindset-Kanban-Board-blog-variation-2.jpg)
 
 Once the team is _truly_ self-organizing, the ScrumMaster should become less and less important. But there are still risks if/when they leave the position:
 
@@ -132,7 +132,7 @@ Does a Scrum Team need a ScrumMaster full time as they go through the process of
 
 I can say that we all benefit from having a coach. From my own personal experience, my periods of greatest growth have been when I talk to my coach and discover all of the new opportunities standing in front of me. Also consider that, in a complex environment, just as we think things are tidy, safe and well established, something new (e.g. pandemic) shows up to destabilize again.
 
-![](images/DevOps-Mindset-Kanban-Board.png)
+![](src/content/blog/is-good-good-enough/images/DevOps-Mindset-Kanban-Board.png)
 
 I suspect the fundamental question that needs to be answered is what are the limits to growth for a Scrum Team? If your team is stuck inside very tight limits as illustrated by the “Typical Scrum Team” arrow, then the team will run out of growth opportunities sooner. In this post I’ve illustrated a few areas (among many) of possible improvement:
 

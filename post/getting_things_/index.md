@@ -9,7 +9,7 @@ tags:
 coverImage: "paper-balls-xs.jpg"
 ---
 
-![Paper Balls- image licensed from Photodune](images/paper-balls-xs.jpg)
+![Paper Balls- image licensed from Photodune](src/content/blog/getting_things_/images/paper-balls-xs.jpg)
 
 Always chasing little scraps of paper around the office? Then consider ["My Life Organized" (MLO)](https://www.mylifeorganized.net/) as a task manager.
 

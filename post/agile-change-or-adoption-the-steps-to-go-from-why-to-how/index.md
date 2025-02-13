@@ -18,7 +18,7 @@ tags:
 coverImage: "Be-Always-Changing.jpg"
 ---
 
-![Be Always Changing - image by Agile Pain Relief Consulting](images/Be-Always-Changing.jpg)
+![Be Always Changing - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how/images/Be-Always-Changing.jpg)
 
 (Continued from [Agile Change or Adoption Always Starts with Why](/blog/agile-change-or-adoption-always-starts-with-why.html))
 

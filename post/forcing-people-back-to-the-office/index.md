@@ -12,7 +12,7 @@ tags:
 coverImage: "pexels-cottonbro-studio-5483076-scaled.jpg"
 ---
 
-![A man sitting alone in an office - photo by cottonbro studio](images/pexels-cottonbro-studio-5483076-scaled.jpg)In December the Treasury Board of Canada ordered that, starting in mid-January, all employees would be expected to return to the office for two to three days a week. Among the stated goals were: Innovation, Creativity, Fairness, and Consistency. This all ties in well with the Agile Manifesto which includes the principle “_The most efficient and effective method of conveying information to and within a development team is face-to-face conversation._”
+![A man sitting alone in an office - photo by cottonbro studio](src/content/blog/forcing-people-back-to-the-office/images/pexels-cottonbro-studio-5483076-scaled.jpg)In December the Treasury Board of Canada ordered that, starting in mid-January, all employees would be expected to return to the office for two to three days a week. Among the stated goals were: Innovation, Creativity, Fairness, and Consistency. This all ties in well with the Agile Manifesto which includes the principle “_The most efficient and effective method of conveying information to and within a development team is face-to-face conversation._”
 
 Prior to the pandemic, I would have trotted out reason after reason, study after study, why this was always 100% the best choice. I would have gone on to show that Team Rooms are generally more productive. (Hint: if you have an office, giving them a Team Room is generally a much better choice). I know from experience that working face-to-face increases collaboration, creativity, and innovation, so I should be applauding the Treasury Board's decree.
 

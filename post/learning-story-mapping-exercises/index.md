@@ -17,7 +17,7 @@ tags:
 coverImage: "Collaboration-for-Story-Mapping.jpg"
 ---
 
-\[caption id="attachment\_3055" align="alignright" width="300"\]![Attendees in Kitchener Waterloo - collaborating on building their maps](images/Collaboration-for-Story-Mapping.jpg) Attendees in Kitchener Waterloo - collaborating on building their Story Maps.\[/caption\]
+\[caption id="attachment\_3055" align="alignright" width="300"\]![Attendees in Kitchener Waterloo - collaborating on building their maps](src/content/blog/learning-story-mapping-exercises/images/Collaboration-for-Story-Mapping.jpg) Attendees in Kitchener Waterloo - collaborating on building their Story Maps.\[/caption\]
 
 Story Mapping is a simple tool to help you visualize your Product Backlog. The traditional Product Backlog in Scrum is a real improvement over traditional methods for tracking and understanding the work ahead. However it's still a long To Do List which has some issues:
 
@@ -30,7 +30,7 @@ In other words, flat lists become confusing as the Product grows in size and com
 
 Story Mapping is a tool to help overcome these issues by helping the team visualize the needs of the end-users. Along the top we write out all the “User Needs”. On the Y-axis we create the Stories for each “Need” or task. Some “User Needs” aren’t of interest in the current release – so they might get no Stories. Other needs have a number of things that need to be done for them – so they get many Stories. In addition, each user gets their own map.
 
-![Attendees in Kitchener Waterloo - collaborating on building their maps](images/Annonated-Story-Map.png)
+![Attendees in Kitchener Waterloo - collaborating on building their maps](src/content/blog/learning-story-mapping-exercises/images/Annonated-Story-Map.png)
 
 The key here is that the map acts as a tool to help organize the Stories. The map helps us spot gaps in our product and helps us discover the priorities. However, most importantly Story Maps help start conversations among team members about what we’re building.
 

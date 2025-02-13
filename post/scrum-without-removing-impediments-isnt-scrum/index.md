@@ -8,7 +8,7 @@ coverImage: "road-44143_640.png"
 
 ## Mechanical Scrum Versus True Scrum – What’s the Difference?
 
-![Speed Bump Sign - free image from Pixabay.com](images/road-44143_640.png)Recently I was talking to a friend about their company’s implementation of Scrum. They don’t see the point. Before Scrum was implemented, they often had to wait an hour or more to access a test machine.  After several years of using Scrum, it’s still a problem. The same company has its test servers in another country and there are often network issues that cause the running tests to fail. These were problems before they started using Scrum, and nothing has been done to address them since.
+![Speed Bump Sign - free image from Pixabay.com](src/content/blog/scrum-without-removing-impediments-isnt-scrum/images/road-44143_640.png)Recently I was talking to a friend about their company’s implementation of Scrum. They don’t see the point. Before Scrum was implemented, they often had to wait an hour or more to access a test machine.  After several years of using Scrum, it’s still a problem. The same company has its test servers in another country and there are often network issues that cause the running tests to fail. These were problems before they started using Scrum, and nothing has been done to address them since.
 
 Scrum only works when we use it to address the problems that exist in our environment, _and then work to resolve them_.
 

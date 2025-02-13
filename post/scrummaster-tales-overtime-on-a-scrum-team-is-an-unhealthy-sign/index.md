@@ -16,7 +16,7 @@ tags:
 coverImage: "clock-arms-Freepik.jpg"
 ---
 
-![clock-arms-Freepik](images/clock-arms-Freepik.jpg)
+![clock-arms-Freepik](src/content/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign/images/clock-arms-Freepik.jpg)
 
 _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
@@ -45,7 +45,7 @@ The release finally went live after six weeks, but instead of the rave reviews t
 
 Why did a little overtime cause all these problems?
 
-![Overtime - never hurt anyone](images/Overtime-small.jpeg)
+![Overtime - never hurt anyone](src/content/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign/images/Overtime-small.jpeg)
 
 Some key causes:
 

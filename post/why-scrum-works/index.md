@@ -7,7 +7,7 @@ categories:
 coverImage: "rugby-match-xs.jpg"
 ---
 
-![Rugby match - image licensed from Photodune](images/rugby-match-xs.jpg) In the previous two posts in this series we examined how Scrum provides value to business and why. This post continues the second theme examining the remaining elements of Scrum.
+![Rugby match - image licensed from Photodune](src/content/blog/why-scrum-works/images/rugby-match-xs.jpg) In the previous two posts in this series we examined how Scrum provides value to business and why. This post continues the second theme examining the remaining elements of Scrum.
 
 ## Artifacts
 

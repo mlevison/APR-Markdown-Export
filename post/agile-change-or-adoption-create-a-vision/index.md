@@ -17,7 +17,7 @@ tags:
 coverImage: "Be-Always-Changing-create-vision.jpg"
 ---
 
-![Be Always Changing - create vision - image by Agile Pain Relief Consulting](images/Be-Always-Changing-create-vision.jpg)
+![Be Always Changing - create vision - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-create-a-vision/images/Be-Always-Changing-create-vision.jpg)
 
 (Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](/blog/agile-change-or-adoption-always-starts-with-why.html), [Part 2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html), [Part 3](/blog/agile-change-or-adoption-sense-your-current-culture.html))
 

@@ -9,7 +9,7 @@ tags:
 coverImage: "decision-making-tools.jpg"
 ---
 
-![decision-making techniques and tools matter](images/decision-making-tools.jpg)
+![decision-making techniques and tools matter](src/content/blog/why-are-group-decision-making-techniques-important/images/decision-making-tools.jpg)
 
 Whether we’re facilitating Retrospectives, Sprint Planning, or a Strategy session, there are always decisions needed. How you approach those decisions should vary depending on the degree of cost and whether the decision is easily reversible or not.
 
@@ -81,7 +81,7 @@ Before using dot voting, take a few minutes to group or eliminate similar items.
 - How many votes per person? Five to seven has worked well for me in the past, but it’s up to you.
 - In remote teams, some of the tools build dot voting in. In others, I’ve seen attendees edit the titles of sticky notes to add a “#” per vote.
 
-![dot voting](images/dot-voting-1024x683.jpg)The above example was used by a group at an organizational retrospective to decide what items they should address.
+![dot voting](src/content/blog/why-are-group-decision-making-techniques-important/images/dot-voting-1024x683.jpg)The above example was used by a group at an organizational retrospective to decide what items they should address.
 
 Dot voting is the Agile community’s poster child for decision-making techniques but it, too, has some weakness. Since dot voting is usually done with people walking up to a poster or wall to place their votes, everyone can see which items you voted for. Seeing other people’s votes will influence you and, of course, seeing a leader’s vote will influence everyone. This weakness can be overcome if all the votes are placed blindly, i.e. voting decisions are made without seeing the votes of others.
 

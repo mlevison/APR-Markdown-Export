@@ -6,7 +6,7 @@ categories:
 coverImage: "APR_Blog-Illustrations_Nov2020_SprintGoals_v1.jpg"
 ---
 
-![A Development Team looks at two targets; one is in focus and has arrows that point directly toward the bullseye; the other target is out of focus with arrows that miss the bullseye](images/APR_Blog-Illustrations_Nov2020_SprintGoals_v1-1024x607.jpg)
+![A Development Team looks at two targets; one is in focus and has arrows that point directly toward the bullseye; the other target is out of focus with arrows that miss the bullseye](src/content/blog/sprint-goals-provide-purpose/images/APR_Blog-Illustrations_Nov2020_SprintGoals_v1-1024x607.jpg)
 
 ## Go Beyond Merely Completing Work Lists with a Sprint Goal
 

@@ -12,7 +12,7 @@ In a recent [Product Owner Course](/certified-scrum-product-owner-cspo-training)
 
 I think the attendee was hoping for something like:
 
-![Vision to User Stories - What is the Best Flow - image by Agile Pain Relief Consulting](images/User-Stories-Flow.jpg)
+![Vision to User Stories - What is the Best Flow - image by Agile Pain Relief Consulting](src/content/blog/vision-to-user-stories-what-is-the-best-flow/images/User-Stories-Flow.jpg)
 
 There are a couple of challenges.  Scrum, being a framework, doesn’t tell the Product Owner or the Dev Team (aka Doers) how to do their work. As a result, none of these particular tools are required and some excellent ones (such as [Personas](https://en.wikipedia.org/wiki/Persona_\(user_experience\)) and [Impact Mapping](https://impactmapping.org/drawing.php)) are missing from this simple picture.
 

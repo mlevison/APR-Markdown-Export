@@ -23,7 +23,7 @@ coverImage: "scrum-alone-not-enough-2.jpg"
 
 We've had requests for a single page that lists all the ongoing [Beyond Scrum blog posts](/blog/category/beyond-scrum) in one handy spot, and we're happy to oblige! The below list will be updated as new posts are added.
 
-![Beyond Scrum: Scrum Alone Is Not Enough](images/scrum-alone-not-enough-2-1024x985.jpg)
+![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/beyond-scrum-blog-series/images/scrum-alone-not-enough-2-1024x985.jpg)
 
 [Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough.html)
 

@@ -12,7 +12,7 @@ tags:
 coverImage: "photodune-744861-folders-xs.jpg"
 ---
 
-![stack of folders - image licensed from Photodune](images/photodune-744861-folders-xs.jpg)I've recently been asked by one team to provide them with case studies/success stories about Scrum to prove scrum works. It is striking that the people ask for case studies about agile - but didn't before adopting their existing process.
+![stack of folders - image licensed from Photodune](src/content/blog/scrum-case-studies/images/photodune-744861-folders-xs.jpg)I've recently been asked by one team to provide them with case studies/success stories about Scrum to prove scrum works. It is striking that the people ask for case studies about agile - but didn't before adopting their existing process.
 
 Ken Schwaber co-creator of Scrum has: Primavera Success Story (pdf) a paper that describes Primavera's struggles with waterfall and then their transition to Scrum (with XP engineering practices). Key message: Scrum works for Primavera, but changing the process isn't easy.
 

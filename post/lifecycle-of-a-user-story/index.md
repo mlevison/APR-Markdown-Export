@@ -13,7 +13,7 @@ tags:
   - "user-stories"
 ---
 
-![Lifecycle image via Wikimedia Commons](images/LifeCycle.png) [User Stories](/blog/definition-of-done-user-stories-acceptance-criteria.html) are often used as a lightweight form of Agile requirement. Their goal is  to replace heavy weight-specification documents with “a Card, a Conversation and a Confirmation”. When people first discover User Stories it's hard to see how they work because we often take a static viewpoint – i.e. we only see them at Release Planning or during implementation. We’re left with many questions: Where do User Stories come from? When are they created? Who is involved in their creation?
+![Lifecycle image via Wikimedia Commons](src/content/blog/lifecycle-of-a-user-story/images/LifeCycle.png) [User Stories](/blog/definition-of-done-user-stories-acceptance-criteria.html) are often used as a lightweight form of Agile requirement. Their goal is  to replace heavy weight-specification documents with “a Card, a Conversation and a Confirmation”. When people first discover User Stories it's hard to see how they work because we often take a static viewpoint – i.e. we only see them at Release Planning or during implementation. We’re left with many questions: Where do User Stories come from? When are they created? Who is involved in their creation?
 
 To illustrate this I will use vignettes from the WorldsSmallestOnlineBookStore. Each vignette will show what happened to one User Story.
 

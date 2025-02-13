@@ -12,7 +12,7 @@ categories:
 coverImage: "scrum-alone-not-enough-portfolio-management.jpg"
 ---
 
-![Beyond Scrum: Scrum Alone Is Not Enough - portfolio management](images/scrum-alone-not-enough-portfolio-management.jpg)
+![Beyond Scrum: Scrum Alone Is Not Enough - portfolio management](src/content/blog/portfolio-management/images/scrum-alone-not-enough-portfolio-management.jpg)
 
 (_Presented as Part 2 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough.html)._)
 

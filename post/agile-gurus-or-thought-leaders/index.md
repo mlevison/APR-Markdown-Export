@@ -11,7 +11,7 @@ tags:
 coverImage: "photodune-10694425-thinking-about-color-schemes-xs.jpg"
 ---
 
-![Thinking - image licensed from Photodune](images/photodune-10694425-thinking-about-color-schemes-xs.jpg) In the past few months I’ve seen the following question several times: “Who’re the Agile/Scrum Guru’s or Thought Leaders?” The urge to ask the question is good but misplaced. I assume it comes from people who’re new to Agile and want to know where to get good ideas. Inevitably people reply with long lists of people.
+![Thinking - image licensed from Photodune](src/content/blog/agile-gurus-or-thought-leaders/images/photodune-10694425-thinking-about-color-schemes-xs.jpg) In the past few months I’ve seen the following question several times: “Who’re the Agile/Scrum Guru’s or Thought Leaders?” The urge to ask the question is good but misplaced. I assume it comes from people who’re new to Agile and want to know where to get good ideas. Inevitably people reply with long lists of people.
 
 There is just one problem, the whole concept of thought leaders is alien to Agile thinking. We promote the value of cross functional teams and always assume that even the least experienced person has a contribution to make even if it's asking a question.
 

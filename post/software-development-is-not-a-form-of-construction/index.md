@@ -6,7 +6,7 @@ categories:
 coverImage: "construction1.Freepik.jpg"
 ---
 
-![icon of a person in overalls with a wrench, with various acronyms of well-known scripting and programming languages in the background](images/construction1.Freepik.jpg)For years the software industry has used an analogy, with construction as its defining metaphor. The comparison is applied throughout the language of software: architecture, foundations, constructor, projects, building code. The language is so pervasive that it affects our thinking around software development, but unfortunately the metaphor is fundamentally broken and the flaws have led us down a number of bad paths.
+![icon of a person in overalls with a wrench, with various acronyms of well-known scripting and programming languages in the background](src/content/blog/software-development-is-not-a-form-of-construction/images/construction1.Freepik.jpg)For years the software industry has used an analogy, with construction as its defining metaphor. The comparison is applied throughout the language of software: architecture, foundations, constructor, projects, building code. The language is so pervasive that it affects our thinking around software development, but unfortunately the metaphor is fundamentally broken and the flaws have led us down a number of bad paths.
 
 In construction, a lot of emphasis is placed on predictability­, getting the requirements correct up front, and cost reduction. These are all signs of a mature industry. We run into problems when we try to apply the same emphasis in software.
 

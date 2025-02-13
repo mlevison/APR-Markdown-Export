@@ -13,13 +13,13 @@ Why should we care? Isn’t Scrum like basketball where you can change the playe
 
 High-performing teams —or teams that gets stuff done with insanely high quality— is the goal of many who arrive in Scrum expecting to get amazing performance out of their system. But building a high-performing team from scratch takes time. The popular picture of Tuckman’s Model of Team Formation shows a team going through the stages of Forming -> Storming -> Norming -> Performing. (Caveat:the picture exists to simplify understanding. The dynamics of a real team will be messier than shown).
 
-![Tuckman's Model of Team Formation](images/Tuckmans-Model.jpg)
+![Tuckman's Model of Team Formation](src/content/blog/in-agile-where-change-is-valued-why-is-a-stable-team-so-important/images/Tuckmans-Model.jpg)
 
 It’s easy to form a team and then speed right through the storming stage. Storming is characterized by conflict, as people sort out roles and relationships.
 
 Norming and performing are considerably more difficult in unstable teams, and they occur repeatedly. Every time there is a change in team membership, there is a good chance of returning to storming because of the new interpersonal dynamics. I warn organizations that, when you need to make change, there is a risk that the change will not only send them back to storming, but it might also be damaging enough that the team doesn’t recover at all. How often to you want to roll that die?
 
-![Tuckman's stages of team formation in Unstable Teams- image owned by Agile Pain Relief Consulting](images/Unstable-Teams-Tuckman-stages.jpg)
+![Tuckman's stages of team formation in Unstable Teams- image owned by Agile Pain Relief Consulting](src/content/blog/in-agile-where-change-is-valued-why-is-a-stable-team-so-important/images/Unstable-Teams-Tuckman-stages.jpg)
 
 Most of the work in academic literature deals with familiarity, not stability. Roughly speaking this means “we’ve worked together enough in the past to understand each other as individuals”. Whether you call it familiarity or stability, the premise is the same – people need time to learn how to understand each other and communicate effectively, the key is familiarity is weaker than stability.
 

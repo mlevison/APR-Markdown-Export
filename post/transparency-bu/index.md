@@ -6,7 +6,7 @@ categories:
 coverImage: "crystal-ball-xs.jpg"
 ---
 
-![crystal ball - image licensed from Photodune](images/crystal-ball-xs.jpg) I hadn't really thought Transparency as a Lesson until I got to the end of the week and still haven't written about the Product Owner.
+![crystal ball - image licensed from Photodune](src/content/blog/transparency-bu/images/crystal-ball-xs.jpg) I hadn't really thought Transparency as a Lesson until I got to the end of the week and still haven't written about the Product Owner.
 
 It's better to admit the failure - _I have no posting ready,_ than to either ignore the problem or dash off a poor quality post.
 

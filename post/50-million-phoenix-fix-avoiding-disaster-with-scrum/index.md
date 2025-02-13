@@ -11,7 +11,7 @@ tags:
 coverImage: "photodune-6661601-duct-tape-isolated-elements-xs-rev.jpg"
 ---
 
-![Duct Tape - original image by Photodune](images/photodune-6661601-duct-tape-isolated-elements-xs-rev.jpg)
+![Duct Tape - original image by Photodune](src/content/blog/50-million-phoenix-fix-avoiding-disaster-with-scrum/images/photodune-6661601-duct-tape-isolated-elements-xs-rev.jpg)
 
 As most Canadians can tell you, the rollout of the Canadian Government’s Phoenix payroll modernization system has gone disastrously badly. At one stage, there were over 80,000 civil servants who had payment problems, with some even losing their houses over the mess. I’ve seen everything from the contractor (IBM) to a lack of training being blamed for the problems. I suspect there is more than enough blame to go around, and it will take years to discover what really happened.
 

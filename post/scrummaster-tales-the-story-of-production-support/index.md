@@ -12,7 +12,7 @@ tags:
 coverImage: "photodune-1105342-tripod-xs.jpg"
 ---
 
-![Tripod - image licensed from Photodune](images/photodune-1105342-tripod-xs.jpg)_This article has been updated. You can find the newest version of this content [here](/blog/scrum-production-support.html)._
+![Tripod - image licensed from Photodune](src/content/blog/scrummaster-tales-the-story-of-production-support/images/photodune-1105342-tripod-xs.jpg)_This article has been updated. You can find the newest version of this content [here](/blog/scrum-production-support.html)._
 
 When we left Steve and the team they were just getting the shipping features ready and were waiting to go ‘live’ with the site. This turns out to be a blessing and a curse. It's a blessing because the business is making money; a curse because with it come support issues.
 

@@ -13,7 +13,7 @@ tags:
 coverImage: "photodune-2996181-different-colors-sliced-apple-xs.jpg"
 ---
 
-![Different colors sliced apple - image licensed from Photodune](images/photodune-2996181-different-colors-sliced-apple-xs.jpg)
+![Different colors sliced apple - image licensed from Photodune](src/content/blog/scrummaster-tales-story-splitting-fun/images/photodune-2996181-different-colors-sliced-apple-xs.jpg)
 
 Picking up from: [Learning How to Estimate](/blog/scrummaster-tales-learning-how-to-estimate.html)
 

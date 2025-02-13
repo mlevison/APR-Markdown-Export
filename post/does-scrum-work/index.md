@@ -7,7 +7,7 @@ categories:
 coverImage: "rugby-match-xs.jpg"
 ---
 
-![Rugby match - image licensed from Photodune](images/rugby-match-xs.jpg) This is the second post in a series (thanks Mishkin for hosting the opener_)_ – that discusses: Why does Scrum work? Why do any of the Agile Project Management methodology work? Final part [here](/blog/why-scrum-works.html).
+![Rugby match - image licensed from Photodune](src/content/blog/does-scrum-work/images/rugby-match-xs.jpg) This is the second post in a series (thanks Mishkin for hosting the opener_)_ – that discusses: Why does Scrum work? Why do any of the Agile Project Management methodology work? Final part [here](/blog/why-scrum-works.html).
 
 ## Teams
 

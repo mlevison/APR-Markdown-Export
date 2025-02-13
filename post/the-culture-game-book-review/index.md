@@ -13,7 +13,7 @@ tags:
   - "perfection-game"
 ---
 
-Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile Manager_](https://newtechusa.net/the-culture-game-book/)[![The Culture Game: Tools for the Agile Manager book image](images/TCG-flat-medium-300x229-1.jpg)](https://newtechusa.net/about/the-culture-game-book/)
+Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile Manager_](https://newtechusa.net/the-culture-game-book/)[![The Culture Game: Tools for the Agile Manager book image](src/content/blog/the-culture-game-book-review/images/TCG-flat-medium-300x229-1.jpg)](https://newtechusa.net/about/the-culture-game-book/)
 
 _The Culture Game_ is a book to give Agile Leaders\[[1](#footnotes)\] a tool to help change the culture of their companies. It is intended to help organizations that aren't ready to adopt something as radical as Scrum or that want help in speeding up the cultural change that Scrum requires.
 

@@ -39,7 +39,7 @@ As we test this question, let’s make some core statements:
 
 Therefore we should reject, or at least acknowledge, things that get in the way of teams doing their best work. The more power a team member has, the harder it is to achieve psychological safety.
 
-![Tech Lead or Manager as ScrumMaster is a bad idea](images/Lead-or-Manager-as-SM-is-a-bad-idea.jpg)
+![Tech Lead or Manager as ScrumMaster is a bad idea](src/content/blog/why-having-a-tech-lead-or-manager-as-scrum-master-is-a-bad-idea/images/Lead-or-Manager-as-SM-is-a-bad-idea.jpg)
 
 ### Tech Lead as ScrumMaster
 

@@ -34,7 +34,7 @@ When conflict happens its important to recognize that there three levels of conf
 
 ### Mihály Csíkszentmihályi’s Flow Model (Revised)
 
-#### ![Challenge_vs_skill by Oliverbeatson via Wikimedia Commons](images/Challenge_vs_skill.wikipedia-commons-Oliverbeatson.png)
+#### ![Challenge_vs_skill by Oliverbeatson via Wikimedia Commons](src/content/blog/coaching-self-organizing-teams/images/Challenge_vs_skill.wikipedia-commons-Oliverbeatson.png)
 
 Skills vs. Challenges – we were challenged to think about various tasks and see where the map into the diagram. Do we spend our time in Boredom, Flow, Control, …? For instance if we’re programming in a new language and using to solve a non trivial problem then we will find ourselves either in Anxiety or Arousal. If we’re doing complex tasks that we no longer find challenging then we’re in Boredom or Relaxation. As we think about teams and team members we can consider where do they fit on the circle for specific tasks. If we see people in Anxiety or Arousal then we should consider what can we do to help move them towards Flow and Control – so that the project will be in a safer place. Conversely if they’re Bored or Relaxed then we need to consider how to challenge them to help move their performance around the circle.
 

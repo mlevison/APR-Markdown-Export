@@ -52,7 +52,7 @@ And many Product Owners who I’ve coached attend the Daily Scrum event so they 
 
 Managers don’t attend Daily Scrum unless they’re acting as a Developer/Doer of work for that Sprint. Even in that case, the power imbalance means that the Daily Scrum might turn into a reporting event, instead of a collaborative event.
 
-![Daily Scrum standup - Development team reviews Sprint Backlog, image by Agile Pain Relief Consulting](images/APR-Story-of-a-Sprint-board-07-1024x576.png)
+![Daily Scrum standup - Development team reviews Sprint Backlog, image by Agile Pain Relief Consulting](src/content/blog/modern-guide-to-daily-scrum-meeting/images/APR-Story-of-a-Sprint-board-07-1024x576.png)
 
 ## Where, When and Timebox of Daily Scrum
 
@@ -175,7 +175,7 @@ Many of these types of things get baked into the [team’s working agreements](/
 
 ## Daily Scrum Tools
 
-![Daily-Scrum-comment](images/Daily-Scrum-comment.png)
+![Daily-Scrum-comment](src/content/blog/modern-guide-to-daily-scrum-meeting/images/Daily-Scrum-comment.png)
 
 I’m all for automating things that need automation, but let’s consider what this tool implies – that Daily Scrum is wasteful. The tool’s authors want to save team members the time that is spent talking to each other, and they imply that will be an “improvement”.
 

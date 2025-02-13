@@ -15,7 +15,7 @@ User Stories are a common tool used by Agile Teams to capture the spirit of a re
 
 [In my classes](/certified-scrum-agile-training) I frequently ask teams to present what they’ve learned to their peers. At UBC they took it one step further. The teams were challenged to summarize Richard Lawrence’s Story Splitting Flowchart:
 
-![Story Splitting Flowchart by Richard Lawrence](images/Story-Splitting-Flowchart.jpeg)![Story Splitting – a Play – “Spike Sherman"](images/DSC01970.jpg)
+![Story Splitting Flowchart by Richard Lawrence](src/content/blog/story-splitting-a-play-spike-sherman/images/Story-Splitting-Flowchart.jpeg)![Story Splitting – a Play – “Spike Sherman"](src/content/blog/story-splitting-a-play-spike-sherman/images/DSC01970.jpg)
 
 They created a play, “Spike Sherman”. Our story opens with Diane preparing the original User Story, “Cong + Sherman”.
 
@@ -27,7 +27,7 @@ Clearly too large – so the team’s splitter, Jason, applied the patterns from
 
 **Negotiable** - the elegance of a User Story is that the precise details are left until later. It gives the Product Owner and team a chance to delay unnecessary decision-making until implementation begins. It allows the team to discover new options right up until they're done.
 
-![Story Splitting – a Play – “Spike Sherman"](images/DSC01974.jpg)
+![Story Splitting – a Play – “Spike Sherman"](src/content/blog/story-splitting-a-play-spike-sherman/images/DSC01974.jpg)
 
 **Valuable** - Each Story needs to deliver some small sliver of value all on its own. In other words, the customer has to be able to see the value. This pushes us towards slicing our work into vertical chunks; and not technological layers.
 
@@ -41,7 +41,7 @@ Cong was tested against INVEST and was found to meet all of the criteria. He was
 
 Sherman was also brought before the INVEST checker; unfortunately, it was discovered that he couldn’t be Estimated. He was immediately taken out into the hallway, and a Spike was conducted by Jack.
 
-![Story Splitting – a Play – “Spike Sherman"](images/DSC01980.jpg)
+![Story Splitting – a Play – “Spike Sherman"](src/content/blog/story-splitting-a-play-spike-sherman/images/DSC01980.jpg)
 
 **Spike**: a special User Story the team uses when there is some special risk involved. Usually the team don't have enough information to give an estimate.
 

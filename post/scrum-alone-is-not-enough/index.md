@@ -10,7 +10,7 @@ categories:
 coverImage: "scrum-alone-not-enough-organizational-improvement.jpg"
 ---
 
-![Beyond Scrum: Scrum Alone Is Not Enough](images/scrum-alone-not-enough-2.jpg)
+![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/scrum-alone-is-not-enough/images/scrum-alone-not-enough-2.jpg)
 
 To be successful with Scrum in the long term you need more than the basic framework. This is intentional. Scrum provides the structure as a starting point, but it’s designed to work well when applied with other effective patterns.
 

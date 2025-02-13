@@ -14,7 +14,7 @@ tags:
 coverImage: "traffic_light_all.png"
 ---
 
-Red-Yellow-Green status reports are a widely-used tool to help executives have a fast and simple understanding of the current state of a project through a visual model that makes it easy to spot patterns. Green means everything is good, yellow means there’s some risk, and red means the project is in serious trouble. Simple, right?![Traffic lights image by www.openclipart.org](images/traffic_light_all.png)
+Red-Yellow-Green status reports are a widely-used tool to help executives have a fast and simple understanding of the current state of a project through a visual model that makes it easy to spot patterns. Green means everything is good, yellow means there’s some risk, and red means the project is in serious trouble. Simple, right?![Traffic lights image by www.openclipart.org](src/content/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth/images/traffic_light_all.png)
 
 But what if that simplicity misrepresents reality?
 
@@ -59,7 +59,7 @@ Also, consider ranges. Since we’ve already acknowledged the imprecision of the
 - Most recent three sprints – a look at how things have been going recently, you’re 50% likely to achieve this averaged number
 - Worst three sprints in the past year – the least you’re likely to achieve
 
-![Example of a burnup chart, including lines for stories completed and confidence lines](images/burnup-chart-stories-completed.jpg)
+![Example of a burnup chart, including lines for stories completed and confidence lines](src/content/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth/images/burnup-chart-stories-completed.jpg)
 
 Even this model has a weakness: it assumes your velocity will follow normal distributions. The reality is that you likely won’t. However, forecasting with error bars (or lines) usually gets the idea across that you’re forecasting a range of possible outcomes.
 
