@@ -13,7 +13,7 @@ date: "2019-09-13"
 
 ### Online
 
-[![Facebook icon by Starline/ Freepik](images/icon-Facebook-by-Freepik-Starline.png)](https://www.facebook.com/agilepainrelief)[![RSS icon by Starline/ Freepik](images/icon-RSS-by-Freepik-Starline.png)](https://feeds.feedburner.com/NotesFromAToolUser)[![LinkedIn icon by Starline/ Freepik](images/icon-LinkedIn-by-Freepik-Starline.png)](https://www.linkedin.com/in/marklevison)
+[![Facebook icon by Starline/ Freepik](src/content/page/contact-us/images/icon-Facebook-by-Freepik-Starline.png)](https://www.facebook.com/agilepainrelief)[![RSS icon by Starline/ Freepik](src/content/page/contact-us/images/icon-RSS-by-Freepik-Starline.png)](https://feeds.feedburner.com/NotesFromAToolUser)[![LinkedIn icon by Starline/ Freepik](src/content/page/contact-us/images/icon-LinkedIn-by-Freepik-Starline.png)](https://www.linkedin.com/in/marklevison)
 
 ### Address
 

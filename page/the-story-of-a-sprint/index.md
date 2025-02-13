@@ -41,7 +41,7 @@ This Product Backlog Refinement is preparation work that happens before the firs
 
 That's pretty self-explanatory, but let’s touch briefly on User Stories and Estimation.
 
-[![Story of a Sprint - User Stories become product backlog](images/Story_of_a_Sprint_-Users-Stories-1024x577.jpg)](/wp-content/uploads/2021/06/Story_of_a_Sprint_-Users-Stories.jpg)
+[![Story of a Sprint - User Stories become product backlog](src/content/page/the-story-of-a-sprint/images/Story_of_a_Sprint_-Users-Stories-1024x577.jpg)](/wp-content/uploads/2021/06/Story_of_a_Sprint_-Users-Stories.jpg)
 
 #### User Stories
 
@@ -119,7 +119,7 @@ The Definition of Done is a checklist of specific criteria that the Team compile
 
 On the last day of the Sprint, the team gather with Paula (Product Owner), Steve (ScrumMaster) and various stakeholders to review what they have built. In the [Sprint Review](/glossary/sprint-review), Paula reminds people of the Sprint Goal, explains which Product Backlog Items, have been completed. She checks them against the Definition of Done list that the Team has previously compiled.
 
-[![Story of a Sprint - Sprint Review](images/Story_of_a_Sprint_-Sprint-Review-1024x578.jpg)](/wp-content/uploads/2021/06/Story_of_a_Sprint_-Sprint-Review.jpg)
+[![Story of a Sprint - Sprint Review](src/content/page/the-story-of-a-sprint/images/Story_of_a_Sprint_-Sprint-Review-1024x578.jpg)](/wp-content/uploads/2021/06/Story_of_a_Sprint_-Sprint-Review.jpg)
 
 The “Done” items are shared so everyone has a good understanding of how the changes actually work. Ideally this isn’t done as a demonstration but, instead, with the stakeholders themselves using the done items. The intention is to engage them in the actual use of the product and ensure that their feedback is grounded in that personal experience. The group (including executives, end users and other interested people) collaborate on deciding what is the next most valuable thing to be worked on.
 
@@ -141,7 +141,7 @@ As a result of their discussion, the Team identifies several things that contrib
 - They took on large Product Backlog Items without splitting them down to smaller Product Backlog Items.
 - They put too much work into progress.
 
-[![Story of a Sprint - Sprint Retrospective](images/Story_of_a_Sprint_-Retrospective-1024x577.jpg)](/wp-content/uploads/2021/06/Story_of_a_Sprint_-Retrospective.jpg)
+[![Story of a Sprint - Sprint Retrospective](src/content/page/the-story-of-a-sprint/images/Story_of_a_Sprint_-Retrospective-1024x577.jpg)](/wp-content/uploads/2021/06/Story_of_a_Sprint_-Retrospective.jpg)
 
 For the next Sprint they identified several improvements they could make:
 

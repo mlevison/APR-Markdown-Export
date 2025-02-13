@@ -8,7 +8,7 @@ Learn Agile and Scrum techniques to guide teams, projects, and organizations to 
 
 ### "We help people make their work suck less."
 
-![Edmonton, Alberta](images/iStock_000055272636_Small-Edmonton-1024x428.jpg)
+![Edmonton, Alberta](src/content/page/courses-edmonton/images/iStock_000055272636_Small-Edmonton-1024x428.jpg)
 
 In our Scrum Alliance [certification workshops](/certified-scrum-agile-training), students learn through practical exercises and examples to develop the knowledge, skills, and insights needed to make the shift from traditional management practices to Agile practices. Facilitated by [Certified Scrum Trainer™ Mark Levison](/about-us), an Agile expert since 2001, these workshops have a deep understanding of how people learn, and aren't a class with a bunch of words on PowerPoint slides. Local training means you also have the advantage of meeting and networking with other professionals near you to hear the challenges - and solutions - experienced by other organizations, which can be invaluable.
 
@@ -18,11 +18,11 @@ In our Scrum Alliance [certification workshops](/certified-scrum-agile-training)
 
 If you're not sure what training is right for you, the following pages offer more details:
 
-#### [![Certified ScrumMaster Scrum Alliance seal](images/sa-csm-600-150x150.png)](/certified-scrummaster-csm-training)[Certified ScrumMaster (CSM) training](/certified-scrummaster-csm-training)
+#### [![Certified ScrumMaster Scrum Alliance seal](src/content/page/courses-edmonton/images/sa-csm-600-150x150.png)](/certified-scrummaster-csm-training)[Certified ScrumMaster (CSM) training](/certified-scrummaster-csm-training)
 
-#### [![Advanced Certified ScrumMaster Scrum Alliance seal](images/sa-adv_csm-600-150x150.png)](/advanced-certified-scrummaster-acsm-training)[Advanced Certified ScrumMaster (A-CSM) training](/advanced-certified-scrummaster-acsm-training)
+#### [![Advanced Certified ScrumMaster Scrum Alliance seal](src/content/page/courses-edmonton/images/sa-adv_csm-600-150x150.png)](/advanced-certified-scrummaster-acsm-training)[Advanced Certified ScrumMaster (A-CSM) training](/advanced-certified-scrummaster-acsm-training)
 
-#### [![Certified Scrum Product Owner Scrum Alliance seal](images/sa-cspo-600-150x150.png)](/certified-scrum-product-owner-cspo-training)[Certified Scrum Product Owner (CSPO) training](/certified-scrum-product-owner-cspo-training)
+#### [![Certified Scrum Product Owner Scrum Alliance seal](src/content/page/courses-edmonton/images/sa-cspo-600-150x150.png)](/certified-scrum-product-owner-cspo-training)[Certified Scrum Product Owner (CSPO) training](/certified-scrum-product-owner-cspo-training)
 
 We have thousands of quotes and testimonials from people across Canada who have taken our training, but here are a few direct comments specifically from Western Canada workshop attendees:
 

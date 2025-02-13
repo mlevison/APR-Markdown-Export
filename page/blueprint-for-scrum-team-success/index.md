@@ -16,7 +16,7 @@ Do you relate to these comments in your work and Scrum team?
 - Scrum Sprint Retrospectives call for improvements but they never get made… so why do we bother to hold them?
 - Our ScrumMaster is also our Product Owner… is that right? I’m confused.
 
-![Blueprint For Scrum Team Success  by Agile Pain Relief](images/BlueprintForScrumTeamSuccessBookCover-800x1280-1-640x1024.jpg)
+![Blueprint For Scrum Team Success  by Agile Pain Relief](src/content/page/blueprint-for-scrum-team-success/images/BlueprintForScrumTeamSuccessBookCover-800x1280-1-640x1024.jpg)
 
 If you’ve experienced any of the above, then our upcoming release of the _Blueprint for Effective Scrum_ will help you and your team get to the next level of Scrum and remove the confusion and guesswork.
 

@@ -13,19 +13,19 @@ That’s not unrealistic, and it doesn’t have to be a fantasy. Keyboard Monkey
 
 With our **100% satisfaction, risk-free guarantee**, you can expand your Scrum knowledge to standout at work, get paid more, and impress your customers, all without burning out.
 
-![checkmark](images/noun-checkmark-870282-71D358.png)
+![checkmark](src/content/page/certified-scrum-developer-csd-training/images/noun-checkmark-870282-71D358.png)
 
 If you’re a Developer struggling to build quality and you want to know which Engineering practices will help…
 
-![checkmark](images/noun-checkmark-870282-71D358.png)
+![checkmark](src/content/page/certified-scrum-developer-csd-training/images/noun-checkmark-870282-71D358.png)
 
 If you’re a QA/BA/UX person confused about your role in a team where everyone is a “Developer” …
 
-![checkmark](images/noun-checkmark-870282-71D358.png)
+![checkmark](src/content/page/certified-scrum-developer-csd-training/images/noun-checkmark-870282-71D358.png)
 
 If you don’t know how you can collaborate in Scrum when you don’t even speak the other people’s language…
 
-![checkmark](images/noun-checkmark-870282-71D358.png)
+![checkmark](src/content/page/certified-scrum-developer-csd-training/images/noun-checkmark-870282-71D358.png)
 
 If your team struggles with cooperation, let alone collaboration…
 
@@ -34,7 +34,7 @@ If your team struggles with cooperation, let alone collaboration…
 
 ### **… Our Certified Scrum Developer training will get you on track.**
 
-![5000 testimonials](images/5000-Testimonials.png)
+![5000 testimonials](src/content/page/certified-scrum-developer-csd-training/images/5000-Testimonials.png)
 
 _"Mark is an awesome instructor... definitely the Yoda of the Scrum universe." - Ting-Yu Lin_
 
@@ -46,7 +46,7 @@ How many of these sound like something you’ve heard (or even said) in your wor
 
 “We get lost in the details and are struggling to go from User Stories to Acceptance Criteria.”
 
-![Certified Scrum Trainer Mark Levison](images/Mark-Levison-headshot-600x800-transparent-badges-225x300.png)Hello, I’m Mark, and I’m a recovering software developer \[tongue-in-cheek\]. I know your pain, because I’ve either lived it myself, or I’ve helped others through it.
+![Certified Scrum Trainer Mark Levison](src/content/page/certified-scrum-developer-csd-training/images/Mark-Levison-headshot-600x800-transparent-badges-225x300.png)Hello, I’m Mark, and I’m a recovering software developer \[tongue-in-cheek\]. I know your pain, because I’ve either lived it myself, or I’ve helped others through it.
 
 As a Developer, in 2001 I discovered that the general practices I was instinctively drawn to and doing had a name: Agile. Since then, I’ve read hundreds of books, thousands of articles, and mittfuls of academic papers, all with the purpose of figuring out what helps teams succeed. I don’t teach theoretical principles. I use my decades of experience to relate directly with Developers about their codebase, and can walk you through exactly how you can apply Agile to “Yes, but in the real world…” situations.
 
@@ -56,12 +56,12 @@ _"Mark is the real s\*\*t. He's lived through the pain points and knows where th
 
 You can choose between two very different types of Certified Scrum Developer training so you can choose which is best suited for you. Both qualify for Scrum Alliance certification.
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-developer-csd-training/images/noun-arrow-1144336-F1584B.png)
 
 ## If you’ve not written code in Java, C# or other modern programming language  
 then our [Non-Technical CSD workshop](#nontech) is designed for your needs.
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-developer-csd-training/images/noun-arrow-1144336-F1584B.png)
 
 ## If you read the following pain points and think, yes, that’s my world,  
 then you would benefit from attending our [Technical CSD training](#nontech).
@@ -78,7 +78,7 @@ then you would benefit from attending our [Technical CSD training](#nontech).
 
 The differences between the technical and non-technical workshops are outlined below, but by the end of either course, you will understand all of these Agile engineering practices:
 
-![Agile Engineering Practices](images/Agile-Engineering-Practices-map-small.jpg)
+![Agile Engineering Practices](src/content/page/certified-scrum-developer-csd-training/images/Agile-Engineering-Practices-map-small.jpg)
 
 That might look intimidating now, but through the magic of high-quality Scrum training, **this will make sense to you. We guarantee it!** And since your learning should be immediately valuable and relevant for your daily work, we will also play with AI’s (aka Large Language Models) and understand where they help and where they can harm.
 

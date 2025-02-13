@@ -61,7 +61,7 @@ Move beyond being a ScrumMaster who is just trying to figure out how to go throu
 
 ### Mark Levison
 
-![Mark Levison](images/Mark-Levison-headshot-300x400-transparent.png)Mark Levison is the Certified Scrum Trainer and Agile Coach behind Agile Pain Relief Consulting.
+![Mark Levison](src/content/page/advanced-certified-scrummaster-acsm-training/images/Mark-Levison-headshot-300x400-transparent.png)Mark Levison is the Certified Scrum Trainer and Agile Coach behind Agile Pain Relief Consulting.
 
 With over 30 years of experience in the IT industry, he has been learning and teaching Agile since 2001. Introducing Scrum, Lean, and Agile methodology to a large variety of organizations —government departments, banks, insurance, healthcare, education, software, logistics, and non-profits, to name only a few— Mark has brought Scrum to thousands of professionals and helped launch the practice throughout Canada.
 
@@ -69,7 +69,7 @@ Participants benefit from Mark’s voracious study and writing on the neuroscien
 
 ### Bernie Maloney
 
-![Bernie Maloney](images/headshot-Bernie-Maloney.png)Bernie's career started with a flash and a bang. Literally. His first position was designing devices that protect telephone networks from lightning strikes. A few career pivots later, he had a flash of insight: it was possible to tap into latent potential in every person, every team, and every organization.
+![Bernie Maloney](src/content/page/advanced-certified-scrummaster-acsm-training/images/headshot-Bernie-Maloney.png)Bernie's career started with a flash and a bang. Literally. His first position was designing devices that protect telephone networks from lightning strikes. A few career pivots later, he had a flash of insight: it was possible to tap into latent potential in every person, every team, and every organization.
 
 The teams he’s worked with have grown businesses to beyond $100 million, delivering products from consumer electronics to network infrastructure to services & payments at firms including TiVo, Cisco, Wells Fargo and more. He consults and teaches workshops including Agile Product Development and Agile Leadership at Stanford Continuing Studies.
 
@@ -77,7 +77,7 @@ As an Agile Leadership Coach, Bernie helps clients achieve performance breakthro
 
 ### Anil Jaising
 
-![Anil Jaising](images/headshot-Anil-Jaising.png)Anil’s career had an explosive start in the early 1990s, he worked on a messaging product that sent messages across the world in 3 seconds with a team that aligned with the Values and Principles of Agile. The product won the best Open Systems Award in 1994. From the beginning of his career, he has been tinkering with code, infrastructure, product development, and consulting in various industries.
+![Anil Jaising](src/content/page/advanced-certified-scrummaster-acsm-training/images/headshot-Anil-Jaising.png)Anil’s career had an explosive start in the early 1990s, he worked on a messaging product that sent messages across the world in 3 seconds with a team that aligned with the Values and Principles of Agile. The product won the best Open Systems Award in 1994. From the beginning of his career, he has been tinkering with code, infrastructure, product development, and consulting in various industries.
 
 His deep expertise in financial services and startups in developing business models has resulted in multiplying revenue and avoiding risk. He recently led a cloud transformation program for 250 application teams that saved one of the world’s largest bank over $25 million. His deep Agile, DevOps, and leadership experience have guided multiple organizations to achieve high throughput, market focus, productivity, and quality in building products. He has a deep interest in instructional design and is a certified Trainer from the BACK of the Room Training.
 

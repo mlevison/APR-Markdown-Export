@@ -13,7 +13,7 @@ While we are passionate about the work we do, we are also pragmatic about ensuri
 
 ## Mark Levison
 
-![Certified Scrum Trainer Mark Levison, Agile Pain Relief Consulting](images/headshot-facing-left-square.jpg)mark@agilepainrelief.com
+![Certified Scrum Trainer Mark Levison, Agile Pain Relief Consulting](src/content/page/about-us/images/headshot-facing-left-square.jpg)mark@agilepainrelief.com
 
 Mark Levison is the Certified Scrum Trainer and Agile Coach behind Agile Pain Relief Consulting. With over 30 years of experience in the IT industry, he has been learning and [teaching](/certified-scrum-agile-training) Agile since 2001. Introducing Scrum, Lean, and Agile methodology to a large variety of organizations —government departments, banks, insurance, healthcare, education, software, logistics and non-profits, to name only a few— Mark has brought Scrum to thousands of professionals and helped launch the practice throughout Canada.
 

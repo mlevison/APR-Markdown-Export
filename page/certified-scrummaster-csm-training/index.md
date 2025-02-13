@@ -8,7 +8,7 @@ ul.dashedList > li { list-style-type: none; text-indent: -10px; } ul.dashedList 
 # Certified Scrum Master Training  
 CSM Certification for Professionals, A Blueprint for Scrum Team Success
 
-![Best Scrum training reviews and value](images/100M-Offer.jpg)
+![Best Scrum training reviews and value](src/content/page/certified-scrummaster-csm-training/images/100M-Offer.jpg)
 
 ## Use Scrum knowledge to standout at work, get paid more, and impress your customer, all without burning out.
 
@@ -24,7 +24,7 @@ Mark Levison will show you how to use the Scrum framework to:
 
 Bottom line: your customer will be impressed and so will your boss when you use the Scrum framework. What’s in Scrum certification for you? More satisfaction, the joy of building a great team, less stress, and better career options.
 
-![5000 testimonials](images/5000-Testimonials.png)
+![5000 testimonials](src/content/page/certified-scrummaster-csm-training/images/5000-Testimonials.png)
 
 _"Mark is an awesome instructor... definitely the Yoda of the Scrum universe." - Ting-Yu Lin_
 
@@ -61,13 +61,13 @@ _"Insanely terrific. I have been bored silly at some Agile training classes. Thi
 
 _"Mark is the real s\*\*t. He's lived through the pain points and knows where the bodies are buried." — Christian Farley_
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrummaster-csm-training/images/noun-arrow-1144336-F1584B.png)
 
 ## How to make work suck less with CSM certification.
 
 We’ve been told that we shouldn’t use the word “suck” on a professional page. Maybe, but let’s be real, that’s why many people wonder about Scrum learning and certification in the first place, in the hopes that it will solve all their project problems that… well… suck.
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrummaster-csm-training/images/noun-arrow-1144336-F1584B.png)
 
 ### Are you looking for a Certified Scrum Master course?
 
@@ -77,25 +77,25 @@ Mark gives you everything you need to earn your Scrum Master certification but t
 
 That’s just one way that Mark is different as a professional Scrum and Agile instructor, and the preferred choice of many major organizations and industries including government, software, banking, finance and education, to name only a few.
 
-![bank icon](images/noun-bank-5781186-9B9B9B.png)
+![bank icon](src/content/page/certified-scrummaster-csm-training/images/noun-bank-5781186-9B9B9B.png)
 
-![financial icon](images/noun-finance-1834067-9B9B9B.png)
+![financial icon](src/content/page/certified-scrummaster-csm-training/images/noun-finance-1834067-9B9B9B.png)
 
-![finance icon](images/noun-finance-2351824-9B9B9B.png)
+![finance icon](src/content/page/certified-scrummaster-csm-training/images/noun-finance-2351824-9B9B9B.png)
 
-![university icon](images/noun-university-1951821-9B9B9B.png)
+![university icon](src/content/page/certified-scrummaster-csm-training/images/noun-university-1951821-9B9B9B.png)
 
 Mark Levison has helped over 8000 people find success using Scrum, and is the trusted training provider for major Canadian banks, insurance companies, federal and municipal government, and more.
 
-![software icon](images/noun-software-3874633-9B9B9B.png)
+![software icon](src/content/page/certified-scrummaster-csm-training/images/noun-software-3874633-9B9B9B.png)
 
-![insurance icon](images/noun-insurance-5588499-9B9B9B.png)
+![insurance icon](src/content/page/certified-scrummaster-csm-training/images/noun-insurance-5588499-9B9B9B.png)
 
-![government icon](images/noun-government-1984944-9B9B9B.png)
+![government icon](src/content/page/certified-scrummaster-csm-training/images/noun-government-1984944-9B9B9B.png)
 
 \*Generic images used to honour trademark laws and NDAs.
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrummaster-csm-training/images/noun-arrow-1144336-F1584B.png)
 
 ## You're going to have questions during the learning course,  
 but also throughout your Scrum career after you settle into the real work.
@@ -117,7 +117,7 @@ Get Certified
 
 ](#upcomingCourses)
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrummaster-csm-training/images/noun-arrow-1144336-F1584B.png)
 
 ## Become the Scrum Whisperer – your team will thank you.
 
@@ -133,27 +133,27 @@ Humans forget, so we cue up support to remind you of key content after your cour
 
 ## Exclusive bonuses we provide in Scrum Master certification training...
 
-![icon of a planning chart](images/noun-plan-1169041.png)
+![icon of a planning chart](src/content/page/certified-scrummaster-csm-training/images/noun-plan-1169041.png)
 
 A blueprint for Scrum team success, to guide you through your first few months after class and help you be effective as a Certified Scrum Master long-term.
 
-![icon or two people on steps](images/noun-coaching-4190192.png)
+![icon or two people on steps](src/content/page/certified-scrummaster-csm-training/images/noun-coaching-4190192.png)
 
 Coaching session with Mark after training. Get input on the unique issues you’re faced with at your organization, and how to deal with them through Scrum knowledge, understanding, and activities.
 
-![icon of a stack of books](images/noun-library-3377733.png)
+![icon of a stack of books](src/content/page/certified-scrummaster-csm-training/images/noun-library-3377733.png)
 
 A Glossary and Resource library so, when you’re confused about a Scrum or Agile topic later, you can go back and read to increase your understanding of the topic. The resource library accompanies the glossary so when you need more depth in a topic area, you can read curated content so you don’t waste your time and can keep learning Scrum at your own pace and focus.
 
-![icon of some speech bubbles](images/noun-questions-and-answers-4756959.png)
+![icon of some speech bubbles](src/content/page/certified-scrummaster-csm-training/images/noun-questions-and-answers-4756959.png)
 
 Access to our community of students and educators where, when you run into challenges, you can ask questions and get experienced answers from not just Mark but also two other Certified Scrum Trainers. Other Scrum Masters are also happy to address any questions that you have.
 
-![icon of a coffee mug](images/noun-coffee-1437791.png)
+![icon of a coffee mug](src/content/page/certified-scrummaster-csm-training/images/noun-coffee-1437791.png)
 
 Regular virtual coffee sessions about Scrum and Agile. Ask questions for Mark, and hear from others how they do Scrum in their workplace. These live online sessions can be a valuable resource when working with your Scrum Team after earning your certificate.
 
-![icon of a certificate](images/noun-certificate-1016684.png)
+![icon of a certificate](src/content/page/certified-scrummaster-csm-training/images/noun-certificate-1016684.png)
 
 Money-back guarantee. If, after all of the above, you don’t feel you gained valuable skills and learning from the certification course, we’ll refund your registration price. Scrum training is an investment that will benefit yourself, your team, and your organization, and the improvements can pay back the cost in only a few Sprints.
 
@@ -163,7 +163,7 @@ Get Certified
 
 ](#upcomingCourses)
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrummaster-csm-training/images/noun-arrow-1144336-F1584B.png)
 
 ## Not sure the Scrum framework is for you?
 
@@ -219,7 +219,7 @@ Get Certified
 
 ](#upcomingCourses)
 
-![Certified Scrum Trainer Mark Levison](images/headshot-facing-right-small.jpg "Certified Scrum Trainer Mark Levison")
+![Certified Scrum Trainer Mark Levison](src/content/page/certified-scrummaster-csm-training/images/headshot-facing-right-small.jpg "Certified Scrum Trainer Mark Levison")
 
 ## About Your Guide
 

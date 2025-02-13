@@ -13,7 +13,7 @@ Where the previous game focused on building high-performance Teams and the trade
 
 Board Game with a simple Portfolio Kanban board as our playing surface. The playing cards are Kanban cards that represent our Product Backlog, as well as other cards that represent personalities and challenges that Organizations must navigate.
 
-![Building High-Performing Organizations Game - by Agile Pain Relief Consulting](images/High-Performing-Organizations-Game-Board-small.jpg)
+![Building High-Performing Organizations Game - by Agile Pain Relief Consulting](src/content/page/building-high-performance-organizations-game/images/High-Performing-Organizations-Game-Board-small.jpg)
 
 ### Game Tables:
 
@@ -53,7 +53,7 @@ This game has been played at ScrumGathering.ca 2018, GOAT15, ScrumGathering Orla
 
 Thanks to everyone who has played the game and given feedback so far. Your input will influence the game's future.
 
-### ![Meeting - image designed by Freepik](images/meeting_13-300x300-1.jpg)We'd Love Your Feedback
+### ![Meeting - image designed by Freepik](src/content/page/building-high-performance-organizations-game/images/meeting_13-300x300-1.jpg)We'd Love Your Feedback
 
 We invite you to **[download the game materials here](https://www.dropbox.com/sh/tix67rrzry8mqek/AACAZ_DdsiR4eTZVRmPHhDMpa?dl=0)** and try it with your own team.
 

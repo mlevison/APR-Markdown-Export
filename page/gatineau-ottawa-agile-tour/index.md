@@ -7,7 +7,7 @@ We're very proud to announce that Agile Pain Relief is the title sponsor of the 
 
 We strongly believe in giving back and helping to grow the Agile community, and Agile Tours are a wonderful opportunity to do so.
 
-[![Gatineau-Ottawa Agile Tour](images/GOAT-featured-image-300x300-1.jpg)](https://goagiletour.ca/)
+[![Gatineau-Ottawa Agile Tour](src/content/page/gatineau-ottawa-agile-tour/images/GOAT-featured-image-300x300-1.jpg)](https://goagiletour.ca/)
 
 Join our mailing list to receive a special discount code to save $100 off the total for any Fall or Winter course in [our upcoming training](/certified-scrum-agile-training). That's **an additional $100 savings**, over and above possible Early Bird or Team discounts!
 

@@ -4,7 +4,7 @@ date: "2020-07-22"
 coverImage: "caleb-jones-J3JMyXWQHXU-unsplash.jpg"
 ---
 
-![Different paths image - Photo by Caleb Jones on Unsplash](images/caleb-jones-J3JMyXWQHXU-unsplash.jpg)
+![Different paths image - Photo by Caleb Jones on Unsplash](src/content/page/choose-the-right-scrum-training-for-your-needs/images/caleb-jones-J3JMyXWQHXU-unsplash.jpg)
 
 ### Struggling to decide whether to take the ScrumMaster or Product Owner training?
 

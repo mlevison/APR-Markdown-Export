@@ -6,7 +6,7 @@ coverImage: "lean-coffee.png"
 
 # Grab a Virtual Coffee With Mark
 
-![Lean Coffee with Mark Levison](images/lean-coffee.png)
+![Lean Coffee with Mark Levison](src/content/page/lean-coffee/images/lean-coffee.png)
 
 Many times I’ve been invited to have coffee with attendees after a training workshop, but I usually have to rush off to catch a plane or prepare for the next training. Since I’m not flying back and forth across the country right now like I had been, I have more time to actually do what I love – help people.
 

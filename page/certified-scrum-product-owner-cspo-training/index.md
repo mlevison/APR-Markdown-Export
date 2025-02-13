@@ -8,7 +8,7 @@ ul.dashedList > li { list-style-type: none; text-indent: -10px; } ul.dashedList 
 # Certified Scrum Product Owner Training  
 CSPO Certification Designed to Help You Succeed
 
-![Best Scrum training reviews and value](images/100M-Offer.jpg)
+![Best Scrum training reviews and value](src/content/page/certified-scrum-product-owner-cspo-training/images/100M-Offer.jpg)
 
 ## Stop wasting your team’s time. Build the product your customer needs, and get paid more, all without burning out.
 
@@ -22,11 +22,11 @@ During CSPO training, Mark Levison will show you how to use the Scrum framework 
 - so there is less risk
 - and greater return
 
-![Certified Scrum Trainer Mark Levison](images/Mark-Levison-headshot-600x800-transparent-badges.png "Certified Scrum Trainer Mark Levison")
+![Certified Scrum Trainer Mark Levison](src/content/page/certified-scrum-product-owner-cspo-training/images/Mark-Levison-headshot-600x800-transparent-badges.png "Certified Scrum Trainer Mark Levison")
 
 Bottom line: your customer will be impressed and so will your boss when you use the Scrum framework with product ownership. What’s in CSPO certification for you? More satisfaction, the joy of building a great product team, less stress, and better career options.
 
-![5000 testimonials](images/5000-Testimonials.png)
+![5000 testimonials](src/content/page/certified-scrum-product-owner-cspo-training/images/5000-Testimonials.png)
 
 _"Mark is an awesome instructor... definitely the Yoda of the Scrum universe." - Ting-Yu Lin_
 
@@ -62,13 +62,13 @@ _"Whether you have 0 days or 10 years of product owner experience you're guarant
 
 _"Mark is the real s\*\*t. He's lived through the pain points and knows where the bodies are buried." — Christian Farley_
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-arrow-1144336-F1584B.png)
 
 ## How to make your products suck less with a Scrum Product Owner certification training course.
 
 We’ve been told that we shouldn’t use the word “suck” on a professional page. Maybe, but let’s be real, that’s why many people wonder about Scrum courses in the first place, in the hopes that it will solve all the problems that… well… suck.
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-arrow-1144336-F1584B.png)
 
 ### Are you looking for a Certified Scrum Product Owner training course?
 
@@ -80,25 +80,25 @@ Mark gives you everything you need to earn your Scrum Product Owner certificatio
 
 That’s just one way that Mark is different as a professional Scrum and Agile instructor, and the preferred choice of many major organizations and industries including government, software, banking, finance and education, to name only a few.
 
-![bank icon](images/noun-bank-5781186-9B9B9B.png)
+![bank icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-bank-5781186-9B9B9B.png)
 
-![financial icon](images/noun-finance-1834067-9B9B9B.png)
+![financial icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-finance-1834067-9B9B9B.png)
 
-![finance icon](images/noun-finance-2351824-9B9B9B.png)
+![finance icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-finance-2351824-9B9B9B.png)
 
-![university icon](images/noun-university-1951821-9B9B9B.png)
+![university icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-university-1951821-9B9B9B.png)
 
 Mark Levison has helped over 8000 people find success using Scrum, and is the trusted training provider for major Canadian banks, insurance companies, federal and municipal government, and more.
 
-![software icon](images/noun-software-3874633-9B9B9B.png)
+![software icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-software-3874633-9B9B9B.png)
 
-![insurance icon](images/noun-insurance-5588499-9B9B9B.png)
+![insurance icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-insurance-5588499-9B9B9B.png)
 
-![government icon](images/noun-government-1984944-9B9B9B.png)
+![government icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-government-1984944-9B9B9B.png)
 
 \*Generic images used to honour trademark laws and NDAs.
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-arrow-1144336-F1584B.png)
 
 ## You're going to have questions during the CSPO learning course,  
 but also throughout your Scrum career after you settle into the real work.
@@ -121,7 +121,7 @@ Get Certified
 
 ](#upcomingCourses)
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-arrow-1144336-F1584B.png)
 
 ## Become the Scrum Whisperer – your team will thank you.
 
@@ -137,27 +137,27 @@ Humans forget, so we cue up support to remind you of key content after your cour
 
 ## Exclusive bonuses we provide in Scrum Product Owner certification training...
 
-![icon of a planning chart](images/noun-plan-1169041.png)
+![icon of a planning chart](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-plan-1169041.png)
 
 A plan to guide you through your first few months in your new role and help you succeed long-term. Case study examples, evidence-based learning.
 
-![icon or two people on steps](images/noun-coaching-4190192.png)
+![icon or two people on steps](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-coaching-4190192.png)
 
 Coaching session with Mark after Scrum Product Owner training. Get input on the unique issues you’re faced with at your organization, and how to understand them, deal with them, and take risks.
 
-![icon of a stack of books](images/noun-library-3377733.png)
+![icon of a stack of books](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-library-3377733.png)
 
 A Glossary and Resource library so, when you’re confused about a Scrum or Agile topic later, you can go back and read about it. The Scrum and Agile resource library accompanies the glossary so when you need more depth in a topic area, you can study curated content so you don’t waste your time and can keep learning Scrum at your own pace and focus.
 
-![icon of some speech bubbles](images/noun-questions-and-answers-4756959.png)
+![icon of some speech bubbles](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-questions-and-answers-4756959.png)
 
 Access to our community of students, professionals, and educators where, when you run into challenges, you can ask questions and get experienced answers from not just Mark but also two other Certified Scrum Trainers.
 
-![icon of a coffee mug](images/noun-coffee-1437791.png)
+![icon of a coffee mug](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-coffee-1437791.png)
 
 Regular virtual coffee sessions about Scrum and Agile. Ask questions for Mark, and hear from other Certified Scrum Poduct Owners how they do Scrum in their workplace.
 
-![icon of a certificate](images/noun-certificate-1016684.png)
+![icon of a certificate](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-certificate-1016684.png)
 
 Money-back guarantee. If, after all of the above, you don’t feel you gained valuable skills and learning from the Scrum Product Owner certification course, we’ll refund your registration price.
 
@@ -169,7 +169,7 @@ Get Certified
 
 ](#upcomingCourses)
 
-![arrow icon](images/noun-arrow-1144336-F1584B.png)
+![arrow icon](src/content/page/certified-scrum-product-owner-cspo-training/images/noun-arrow-1144336-F1584B.png)
 
 ## Not sure the Scrum framework and Product Owner role are for you?
 
@@ -229,7 +229,7 @@ Get Certified
 
 ](#upcomingCourses)
 
-![Certified Scrum Trainer Mark Levison](images/headshot-facing-right-small.jpg "Certified Scrum Trainer Mark Levison")
+![Certified Scrum Trainer Mark Levison](src/content/page/certified-scrum-product-owner-cspo-training/images/headshot-facing-right-small.jpg "Certified Scrum Trainer Mark Levison")
 
 ## About Your Guide
 

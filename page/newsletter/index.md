@@ -9,7 +9,7 @@ One email every two weeks. With tips on Effective Scrum and Influence for Agile 
 
 Get the latest Agile news, tips, and advance notice of upcoming courses and promotions.
 
-![The Guide to Effective Agile Retrospectives by Mark Levison](images/The-Guide-to-Effective-Agile-Retrospectives-temp-book-cover-791x1024.jpg)
+![The Guide to Effective Agile Retrospectives by Mark Levison](src/content/page/newsletter/images/The-Guide-to-Effective-Agile-Retrospectives-temp-book-cover-791x1024.jpg)
 
 ​Bonus: receive a free copy of _**The Guide to Effective Agile Retrospectives**_ eBook and support email series!
 

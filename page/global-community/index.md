@@ -3,7 +3,7 @@ title: "Global Community"
 date: "2022-03-03"
 ---
 
-![You help We help together for peace in Ukraine](images/Ukraine.jpg)
+![You help We help together for peace in Ukraine](src/content/page/global-community/images/Ukraine.jpg)
 
 Our vision is to help others with challenges that they face in Scrum and Agile, but our hearts right now are consumed with grief for colleagues, friends, and the citizens of Ukraine as they face challenges most of us can’t begin to imagine. We know that many people will die, many more will suffer, and there is little we can do, so we're asking for your help to do more.
 

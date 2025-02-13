@@ -5,7 +5,7 @@ date: "2021-01-29"
 
 ## Certified Scrum Product Owner® (CSPO) Certification Training
 
-![](images/ratings.jpg.webp)
+![](src/content/page/cspo-scrum-product-owner-certification-lp/images/ratings.jpg.webp)
 
 Improve the value of your products and career with the most popular Certified Scrum Product Owner® (CSPO) certification. This two day training workshop prepares you to become a highly demanded Certified Scrum Product Owner®.
 
@@ -15,11 +15,11 @@ Get Certified
 
 ](#upcomingCoursesFrame2)
 
-![Certified ScrumMaster Scrum Alliance seal](images/sa-cspo-600.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/cspo-scrum-product-owner-certification-lp/images/sa-cspo-600.png)
 
 Improve the value of your products and career with the most popular Certified Scrum Product Owner® (CSPO) certification. This two day training workshop prepares you to become a highly demanded Certified Scrum Product Owner®.
 
-![Certified ScrumMaster Scrum Alliance seal](images/sa-cspo-600.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/cspo-scrum-product-owner-certification-lp/images/sa-cspo-600.png)
 
 ### Get Certified Today!
 
@@ -34,7 +34,7 @@ Improve the value of your products and career with the most popular Certified Sc
 - Eligible for 14 PDUs
 - Virtual attendees can attend the same in-class training post-COVID for free
 
-![Certified ScrumMaster Scrum Alliance seal](images/Scrum-Alliance-seal-cst-600x600-1.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/cspo-scrum-product-owner-certification-lp/images/Scrum-Alliance-seal-cst-600x600-1.png)
 
 Taught by [Mark Levison](https://www.scrumalliance.org/community/profile/mlevison), a Certified Scrum Trainer with extensive Agile experience.
 

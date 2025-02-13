@@ -5,7 +5,7 @@ date: "2024-01-05"
 
 .page-id-15703 p:empty { display:none; } .logoContainer { float: left; width: 25%; text-align: center; } .industryBlurb { color: #1f64a4; font-size: 2.3rem; text-align: center; line-height: 1.2em; padding: 15px 55px; clear: both; } .lightBluePoint { border-top: 1px solid #0e90d2; border-bottom: 1px solid #0e90d2; color: #0e90d2; margin: 10px 100px 30px; text-align: center; padding: 10px 0; } .lightBluePoint div { font-style: italic; } .industryBlock { overflow: hidden; border: 2px solid #1f64a4; padding: 20px; margin: 0 150px 25px; } #FAQ-Section p { margin-bottom: 15px; } .FAQ-Unit { margin: 20px 0; } .arrow-right { float: left; margin: 5px 15px 0 0; width: 0; height: 0; border-top: 15px solid transparent; border-bottom: 15px solid transparent; border-left: 40px solid #1f64a4; border-top-left-radius: 18px; border-bottom-left-radius: 18px; } /\*.userLeveLHeader { float: left; margin-left: 30px; }\*/ .newToScrum { font-weight: bold; background: #e0e0e0; padding: 20px 150px; text-align: center; } .csmLogo { float: left; width: 150px; } .cspoLogo { float: right; width: 150px; margin-top: -27px; } .bookCover { width: 300px; } .heroImage { max-width: 650px; } @media screen and (max-width: 1023px) { .logoDisclaimer { padding: 20px 24px!important; } .lightBluePoint { margin: 10px 50px 30px; } .industryBlock { margin: 0 0 25px; } .newToScrum { padding: 12px; } } @media screen and (max-width: 800px) { .logoDisclaimer { padding: 10px 2px!important; } .lightBluePoint { margin: 10px 0 30px; } .cspoLogo { float: left; margin-right: 10px; } } @media screen and (max-width: 700px) { .saBlurb { float: left; margin-bottom: 15px; } .cspoLogo { float: right; margin-right: unset; } } @media screen and (max-width: 500px) { h1.entry-title { font-size: 30px; } .logoContainer { width: 50%; } .industryBlurb { padding: 15px 10px; } .csmLogo { width: 125px; } .cspoLogo { width: 125px; } .guideTitle { clear: both; } .site-inner .content-sidebar-wrap .content { padding: 40px 10px 10px; } .site-inner { padding-top: 10px; } .bookCover { width: 100%; } }
 
-![Agile Scrum team in front of a Scrum wall - image by Agile Pain Relief Consulting](images/202310-Homepage-HeroPicture-800x563-1.png)
+![Agile Scrum team in front of a Scrum wall - image by Agile Pain Relief Consulting](src/content/page/agile-training-scrum-training-and-certification/images/202310-Homepage-HeroPicture-800x563-1.png)
 
 **Become an effective team that delivers the right value with high quality,**
 
@@ -13,7 +13,7 @@ date: "2024-01-05"
 
 **Transform your team and its results with our Blueprint for Scrum Team Success.**
 
-5000+ reviews ![Google 5 star rating](images/Google-5-star-rating.jpg)
+5000+ reviews ![Google 5 star rating](src/content/page/agile-training-scrum-training-and-certification/images/Google-5-star-rating.jpg)
 
 "Definitely the Yoda of the Scrum universe"
 
@@ -67,7 +67,7 @@ The language and concepts of Scrum can seem strange. There are words like:
 
 Even when the words make sense, there is still a long list of questions, like: How is Daily Scrum different from Scrum? What is a Product Backlog? What is a Sprint? Who does what, and when, in Scrum? How is this different from the way I currently work? Will this even work for my business?
 
-[![A Jargon-Free Introduction to Scrum](images/A-Jargon-Free-Introduction-to-Scrum-cover-small-low-res.jpg)](/a-jargon-free-introduction-to-scrum)
+[![A Jargon-Free Introduction to Scrum](src/content/page/agile-training-scrum-training-and-certification/images/A-Jargon-Free-Introduction-to-Scrum-cover-small-low-res.jpg)](/a-jargon-free-introduction-to-scrum)
 
 In our _Jargon-Free Introduction to Scrum_ we use simple, clear language to answer those questions, and lay out Scrum in a simple, easy to understand way. You will learn how Scrum can help a team:
 
@@ -90,7 +90,7 @@ No workplace is perfect. Having a blueprint for what steps to take, and how to d
 
 We have that Blueprint and the real world experience to help you and your business through this.
 
-[![Blueprint For Scrum Team Success by Agile Pain Relief](images/BlueprintForScrumTeamSuccessBookCover-400x640-1.jpg)](/blueprint-for-scrum-team-success)
+[![Blueprint For Scrum Team Success by Agile Pain Relief](src/content/page/agile-training-scrum-training-and-certification/images/BlueprintForScrumTeamSuccessBookCover-400x640-1.jpg)](/blueprint-for-scrum-team-success)
 
 ### Why You Need a Blueprint for Your Scrum Team
 
@@ -106,7 +106,7 @@ Because here's a common scenario. A team has been working together using Scrum f
 - The team feels like Scrum is being forced on them and there's no real point to it.
 - There's talk of returning to traditional business project management.
 
-![Mark Levison](images/headshot-facing-left-square.jpg)
+![Mark Levison](src/content/page/agile-training-scrum-training-and-certification/images/headshot-facing-left-square.jpg)
 
 If that sounds familiar for your team, you don't need to stumble around in the dark. Mark Levison has spent more than 20 years studying Scrum and Agile. As a practitioner he has experimented with countless teams to find what works and, more importantly, what doesn't.
 
@@ -130,7 +130,7 @@ As a Scrum practitioner you need to practice techniques for how to guide teams, 
 
 ### Learn about using Scrum and Agile in the real world
 
-![Scrum Alliance CSM Seal](images/sa-csm-600.png) ![Scrum Alliance CSPO Seal](images/sa-cspo-600.png)
+![Scrum Alliance CSM Seal](src/content/page/agile-training-scrum-training-and-certification/images/sa-csm-600.png) ![Scrum Alliance CSPO Seal](src/content/page/agile-training-scrum-training-and-certification/images/sa-cspo-600.png)
 
 Our [Certified Scrum Master and Scrum Product Owner Training workshops](/certified-scrum-agile-training) will do so much more than just give you a highly respected certification to help your career. Our Scrum training will answer those "Yes, but in real life…" questions that people have, and that workbook + PowerPoint courses don't answer.
 
@@ -138,7 +138,7 @@ No boring business classes here. You'll experience many of the most common pitfa
 
 Professional level Scrum training fills in the gaps where confusion about Scrum lives and grows. It makes sense of the nonsensical, and helps you easily imagine ways to use Scrum to make work not suck. (Or at least less painful.)
 
-![Mark Levison](images/Mark-Levison-profile-image-300x400-1.jpg)
+![Mark Levison](src/content/page/agile-training-scrum-training-and-certification/images/Mark-Levison-profile-image-300x400-1.jpg)
 
 ## Your Guide on the Side
 
@@ -158,21 +158,21 @@ If you've read this far on the page and you're still not sure which of our offer
 - If you've got the basics but you don't know where to go from there, or your efforts haven't gotten good results, we've got the _Blueprint for Scrum Success_ that lays it all out clearly but still gives you plenty of ideas of how to make it work for your unique needs.
 - And if you want to take the obvious next step with Scrum, your team, and your career, we offer top-rated Scrum training courses that have helped thousands of businesses and individuals with their Scrum and Agile goals and certification, including many major organizations and industries such as government, software, banking, finance and education, to name only a few.
 
-![bank icon](images/noun-bank-5781186-9B9B9B.png)
+![bank icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-bank-5781186-9B9B9B.png)
 
-![financial icon](images/noun-finance-1834067-9B9B9B.png)
+![financial icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-finance-1834067-9B9B9B.png)
 
-![finance icon](images/noun-finance-2351824-9B9B9B.png)
+![finance icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-finance-2351824-9B9B9B.png)
 
-![university icon](images/noun-university-1951821-9B9B9B.png)
+![university icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-university-1951821-9B9B9B.png)
 
 Mark Levison has helped over 8000 people find success using Scrum, and is the trusted training provider for major Canadian banks, insurance companies, federal and municipal government, and more.
 
-![software icon](images/noun-software-3874633-9B9B9B.png)
+![software icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-software-3874633-9B9B9B.png)
 
-![insurance icon](images/noun-insurance-5588499-9B9B9B.png)
+![insurance icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-insurance-5588499-9B9B9B.png)
 
-![government icon](images/noun-government-1984944-9B9B9B.png)
+![government icon](src/content/page/agile-training-scrum-training-and-certification/images/noun-government-1984944-9B9B9B.png)
 
 \*Generic images used to honour trademark laws and NDAs.
 

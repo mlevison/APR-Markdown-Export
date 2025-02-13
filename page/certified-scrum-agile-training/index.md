@@ -9,7 +9,7 @@ Hands on learning for how to guide teams, projects, and organizations, using Agi
 
 Click to register for your preference of training dates, or on the course headings for more details about what each workshop offers.
 
-![Certified ScrumMaster Scrum Alliance seal](images/sa-csm-600.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/certified-scrum-agile-training/images/sa-csm-600.png)
 
 ### [Certified ScrumMaster (CSM)](/certified-scrummaster-csm-training)
 
@@ -17,7 +17,7 @@ Often the best fit for anyone new to Scrum. Focuses on the role of the team and 
 
 \[do\_widget id=custom-ee-upcoming-events-widget-14\]
 
-![Certified Scrum Product Owner Scrum Alliance seal](images/sa-cspo-600.png)
+![Certified Scrum Product Owner Scrum Alliance seal](src/content/page/certified-scrum-agile-training/images/sa-cspo-600.png)
 
 ### [Certified Scrum Product Owner (CSPO)](/certified-scrum-product-owner-cspo-training)
 
@@ -25,7 +25,7 @@ The course for those who work regularly with stakeholders. Take your skills and 
 
 \[do\_widget id=custom-ee-upcoming-events-widget-15\]
 
-![Advanced Certified ScrumMaster Scrum Alliance seal](images/sa-adv_csm-600.png)
+![Advanced Certified ScrumMaster Scrum Alliance seal](src/content/page/certified-scrum-agile-training/images/sa-adv_csm-600.png)
 
 ### [Advanced Certified ScrumMaster (A-CSM)](/advanced-certified-scrummaster-acsm-training)
 
@@ -33,7 +33,7 @@ The course for those wanting to expand ScrumMaster skills, spark organizational 
 
 \[do\_widget id=custom-ee-upcoming-events-widget-16\]
 
-![Choose the right Scrum training for your needs](images/choice.png)
+![Choose the right Scrum training for your needs](src/content/page/certified-scrum-agile-training/images/choice.png)
 
 ### [No Idea What Training to Choose?](/choose-the-right-scrum-training-for-your-needs)
 
@@ -45,7 +45,7 @@ To Help You Decide
 
 ](/choose-the-right-scrum-training-for-your-needs)
 
-![Group and Private Training](images/business-training.png)
+![Group and Private Training](src/content/page/certified-scrum-agile-training/images/business-training.png)
 
 ### [Groups and Private Training](/private-scrum-agile-training)
 

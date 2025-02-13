@@ -5,7 +5,7 @@ date: "2021-01-29"
 
 ## Certified Scrum Master® (CSM) Certification Training
 
-![](images/ratings.jpg.webp)
+![](src/content/page/csm-scrum-master-certification-lp/images/ratings.jpg.webp)
 
 Improve your work performance and career opportunities with the highly demanded Certified Scrum Master® (CSM) certification. This two day training workshop prepares you to become a Certified Scrum Master®
 
@@ -15,11 +15,11 @@ Get Certified
 
 ](#upcomingCoursesFrame2)
 
-![Certified ScrumMaster Scrum Alliance seal](images/sa-csm-600.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/csm-scrum-master-certification-lp/images/sa-csm-600.png)
 
 Improve your work performance and career opportunities with the highly demanded Certified Scrum Master® (CSM) certification. This two day training workshop prepares you to become a Certified Scrum Master®
 
-![Certified ScrumMaster Scrum Alliance seal](images/sa-csm-600.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/csm-scrum-master-certification-lp/images/sa-csm-600.png)
 
 ### Get Certified Today!
 
@@ -34,7 +34,7 @@ Improve your work performance and career opportunities with the highly demanded 
 - Eligible for 14 PDUs
 - Virtual attendees can attend the same in-class training post-COVID for free
 
-![Certified ScrumMaster Scrum Alliance seal](images/Scrum-Alliance-seal-cst-600x600-1.png)
+![Certified ScrumMaster Scrum Alliance seal](src/content/page/csm-scrum-master-certification-lp/images/Scrum-Alliance-seal-cst-600x600-1.png)
 
 Taught by [Mark Levison](https://www.scrumalliance.org/community/profile/mlevison), a Certified Scrum Trainer with extensive Agile experience.
 

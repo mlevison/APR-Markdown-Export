@@ -23,7 +23,7 @@ As you might guess from the different titles here, Agile and Scrum are _not_ the
 
 Whole essays have been written on this. [Mark discusses in more detail in his blog](/blog), but the simplified answer is because it works. Scrum encourages the team to improve on two levels at the same time. First on the product level, by gaining feedback from stakeholders on what is wanted. Second, collecting feedback about the team’s process and the way they work together. The first level allows us to get iteratively closer to the product the customer needs, while the second helps the team grow their skills and teamwork, and focus on delivering quality. Combined, these are very effective toward core Agile goals.
 
-![life cycle of the Scrum sprint - image by Agile Pain Relief Consulting](images/life-cycle-of-the-sprint-labelled-1024x805.jpg)
+![life cycle of the Scrum sprint - image by Agile Pain Relief Consulting](src/content/page/what-is-scrum-in-a-nutshell/images/life-cycle-of-the-sprint-labelled-1024x805.jpg)
 
 ## Scrum Terminology
 
