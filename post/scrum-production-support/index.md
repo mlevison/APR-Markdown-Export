@@ -14,6 +14,7 @@ tags:
   - "work-environment"
   - "work-in-progress"
 coverImage: "APR_Blog-Illustrations_June2019_Production-Support-Issues_v3.jpg"
+excerpt: '_Whenever you are building and deploying a complex system, there are always going to be'
 ---
 
 ![Office workers stressed out by the delivery of an entire box of support tickets](src/content/blog/scrum-production-support/images/APR_Blog-Illustrations_June2019_Production-Support-Issues_v3.jpg)

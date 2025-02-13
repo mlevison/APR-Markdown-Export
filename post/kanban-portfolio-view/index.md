@@ -8,6 +8,7 @@ categories:
   - "portfolio-management"
   - "scrum"
 coverImage: "scrum-alone-not-enough-kanban.jpg"
+excerpt: '_(Presented as Part 3 in the [Scrum Alone is Not'
 ---
 
 ![Beyond Scrum: Scrum Alone Is Not Enough - portfolio kanban](src/content/blog/kanban-portfolio-view/images/scrum-alone-not-enough-kanban.jpg)

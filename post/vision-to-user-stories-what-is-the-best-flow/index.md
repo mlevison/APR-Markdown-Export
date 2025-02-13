@@ -6,6 +6,7 @@ categories:
   - "scrum"
   - "user-stories"
 coverImage: "User-Stories-Flow.jpg"
+excerpt: 'In a recent [Product Owner Course](/certified-scrum-product-owner-cspo-training) I was'
 ---
 
 In a recent [Product Owner Course](/certified-scrum-product-owner-cspo-training) I was asked to provide a picture of the flow from Vision to User Stories, with all the steps in between.

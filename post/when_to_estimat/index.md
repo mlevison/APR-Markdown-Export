@@ -3,6 +3,7 @@ title: "When to Estimate the Product Backlog"
 date: "2006-09-11"
 categories: 
   - "backlog-refinement"
+excerpt: 'As with my previous post a quick question to the [Scrum mailing'
 ---
 
 As with my previous post a quick question to the [Scrum mailing list](https://groups.yahoo.com/group/scrumdevelopment/) goes a long way. My original question:

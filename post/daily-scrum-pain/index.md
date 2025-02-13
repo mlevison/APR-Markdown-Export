@@ -10,6 +10,7 @@ tags:
   - "scrum-meeting"
   - "scrummaster"
 coverImage: "AgilePainRelief_Dysfunction_FNL.jpg"
+excerpt: '_**Dramatis Personae**_ Steve – a ScrumMaster and the hero of our story Michael – another'
 ---
 
 ![Banner image of distracted team members not effectively communicating with each other](src/content/blog/daily-scrum-pain/images/AgilePainRelief_Dysfunction_FNL-1024x606.jpg)

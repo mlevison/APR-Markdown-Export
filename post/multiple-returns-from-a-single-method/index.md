@@ -6,6 +6,7 @@ categories:
 tags: 
   - "software-development"
 coverImage: "doorway-xs.jpg"
+excerpt: 'Let's start by looking back to where this idea stems from. As best I can tell objections'
 ---
 
 ![Doorway - image licensed from Photodune](src/content/blog/multiple-returns-from-a-single-method/images/doorway-xs.jpg) It’s funny just about the only thing anyone really objected to from my recent post on [Minimal Coding Style](/blog/minimalist-coding-style.html) was multiple return statements.

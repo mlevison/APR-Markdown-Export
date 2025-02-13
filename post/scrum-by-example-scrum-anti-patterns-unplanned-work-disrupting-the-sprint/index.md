@@ -11,6 +11,7 @@ tags:
   - "scrum-team"
   - "scrummaster"
 coverImage: "APR_BlogImage2_Oct2018.jpg"
+excerpt: 'The Team is in the middle of a Sprint, but the Product Owner has discovered unplanned work'
 ---
 
 The Team is in the middle of a Sprint, but the Product Owner has discovered unplanned work and interrupts their flow mid-Sprint to deal with it because it’s now “high-priority.” How should a ScrumMaster deal with this or similar Scrum Anti-Patterns?

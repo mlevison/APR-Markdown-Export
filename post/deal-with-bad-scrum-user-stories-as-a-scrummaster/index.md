@@ -14,6 +14,7 @@ tags:
   - "scrummaster"
   - "user-stories"
 coverImage: "AgilePainRelief_BlogIllustrations_Jan2019_Image1_v2.jpg"
+excerpt: 'It is common in the early stages of Scrum implementation for there to be misunderstandings'
 ---
 
 It is common in the early stages of Scrum implementation for there to be misunderstandings about what User Stories are for and what makes them useful. A ScrumMaster’s task is to be able to help the Team and Product Owner when they are faced with ineffective User Stories as they go into Sprint Planning.

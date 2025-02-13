@@ -11,6 +11,7 @@ tags:
   - "test-driven-development"
   - "unit-testing"
 coverImage: "hacking-codes-xs.jpg"
+excerpt: 'Last week a colleague asked for my help finding better unit test tools for Java Script.'
 ---
 
 ![Hacking codes - image licensed from Photodune](src/content/blog/unit-testing-in-javascript/images/hacking-codes-xs.jpg)

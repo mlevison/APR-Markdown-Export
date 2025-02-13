@@ -4,6 +4,7 @@ date: "2010-01-14"
 categories: 
   - "agile"
 coverImage: "3d-men-holding-hands-in-a-circle-xs.jpg"
+excerpt: 'The statement is very simple: I believe that communities exist as homes for professionals'
 ---
 
 ![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/a-community-of-thinkers-a-personal-commitment/images/3d-men-holding-hands-in-a-circle-xs.jpg) In December, [Liz Keogh](https://lizkeogh.com/2009/12/07/a-community-of-thinkers/), [Eric Willeke](https://manicprogrammer.com/cs/blogs/willeke/archive/2009/12/06/a-community-of-thinkers.aspx), and [Jean Tabaka](https://www.rallydev.com/agileblog/2009/12/a-community-of-thinkers/) got together at the Rally offices in Boulder. In only a day, they drafted a statement of beliefs and respect. If we all agree to follow them and respect each other, many of the rifts that have appeared in the Agile community in the past year will start to heal (see the comments under Jean’s post [“Escalation”](https://www.rallydev.com/agileblog/2009/12/escalation-is-killing-our-healthy-conflict-in-agile/) for examples of those rifts).

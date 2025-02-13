@@ -13,6 +13,7 @@ tags:
   - "agile"
   - "agile-culture"
   - "work-environment"
+excerpt: 'Companies are starting to fall into a trap, and it goes something like this, “Our'
 ---
 
 Companies are starting to fall into a trap, and it goes something like this, “Our partners/competitors/… are Agile, so we need to be Agile.” Becoming Agile without a valid reason will harm your organization. I can’t state that any simpler.

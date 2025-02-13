@@ -2,6 +2,7 @@
 title: "Example Mapping: Your Secret Weapon for Effective Acceptance Criteria"
 date: "2024-11-12"
 coverImage: "Example-Mapping.jpg"
+excerpt: '**Example mapping** is a collaborative technique for a team to take a User Story (or PBI)'
 ---
 
 **Example mapping** is a collaborative technique for a team to take a User Story (or PBI) and have a deeper conversation to clarify their understanding of it. The conversation generates the Acceptance Criteria. (Acceptance Criteria is the generic idea - Example Mapping is the approach I generally recommend.)

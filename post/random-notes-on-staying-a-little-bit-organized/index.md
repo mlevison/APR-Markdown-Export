@@ -6,6 +6,7 @@ categories:
 tags: 
   - "david-allen"
   - "getting-things-done"
+excerpt: 'Almost exactly three years ago, I was trying to use [David Allen’s "Getting Things'
 ---
 
 Almost exactly three years ago, I was trying to use [David Allen’s "Getting Things Done"](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/&tag=notesfromatoo-20)< (GTD) system, and I wasn’t seeing the benefits he promised. In the end, I found that it just helped me thrash. I suspect the problem was more my focus than his system—but at end of the day, his approach just didn’t resonate with me.

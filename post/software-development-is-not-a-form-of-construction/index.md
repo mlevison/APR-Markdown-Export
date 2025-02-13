@@ -4,6 +4,7 @@ date: "2015-04-28"
 categories: 
   - "principles"
 coverImage: "construction1.Freepik.jpg"
+excerpt: 'In construction, a lot of emphasis is placed on predictability­, getting the requirements'
 ---
 
 ![icon of a person in overalls with a wrench, with various acronyms of well-known scripting and programming languages in the background](src/content/blog/software-development-is-not-a-form-of-construction/images/construction1.Freepik.jpg)For years the software industry has used an analogy, with construction as its defining metaphor. The comparison is applied throughout the language of software: architecture, foundations, constructor, projects, building code. The language is so pervasive that it affects our thinking around software development, but unfortunately the metaphor is fundamentally broken and the flaws have led us down a number of bad paths.

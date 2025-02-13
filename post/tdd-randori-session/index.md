@@ -10,6 +10,7 @@ tags:
   - "tdd-randori"
   - "test-driven-development"
   - "workshop"
+excerpt: 'We ran our first TDD [Randori](https://en.wikipedia.org/wiki/Randori) session at lunch'
 ---
 
 We ran our first TDD [Randori](https://en.wikipedia.org/wiki/Randori) session at lunch today (approx 15 attendees). I was inspired by Dave Nicolette's session at Agile 2008 and used the [Danilo Santo's](https://www.dtsato.com/blog/2008/08/12/coding-dojo-agile-2008/) paper on their Brazilian Coding Dojo as a guide.

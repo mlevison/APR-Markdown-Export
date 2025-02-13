@@ -9,6 +9,7 @@ tags:
   - "story-estimates"
   - "story-splitting"
   - "user-stories"
+excerpt: 'User Stories are a common tool used by Agile Teams to capture the spirit of a requirement'
 ---
 
 User Stories are a common tool used by Agile Teams to capture the spirit of a requirement without too much detail. Sometimes User Stories are too large for the team to complete safely in one Sprint. In fact, I recommend that you [split the Stories](/blog/scrummaster-tales-story-splitting-fun.html) into small enough sections so that you’re completing 5-10 Stories per Sprint; it improves the flow and makes it easier to deliver complete chunks of value at the of the Sprint.

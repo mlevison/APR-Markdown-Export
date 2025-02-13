@@ -13,6 +13,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "APR-Story-of-a-Sprint-board-07.png"
+excerpt: 'Many people who attend [Scrum training courses](/certified-scrum-agile-training) start'
 ---
 
 Many people who attend [Scrum training courses](/certified-scrum-agile-training) start with the impression that the Daily Scrum is the whole of Scrum. Others think the Daily Scrum centres on three questions (this was true a long time ago). This guide to the Daily Scrum meeting was created to address these misconceptions as well as answer common questions.

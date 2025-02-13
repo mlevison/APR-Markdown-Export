@@ -9,6 +9,7 @@ tags:
   - "leadership"
   - "organizations"
   - "software-age"
+excerpt: 'Dear Rt. Hon. Kim Campbell, In early October we met in the Toronto airport while lining up'
 ---
 
 Dear Rt. Hon. Kim Campbell,

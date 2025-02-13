@@ -3,6 +3,7 @@ title: "Recent Readings of Interest"
 date: "2008-11-07"
 categories: 
   - "software-development"
+excerpt: 'At the suggestion of a friend, from time to time I'm going to post about Recent Agile (or'
 ---
 
 At the suggestion of a friend, from time to time I'm going to post about Recent Agile (or related) articles that I've read and found interesting.

@@ -10,6 +10,7 @@ tags:
   - "examples"
   - "unit-testing"
 coverImage: "photodune-452817-business-people-xs.jpg"
+excerpt: 'As a reminder here are the updated questions: 1. What did you **complete** yesterday? 2.'
 ---
 
 ![business people - image licensed from Photodune](src/content/blog/daily-stand-up-variations/images/photodune-452817-business-people-xs.jpg) When trying to instill a new habit with a team I often find it useful to add a new question (or two) to the daily standup. Perhaps the team needs to pay more attention to Code Smells or Unit Testing. In those cases I ask team members to mention one thing they discovered (or better improved) related to that idea during standup everyday.  My goal is to make spotting these issues a daily habit, even when they can't be fixed right mentioning them raises awareness. Non-coders please reinterpret questions 4 and 5 in your own context.

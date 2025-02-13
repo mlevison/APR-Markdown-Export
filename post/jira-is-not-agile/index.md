@@ -13,6 +13,7 @@ tags:
   - "tools"
   - "versionone"
 coverImage: "Agile-pyramid-2.jpg"
+excerpt: 'At its core, Agile is a set of [Values](https://agilemanifesto.org/) and'
 ---
 
 ![Agile Pyramid - image by Agile Pain Relief Consulting](src/content/blog/jira-is-not-agile/images/Agile-pyramid-2.jpg)I’ve heard people say, “We started using Jira and GreenHopper, so we’re Agile now”. Similar things are said of Rally, VersionOne, LeanKit, TargetProcess, etc. In making those declarations, it’s clear that they don’t understand Agile at all.

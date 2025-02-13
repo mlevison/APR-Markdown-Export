@@ -9,6 +9,7 @@ tags:
   - "scrum-by-example"
   - "work-in-progress"
 coverImage: "photodune-510956-bottle-xs.jpg"
+excerpt: '1. Martin, the only team member who knows how to make changes to the database, has his'
 ---
 
 ![Old fashioned glass bottle with cork stopper. - image licensed from Photodune](src/content/blog/scrummaster-tales-the-team-gets-bottlenecked/images/photodune-510956-bottle-xs.jpg)It's day four of the sprint and ScrumMaster Steve is studying the Story + Task wall to see how the sprint is progressing. After a few minutes he sees three things that standout:

@@ -3,6 +3,7 @@ title: "Agile in a Tweet"
 date: "2012-12-07"
 categories: 
   - "agile"
+excerpt: '“Focus on the customer. Build amazing quality stuff. Release frequently. Always improving.'
 ---
 
 ![children raising their hand in the classroom - from iStockPhoto](src/content/blog/agile-in-a-tweet/images/iStock_000010106237_Double-1024x700.jpg) John Miller recently challenged some of us to summarize Agile for the K-12 crowd. I wound up writing a tweet I could share with my nine year old:

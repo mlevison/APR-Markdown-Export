@@ -9,6 +9,7 @@ tags:
   - "sprint-goal"
   - "sprint-length"
 coverImage: "APR-Blog-Illustrations_Oct2019_SprintLengths_B_v2.jpg"
+excerpt: '_How long should a Scrum Sprint be? A Scrum Sprint is a short period of time when the'
 ---
 
 _How long should a Scrum Sprint be? A Scrum Sprint is a short period of time when the Scrum Team works, but there is no hard rule as to how long that should be – in this post, we cover the pros and cons of shorter and longer Sprints and how you can discover what works best for you._

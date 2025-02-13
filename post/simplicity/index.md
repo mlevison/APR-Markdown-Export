@@ -13,6 +13,7 @@ tags:
   - "agile"
   - "agile-culture"
   - "work-environment"
+excerpt: 'In 201x, the global financial markets collapsed. Reason: mortgages were given to people'
 ---
 
 In 201x, the global financial markets collapsed. Reason: mortgages were given to people who couldn’t afford them. This debt was then repackaged and sold to banks and other institutions as good debt. (“[The Big Short](https://www.amazon.ca/The-Big-Short-Doomsday-Machine/dp/0393072231/&tag=notesfromatoo-20)” by Michael Lewis is an excellent indictment of this time). However, the bigger question remained. Why didn’t the financial regulator system catch the problem early, while it was still small?

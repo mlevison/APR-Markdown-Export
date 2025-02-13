@@ -5,6 +5,7 @@ categories:
   - "books"
   - "science"
 coverImage: "photodune-8185389-the-brain-xs.jpg"
+excerpt: 'References: - [The Art of Changing'
 ---
 
 ![Brain - image licensed from Photodune](src/content/blog/learning-best-approaches-for-your-brain-slide-deck/images/photodune-8185389-the-brain-xs.jpg)As regular readers of this blog will know I’ve given a talk based on readings in Neuroscience, called “Learning Best Approaches for Your Brain” – several times this year (Agile 2009 and Agile Ottawa). After several requests I’m posting the [slide deck](https://www.dropbox.com/s/l9zch4xigolijb9/Learning%20Best%20Approaches%20for%20your%20Brain.pdf?dl=0) (pdf) here – but I’m afraid that it will really only be useful to the people who attended the talk. Here’s the promo I’ve been using:

@@ -4,6 +4,7 @@ date: "2006-10-26"
 categories: 
   - "books"
   - "software-development"
+excerpt: 'Now you’ve read the basic introductory books to Agile Software development and you want to'
 ---
 
 Now you’ve read the basic introductory books to Agile Software development and you want to learn more, here’s my recent reading list:

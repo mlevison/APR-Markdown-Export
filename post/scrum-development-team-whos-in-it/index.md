@@ -16,6 +16,7 @@ tags:
   - "scrum-roles"
   - "work-environment"
 coverImage: "white-water-rafting-1510487-640x480-MelvinGreen-FreeImages.jpg"
+excerpt: 'I’m frequently asked if a Tester, Business Analyst, User Experience (UX) person, Database'
 ---
 
 I’m frequently asked if a Tester, Business Analyst, User Experience (UX) person, Database Analyst, or Security Expert is part of the Scrum team?

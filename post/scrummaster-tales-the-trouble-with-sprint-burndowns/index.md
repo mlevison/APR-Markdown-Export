@@ -10,6 +10,7 @@ tags:
   - "sprint-planning"
   - "story-estimates"
   - "user-stories"
+excerpt: '_Julia and Rob – are personas used by the BookStore Team to keep them focused on the needs'
 ---
 
 ![SprintBurndownEstimateHrsRemaining](src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownEstimateHrsRemaining.png)It’s six Sprints after the “[Overtime/Disastrous Release](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html)”, which set the team back by several months. During the current Sprint Planning, the Team committed to completing the following nine User Stories:

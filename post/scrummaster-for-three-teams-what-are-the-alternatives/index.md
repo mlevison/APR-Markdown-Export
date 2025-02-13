@@ -15,6 +15,7 @@ tags:
   - "sonar"
   - "technical-debt-2"
 coverImage: "PulledInManyDirections-small.jpg"
+excerpt: 'Scrum succeeds because it helps build a high performance team, i.e. a team that is capable'
 ---
 
 ![Pulled In Many Directions - by FreeImages.com](src/content/blog/scrummaster-for-three-teams-what-are-the-alternatives/images/PulledInManyDirections-small.jpg)

@@ -10,6 +10,7 @@ categories:
   - "scrum"
   - "teams"
 coverImage: "scrum-alone-not-enough-portfolio-management.jpg"
+excerpt: '(_Presented as Part 2 in the [Scrum Alone is Not Enough'
 ---
 
 ![Beyond Scrum: Scrum Alone Is Not Enough - portfolio management](src/content/blog/portfolio-management/images/scrum-alone-not-enough-portfolio-management.jpg)

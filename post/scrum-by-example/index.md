@@ -10,6 +10,7 @@ tags:
   - "scrum-team"
   - "scrummaster"
 coverImage: "Scrum-by-Example-Characters.jpg"
+excerpt: 'What does it take to be a **great** ScrumMaster? When I was in my early years as a Scrum'
 ---
 
 What does it take to be a **great** ScrumMaster?

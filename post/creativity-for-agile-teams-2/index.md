@@ -10,6 +10,7 @@ tags:
   - "scrum"
   - "team-building"
 coverImage: "photodune-2657109-crayons-xs.jpg"
+excerpt: 'There are many ways to redefine a work environment to support greater creativity that have'
 ---
 
 ![Crayons image licensed from Photodune](src/content/blog/creativity-for-agile-teams-2/images/photodune-2657109-crayons-xs.jpg)

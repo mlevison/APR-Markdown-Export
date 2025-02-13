@@ -11,6 +11,7 @@ tags:
   - "core-protocols"
   - "dan-mezick"
   - "perfection-game"
+excerpt: 'Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile'
 ---
 
 Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile Manager_](https://newtechusa.net/the-culture-game-book/)[![The Culture Game: Tools for the Agile Manager book image](src/content/blog/the-culture-game-book-review/images/TCG-flat-medium-300x229-1.jpg)](https://newtechusa.net/about/the-culture-game-book/)

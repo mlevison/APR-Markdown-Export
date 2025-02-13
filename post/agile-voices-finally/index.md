@@ -9,6 +9,7 @@ tags:
   - "agile-culture"
   - "agile-development"
   - "agile-principles"
+excerpt: 'Nearly 6 months ago I saw another Top 20 list of Agile people. I was troubled. As a result'
 ---
 
 Nearly 6 months ago I saw another Top 20 list of Agile people. I was troubled. As a result I started an anti top 100 list: (from [Looking for 100 Agile Voices we should hear more from](/blog/looking-for-100-agile-voices-we-should-hear-more-from.html))

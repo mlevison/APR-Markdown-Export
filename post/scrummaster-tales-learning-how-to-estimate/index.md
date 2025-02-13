@@ -13,6 +13,7 @@ tags:
   - "scrum-by-example"
   - "sprint-planning"
 coverImage: "photodune-1602425-cards-hand-xs.jpg"
+excerpt: '_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster'
 ---
 
 ![Hand of cards - - image licensed from Photodune](src/content/blog/scrummaster-tales-learning-how-to-estimate/images/photodune-1602425-cards-hand-xs.jpg)

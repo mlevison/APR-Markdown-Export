@@ -14,6 +14,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "AgilePainRelief_BlogIllustrations_Jan2019_LimitationsOfScrum_v1a.jpg"
+excerpt: '_Frequently in workshops, I get asked, “Where shouldn’t we use Scrum?” The short answer is'
 ---
 
 _Frequently in workshops, I get asked, “Where shouldn’t we use Scrum?” The short answer is there are lots of instances where the Scrum framework doesn’t fit. However, to give a more complete and effective answer to this question, first we need to have an idea of why and when Scrum does work and what the key conditions are for success. We can then show examples of where it isn’t a good fit._ ![What Are the Limits of the Scrum Framework?](src/content/blog/what-are-the-limits-of-the-scrum-framework/images/AgilePainRelief_BlogIllustrations_Jan2019_LimitationsOfScrum_v1a-1024x607.jpg)

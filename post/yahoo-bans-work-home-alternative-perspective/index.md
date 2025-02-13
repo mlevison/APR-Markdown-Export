@@ -12,6 +12,7 @@ tags:
   - "telecommute"
   - "work-environment"
 coverImage: "telephone-xs.jpg"
+excerpt: 'In the past week, Yahoo has said that its employees must work in a Yahoo office by June.'
 ---
 
 ![telephone - image licensed from Photodune](src/content/blog/yahoo-bans-work-home-alternative-perspective/images/telephone-xs.jpg)

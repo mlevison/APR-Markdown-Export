@@ -16,6 +16,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "Be-Always-Changing.jpg"
+excerpt: '(Continued from [Agile Change or Adoption Always Starts with'
 ---
 
 ![Be Always Changing - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how/images/Be-Always-Changing.jpg)

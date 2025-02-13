@@ -5,6 +5,7 @@ categories:
   - "scrum"
   - "teams"
 coverImage: "Unstable-Teams-Tuckman-stages.jpg"
+excerpt: 'A stable team is one in which team membership doesn’t change often and, instead, is'
 ---
 
 A stable team is one in which team membership doesn’t change often and, instead, is consistent over time.

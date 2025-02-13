@@ -14,6 +14,7 @@ tags:
   - "scrummaster"
   - "sprint-retrospective"
 coverImage: "Staggered-Sprint-Starting-Point.jpg"
+excerpt: 'Is your Scrum team struggling with questions about who owns quality? Is testing way behind'
 ---
 
 Is your Scrum team struggling with questions about who owns quality? Is testing way behind development? Are team members claiming no time for retrospective because they’re focused on delivery? They might be victims of what some call Scrummerfall, or Mini Waterfall. _Let’s use our fictional [World’s Smallest Online Bookstore (WSOBS) Scrum team](/blog/scrum-by-example.html) to explore what this Scrum anti-pattern is and the damage is causes._

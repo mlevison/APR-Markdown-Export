@@ -8,6 +8,7 @@ tags:
   - "escape-room"
   - "scrum-team"
 coverImage: "escape-room-group-shot.jpg"
+excerpt: 'Mark and his wife, Doris, along with a small group of their friends, have become very good'
 ---
 
 Mark and his wife, Doris, along with a small group of their friends, have become very good at solving challenges and escaping locked rooms.

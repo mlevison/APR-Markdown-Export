@@ -14,6 +14,7 @@ tags:
   - "scrum"
   - "scrum-roles"
   - "scrummaster"
+excerpt: 'The rules of Scrum are simple, but too often people forget that to actually do Scrum'
 ---
 
 The rules of Scrum are simple, but too often people forget that to actually do Scrum requires spirit, passion, engagement – and involving the whole team.

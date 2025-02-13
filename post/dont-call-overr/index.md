@@ -5,6 +5,7 @@ categories:
   - "software-development"
 tags: 
   - "eclipse"
+excerpt: 'MS has a rule about this in'
 ---
 
 MS has a rule about this in [FxCop](https://msdn2.microsoft.com/en-us/library/ms182331\(VS.80\).aspx). PMD has a rule:

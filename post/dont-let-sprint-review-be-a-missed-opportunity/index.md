@@ -8,6 +8,7 @@ tags:
   - "sprint"
   - "sprint-goal"
 coverImage: "APR-Story-of-a-Sprint-board-12.png"
+excerpt: 'When last we left our World’s Smallest Online Bookstore team, their Sprint was rocky. To'
 ---
 
 When last we left our World’s Smallest Online Bookstore team, their Sprint was rocky. To have an effective Sprint Review story, let’s assume that they magically wound back the clock (shazam!) and implemented the changes. As a result, they had the more effective Sprint Planning that we discussed [in the last blog post](/blog/how-sprint-planning-mistakes-can-derail-a-team.html).

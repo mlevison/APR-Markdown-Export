@@ -10,6 +10,7 @@ tags:
   - "solid-code"
   - "test-driven-development"
   - "yagni"
+excerpt: 'During last weeks [TDD Randori session](/blog/tdd-randori-session.html) I was asked, what'
 ---
 
 During last weeks [TDD Randori session](/blog/tdd-randori-session.html) I was asked, what are the advantages of TDD. Here is my short list:

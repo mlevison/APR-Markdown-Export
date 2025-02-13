@@ -5,6 +5,7 @@ categories:
   - "retrospective"
   - "scrum"
 coverImage: "photodune-1947327-business-man-angry-for-computer-crash-xs.jpg"
+excerpt: 'Recently in a [CSM Class](/certified-scrummaster-csm-training) an attendee helped me see'
 ---
 
 ![business man angry for computer crash - licensed from Photodune](src/content/blog/early-feedback-reduces-anger-and-frustration/images/photodune-1947327-business-man-angry-for-computer-crash-xs.jpg) Have you seen a developer react after they've spent three days writing a feature, only to have the tester say, "Um... no" in a [Post Mortem](/blog/agile-retrospectives.html) (a meeting about a project after it has finished) that went badly wrong - with lots of finger pointing and anger?

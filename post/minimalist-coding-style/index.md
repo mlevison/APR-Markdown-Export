@@ -4,6 +4,7 @@ date: "2008-07-21"
 categories: 
   - "software-development"
 coverImage: "modern-office-xs.jpg"
+excerpt: '- Why do you need this boolean named retVal? Could it be eliminated the use of early'
 ---
 
 ![modern office - image licensed from Photodune](src/content/blog/minimalist-coding-style/images/modern-office-xs.jpg) “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away” - **[Antoine de Saint  Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint_Exup%C3%A9ry)**. If you’ve ever invited me do some pair programming with you, you probably have a good idea what this quote is all about. I often wind up asking questions like:

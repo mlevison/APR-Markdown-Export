@@ -16,6 +16,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "Be-Always-Changing-sense-culture.jpg"
+excerpt: '(Continued from _Agile Change or Adoption Always Starts with Why_: [Part'
 ---
 
 ![Be Always Changing - sense culture - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-sense-your-current-culture/images/Be-Always-Changing-sense-culture.jpg)

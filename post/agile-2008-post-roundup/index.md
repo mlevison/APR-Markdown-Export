@@ -4,6 +4,7 @@ date: "2008-10-06"
 categories: 
   - "software-development"
 coverImage: "agile-2008-conference-logo.png"
+excerpt: 'I keep on stumbling across posts about Agile 2008 and thought it might be worth sharing.'
 ---
 
 ![agile 2008 conference logo](src/content/blog/agile-2008-post-roundup/images/agile-2008-conference-logo.png)

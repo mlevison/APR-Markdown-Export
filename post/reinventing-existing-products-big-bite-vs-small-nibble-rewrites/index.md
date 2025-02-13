@@ -12,6 +12,7 @@ tags:
   - "agile-methodology"
   - "technical-debt-2"
 coverImage: "big-bit-small-nibble.jpg"
+excerpt: 'Twice now in my career I’ve done a massive rewrite to replace an existing product. In both'
 ---
 
 ![Big Bite Small Nibble - images licensed from Unsplash: Alec Weir, Bonnie Kittle](src/content/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites/images/big-bit-small-nibble.jpg)

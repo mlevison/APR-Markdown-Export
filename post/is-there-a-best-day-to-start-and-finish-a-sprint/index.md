@@ -14,6 +14,7 @@ tags:
   - "sprint-planning"
   - "work-environment"
 coverImage: "photodune-925282-calendar-xs.jpg"
+excerpt: 'No, of course not. So when should your Team start and end Sprints? The usual rules of'
 ---
 
 No, of course not. So when should your Team start and end Sprints? The usual rules of Scrum apply – ask the Team. Run an experiment.

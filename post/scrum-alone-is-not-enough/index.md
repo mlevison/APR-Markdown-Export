@@ -8,6 +8,7 @@ categories:
   - "portfolio-management"
   - "scrum"
 coverImage: "scrum-alone-not-enough-organizational-improvement.jpg"
+excerpt: 'To be successful with Scrum in the long term you need more than the basic framework. This'
 ---
 
 ![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/scrum-alone-is-not-enough/images/scrum-alone-not-enough-2.jpg)

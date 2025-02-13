@@ -12,6 +12,7 @@ tags:
   - "sprint-planning"
   - "work-in-progress"
 coverImage: "APR_Blog-Illustrations_June2019_SpecialSprints_v3.jpg"
+excerpt: '_Hardening Sprints are one of the most common kinds of Scrum Anti-Patterns: ways of'
 ---
 
 _Hardening Sprints are one of the most common kinds of Scrum Anti-Patterns: ways of addressing recurring problems that seem like effective solutions at the time but in fact hamper productivity or create more problems later on. Here we introduce why they are used, why they are not an effective design pattern, and how you can create more effective solutions._

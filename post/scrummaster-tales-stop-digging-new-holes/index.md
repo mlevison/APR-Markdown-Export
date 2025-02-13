@@ -13,6 +13,7 @@ tags:
   - "unit-testing"
   - "velocity"
 coverImage: "photodune-9444702-yellow-working-sign-xs.jpg"
+excerpt: 'We join the team this week in their Sprint Planning session as they start by rechecking'
 ---
 
 ![Yellow vector working sign - image licensed from Photodune](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/photodune-9444702-yellow-working-sign-xs.jpg) The first law of holes is “When you’re in one, stop digging”. [In the last sprint](/blog/scrummaster-tales-technical-debt-is-slowing-the-team.html) the team discovered that they’re in a hole – in this case they had dug themselves into technical debt.

@@ -10,6 +10,7 @@ tags:
   - "agile-retrospectives"
   - "scrum"
   - "smart"
+excerpt: 'This question often comes up. Usually because a team has become bored with their'
 ---
 
 This question often comes up. Usually because a team has become bored with their retrospectives. I suggest you don't use the same style or format more three times running. The question came up again today with a person saying that their team was doing well and had achieved a steady state. To my mind steady state isn't the point of Scrum. Scrum is a tool to help you be the best in your industry. Scrum should be a tool you use to disrupt an industry. To that end the next time you tell me that I hear that you're team is a good as it gets my reply will be: "Ask the team what it would take for them to be the best in their industry, worthy of a case study on Infoq or a major conference presentation. Everything between the team and that case study is an impediment. Go forth and remove the impediments".

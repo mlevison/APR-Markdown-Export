@@ -4,6 +4,7 @@ date: "2008-08-07"
 categories: 
   - "software-development"
 coverImage: "Challenge_vs_skill.wikipedia-commons-Oliverbeatson.png"
+excerpt: 'In the best session I’ve attended at Agile 2008 Joseph Pelrine talked about some of the'
 ---
 
 In the best session I’ve attended at Agile 2008 Joseph Pelrine talked about some of the ideas and science around self organization teams. The talk has an excellent subtitle “Hard science for soft skills”. I’ve already covered some of the presentation and exercises on [InfoQ](https://www.infoq.com/news/2008/08/coaching_teams/) so I won’t repeat that here. Instead I will focus on the additional material we covered.

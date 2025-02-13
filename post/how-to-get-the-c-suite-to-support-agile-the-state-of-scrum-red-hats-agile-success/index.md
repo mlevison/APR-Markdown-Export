@@ -4,6 +4,7 @@ date: "2018-02-22"
 categories: 
   - "leadership"
   - "scrum"
+excerpt: 'Yearly since 2013, Scrum’s certifying body, [Scrum Alliance®](https://scrumalliance.org/),'
 ---
 
 > “I’m not here to experiment. I’m here to get production stacks out the door, and Agile helps us get there.” — Tim Burke, VP of Cloud and Operating System Infrastructure Engineering at Red Hat

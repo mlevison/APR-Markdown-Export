@@ -3,6 +3,7 @@ title: "Writing Clean Testable Code"
 date: "2008-11-05"
 categories: 
   - "software-development"
+excerpt: '[Miško Hevery](https://misko.hevery.com/about/) a Google Best Practices Coach gives an'
 ---
 
 [Miško Hevery](https://misko.hevery.com/about/) a Google Best Practices Coach gives an excellent talk what Clean Code. He's pitching writing testable code, pointing out problems that make code difficult to test. If you're already practicing TDD there will be very little new here. But if you're struggling either not convinced that TDD is worth the learning curve or convinced that you design well without TDD, then this video is for you. In addition he provides one of the better arguments for and descriptions of dependency injection.

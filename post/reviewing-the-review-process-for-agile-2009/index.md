@@ -4,6 +4,7 @@ date: "2009-03-25"
 categories: 
   - "agile"
 coverImage: "agile-2009-conference-logo.png"
+excerpt: 'It’s been hard work. In theory, we should first give every proposal a proper review, even'
 ---
 
 ![](src/content/blog/reviewing-the-review-process-for-agile-2009/images/agile-2009-conference-logo.png) Sorry, I’ve been more than a bit busy lately. Working as an independent coach is very rewarding and time consuming. For the past couple of weeks, I’ve been reviewing sessions for the Manifesting Agility Stage at Agile2009: “This Stage is all about tools and techniques for rapidly developing a deep understanding of the empirical Agile mindset, and then rapidly applying it—as individuals, and as groups.” As you can imagine, even with only 87 proposals, this takes a lot of time. Our stage has 1,440 minutes allotted and 3,750 minutes of proposals.

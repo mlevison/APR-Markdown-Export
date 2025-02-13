@@ -4,6 +4,7 @@ date: "2024-03-01"
 categories: 
   - "sprint"
 coverImage: "APR_Blog-Illustrations_Nov2020_SprintGoals_v1.jpg"
+excerpt: 'Research shows that people, whether acting individually or as a team, achieve more when'
 ---
 
 ![A Development Team looks at two targets; one is in focus and has arrows that point directly toward the bullseye; the other target is out of focus with arrows that miss the bullseye](src/content/blog/sprint-goals-provide-purpose/images/APR_Blog-Illustrations_Nov2020_SprintGoals_v1-1024x607.jpg)

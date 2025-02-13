@@ -13,6 +13,7 @@ tags:
   - "sprint-planning"
   - "story-splitting"
 coverImage: "photodune-9297562-example-stamp-xs.jpg"
+excerpt: '**Scrum Master Steve** – he’s been in the software industry for over 10 yrs. He’s been a'
 ---
 
 ![Example stamp - image licensed from Photodune](src/content/blog/the-scrummaster-tales/images/photodune-9297562-example-stamp-xs.jpg) I’ve been struck by how little is written about being a great Scrum Master. There have been a stack of articles written about Scaling Agile and many great technical books, but very little on playing individual roles well. Scrum By Example is intend to fill this gap.

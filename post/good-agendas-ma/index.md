@@ -10,6 +10,7 @@ tags:
   - "jean-tabaka"
   - "scrum"
 coverImage: "agenda-xs.jpg"
+excerpt: 'It's fun to compare the standard review and retrospective agenda 1. The team demos the'
 ---
 
 ![Agenda - image licensed from Photodune](src/content/blog/good-agendas-ma/images/agenda-xs.jpg) At Agile 2007, I attended Jean Tabaka's "Why I don't like Mondays". In this session, Jean emphasized the importance of a meeting purpose and agenda. At the time I thought "Well my meetings use the standard Scrum agendas and we get a lot of value out of the meetings." Wow was I ever wrong. I bought Jean's book [Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) and found a revised set of Agendas.

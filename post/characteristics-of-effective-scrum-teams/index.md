@@ -5,6 +5,7 @@ categories:
   - "scrum"
   - "teams"
 coverImage: "Effective-Teams.jpg"
+excerpt: 'Grouping individuals together doesn’t make them a team. It takes more than just a label to'
 ---
 
 Grouping individuals together doesn’t make them a team. It takes more than just a label to turn a collection of people into an Effective Team.

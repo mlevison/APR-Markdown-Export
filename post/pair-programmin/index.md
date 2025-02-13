@@ -4,6 +4,7 @@ date: "2007-12-14"
 categories: 
   - "software-development"
 coverImage: "casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg"
+excerpt: '...(and I’ve done many) are static. One or more people study the code often long after it'
 ---
 
 ![Portrait of casual executives working together at a meeting with laptop. - image licensed from Photodune](src/content/blog/pair-programmin/images/casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg) Ok so I’m about a month behind. Over on [Coding Horror Jeff Atwood](https://blog.codinghorror.com/pair-programming-vs-code-reviews/) asked “**I can't help wondering if pair programming is nothing more than code review on steroids**”. In a word ‘No’.

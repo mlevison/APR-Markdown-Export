@@ -5,6 +5,7 @@ categories:
   - "software-development"
 tags: 
   - "eclipse"
+excerpt: 'This has been said before: Protected variables are evil (blog post gone). But apparently'
 ---
 
 This has been said before: Protected variables are evil (blog post gone). But apparently as I've been doing some debugging into the Eclipse code I'm reminded it needs saying again.

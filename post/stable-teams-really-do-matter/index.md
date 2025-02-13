@@ -13,6 +13,7 @@ tags:
   - "story-points"
   - "work-in-progress"
 coverImage: "3d-men-holding-hands-in-a-circle-xs.jpg"
+excerpt: 'Here’s what they saw: - **Dedicating Team Members** to one team doubles productivity,'
 ---
 
 ![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/stable-teams-really-do-matter/images/3d-men-holding-hands-in-a-circle-xs.jpg) For years now Rally has been performing a large ongoing experiment on the Agile world. As a side effect of providing one of the better known tools they’ve managed to see a lot of data accumulate about what makes an effective Agile team. In a report called “[The Impact of Agile Quantified](https://www.infoq.com/presentations/agile-quantify/)” they’ve sanitized the data and then run some statistical analysis on it.

@@ -15,6 +15,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "Be-Always-Changing-create-vision.jpg"
+excerpt: '(Continued from _Agile Change or Adoption Always Starts with Why_: [Part'
 ---
 
 ![Be Always Changing - create vision - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-create-a-vision/images/Be-Always-Changing-create-vision.jpg)

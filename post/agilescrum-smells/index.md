@@ -11,6 +11,7 @@ tags:
   - "scrum-smells"
   - "troubleshooting"
 coverImage: "sniffing-dog-xs.jpg"
+excerpt: 'As it stands today the [Catalog](https://scrumcommunity.pbwiki.com/Scrum+Smells) contains'
 ---
 
 ![Sniffing dog- image licensed from Photodune](src/content/blog/agilescrum-smells/images/sniffing-dog-xs.jpg) In 2003 Mike Cohn started this project with a paper entitled: [Toward a Catalog of Scrum Smells](https://www.mountaingoatsoftware.com/articles/toward-a-catalog-of-scrum-smells) (pdf - in the spirit of [Code Smells](https://martinfowler.com/bliki/CodeSmell.html)) and last year Rowan Bunning did a presentation Sharing More than Deodorant for Scrum Smells (pdf). Rowan encouraged me to create a wiki with all of these smells. So I've spent some time in the past few days fleshing out this Catalog.  These are a series of simple patterns that describe a problem and then offer some potential solutions.

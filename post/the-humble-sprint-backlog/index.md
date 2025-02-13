@@ -10,6 +10,7 @@ tags:
   - "sprint-backlog"
   - "sprint-goal"
 coverImage: "2017CSM-Sample-Scrum-Task-Board-v2.jpg"
+excerpt: 'We might not be able to make Sprint Backlogs exciting, but we can make them more'
 ---
 
 We might not be able to make Sprint Backlogs exciting, but we can make them more effective. Let’s look at what a Sprint Backlog is, what purpose it serves, and how to create, manage, and improve it.

@@ -4,6 +4,7 @@ date: "2009-01-28"
 categories: 
   - "software-development"
 coverImage: "clock-hands-xs.jpg"
+excerpt: 'I've had nearly an eight-year run with a great bunch of people. First at Databeacon and'
 ---
 
 ![clock hands- image licensed from Photodune](src/content/blog/time-to-go/images/clock-hands-xs.jpg) Friday will be my last day at IBM, and on Monday I will become an Agile Coach/Trainer for hire, via my own little company: Agile Pain Relief Consulting.

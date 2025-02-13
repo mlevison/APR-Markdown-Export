@@ -11,6 +11,7 @@ tags:
   - "scrum-by-example"
   - "software-development"
 coverImage: "photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg"
+excerpt: 'Last time we read about our team they were suffering from a very high rate of'
 ---
 
 ![yellow road warning sign - image licensed from Photodune](src/content/blog/scrum-master-tales-more-interruptions/images/photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg) _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._

@@ -5,6 +5,7 @@ categories:
   - "scrum-tools"
   - "software-development"
 coverImage: "scrum-agile-lean-board-with-sticky-notes-xs.jpg"
+excerpt: 'However in using a tool we miss the benefits of cards posted on a whiteboard/corkboard in'
 ---
 
 ![Scrum Agile Lean Sticky Notes - image licensed from Photodune](src/content/blog/tools-tools-too/images/scrum-agile-lean-board-with-sticky-notes-xs.jpg) As software developers we have this innate belief that another tool will solve all our problems. To that end many agile practitioners search for a tool to track their projects for them.

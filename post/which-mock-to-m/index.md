@@ -4,6 +4,7 @@ date: "2007-07-18"
 categories: 
   - "software-development"
 coverImage: "test-xs.jpg"
+excerpt: 'Why didn’t I try using EasyMock 1.2? Its style just doesn’t appeal to me. Like'
 ---
 
 ![a pencil sitting on a test bubble sheet - image licensed from Photodune](src/content/blog/which-mock-to-m/images/test-xs.jpg) After years of making half hearted attempts at test driven development I’m finally taking the plunge and doing it properly. After only a few days of doing TDD I got tired of implementing interfaces long hand. It’s especially annoying since you typically only care about one or two methods in the object but have to fill them all out. The trouble comes for the reader of your code who can’t tell immediately what return values you care about and which ones are the default values that were generated for you. So I began looking for mocking framework. My only criteria must work with Java 1.4 – so no annotations or generics. Based on a thread in the JUnit mailing list Mock Framework reviews ([https://tech.groups.yahoo.com/group/junit/message/19315](https://tech.groups.yahoo.com/group/junit/message/19315)) I decided to give JMock and RMock a try.

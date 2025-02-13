@@ -10,6 +10,7 @@ tags:
   - "team-building"
   - "working-agreements"
 coverImage: "APR_Blog-Illustrations_Aug2019_ScrumByExample_WorkingAgreements_v2-A.jpg"
+excerpt: '_Scrum team **Working Agreements** are a simple, powerful way of creating explicit'
 ---
 
 ![Team Friction? Working Agreements may be the solution you need.](src/content/blog/team-friction-inspires-working-agreements/images/APR_Blog-Illustrations_Aug2019_ScrumByExample_WorkingAgreements_v2-A.jpg)

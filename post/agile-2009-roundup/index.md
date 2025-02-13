@@ -4,6 +4,7 @@ date: "2009-09-03"
 categories: 
   - "agile"
 coverImage: "agile-2009-conference-logo.png"
+excerpt: '- I found only one bad session. - I saw a lot of old friends and made some new ones (Kari,'
 ---
 
 ![agile 2009 conference logo](src/content/blog/agile-2009-roundup/images/agile-2009-conference-logo.png) I’ve been home for a few days and have some time to digest what I learned. More of sessions were interactive this year, so I have fewer notes and can write fewer articles than last year ([Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html)).

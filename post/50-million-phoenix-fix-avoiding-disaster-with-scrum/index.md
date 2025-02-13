@@ -9,6 +9,7 @@ tags:
   - "case-study"
   - "scrum"
 coverImage: "photodune-6661601-duct-tape-isolated-elements-xs-rev.jpg"
+excerpt: 'As most Canadians can tell you, the rollout of the Canadian Government’s Phoenix payroll'
 ---
 
 ![Duct Tape - original image by Photodune](src/content/blog/50-million-phoenix-fix-avoiding-disaster-with-scrum/images/photodune-6661601-duct-tape-isolated-elements-xs-rev.jpg)

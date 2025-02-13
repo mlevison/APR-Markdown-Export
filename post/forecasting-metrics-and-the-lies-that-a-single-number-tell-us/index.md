@@ -16,6 +16,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "photodune-1447482-measures-xs.jpg"
+excerpt: 'This post has now been replaced by the updated and expanded [Red-Yellow-Green Status'
 ---
 
 This post has now been replaced by the updated and expanded [Red-Yellow-Green Status Reports and Other Models - How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html) post. Please update all bookmarks and links accordingly.

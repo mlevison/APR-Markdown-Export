@@ -10,6 +10,7 @@ tags:
   - "scrummaster"
   - "unit-testing"
 coverImage: "stop-sign-FreePik.jpg"
+excerpt: 'What is an impediment? Anything that stops the team from delivering value. ANYTHING.'
 ---
 
 ![Stop Sign. Image by FreePik](src/content/blog/scrummaster-tales-impediments-are-holding-back-the-team/images/stop-sign-FreePik.jpg) The team are holding a daily standup mid-sprint. During the meeting Tonia the world's best tester answers the obstacles question by saying: "The test server is down for the third time this week and I will spend the day writing new test cases." Meanwhile Doug doesn't raise any impediments but notes that he has spent his third day trying to write Unit Tests for a previously completed class (_Ed: The team doesn't know about Test Driven Development yet)_. This task was originally estimated to take one day.

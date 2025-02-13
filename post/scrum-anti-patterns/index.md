@@ -9,6 +9,7 @@ tags:
   - "scrum-team"
   - "software-development"
 coverImage: "APR_Blog-Illustrations_June2019_Anti-Patterns_v5.jpg"
+excerpt: 'In software development work, a design pattern is a description of a solution to a'
 ---
 
 ![Banner image of a set of gears forming the word 'anti-pattern' with a person lifting a gear containing the hyphen](src/content/blog/scrum-anti-patterns/images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5-1024x607.jpg)

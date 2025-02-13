@@ -11,6 +11,7 @@ tags:
   - "sprint-planning"
   - "story-estimates"
 coverImage: "walking-99027_640.png"
+excerpt: 'I was shopping for a new pair of pants. My expected price was $75 for a decent pair of'
 ---
 
 ![Blind Planning Poler - image licensed from Photodune](src/content/blog/blind-estimation-planning-poker/images/walking-99027_640.png) When helping people learn Planning Poker I always ask what will happen if one person plays/says their estimate before anyone else. Many people usually spot the problem and they call it “influence.” And they’re right. Sometimes a wise person says, “but I won’t be influenced”. The science of "[anchoring](https://en.wikipedia.org/wiki/Anchoring)" is well known but until recently I couldn’t think of a personal example that illustrates the problem. Happily a recent trip to San Francisco solved that problem.

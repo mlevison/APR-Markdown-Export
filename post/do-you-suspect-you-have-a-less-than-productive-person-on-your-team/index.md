@@ -4,6 +4,7 @@ date: "2009-01-07"
 categories: 
   - "software-development"
 coverImage: "typewriter-xs.jpg"
+excerpt: 'Too my mind there have been a number of key takeaways: - Be very careful about the'
 ---
 
 ![typewriter - image licensed from Photodune](src/content/blog/do-you-suspect-you-have-a-less-than-productive-person-on-your-team/images/typewriter-xs.jpg) In the past couple of days on the Scrum Development mailing list an interesting thread has developed around what to do with a poor-performing team member.

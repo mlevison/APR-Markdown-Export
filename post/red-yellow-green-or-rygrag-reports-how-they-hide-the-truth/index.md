@@ -12,6 +12,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "traffic_light_all.png"
+excerpt: 'Red-Yellow-Green status reports are a widely-used tool to help executives have a fast and'
 ---
 
 Red-Yellow-Green status reports are a widely-used tool to help executives have a fast and simple understanding of the current state of a project through a visual model that makes it easy to spot patterns. Green means everything is good, yellow means there’s some risk, and red means the project is in serious trouble. Simple, right?![Traffic lights image by www.openclipart.org](src/content/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth/images/traffic_light_all.png)

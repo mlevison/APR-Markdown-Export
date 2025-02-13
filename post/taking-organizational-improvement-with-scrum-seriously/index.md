@@ -9,6 +9,7 @@ categories:
   - "scrum"
   - "teams"
 coverImage: "scrum-alone-not-enough-organizational-improvement.jpg"
+excerpt: '(_Presented as Part 4 in the [Scrum Alone is Not Enough'
 ---
 
 ![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/taking-organizational-improvement-with-scrum-seriously/images/scrum-alone-not-enough-organizational-improvement.jpg)

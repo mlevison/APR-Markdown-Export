@@ -13,6 +13,7 @@ tags:
   - "scrum"
   - "team-building"
 coverImage: "APR_Blog-Illustrations_April2019_TooMuchWIP_Panel1.jpg"
+excerpt: 'Agile teams have been struggling since the earliest days with how to bring new people on'
 ---
 
 Agile teams have been struggling since the earliest days with how to bring new people on to a team. In one of the first Agile books, there was a story of Alistair Cockburn walking a new hire through the team’s flip charts and telling the story of their work. I haven’t seen a team use flip charts in a long time, however Alistair was onto something. Most of the writing around Onboarding covers the obvious traditional stuff: mission, values, culture, etc. I won’t cover that. I will focus instead on the challenges of bringing someone new onto an effective Scrum team, specifically.

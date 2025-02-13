@@ -3,6 +3,7 @@ title: "Is there Value in the Noika Test"
 date: "2008-10-28"
 categories: 
   - "software-development"
+excerpt: 'A few years ago [Bas Vodde](https://twitter.com/basvodde?lang=en) defined a simple test to'
 ---
 
 A few years ago [Bas Vodde](https://twitter.com/basvodde?lang=en) defined a simple test to help **his coaching group** determine whether teams were trying to be agile and whether it would be worth investing coaching time with these teams.

@@ -8,6 +8,7 @@ tags:
   - "development-team"
   - "scrum-team"
   - "team-building"
+excerpt: '[#GOAT13](https://goagiletour.ca/) is now but a fond memory. As promised to the attendees'
 ---
 
 [#GOAT13](https://goagiletour.ca/) is now but a fond memory. As promised to the attendees I’m posting the presentation slides including presenter’s notes:

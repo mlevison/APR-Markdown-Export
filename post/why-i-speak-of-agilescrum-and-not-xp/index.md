@@ -3,6 +3,7 @@ title: "Why I speak of Agile/Scrum and not XP - or Language matters"
 date: "2008-11-20"
 categories: 
   - "software-development"
+excerpt: 'In [Call it what it'
 ---
 
 In [Call it what it is!!](https://practicalagility.blogspot.com/2008/09/call-it-what-it-is.html) Dave Rooney says if you’re doing Scrum with XP engineering practices, then call it XP? Well, Dave, there’s a story that explains why I generally don't lead with the language of XP:

@@ -9,6 +9,7 @@ tags:
   - "scrummaster"
   - "team-building"
 coverImage: "AgilePainRelief_Collaboration_FNL.jpg"
+excerpt: 'If your Scrum Team has been together for years and you’ve been following the Agile'
 ---
 
 If your Scrum Team has been together for years and you’ve been following the Agile principles and Scrum structure, you might be feeling quite confident. Scrum isn’t an inherently easy methodology to adapt, especially since it requires change beyond the personal behaviour level to see the biggest results. So if your team has gotten to the point that your retrospectives are empty and your improvement list is slim to none, pat yourselves on the backs!

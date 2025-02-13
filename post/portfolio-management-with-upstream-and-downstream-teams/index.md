@@ -6,6 +6,7 @@ categories:
   - "portfolio-management"
   - "scrum"
 coverImage: "Kanban-Portfolio-View-2024-upstream-downstream.png"
+excerpt: 'In our Scrum Alone is Not Enough discussion on [Portfolio'
 ---
 
 In our Scrum Alone is Not Enough discussion on [Portfolio Management](/blog/portfolio-management.html), we talked about what it is, and how the use of a Portfolio Kanban Board can help visualize challenges that are inhibiting work, including with parallel teams. That was tricky enough, but now let's tackle an even bigger challenge: managing work that happens before and after Scrum development teams. We work with many government departments and large organizations and some, for structural or regulatory reasons, have systems that operate in this way with upstream and downstream teams.

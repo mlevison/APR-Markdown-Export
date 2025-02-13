@@ -4,6 +4,7 @@ date: "2006-11-03"
 categories: 
   - "books"
 coverImage: "Influence-Science-and-Practice-book-cover.jpg"
+excerpt: '[![Influence- Science and Practice book'
 ---
 
 [![Influence- Science and Practice book cover](src/content/blog/influence_scien/images/Influence-Science-and-Practice-book-cover.jpg)](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)

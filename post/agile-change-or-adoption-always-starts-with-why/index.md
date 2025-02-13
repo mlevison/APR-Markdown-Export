@@ -14,6 +14,7 @@ tags:
   - "agile-culture"
   - "scrum-team"
   - "work-environment"
+excerpt: 'Your organization has decided to become more “Agile.” Why? As we learned in a previous'
 ---
 
 Your organization has decided to become more “Agile.” Why? As we learned in a previous blog post, “[Because Our Competitors Are](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization.html)” is not a valid – or sensible – reason.

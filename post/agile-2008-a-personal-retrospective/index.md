@@ -4,6 +4,7 @@ date: "2008-09-03"
 categories: 
   - "software-development"
 coverImage: "agile-2008-conference-logo.png"
+excerpt: 'I already wrote about my top sessions for InfoQ so I will just link to them instead of'
 ---
 
 ![agile 2008 conference logo](src/content/blog/agile-2008-a-personal-retrospective/images/agile-2008-conference-logo.png) This was my second Agile conference and I was pleasantly surprised at just how well it went. For a gathering of 1600 people I was pleasantly surprised at how intimate it can be, I kept on running into many of the same people again and again.

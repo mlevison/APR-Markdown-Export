@@ -15,6 +15,7 @@ tags:
   - "user-stories"
   - "workshop"
 coverImage: "Collaboration-for-Story-Mapping.jpg"
+excerpt: '\[caption id="attachment\_3055" align="alignright" width="300"\]![Attendees in Kitchener'
 ---
 
 \[caption id="attachment\_3055" align="alignright" width="300"\]![Attendees in Kitchener Waterloo - collaborating on building their maps](src/content/blog/learning-story-mapping-exercises/images/Collaboration-for-Story-Mapping.jpg) Attendees in Kitchener Waterloo - collaborating on building their Story Maps.\[/caption\]

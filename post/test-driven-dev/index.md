@@ -7,6 +7,7 @@ tags:
   - "test-driven-development"
   - "unit-testing"
 coverImage: "lighthouse-and-a-boat-xs.jpg"
+excerpt: 'The gist of Jacob’s hypothesis has five points which I summarize: 1. Unit testing provides'
 ---
 
 ![Lighthouse and a boat- image licensed from Photodune](src/content/blog/test-driven-dev/images/lighthouse-and-a-boat-xs.jpg) Scruffy Looking Cat Herder (aka Jacob Proffitt) recently wrote Test Driven Development considered harmful. Jacob is writing about why he believes that TDD zealots have caused people to skip unit testing altogether. I allege that Jacob is missing the boat here.

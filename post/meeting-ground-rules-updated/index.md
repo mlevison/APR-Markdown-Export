@@ -9,6 +9,7 @@ tags:
   - "project-management"
   - "scrum-team"
   - "workshop"
+excerpt: 'At Agile 2007, I attended Jean Tabaka's (author of [Collaboration'
 ---
 
 At Agile 2007, I attended Jean Tabaka's (author of [Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20)) session "Why I don't like Monday's", among other things she recommended establishing some ground rules for your team meetings. At the time my team created the following set:

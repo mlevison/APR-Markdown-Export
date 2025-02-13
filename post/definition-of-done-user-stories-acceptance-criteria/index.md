@@ -11,6 +11,7 @@ tags:
   - "product-backlog"
   - "user-stories"
 coverImage: "APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2.jpg"
+excerpt: 'One of the more frequently asked questions in my Scrum workshops is around the difference'
 ---
 
 ![Definition of Done vs. User Stories vs. Acceptance Criteria](src/content/blog/definition-of-done-user-stories-acceptance-criteria/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2.jpg)

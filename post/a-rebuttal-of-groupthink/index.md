@@ -2,6 +2,7 @@
 title: "A Rebuttal of Groupthink"
 date: "2012-01-20"
 coverImage: "casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg"
+excerpt: '_While it is difficult to diagnose from a distance Saakashvili would have been wise to'
 ---
 
 ![Portrait of casual executives working together at a meeting with laptop. - image licensed from Photodune](src/content/blog/a-rebuttal-of-groupthink/images/casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg) In a New York Times article: “[The Rise of the New Groupthink](https://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?pagewanted=all)” this week Susan Cain claims that teams and collaborative work give rise to groupthink. Groupthink is not out of the question, as Christopher Chabris and Daniel Simons demonstrate in “[The Invisible Gorilla](https://www.theinvisiblegorilla.com/)” group think is a risk – cite the [example of the Georgian War in 2008](https://books.google.ca/books?id=f8AN1DAud5sC&pg=PA102&lpg=PA102&dq=invisible+gorilla+georgian+war&source=bl&ots=VY6lhqKlGC&sig=uRWxwDG40J4cVzpysdyEA0yR4zg&hl=en&sa=X&ei=PJQVT_eVI8260QHQ6LykBQ&ved=0CCAQ6AEwAA#v=onepage&q&f=false):

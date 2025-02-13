@@ -4,6 +4,7 @@ date: "2008-02-06"
 categories: 
   - "scrum"
   - "software-development"
+excerpt: 'I'm often asked about improving the estimates of task hours generated during planning'
 ---
 
 I'm often asked about improving the estimates of task hours generated during planning meetings. Years of waterfall development have taught us - if we improve the estimates we will do a much better job of tracking the sprint progress.

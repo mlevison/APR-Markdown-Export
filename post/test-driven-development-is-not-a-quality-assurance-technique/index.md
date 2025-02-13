@@ -7,6 +7,7 @@ categories:
 tags: 
   - "test-driven-development"
 coverImage: "BDD-TDD-Unit-Test-3.jpg"
+excerpt: 'Effective testing should be done to ensure that a Product solves the business problem, in'
 ---
 
 Effective testing should be done to ensure that a Product solves the business problem, in the way it was intended. It also seeks to prove that no change to the Product harms an existing working system. (It’s a much deeper topic than we can cover here.) These are the goals of Quality Assurance.

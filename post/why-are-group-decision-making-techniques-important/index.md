@@ -7,6 +7,7 @@ tags:
   - "agile-team"
   - "scrum-team"
 coverImage: "decision-making-tools.jpg"
+excerpt: 'Whether we’re facilitating Retrospectives, Sprint Planning, or a Strategy session, there'
 ---
 
 ![decision-making techniques and tools matter](src/content/blog/why-are-group-decision-making-techniques-important/images/decision-making-tools.jpg)

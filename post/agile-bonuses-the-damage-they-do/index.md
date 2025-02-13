@@ -9,6 +9,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "Bonuses-anti-pattern-CLD.png"
+excerpt: '_A design pattern is a description of a solution to a recurring problem. It outlines the'
 ---
 
 _A design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the challenge without prompting the reader to address the issue in a specific way._ _Unfortunately, we also regularly see recurring patterns of ineffective behaviour. These are called Anti-Patterns. The following explores the common anti-pattern of a performance bonus. Micromanagement._

@@ -9,6 +9,7 @@ tags:
   - "sprint"
   - "sprint-planning"
 coverImage: "APR_Blog-Illustrations_Sept2021_SprintPlanning_v3.jpg"
+excerpt: 'Sprint Planning is the most underappreciated Agile event. Unfortunately, that leads to a'
 ---
 
 Sprint Planning is the most underappreciated Agile event. Unfortunately, that leads to a whole host of errors and problems, as we will soon see.

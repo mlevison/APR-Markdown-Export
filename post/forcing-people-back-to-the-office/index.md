@@ -10,6 +10,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "pexels-cottonbro-studio-5483076-scaled.jpg"
+excerpt: 'Prior to the pandemic, I would have trotted out reason after reason, study after study,'
 ---
 
 ![A man sitting alone in an office - photo by cottonbro studio](src/content/blog/forcing-people-back-to-the-office/images/pexels-cottonbro-studio-5483076-scaled.jpg)In December the Treasury Board of Canada ordered that, starting in mid-January, all employees would be expected to return to the office for two to three days a week. Among the stated goals were: Innovation, Creativity, Fairness, and Consistency. This all ties in well with the Agile Manifesto which includes the principle “_The most efficient and effective method of conveying information to and within a development team is face-to-face conversation._”

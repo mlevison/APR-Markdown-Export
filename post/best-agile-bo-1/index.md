@@ -4,6 +4,7 @@ date: "2007-11-29"
 categories: 
   - "books"
   - "software-development"
+excerpt: 'This is the second part of my [Best Agile Books in 2007'
 ---
 
 This is the second part of my [Best Agile Books in 2007 Edition](/blog/best-agile-book.html). This post will considerably lighter on notes than its predecessor because I'm tired and under the weather.

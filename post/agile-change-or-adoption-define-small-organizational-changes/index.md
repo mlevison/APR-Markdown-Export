@@ -18,6 +18,7 @@ tags:
   - "organizational-improvement"
   - "team-building"
   - "work-environment"
+excerpt: 'Seeing an organizational change map with seven to eight proposed major changes can feel'
 ---
 
 ![Be Always Changing - execute changes - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/Be-Always-Changing-execute-changes.jpg)(Continued from _Agile Change or Adoption Always Starts with Why_ : [1](/blog/agile-change-or-adoption-always-starts-with-why.html) , [2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html) , [3](/blog/agile-change-or-adoption-sense-your-current-culture.html) , [4](/blog/agile-change-or-adoption-create-a-vision.html) , [5](/blog/agile-change-or-adoption-turn-vision-into-strategy.html) )

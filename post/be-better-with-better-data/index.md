@@ -8,6 +8,7 @@ tags:
   - "beyond-scrum"
   - "measurements"
 coverImage: "Example-Data-Team-Morale.png"
+excerpt: 'Data and metrics are _not_ synonymous. Let’s tackle that misunderstanding right out of the'
 ---
 
 Data and metrics are _not_ synonymous. Let’s tackle that misunderstanding right out of the gate.

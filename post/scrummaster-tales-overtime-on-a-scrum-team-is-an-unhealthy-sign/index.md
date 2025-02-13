@@ -14,6 +14,7 @@ tags:
   - "scrum-team"
   - "scrummaster"
 coverImage: "clock-arms-Freepik.jpg"
+excerpt: '_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster'
 ---
 
 ![clock-arms-Freepik](src/content/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign/images/clock-arms-Freepik.jpg)

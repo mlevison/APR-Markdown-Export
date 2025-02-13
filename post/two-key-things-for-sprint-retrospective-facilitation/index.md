@@ -10,6 +10,7 @@ tags:
   - "agile-retrospectives"
   - "facilitation"
 coverImage: "prateek-katyal-FcdtuGf7TEc-unsplash-scaled.jpg"
+excerpt: 'From the Cambridge Dictionary, facilitation is “the act of helping other people to deal'
 ---
 
 !You Got This sign by Prateek Katyal courtesy of Unsplash](images/prateek-katyal-FcdtuGf7TEc-unsplash-683x1024.jpg)Retrospectives are a critical element in Scrum but they won’t work well if your team hates them. A [Sprint Retrospective needs someone to facilitate and keep it on track to encourage effective discussion.  It’s more of an art than a science, but these key things will help.

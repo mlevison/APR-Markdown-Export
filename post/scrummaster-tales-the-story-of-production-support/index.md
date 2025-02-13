@@ -10,6 +10,7 @@ tags:
   - "scrum"
   - "scrum-by-example"
 coverImage: "photodune-1105342-tripod-xs.jpg"
+excerpt: 'When we left Steve and the team they were just getting the shipping features ready and'
 ---
 
 ![Tripod - image licensed from Photodune](src/content/blog/scrummaster-tales-the-story-of-production-support/images/photodune-1105342-tripod-xs.jpg)_This article has been updated. You can find the newest version of this content [here](/blog/scrum-production-support.html)._

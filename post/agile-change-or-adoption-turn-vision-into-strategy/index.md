@@ -16,6 +16,7 @@ tags:
   - "story-mapping"
   - "work-environment"
 coverImage: "Be-Always-Changing-vision-to-strategy.jpg"
+excerpt: '(Continued from _Agile Change or Adoption Always Starts with'
 ---
 
 ![Be Always Changing - vision to strategy - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-turn-vision-into-strategy/images/Be-Always-Changing-vision-to-strategy.jpg)

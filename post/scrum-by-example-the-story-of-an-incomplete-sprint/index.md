@@ -19,6 +19,7 @@ tags:
   - "user-stories"
   - "work-in-progress"
 coverImage: "APR_Blog-Illustrations_April2019_TooMuchWIP_Panel2.jpg"
+excerpt: '_A Scrum Sprint is incomplete when the Team can't deliver the working features they'
 ---
 
 _A Scrum Sprint is incomplete when the Team can't deliver the working features they committed to. We cover the reasons for this and how you can help your Team._

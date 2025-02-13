@@ -14,6 +14,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "APR_Blog-Illustrations_Sept2019_Anti-Patterns_Micromanagement_v1.jpg"
+excerpt: '_A design pattern is a description of a solution to a recurring problem. It outlines the'
 ---
 
 _A design pattern is a description of a solution to a recurring problem. It outlines the elements that are necessary to solve the challenge without prompting the reader to address the issue in a specific way._

@@ -12,6 +12,7 @@ tags:
   - "theory-of-constraints"
   - "work-in-progress"
 coverImage: "photodune-4373665-grocery-store-xs.jpg"
+excerpt: 'When I entered the store there were only a few people on cash and the lines seemed to be'
 ---
 
 ![Grocery store - image licensed from Photodune](src/content/blog/does-your-grocery-store-limit-work-in-progress/images/photodune-4373665-grocery-store-xs.jpg)Shopping in our local Grocery Store (Farm Boy) on a recent Saturday made me realize what a good job they do Limiting Work in Progress (WIP) and Self Organizing. Driving into the parking lot with my 4yr old, I was dreading the busyness of the store. When I got in, the place was packed, and trying to manoeuvre even a small cart with a 4yr old driving was quite the experience. I had expected the checkout experience to be easily 10 minutes long, an eternity even with the best behaved child.

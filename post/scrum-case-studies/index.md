@@ -10,6 +10,7 @@ tags:
   - "software-development"
   - "software-management"
 coverImage: "photodune-744861-folders-xs.jpg"
+excerpt: 'Ken Schwaber co-creator of Scrum has: Primavera Success Story (pdf) a paper that describes'
 ---
 
 ![stack of folders - image licensed from Photodune](src/content/blog/scrum-case-studies/images/photodune-744861-folders-xs.jpg)I've recently been asked by one team to provide them with case studies/success stories about Scrum to prove scrum works. It is striking that the people ask for case studies about agile - but didn't before adopting their existing process.

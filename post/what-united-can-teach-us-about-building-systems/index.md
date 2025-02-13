@@ -7,6 +7,7 @@ tags:
   - "case-study"
   - "system-design"
 coverImage: "800px-United_Airlines_777_N797UA.jpg"
+excerpt: '\[caption id="attachment\_8949" align="aligncenter" width="800"\]![By InSapphoWeTrust from'
 ---
 
 \[caption id="attachment\_8949" align="aligncenter" width="800"\]![By InSapphoWeTrust from Los Angeles, California, USA (United Airlines - N797UA Uploaded by Altair78) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons](src/content/blog/what-united-can-teach-us-about-building-systems/images/800px-United_Airlines_777_N797UA.jpg) United Airlines, by [Altair78](https://commons.wikimedia.org/wiki/File:United_Airlines_777_N797UA.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/legalcode)\[/caption\]In April 2017, United Airlines made global headlines when they forcibly removed one passenger (David Dao) who had already boarded the flight, to accommodate crew flying to another destination. The flight staff called the airport police and Dao was hurt as he was dragged off the plane, suffering a concussion, loss of teeth and other injuries.

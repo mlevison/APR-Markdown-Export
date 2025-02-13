@@ -11,6 +11,7 @@ tags:
   - "story-points"
   - "story-splitting"
 coverImage: "photodune-2996181-different-colors-sliced-apple-xs.jpg"
+excerpt: 'Picking up from: [Learning How to'
 ---
 
 ![Different colors sliced apple - image licensed from Photodune](src/content/blog/scrummaster-tales-story-splitting-fun/images/photodune-2996181-different-colors-sliced-apple-xs.jpg)

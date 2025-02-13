@@ -12,6 +12,7 @@ tags:
   - "running-tested-features"
   - "sonar"
 coverImage: "photodune-3795126-graph-xs.jpg"
+excerpt: 'If you must collect metrics, here is what I would consider. **Running Tested Purchased'
 ---
 
 ![eps10 business graph with arrow - image licensed from Photodune](src/content/blog/agile-metrics/images/photodune-3795126-graph-xs.jpg) I’m frequently getting requests for good Agile Metrics and I’m never quite sure how to respond. Courtesy of some time waiting at [LGA](https://www.laguardiaairport.com), I’ve been giving this some more thought. For many organizations metrics are irrelevant, don’t bother collecting them as they will just waste your time (and money).

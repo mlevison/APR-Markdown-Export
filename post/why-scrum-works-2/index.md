@@ -4,6 +4,7 @@ date: "2007-06-25"
 categories: 
   - "software-development"
 coverImage: "rugby-match-xs.jpg"
+excerpt: 'Why Does Scrum work? Why do any of the Agile methodologies work? How does Scrum help teams'
 ---
 
 ![Rugby match - image licensed from Photodune](src/content/blog/why-scrum-works-2/images/rugby-match-xs.jpg) The first of my three part series "Why Scrum Works?" has been posted on Miskin Berteig's blog: Agile Advice. The last two parts will be published here on Wednesday and next Tuesday (Monday's a holiday in Canada).

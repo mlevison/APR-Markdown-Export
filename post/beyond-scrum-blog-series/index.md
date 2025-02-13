@@ -19,6 +19,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "scrum-alone-not-enough-2.jpg"
+excerpt: 'We've had requests for a single page that lists all the ongoing [Beyond Scrum blog'
 ---
 
 We've had requests for a single page that lists all the ongoing [Beyond Scrum blog posts](/blog/category/beyond-scrum) in one handy spot, and we're happy to oblige! The below list will be updated as new posts are added.

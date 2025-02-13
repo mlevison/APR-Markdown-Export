@@ -14,6 +14,7 @@ tags:
   - "tools"
   - "work-environment"
 coverImage: "High-Performance-Teams-Game.jpg"
+excerpt: 'So begins the opening of the **High-Performance Teams Game**. My goal is to help you see'
 ---
 
 ![High Performance Teams Game Banner](src/content/blog/welcome-to-the-high-performance-teams-game/images/High-Performance-Teams-Game.jpg) _Your team is working on the World’s Smallest Online Bookstore, a site that provides the best results (just a few) for every search, not every result on earth. We’re a vulture capital funded company, so if we don’t deliver, our funding will be cut._

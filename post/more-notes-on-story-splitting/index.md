@@ -11,6 +11,7 @@ tags:
   - "story-splitting"
   - "user-story"
 coverImage: "photodune-8431094-done-text-and-check-mark-xs.jpg"
+excerpt: 'A few elements of the'
 ---
 
 ![Done image licensed from Photodune](src/content/blog/more-notes-on-story-splitting/images/photodune-8431094-done-text-and-check-mark-xs.jpg) In response to my recent [Story Splitting post](/blog/story-slicing-how-small-is-enough.html), I had a few questions and couple of confusions that need clearing up.

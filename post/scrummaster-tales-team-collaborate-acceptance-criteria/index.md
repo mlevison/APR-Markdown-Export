@@ -11,6 +11,7 @@ tags:
   - "sprint-planning"
   - "user-stories"
 coverImage: "photodune-352256-group-of-people-xs.jpg"
+excerpt: 'The team has just completed [Sprint'
 ---
 
 ![Group of people - licensed from Photodune](src/content/blog/scrummaster-tales-team-collaborate-acceptance-criteria/images/photodune-352256-group-of-people-xs.jpg)

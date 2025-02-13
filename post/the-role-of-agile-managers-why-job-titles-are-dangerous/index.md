@@ -15,6 +15,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "APR_BlogImage1_Oct2018.jpg"
+excerpt: '_Managers transitioning from waterfall to Agile will need to renegotiate their'
 ---
 
 _Managers transitioning from waterfall to Agile will need to renegotiate their relationship with their teams if they are to succeed. A manager cannot simply become an Agile Manager – a big part of a transition requires a rethinking of how job titles are assigned and the leadership responsibility that comes with them._

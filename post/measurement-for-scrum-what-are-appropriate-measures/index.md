@@ -9,6 +9,7 @@ tags:
   - "agile-culture"
   - "scrum-team"
   - "work-environment"
+excerpt: 'We’ve seen the risks of assuming that everything is [normal'
 ---
 
 We’ve seen the risks of assuming that everything is [normal distribution](/blog/bell-curves-and-measuring-badly.html), and also the problem with reporting a [single number](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html). What else do we need to be aware of? What can we usefully measure?

@@ -3,6 +3,7 @@ title: "Working at a Distance is Hard"
 date: "2007-10-22"
 categories: 
   - "software-development"
+excerpt: 'Working at a distance is hard. There is a reason all the Agile methodologies recommend'
 ---
 
 Working at a distance is hard. There is a reason all the Agile methodologies recommend co-location.

@@ -9,6 +9,7 @@ tags:
   - "agile-retrospectives"
   - "post-mortem"
 coverImage: "APR-BlogIllustration_July2020_AgileRetrospectives_v1.jpg"
+excerpt: 'Retrospectives are _explicitly_ part of Scrum – “[The Sprint Retrospective is an'
 ---
 
 ![Agile and Scrum Retrospectives](src/content/blog/agile-retrospectives/images/APR-BlogIllustration_July2020_AgileRetrospectives_v1.jpg) The goal of this post is to give teams a basic, solid introduction on how to have not-sucky Sprint Retrospectives. I cover here the common misunderstandings about retrospectives and share the fundamentals of how to have an effective Sprint Retrospective. If you're later interested in going in-depth on this topic, my [_Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives) also includes examples and descriptions of recommended activities to help improve this Scrum Event that Team Members and ScrumMasters often struggle with.

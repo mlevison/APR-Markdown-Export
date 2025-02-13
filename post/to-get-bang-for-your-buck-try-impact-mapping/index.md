@@ -4,6 +4,7 @@ date: "2023-12-18"
 categories: 
   - "scrum-tools"
 coverImage: "impact-mapping-WSOBS-example4.png"
+excerpt: 'Work is humming along nicely when your Marketing VP stops by your desk and says, “We need'
 ---
 
 Work is humming along nicely when your Marketing VP stops by your desk and says, “We need to double monthly sales.”

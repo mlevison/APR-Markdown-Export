@@ -7,6 +7,7 @@ tags:
   - "david-allen"
   - "getting-things-done"
 coverImage: "paper-balls-xs.jpg"
+excerpt: 'Always chasing little scraps of paper around the office? Then consider ["My Life'
 ---
 
 ![Paper Balls- image licensed from Photodune](src/content/blog/getting_things_/images/paper-balls-xs.jpg)

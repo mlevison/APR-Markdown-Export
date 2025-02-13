@@ -16,6 +16,7 @@ tags:
   - "user-stories"
   - "user-story"
 coverImage: "away-1020088_640.jpg"
+excerpt: '_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster'
 ---
 
 ![Diverging paths - image licensed from Photodune](src/content/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner/images/away-1020088_640.jpg)

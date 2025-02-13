@@ -15,6 +15,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "ScrumManager_Vector_2_vFNL.jpg"
+excerpt: 'You’re a manager. You recently helped implement Scrum in your organization. You have'
 ---
 
 You’re a manager.

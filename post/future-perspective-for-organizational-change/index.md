@@ -10,6 +10,7 @@ tags:
   - "scrum-team"
   - "work-environment"
 coverImage: "backcasting-The-Natural-Step.jpg"
+excerpt: 'When a product team starts work on a product, it’s important that they understand the'
 ---
 
 When a product team starts work on a product, it’s important that they understand the vision. This is, as they say, a bit of a no-brainer since otherwise they might build something that completely misses the mark. In a modern Agile world, we’re expecting a mix of Product Management, Developers, ScrumMaster, the Customer and perhaps key Stakeholders to spend time together in a collaborative effort to have, and maintain, a shared goal so many teams use exercises like the Product Box (originally from Innovation Games), Pixar Pitch, etc, to spark conversation between the people building the product and the people for whom the product is being built. Over the process of a few hours these activities get the Developers and Customers to a common understanding of what problem they’re attempting to solve.

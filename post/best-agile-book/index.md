@@ -4,6 +4,7 @@ date: "2007-11-26"
 categories: 
   - "books"
   - "software-development"
+excerpt: 'Last year in response to some questions at a CSM course I wrote a post: "[Top 8 Agile'
 ---
 
 Last year in response to some questions at a CSM course I wrote a post: "[Top 8 Agile Books: Beyond the Basics](/blog/agile_and_relat.html)". This past week I was help out at a CSM course when the topic came up again. This time I've a much longer list of books.

@@ -9,6 +9,7 @@ tags:
   - "scrum-roles"
   - "scrum-team"
 coverImage: "feedback-iStockPhoto.jpg"
+excerpt: 'The key here is that the Product Owner is responsible for helping the Development Team see'
 ---
 
 ![Feedback Listening - image licensed from iStock Photo](src/content/blog/product-owner-isn-business-analyst-steroids/images/feedback-iStockPhoto.jpg) There is a common misconception that the Product Owner is just a Business Analyst with a new suit and a better title. While the two share many skills in common, the roles are really quite different. According to the Agile Atlas: "The Product Owner is the single individual who is responsible for drawing out the most valuable possible product by the desired date."

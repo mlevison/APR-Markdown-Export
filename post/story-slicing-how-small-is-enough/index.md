@@ -13,6 +13,7 @@ tags:
   - "story-points"
   - "user-story"
 coverImage: "photodune-3570112-cutting-xs.jpg"
+excerpt: 'This statement is a great start, but it doesn’t explain why or give you much guidance'
 ---
 
 ![Story Slicing. Cutting - image licensed from Photodune](src/content/blog/story-slicing-how-small-is-enough/images/photodune-3570112-cutting-xs.jpg) When Agile/Scrum Trainers teach about new teams about User Stories, we usually talk about Bill Wake’s [INVEST](https://xp123.com/xplor/xp0308/index.shtml) criteria, which includes Small:

@@ -14,6 +14,7 @@ tags:
   - "scrum-team"
   - "team-size"
 coverImage: "APR-09_Blog-Illustrations_Mar2020_ScrumTeamSize_v2-A.jpg"
+excerpt: 'Nearly every client I work with asks me this question at some point. The [Scrum'
 ---
 
 Nearly every client I work with asks me this question at some point. The [Scrum Guide](https://scrumguides.org/scrum-guide.html#team-dev) offers very limited guidance, suggesting 3-9 people per team (exclusive of ScrumMaster and Product Owner), without giving reasons or context for those numbers.

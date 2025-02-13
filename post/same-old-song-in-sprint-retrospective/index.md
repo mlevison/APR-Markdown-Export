@@ -10,6 +10,7 @@ tags:
   - "scrum-team"
   - "sprint"
 coverImage: "APR-Sept2021_BlogIllustration_SprintRetrospectives_v1.jpg"
+excerpt: 'The World’s Smallest Online Bookstore team has just come out of their Sprint'
 ---
 
 The World’s Smallest Online Bookstore team has just come out of their Sprint Review](/blog/dont-let-sprint-review-be-a-missed-opportunity.html). For those who’re keeping score, the team committed to a Sprint Goal: Have basic reader review system in place so book buyers can see a variety of opinions about a book. Their plan included completing seven Product Backlog Items and fixing two bugs as part of that Goal. By Sprint Review time they’d completed five of the seven. They walked into the Sprint Review with heads held high and, with the pummelling they took over not mitigating for fraud reviews, they left with their heads down. ScrumMaster Steve suggests they all go to lunch and reconvene for the [Sprint Retrospective in an hour and a half.

@@ -8,6 +8,7 @@ categories:
 tags: 
   - "games"
 coverImage: "apr-infographic-1_85_web.png"
+excerpt: 'Certified Scrum Trainer [Mark Levison](/about-us "About Us") has been around the block,'
 ---
 
 Certified Scrum Trainer [Mark Levison](/about-us "About Us") has been around the block, more than a few times, and he was getting frustrated by what he saw happening in Scrum. When Mark is invited into businesses and industries to talk with Scrum teams, it's typically with the request to help them do Scrum better so they can be more productive.

@@ -5,6 +5,7 @@ categories:
   - "agile"
   - "scrum"
 coverImage: "tim-mossholder-vdhNO4mGQ14-unsplash-scaled.jpg"
+excerpt: 'In recent months I have seen hundreds of people on LinkedIn and other places, who have'
 ---
 
 In recent months I have seen hundreds of people on LinkedIn and other places, who have been laid off. I see many people encouraged by well-intentioned, helpful outplacement services to tweak their resumes to get ingested by a ranking tool. If you’re lucky this might result in an interview and in some rare cases a job. If this worked for you and a job that brings you joy, then stop reading this entry isn’t targeted at you.

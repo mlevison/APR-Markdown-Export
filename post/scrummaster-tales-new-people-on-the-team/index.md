@@ -11,6 +11,7 @@ tags:
   - "scrum-team"
   - "scrummaster"
 coverImage: "photodune-11869872-playing-in-the-sandbox-xs.jpg"
+excerpt: 'Attempting to learn the basics of the code base in his first few Sprints, Kirby takes on'
 ---
 
 ![playing in the sandbox - image licensed from Photodune](src/content/blog/scrummaster-tales-new-people-on-the-team/images/photodune-11869872-playing-in-the-sandbox-xs.jpg) After six months ScrumMaster Steve has finally found someone to fill the role of Senior Software Developer on the team. The goal is to find a person who can round out the team and play many roles (see: [Bottlenecks](https://agilepainrelief.com/blog/scrummaster-tales-the-team-gets-bottlenecked.html)). After many interviews, they’ve settled on Kirby\[[1](#footnotes)\] who has over 20 years' experience developing software, both server-side and GUI. He is a self-proclaimed expert in most of the technologies the team uses, and that’s where the problems start. In addition, the team members assume that he is being very well paid, perhaps better than any of the rest of them.

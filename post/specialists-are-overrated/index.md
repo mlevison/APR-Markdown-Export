@@ -10,6 +10,7 @@ tags:
   - "cross-skilling"
   - "cross-training"
 coverImage: "cross-skilling-Tshaped-cross-skilled2.jpg"
+excerpt: 'Traditionally, notions of efficiency have been to minimize cost by utilizing experts (i.e.'
 ---
 
 > “Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.” – Agile Manifesto

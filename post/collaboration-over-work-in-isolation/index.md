@@ -2,6 +2,7 @@
 title: "Collaboration, Over Work in Isolation"
 date: "2023-08-22"
 coverImage: "desola-lanre-ologun-IgUR1iX0mqM-unsplash-scaled.jpg"
+excerpt: 'Wow. Jaw drops. Jaw hits the floor and shatters. That is a seriously low bar for'
 ---
 
 ![woman and man sitting in front of monitor doing code review, Photo by Desola Lanre-Ologun on unsplash](src/content/blog/collaboration-over-work-in-isolation/images/desola-lanre-ologun-IgUR1iX0mqM-unsplash-1024x683.jpg)When I’m working with new Scrum Teams and say that Scrum encourages collaboration among team members, everyone nods and smiles. When I ask them to describe their actual collaboration, I hear about collaboration in Sprint Planning, Review and Retrospective. If I’m lucky, someone mentions solving impediments found in Daily Scrum through collaboration.

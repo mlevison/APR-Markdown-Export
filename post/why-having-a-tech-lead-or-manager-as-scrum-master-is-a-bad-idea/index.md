@@ -6,6 +6,7 @@ categories:
   - "scrum"
   - "teams"
 coverImage: "Tech-lead-Manager-Team-member.jpg"
+excerpt: 'Have you ever had friends or family ask, “I know you’re called a scrum master, but what'
 ---
 
 Have you ever had friends or family ask, “I know you’re called a scrum master, but what does that mean? What do you actually _do_?”  Go ahead. Tell them that the role of ScrumMaster is as a servant-leader, coach, and facilitator, navigating the dynamics of the team to ensure Scrum practices are followed and value is delivered effectively.

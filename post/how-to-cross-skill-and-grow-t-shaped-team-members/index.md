@@ -10,6 +10,7 @@ tags:
   - "cross-skilling"
   - "cross-training"
 coverImage: "AgilePainRelief_KanbanBoard_Mockup_B_v2.jpg"
+excerpt: 'As we discussed in “[Specialists Are Overrated](/blog/specialists-are-overrated.html),”'
 ---
 
 As we discussed in “[Specialists Are Overrated](/blog/specialists-are-overrated.html),” developing cross-skills and “T-Shaped" people in a team has many benefits – for the team/organization itself, the customer, and the individual. That’s all fine and good to say, but how do you figure out where to start?

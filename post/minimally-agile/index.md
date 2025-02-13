@@ -3,6 +3,7 @@ title: "Minimally Agile"
 date: "2008-06-11"
 categories: 
   - "agile"
+excerpt: 'Recently I had a conversation with a long time friend that made me realize that in my'
 ---
 
 Recently I had a conversation with a long time friend that made me realize that in my writing and conversation I often come across as a fanatic. Oppppsssss. Time for me to hit the big red reset button. I'm opinionated and passionate but I also believe that you can do good work even if your not push agile limits. There are two things that I'm dogmatic about:

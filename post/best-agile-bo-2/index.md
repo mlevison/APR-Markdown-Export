@@ -4,6 +4,7 @@ date: "2007-11-30"
 categories: 
   - "books"
   - "software-development"
+excerpt: 'The third and final my [Best Agile Books the 2007 Edition](/blog/best-agile-book.html)'
 ---
 
 The third and final my [Best Agile Books the 2007 Edition](/blog/best-agile-book.html) series. (Part II was [Background Material](/blog/best-agile-bo-1.html)). There will be even fewer notes than there were in yesterday's. It really has been a long week.

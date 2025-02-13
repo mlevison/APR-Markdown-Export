@@ -13,6 +13,7 @@ tags:
   - "agile-culture"
   - "case-study"
 coverImage: "scrum-alone-not-enough-organizational-improvement.jpg"
+excerpt: '(_Presented as an accompanying case study to Part 4 in the [Scrum Alone is Not Enough'
 ---
 
 ![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/taking-organizational-improvement-seriously-case-study/images/scrum-alone-not-enough-organizational-improvement.jpg)

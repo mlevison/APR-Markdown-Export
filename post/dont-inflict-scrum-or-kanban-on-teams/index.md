@@ -18,6 +18,7 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "196891-OYDUHU-168.jpg"
+excerpt: '_(This article is part of the [Beyond Scrum](/blog/beyond-scrum-blog-series.html) series)_'
 ---
 
 _(This article is part of the [Beyond Scrum](/blog/beyond-scrum-blog-series.html) series)_

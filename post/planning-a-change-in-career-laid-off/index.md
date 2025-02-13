@@ -3,6 +3,7 @@ title: "Planning a Change in Career? Laid Off?"
 date: "2009-04-06"
 categories: 
   - "software-development"
+excerpt: 'Even if you haven’t been laid off, I would start preparing now. You should start building'
 ---
 
 ![Businessman with clipboard: out of work - image licensed from Photodune](src/content/blog/planning-a-change-in-career-laid-off/images/out-of-work-xs.jpg) A few good friends have been recently laid off, and I’ve been left thinking what to do after that happens. First up—I don’t have any jobs in my back pocket, and I don’t know anyone hiring right this second. My thoughts are more general than that.

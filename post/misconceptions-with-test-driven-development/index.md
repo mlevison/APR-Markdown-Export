@@ -8,6 +8,7 @@ tags:
   - "test-driven-development"
   - "yagni"
 coverImage: "test-xs.jpg"
+excerpt: '- Does TDD really work? I've written about this before: [Advantages of'
 ---
 
 ![a pencil sitting on a test bubble sheet - image licensed from Photodune](src/content/blog/misconceptions-with-test-driven-development/images/test-xs.jpg) In the past few weeks I've heard several misconceptions raised about Test Driven Development:

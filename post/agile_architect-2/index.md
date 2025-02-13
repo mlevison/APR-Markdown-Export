@@ -3,6 +3,7 @@ title: "Agile Architect - An Oxymoron"
 date: "2007-03-13"
 categories: 
   - "agile"
+excerpt: '[Gojko Azdic](https://gojko.net/2007/03/06/agile-architect) builds on the work of Nick'
 ---
 
 [Gojko Azdic](https://gojko.net/2007/03/06/agile-architect) builds on the work of Nick Hines at ThoughtWorks to suggest the need for a specialized role called an Agile Architect. Yet another role - this is what we rail against being carried over from Waterfall/RUP world. Gojko defines the role of an architect to:
