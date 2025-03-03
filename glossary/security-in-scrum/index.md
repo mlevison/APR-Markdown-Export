@@ -25,7 +25,8 @@ People have tried different approaches over time, with varying degrees of succes
 
 Everything mentioned about security is also applicable to any highly-regulated environment where the team are required to meet a compliance goal.
 
-[Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint.html) [Scrum by Example – Stuck Waiting for Other Teams](/blog/scrummaster-tales-stuck-waiting-for-other-teams.html) (Special Teams and their effect) [Scrum Development Team – Who’s In It?](/blog/scrum-development-team-whos-in-it.html)
+[Scrum Anti-Patterns: The Hardening Sprint]((/blog/antipattern-hardening-sprint.html))
+[Scrum by Example – Stuck Waiting for Other Teams](/blog/scrummaster-tales-stuck-waiting-for-other-teams.html) (Special Teams and their effect) [Scrum Development Team – Who’s In It?](/blog/scrum-development-team-whos-in-it.html)
 
 #### Resource Links:
 

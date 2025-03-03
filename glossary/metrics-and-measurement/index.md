@@ -7,7 +7,13 @@ excerpt: '**Metrics** are the tools we use (and misuse) to help us understand ho
 
 **Metrics** are the tools we use (and misuse) to help us understand how we're evolving. Used well, Metrics can give us feedback on our team's experiments and help us become aware of problems sooner. Used poorly, they become a stick to beat the team into submission. It's important to be careful when using them, because all metrics have cost, will introduce noise into the system, and might be gamed.
 
-[Bell Curves and Measuring Badly](/blog/bell-curves-and-measuring-badly.html) [Measurement for Scrum – What are Appropriate Measures?](/blog/measurement-for-scrum-what-are-appropriate-measures.html) [Red-Yellow-Green Status Reports and Other Models – How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html) [Simplicity](/blog/simplicity.html) [Misuse of Velocity in Agile Projects](/blog/misuse-of-velocity-in-agile-projects.html) [Agile Metrics](/blog/agile-metrics.html) [The Difference Between Data and Metrics](/blog/be-better-with-better-data.html)
+[Bell Curves and Measuring Badly]((/blog/bell-curves-and-measuring-badly.html))
+[Measurement for Scrum – What are Appropriate Measures?]((/blog/measurement-for-scrum-what-are-appropriate-measures.html))
+[Red-Yellow-Green Status Reports and Other Models – How They Should and Shouldn’t Be Used]((/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html))
+[Simplicity]((/blog/simplicity.html))
+[Misuse of Velocity in Agile Projects]((/blog/misuse-of-velocity-in-agile-projects.html))
+[Agile Metrics]((/blog/agile-metrics.html))
+[The Difference Between Data and Metrics](/blog/be-better-with-better-data.html)
 
 #### Resource Links:
 

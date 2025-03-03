@@ -12,7 +12,9 @@ In the Cunningham definition, Technical Debt is okay when it is paid back prompt
 
 For the non-technical people, the simplest way to imagine the problem is to pretend your developers are in a large gym. Time how long it takes for them to run across the gym and back. (Repeat enough times that the number is stable). Now move a few chairs into the middle of the gym, at random. Ask them to run across the gym again. They're slower. Repeat. Eventually there are so many chairs they can no longer walk around them, instead they have to crawl to get across the room. The chairs are their technical debt and the additional time taken is the interest your team is paying for that debt.
 
-[Scrum by Example – Stop Digging New Holes](/blog/scrummaster-tales-stop-digging-new-holes.html) [Technical Debt a Perspective for Managers](https://www.infoq.com/articles/technical-debt-levison/) [Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint.html) - Hint: they contribute to the problem
+[Scrum by Example – Stop Digging New Holes]((/blog/scrummaster-tales-stop-digging-new-holes.html))
+[Technical Debt a Perspective for Managers]((https://www.infoq.com/articles/technical-debt-levison/))
+[Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint.html) - Hint: they contribute to the problem
 
 #### Resource Links:
 

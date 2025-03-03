@@ -8,7 +8,8 @@ Agile Teams need to make small decisions frequently. Many teams experiment with 
 
 For Yes/No decisions both [Fist of five](https://helpingimprove.com/learning-with-fist-of-five-voting/) and [Decider protocol](https://thecoreprotocols.org/protocols/decider.html) can work well. Dot voting is a tool for prioritizing among a group of items.
 
-[Why are Group Decision-making Techniques Important?](/blog/why-are-group-decision-making-techniques-important.html) [A Rebuttal of Groupthink](/blog/a-rebuttal-of-groupthink.html)
+[Why are Group Decision-making Techniques Important?]((/blog/why-are-group-decision-making-techniques-important.html))
+[A Rebuttal of Groupthink](/blog/a-rebuttal-of-groupthink.html)
 
 #### Other Resource Links:
 

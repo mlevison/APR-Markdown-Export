@@ -40,4 +40,5 @@ __If worker busyness were the measure of software productivity, then pull reques
 
 #### Broken by Pull Requests:
 
-[Trunk Based Development](/glossary/branching-strategies) [Continuous Integration](/glossary/continuous-integration)
+[Trunk Based Development]((/glossary/branching-strategies))
+[Continuous Integration](/glossary/continuous-integration)

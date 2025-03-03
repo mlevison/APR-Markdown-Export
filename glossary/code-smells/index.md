@@ -70,5 +70,6 @@ Fate over action focuses on the challenge where outside classes call setters on 
 
 There is also an excellent academic paper accompanying the Github repo, that attempts to survey and classify all code smells: "[Code Smells: A Comprehensive Online Catalog and Taxonomy](https://madeyski.e-informatyka.pl/download/JerzykMadeyski23.pdf)" by Marcel Jerzyk and Lech Madeyski.
 
-Boolean Flags are so popular they may need additional reference sources to wipe out: [Are Boolean Flags on Methods a Code Smell?](https://ardalis.com/are-boolean-flags-on-methods-a-code-smell/) [Clean code: The curse of a boolean parameter](https://medium.com/@amlcurran/clean-code-the-curse-of-a-boolean-parameter-c237a830b7a3)
+Boolean Flags are so popular they may need additional reference sources to wipe out: [Are Boolean Flags on Methods a Code Smell?]((https://ardalis.com/are-boolean-flags-on-methods-a-code-smell/))
+[Clean code: The curse of a boolean parameter](https://medium.com/@amlcurran/clean-code-the-curse-of-a-boolean-parameter-c237a830b7a3)
 

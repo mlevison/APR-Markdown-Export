@@ -8,7 +8,8 @@ Agile **Portfolio Management** is a tool for a group of teams that have too many
 
 To make this work, the organization needs to see that the funding model in an Agile world is tied to teams, and then the Portfolio Management is just about deciding which chunks of work to do next. It is the art of getting stakeholders to help make big-picture decisions about the Product Backlog with you.
 
-[Portfolio Management](/blog/portfolio-management.html) [Kanban Portfolio View](/blog/kanban-portfolio-view.html)
+[Portfolio Management]((/blog/portfolio-management.html))
+[Kanban Portfolio View](/blog/kanban-portfolio-view.html)
 
 #### Resource Links:
 

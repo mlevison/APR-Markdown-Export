@@ -9,7 +9,9 @@ excerpt: '**Behaviour Driven Development** (or BDD) is an approach that gets tea
 
 BDD improves quality and reduce defects since it ensures that several team members agreed on the problem that needed solving. BDD doesn’t replace Exploratory and other forms of Testing.
 
-[Scrum By Example – Waiting Too Long to Create Acceptance Criteria](/blog/creating-acceptance-criteria-waiting-too-long.html) [Scrum By Example – The Team Collaborate on Acceptance Criteria](/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html) [Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html)
+[Scrum By Example – Waiting Too Long to Create Acceptance Criteria]((/blog/creating-acceptance-criteria-waiting-too-long.html))
+[Scrum By Example – The Team Collaborate on Acceptance Criteria]((/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html))
+[Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html)
 
 #### Resource Links:
 

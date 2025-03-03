@@ -11,7 +11,8 @@ excerpt: '**Systems Thinking** takes the view that any problem we're working on 
 - [Dancing with Systems](https://donellameadows.org/archives/dancing-with-systems/)
 - [Guidelines for Drawing Causal Loop Diagrams](http://www.cs.toronto.edu/~sme/SystemsThinking/2014/GuidelinesforDrawingCausalLoopDiagrams.pdf)
 - [Habits of a Systems Thinker](https://thinkingtoolsstudio.waterscenterst.org/cards)
-- [Leverage Points Places to Intervene in a System](http://www.donellameadows.org/wp-content/userfiles/Leverage_Points.pdf) - also as a video: **[“](https://youtu.be/A_BtS008J0k)**[In a World of](https://youtu.be/A_BtS008J0k) [Systems”](https://youtu.be/A_BtS008J0k)
+- [Leverage Points Places to Intervene in a System](http://www.donellameadows.org/wp-content/userfiles/Leverage_Points.pdf) - also as a video: **[“](https://youtu.be/A_BtS008J0k)**[In a World of]((https://youtu.be/A_BtS008J0k))
+[Systems”](https://youtu.be/A_BtS008J0k)
 - [Peter Senge and the learning organization](https://infed.org/mobi/peter-senge-and-the-learning-organization/)
 - [Russ Ackoff (helped establish Systems Thinking)](https://www.youtube.com/watch?v=OqEeIG8aPPk&feature=youtu.be) – a short video
 - [An Overview of the Soft Systems Methodology](https://www.burgehugheswalsh.co.uk/Uploaded/1/Documents/Soft-Systems-Methodology.pdf)

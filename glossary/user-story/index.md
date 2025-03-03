@@ -68,7 +68,12 @@ Confusion over what is a user story vs. definition of done vs. acceptance criter
 - demonstrate a need as concisely and simply as possible
 - be a small, vertical slice of functionality
 
-[Life Cycle of a User Story](/blog/lifecycle-of-a-user-story.html) [Story Slicing, How Small is Enough?](/blog/story-slicing-how-small-is-enough.html) [More Notes on Story Splitting](/blog/more-notes-on-story-splitting.html) [Vision to User Stories – What is the Best Flow?](/blog/vision-to-user-stories-what-is-the-best-flow.html) [Scrum By Example – The Team Collaborate on Acceptance Criteria](/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html) [Scrum by Example – How to Deal with Bad User Stories as a ScrumMaster](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html)
+[Life Cycle of a User Story]((/blog/lifecycle-of-a-user-story.html))
+[Story Slicing, How Small is Enough?]((/blog/story-slicing-how-small-is-enough.html))
+[More Notes on Story Splitting]((/blog/more-notes-on-story-splitting.html))
+[Vision to User Stories – What is the Best Flow?]((/blog/vision-to-user-stories-what-is-the-best-flow.html))
+[Scrum By Example – The Team Collaborate on Acceptance Criteria]((/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html))
+[Scrum by Example – How to Deal with Bad User Stories as a ScrumMaster](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html)
 
 #### Resource Links:
 

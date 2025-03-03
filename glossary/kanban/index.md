@@ -19,7 +19,10 @@ In a kanban approach, the team visualize their work and then improve the flow wi
 
 Kanban is process agnostic. You can use it with Agile or Scrum Teams, but also in traditional teams. The more you look into kanban, the more you will see that it has much in common with every other Agile approach.
 
-[Don’t Inflict Scrum or Kanban on Teams](/blog/dont-inflict-scrum-or-kanban-on-teams.html) [Kanban Portfolio View](/blog/kanban-portfolio-view.html) [Kanban Portfolio View - Continued](/blog/kanban-portfolio-view-continued.html) [Does Your Grocery Store Limit Work in Progress?](/blog/does-your-grocery-store-limit-work-in-progress.html)
+[Don’t Inflict Scrum or Kanban on Teams]((/blog/dont-inflict-scrum-or-kanban-on-teams.html))
+[Kanban Portfolio View]((/blog/kanban-portfolio-view.html))
+[Kanban Portfolio View - Continued]((/blog/kanban-portfolio-view-continued.html))
+[Does Your Grocery Store Limit Work in Progress?](/blog/does-your-grocery-store-limit-work-in-progress.html)
 
 #### Resource Links:
 

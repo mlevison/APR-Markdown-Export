@@ -9,7 +9,8 @@ excerpt: '**A stable team** is one in which team membership doesn’t change oft
 
 Read: [In Agile, Where Change is Valued, Why Is a Stable Team So Important?](/blog/in-agile-where-change-is-valued-why-is-a-stable-team-so-important.html)
 
-[Stable Teams Really Do Matter](/blog/stable-teams-really-do-matter.html) [How Escape Rooms Teach About Teams](/blog/how-escape-rooms-teach-about-teams.html)
+[Stable Teams Really Do Matter]((/blog/stable-teams-really-do-matter.html))
+[How Escape Rooms Teach About Teams](/blog/how-escape-rooms-teach-about-teams.html)
 
 #### Resource Links:
 

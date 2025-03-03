@@ -19,7 +19,8 @@ Commonly used estimation techniques:
 - Simply count the number of product backlog items. If the Product Backlog contains a number of large items, notice on average how many small items they decompose to. Use that as a rough multiplier to go from large to small.
 - Abandon estimation and focus on Forecasting instead.
 
-[Blind Estimation for Planning Poker](/blog/blind-estimation-planning-poker.html) [Scrum By Example: Learning How to Estimate](/blog/scrummaster-tales-learning-how-to-estimate.html)
+[Blind Estimation for Planning Poker]((/blog/blind-estimation-planning-poker.html))
+[Scrum By Example: Learning How to Estimate](/blog/scrummaster-tales-learning-how-to-estimate.html)
 
 #### Resource Links:
 

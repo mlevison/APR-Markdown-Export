@@ -8,4 +8,5 @@ excerpt: '**Scrum** is an _approach_ to applying the Agile mindset. Scrum is a
 
 Agile and Scrum are _not_ the same things.
 
-[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework.html) [What Is Scrum? – In a Nutshell](/what-is-scrum-in-a-nutshell)
+[What Are the Limits of the Scrum Framework?]((/blog/what-are-the-limits-of-the-scrum-framework.html))
+[What Is Scrum? – In a Nutshell](/what-is-scrum-in-a-nutshell)

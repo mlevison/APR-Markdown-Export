@@ -25,7 +25,8 @@ For reluctant teams, one trick that can work is brinksmanship. "If you don't set
 3. Does the goal help the team better understand what they're trying to achieve with the Sprint?
 4. If the Sprint isn't going well, will this help the team refocus on the target?
 
-[Sprint Goals Provide Purpose](/blog/sprint-goals-provide-purpose.html) [How Sprint Planning Mistakes Can Derail a Scrum Team](/blog/how-sprint-planning-mistakes-can-derail-a-team.html)
+[Sprint Goals Provide Purpose]((/blog/sprint-goals-provide-purpose.html))
+[How Sprint Planning Mistakes Can Derail a Scrum Team](/blog/how-sprint-planning-mistakes-can-derail-a-team.html)
 
 #### Resource Links:
 

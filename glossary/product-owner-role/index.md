@@ -33,7 +33,10 @@ Mistakes organizations make:
 - Assuming that a good product is just the sum of stakeholder/customer requests
 - Assuming that the PO is a [Business Analyst with a better job title](/blog/product-owner-isn-business-analyst-steroids.html)
 
-[Certified Scrum Product Owner Training](https://agilepainrelief.com/certified-scrum-product-owner-cspo-training) [Product Owner isn’t just a Business Analyst on Steriods](/blog/product-owner-isn-business-analyst-steroids.html) [Technical User Stories or The Team Tries to Fool the Product Owner | Agile Pain Relief](https://agilepainrelief.com/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner.html) [Reinventing Existing Products – Big Bite vs Small Nibble Rewrites](https://agilepainrelief.com/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites.html)
+[Certified Scrum Product Owner Training]((https://agilepainrelief.com/certified-scrum-product-owner-cspo-training))
+[Product Owner isn’t just a Business Analyst on Steriods]((/blog/product-owner-isn-business-analyst-steroids.html))
+[Technical User Stories or The Team Tries to Fool the Product Owner | Agile Pain Relief]((https://agilepainrelief.com/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner.html))
+[Reinventing Existing Products – Big Bite vs Small Nibble Rewrites](https://agilepainrelief.com/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites.html)
 
 #### Resource Links:
 

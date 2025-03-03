@@ -9,7 +9,8 @@ excerpt: '**Pair Programming** is when two people write code together on one mac
 
 Ironically, some of the earliest programming work (before it was called programming) was done in pairs: _“Betty Snyder and I, from the beginning, were a pair. And I believe that the best programs and designs are done by pairs, because you can criticise each other, and find each others errors, and use the best ideas.” -_ **_Jean Bartik, one of the original programmers of the ENIAC computer._** (source - https://martinfowler.com/articles/on-pair-programming.html)
 
-[Mythbusting - Collective Code Ownership](/blog/mythbusting-c.html) [Pair Programming vs. Code Reviews – It’s a no Brainer](/blog/pair-programmin.html)
+[Mythbusting - Collective Code Ownership]((/blog/mythbusting-c.html))
+[Pair Programming vs. Code Reviews – It’s a no Brainer](/blog/pair-programmin.html)
 
 #### Resource Links:
 
