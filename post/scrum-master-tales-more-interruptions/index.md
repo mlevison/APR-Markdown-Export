@@ -14,9 +14,9 @@ coverImage: "photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg"
 excerpt: 'Last time we read about our team they were suffering from a very high rate of'
 ---
 
-![yellow road warning sign - image licensed from Photodune](src/content/blog/scrum-master-tales-more-interruptions/images/photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg) _[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
+![yellow road warning sign - image licensed from Photodune](src/content/blog/scrum-master-tales-more-interruptions/images/photodune-2976647-isolated-yellow-driving-warning-sign-xs.jpg) _[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
-Last time we read about our team they were suffering from a very high rate of interruptions after the product had gone live: [The Story of Production Support](/blog/scrum-production-support.html).
+Last time we read about our team they were suffering from a very high rate of interruptions after the product had gone live: [The Story of Production Support](/blog/scrum-production-support).
 
 After another couple of sprints using the one “person off” strategy the production support problem wasn’t completely fixed but the team was starting to spend less time on support. However Steve started to notice a new problem, even though production support wasn’t the primary cause there were still a lot of interruptions, he still noticed that team members were being interrupted (a mix of drop by, phone calls and email).
 
@@ -61,6 +61,6 @@ _Update: When I say development team I don't mean coding I mean the people invol
 
 Next up: An aside on tracking sprint and release progress, burndowns and interruptions
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Image via: [https://photodune.net/](https://photodune.net/)

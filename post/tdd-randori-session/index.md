@@ -78,4 +78,4 @@ BTW Brian's HDF workbook is an interesting problem I just wouldn't expect to tac
 
 _Update: I forgot to mention the [TDD Problems site](https://sites.google.com/site/tddproblems/)._
 
-_Update 2: The followup session: [Another TDD Workshop](/blog/tdd-randori-workshop.html)._
+_Update 2: The followup session: [Another TDD Workshop](/blog/tdd-randori-workshop)._

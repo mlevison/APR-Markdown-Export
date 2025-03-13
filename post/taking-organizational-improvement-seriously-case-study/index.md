@@ -18,9 +18,9 @@ excerpt: '(_Presented as an accompanying case study to Part 4 in the [Scrum Alon
 
 ![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/taking-organizational-improvement-seriously-case-study/images/scrum-alone-not-enough-organizational-improvement.jpg)
 
-(_Presented as an accompanying case study to Part 4 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough.html)._)
+(_Presented as an accompanying case study to Part 4 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough)._)
 
-In the [previous post](/blog/taking-organizational-improvement-with-scrum-seriously.html), we discussed how it’s not enough to practice Scrum at the Team level and expect that it will solve all problems. Senior Management has to get involved for real Agile change to happen and high performance to be achieved. An important aspect of that is Systemic Problem Solving, which we’ll look at closer using the World’s Smallest Online Bookstore as a case study for examples.
+In the [previous post](/blog/taking-organizational-improvement-with-scrum-seriously), we discussed how it’s not enough to practice Scrum at the Team level and expect that it will solve all problems. Senior Management has to get involved for real Agile change to happen and high performance to be achieved. An important aspect of that is Systemic Problem Solving, which we’ll look at closer using the World’s Smallest Online Bookstore as a case study for examples.
 
 ## Systemic Problem Solving
 
@@ -60,13 +60,13 @@ In a second example, the Team sees a Product Owner making frequent revisions to 
 
 ![Product Owner Can't Stay Focused](src/content/blog/taking-organizational-improvement-seriously-case-study/images/PO-cant-stay-focused.jpg)
 
-As this image illustrates, we can see that the real problem is that the PO is under daily pressure from stakeholders to solve real and perceived customer problems. The challenge is how to set aside enough time to deal with those issues, while still making progress in the bigger goal. A causal loop diagram like this should help the organization discover the need for [Portfolio Management](/blog/portfolio-management.html), which would give the Product Owner some boundaries on how much short term work they should accept from the Team.
+As this image illustrates, we can see that the real problem is that the PO is under daily pressure from stakeholders to solve real and perceived customer problems. The challenge is how to set aside enough time to deal with those issues, while still making progress in the bigger goal. A causal loop diagram like this should help the organization discover the need for [Portfolio Management](/blog/portfolio-management), which would give the Product Owner some boundaries on how much short term work they should accept from the Team.
 
 In each case, the key point is that the Org Improvement Team must make sure that they’re solving the systemic - and not just surface - problem.
 
 So let’s look at how the World’s Smallest Online Bookstore teams might do that, using a Scrum-like framework to achieve it.
 
-Our World’s Smallest Online Bookstore Organizational Improvement Team is working in two-week Sprints to stay in sync with their Development Teams. As we learned in [this post](/blog/taking-organizational-improvement-with-scrum-seriously.html), the Org Improvement Team operates in a manner similar to a regular Scrum Team, just with a few slightly relabeled components.
+Our World’s Smallest Online Bookstore Organizational Improvement Team is working in two-week Sprints to stay in sync with their Development Teams. As we learned in [this post](/blog/taking-organizational-improvement-with-scrum-seriously), the Org Improvement Team operates in a manner similar to a regular Scrum Team, just with a few slightly relabeled components.
 
 Let’s see how the Organizational Improvement Team will tackle these problems.
 

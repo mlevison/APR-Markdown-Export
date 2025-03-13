@@ -51,7 +51,7 @@ Important: If your Sprint is longer than one calendar month, you’re not doing 
 - Fewer Sprint Reviews give the Product Owner fewer opportunities to improve the product.
 - Greater risk of Sprint Cancellation due to changes in the market or customer expectations.
 - Greater risk of something going wrong that makes it impractical to deliver the original goal.
-- Makes it easier to do “Mini-Waterfalls” within Scrum, i.e. Analysis -> Development -> Manual Test, with a certain number of days planned for each. This leads to the dark side and Scrum Theatre. Mini-Waterfalls also usually lead to the use of [Hardening or Stabilization Sprints](/blog/antipattern-hardening-sprint.html).
+- Makes it easier to do “Mini-Waterfalls” within Scrum, i.e. Analysis -> Development -> Manual Test, with a certain number of days planned for each. This leads to the dark side and Scrum Theatre. Mini-Waterfalls also usually lead to the use of [Hardening or Stabilization Sprints](/blog/antipattern-hardening-sprint).
 - Team and Organizational problems tend to be discovered and addressed more slowly.
 
 ### ![How to choose a Scrum Sprint Length – Shorter Beats Longer - image by Agile Pain Relief Consulting](src/content/blog/choosing-scrum-sprint-length/images/APR-Blog-Illustrations_Oct2019_SprintLengths_B_v2.jpg)
@@ -61,7 +61,7 @@ Important: If your Sprint is longer than one calendar month, you’re not doing 
 #### Pros
 
 - Since the Team has more, but shorter, retrospectives, they have more opportunities to make smaller changes. This also provides more opportunities to improve as a Team because....
-- More frequent Sprint Reviews give the Product Owner more feedback and more frequent opportunities to update their thinking with respect to the Product Backlog. This should largely eliminate the need for the Product Owner to ever [ask for a change](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint.html) (e.g. new Story) during an in-progress Sprint.
+- More frequent Sprint Reviews give the Product Owner more feedback and more frequent opportunities to update their thinking with respect to the Product Backlog. This should largely eliminate the need for the Product Owner to ever [ask for a change](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint) (e.g. new Story) during an in-progress Sprint.
 - Impediments and slowdowns are highlighted more quickly since the Team is expected to get feature(s) to Done by the end of every Sprint. This forces the Team to come to terms with things that are slowing them down.
 - Shorter cycles make planning easier, which increases focus and reduces the amount of “dark work.”
 - Forces Teams to do a better job of slicing stories or features into smaller chunks. This increases visibility and understanding of progress within a Sprint.
@@ -82,7 +82,7 @@ _Note: On the rare occasion that I've seen Sprints shorter than one week, it see
 - Consistency – Humans benefit from having some consistency, structure and predictability in their world. So, once the Sprint length is set, it’s usually best to stick with it. The Scrum Guide even notes: “Sprints have consistent durations throughout a development effort.”
 - Experiment – As your team and organization evolve, what used to work might change. Run experiments – example: [https://medium.com/akeneo-labs/experimenting-one-week-sprint-93dd04b42191](https://medium.com/akeneo-labs/experimenting-one-week-sprint-93dd04b42191)  _Note: I don’t recommend growing a single team to 15 people._
 - 2-day Sprints? In an extreme case, [Mishkin Berteig coached one team to use 2-day Sprints](https://www.infoq.com/news/2008/09/Short-Iterations-Mishkin-Berteig/) using the short Sprint to reveal greater dysfunction in the organization.
-- To do well with shorter Sprints, Scrum Development Teams need to work on some skills: - [Story Splitting](/blog/scrummaster-tales-story-splitting-fun.html) – so that they divide the work into small manageable chunks - Agile Engineering Practices – to ensure that increment delivered is of high quality - Learning to put Quality Assurance at the beginning and not the end of their development process. Usually this requires learning Behavior-Driven Development, also known as Example Driven Development.
+- To do well with shorter Sprints, Scrum Development Teams need to work on some skills: - [Story Splitting](/blog/scrummaster-tales-story-splitting-fun) – so that they divide the work into small manageable chunks - Agile Engineering Practices – to ensure that increment delivered is of high quality - Learning to put Quality Assurance at the beginning and not the end of their development process. Usually this requires learning Behavior-Driven Development, also known as Example Driven Development.
 
 ## Choose the Scrum Sprint Length
 

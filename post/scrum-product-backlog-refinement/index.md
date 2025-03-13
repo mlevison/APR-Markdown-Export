@@ -21,7 +21,7 @@ _In Scrum, **Product Backlog Refinement** is an essential meeting of the Product
 
 **Dramatis Personae:** Steve – a ScrumMaster and the hero of our story Paula – the Product Owner of Steve’s team
 
-Learning from [their recent experience with bad User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html), ScrumMaster Steve, Product Owner Paula, and the Development Team schedule a Product Backlog Refinement meeting, after lunch,\[[1](#footnotes)\] to refine the User Stories and discuss them ahead of Sprint Planning.
+Learning from [their recent experience with bad User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster), ScrumMaster Steve, Product Owner Paula, and the Development Team schedule a Product Backlog Refinement meeting, after lunch,\[[1](#footnotes)\] to refine the User Stories and discuss them ahead of Sprint Planning.
 
 Remember: Scrum doesn’t require User Stories. However, for relatability purposes of this story, we refer to User Story, but you can substitute Product Backlog Item.
 
@@ -44,8 +44,8 @@ By continuously updating and refining the Product Backlog, the Scrum Team always
 To prepare for the Product Backlog Refinement event, Product Owner Paula doesn’t use a formal meeting agenda; instead, she has a rough checklist that she shares with the Team:
 
 - Story stubs\[[2](#footnotes)\] or ideas that were initially written by herself, to be rewritten into effective User Stories through discussion with the Team
-- [Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html) for topmost items in the Product Backlog
-- [Split User Stories](/blog/story-slicing-how-small-is-enough.html) that are too large for their current position in the Product Backlog
+- [Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria) for topmost items in the Product Backlog
+- [Split User Stories](/blog/story-slicing-how-small-is-enough) that are too large for their current position in the Product Backlog
 - Estimate\[[3](#footnotes)\] Split Stories
 - Acceptance Criteria for newly created Stories
 - Estimate Stories that don’t yet have estimates
@@ -53,7 +53,7 @@ To prepare for the Product Backlog Refinement event, Product Owner Paula doesn�
 
 ## Backlog Refinement Is All About Discussion and Asking Questions
 
-![Backlog Refinement Meeting Agenda in Action](src/content/blog/scrum-product-backlog-refinement/images/AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_B_v1-1024x607.png) Paula and the Team review the current list of items in the Product Backlog. They clarify the User Stories by discussing the context for a desired product feature and what kind of value it is meant to give the user. Taking the time to discuss each User Story solves [the earlier problem of bad User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html) which lacked a clear ‘Why’ statement. It also gives the whole Scrum Team the needed context and clarity to provide useful estimates. ScrumMaster Steve’s guidance toward having this backlog refinement session, instead of blindly launching into Sprint Planning, has been a huge help.
+![Backlog Refinement Meeting Agenda in Action](src/content/blog/scrum-product-backlog-refinement/images/AgilePainRelief_BlogIllustrations_Feb2019_ProductBacklogRefinement_B_v1-1024x607.png) Paula and the Team review the current list of items in the Product Backlog. They clarify the User Stories by discussing the context for a desired product feature and what kind of value it is meant to give the user. Taking the time to discuss each User Story solves [the earlier problem of bad User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster) which lacked a clear ‘Why’ statement. It also gives the whole Scrum Team the needed context and clarity to provide useful estimates. ScrumMaster Steve’s guidance toward having this backlog refinement session, instead of blindly launching into Sprint Planning, has been a huge help.
 
 The topmost items are estimated by the Developers and split into a digestible size (i.e. small or 1, 2, or 3 Story Points). In addition, they have at least two or three Acceptance Criteria associated with them.
 
@@ -113,7 +113,7 @@ The leading cause of poor Sprint Planning –and, therefore, crappy Sprints– �
 
 ## When Does Product Backlog Refinement Happen, and How Often Is It Done?
 
-Spread the work throughout the Sprint. No one wants to attend a 2-3 hour meeting in one sitting, so break the event down in two or three sessions of about 45-60 minutes each. I’ve found it effective to schedule a session during the first week of the Sprint and a second one early in the next week. If a third session is required, we still have [time left in the Sprint](/blog/choosing-scrum-sprint-length.html) to run it.
+Spread the work throughout the Sprint. No one wants to attend a 2-3 hour meeting in one sitting, so break the event down in two or three sessions of about 45-60 minutes each. I’ve found it effective to schedule a session during the first week of the Sprint and a second one early in the next week. If a third session is required, we still have [time left in the Sprint](/blog/choosing-scrum-sprint-length) to run it.
 
 Have frequent and regular Product Backlog Refinement sessions. Making it part of the normal and expected routine reinforces the understanding that reviewing and updating the Product Backlog isn’t a once-and-done thing, it’s an ongoing part of the process.
 
@@ -143,11 +143,11 @@ Product Backlog Refinement is intended to help your team clearly understand the 
 
 **It increases the effectiveness and communication of the entire Scrum Team and, as a result, builds a better product for your client.**
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 ### Do you want to coach your team towards better solutions?
 
-The WorldsSmallestOnlineBookStore.com Team went from [facing ineffective User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html), to having a productive Backlog Refinement session and a clear path for the next Sprint. This was largely due to ScrumMaster Steve identifying the challenge and coaching everyone toward a solution that they could apply collaboratively, which improved communication between Product Owner Paula and the Team. If you would like to learn how to handle some of these common, real-life issues that organizations face in their Scrum evolution, [consider attending one of our workshops](/certified-scrum-agile-training), where you’ll receive hands-on learning of the challenges – and solutions – and tips on how to integrate them into your Scrum.
+The WorldsSmallestOnlineBookStore.com Team went from [facing ineffective User Stories](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster), to having a productive Backlog Refinement session and a clear path for the next Sprint. This was largely due to ScrumMaster Steve identifying the challenge and coaching everyone toward a solution that they could apply collaboratively, which improved communication between Product Owner Paula and the Team. If you would like to learn how to handle some of these common, real-life issues that organizations face in their Scrum evolution, [consider attending one of our workshops](/certified-scrum-agile-training), where you’ll receive hands-on learning of the challenges – and solutions – and tips on how to integrate them into your Scrum.
 
 \[1\] Many developers complain that Backlog Refinement interrupts them doing valuable work. We sidestep that problem if scheduled right after lunch or at some other time when they’ve already been interrupted. Key point: decide the time with the team. \[2\] Mark’s note: It is strongly recommended that the Product Owner not show up at Product Backlog Refinement with prepared User Stories. My personal experience is that team members see these items as complete/correct and it kills further discussion on them. It’s much better to bring rough ideas to the session and work with the team to make them real User Stories. \[3\] Caveat: Scrum works perfectly well in an environment where the Development Team doesn’t estimate – in that case, they can skip the estimation portion of refinement. You would also expect a Team that wasn’t estimating to put more effort into splitting Items at the top of the Product Backlog so that they’re approximately the same size. \[4\] In order to better understand different kinds of end users, those working on WorldsSmallestOnlineBookStore.com have started using Personas to give a richer description of each. In this case, the relevant persona is known by the name  “Julia.” Two things matter in this context: she is a frequent book buyer and user of the site, and she gives her real estate clients gift cards to thank them for their business.
 

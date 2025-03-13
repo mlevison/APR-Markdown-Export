@@ -16,12 +16,12 @@ tags:
   - "user-stories"
   - "user-story"
 coverImage: "away-1020088_640.jpg"
-excerpt: '_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster'
+excerpt: '_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster'
 ---
 
 ![Diverging paths - image licensed from Photodune](src/content/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner/images/away-1020088_640.jpg)
 
-_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
+_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
 While working on the FedEx 2-day shipment story Martin discovers some very crufty code in the Foobar class. He doesn’t need to work in the class to complete the story, nor can he see it causing any bugs right now. He doesn’t want to ignore the issue so he grabs an index card and writes “Foobar class is very crufty and it will slow us down later”.
 
@@ -58,6 +58,6 @@ Martin writes up an index card for the Foobar class and posts in the ‘Technica
 
 “[As a Developer is not a Story](https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)” – Bill Wake “[Technical Stories: We don’t need ‘em](https://ronjeffries.com/xprog/articles/technical-stories-we-dont-need-em/)” – Ron Jeffries "[Refactoring not in the Backlog](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)" - also Ron Jeffries “[Technical User Stories](https://blog.arielvalentin.com/2007/09/technical-user-stories.html)” Ariel Valentin
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Image licensed from Photodune

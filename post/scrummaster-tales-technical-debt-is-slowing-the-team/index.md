@@ -12,10 +12,10 @@ tags:
   - "story-points"
   - "technical-debt-2"
   - "unit-testing"
-excerpt: '[Cross Skilling](/blog/scrummaster-tales-the-team-gets-bottlenecked.html) is starting to'
+excerpt: '[Cross Skilling](/blog/scrummaster-tales-the-team-gets-bottlenecked) is starting to'
 ---
 
-[Cross Skilling](/blog/scrummaster-tales-the-team-gets-bottlenecked.html) is starting to happen and already there are fewer bottlenecks. Steve is starting to have more time to step back from the day to day and look at the big picture. He’s heard that most Scrum teams become more productive over time and he wonders how is team is doing. He pulls up the CFD for the current release:![CFD-for-Technical-Debt-annotated-image by Agile Pain Relief Consulting](src/content/blog/scrummaster-tales-technical-debt-is-slowing-the-team/images/CFD-for-Technical-Debt-annotated-small.jpg) and immediately notices that the rate at which stories are being selected has slowed down in the past few sprints. Historically the team has a trailing average of 30 story points a sprint. In the past few sprints they’ve only achieved 25 and 22. Is this drop meaningful? Is it related to the team’s cross skilling efforts? Steve decides to ask the team what is going on. He writes a short note, describing the problem he’s seen (without his own suspicions) and asks the team to reflect on the discovery. After Daily Scrum Steve invites the team members to talk about the problems they see:
+[Cross Skilling](/blog/scrummaster-tales-the-team-gets-bottlenecked) is starting to happen and already there are fewer bottlenecks. Steve is starting to have more time to step back from the day to day and look at the big picture. He’s heard that most Scrum teams become more productive over time and he wonders how is team is doing. He pulls up the CFD for the current release:![CFD-for-Technical-Debt-annotated-image by Agile Pain Relief Consulting](src/content/blog/scrummaster-tales-technical-debt-is-slowing-the-team/images/CFD-for-Technical-Debt-annotated-small.jpg) and immediately notices that the rate at which stories are being selected has slowed down in the past few sprints. Historically the team has a trailing average of 30 story points a sprint. In the past few sprints they’ve only achieved 25 and 22. Is this drop meaningful? Is it related to the team’s cross skilling efforts? Steve decides to ask the team what is going on. He writes a short note, describing the problem he’s seen (without his own suspicions) and asks the team to reflect on the discovery. After Daily Scrum Steve invites the team members to talk about the problems they see:
 
 - Cross Skilling has slowed the team to a small extent
 - Interruptions are down, so if anything the team should be more productive
@@ -48,7 +48,7 @@ During the retrospective the Technical Debt problem comes up and the team start 
 
 A few minutes of conversation led the team to realize that the while most code was peer reviewed, very little was Unit Tested. Perhaps the bigger issue was that they didn’t have a good idea roughly how much of the code was unit tested or if the existing Unit Tests where of good quality.
 
-Their SMART Actions (see: [Agile Retrospectives](/blog/agile-retrospectives.html)):
+Their SMART Actions (see: [Agile Retrospectives](/blog/agile-retrospectives)):
 
 - Respect the Definition of Done – write Unit Tests
 - Temporarily add Unit Test column to their task wall
@@ -59,6 +59,6 @@ Steve promises to post this above the task wall to ensure that the team sees the
 
 Next week we will see how the team fare _(Ed – I’m stretching this out over several stories because Technical Debt takes time to be weeded out)._
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Image attribution: Agile Pain Relief

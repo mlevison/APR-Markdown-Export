@@ -28,7 +28,7 @@ So what can you do to solve this problem?
 - Get them to help with the exploratory testing, with the focus being the stories that are being written in that Sprint of iteration.
 - Ask them to write or refactor some automated acceptance tests.
 - Get them to read and write Unit tests – start by reading existing Unit tests, after all these should explain the code. If they’re not already [Good Unit Tests](https://www.infoq.com/news/2009/07/Better-Unit-Tests/) then take the time to improve. If they’re good then do some small refactorings in the main code base – after you can trust your tests can’t you :-)
-- Ask them to [pair](/blog/pair-programmin.html) with another developer
+- Ask them to [pair](/blog/pair-programmin) with another developer
 
 Just remember adding more people to a project is a way of slowing your project down.
 

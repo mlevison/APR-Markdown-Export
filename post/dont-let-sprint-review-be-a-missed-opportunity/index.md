@@ -11,7 +11,7 @@ coverImage: "APR-Story-of-a-Sprint-board-12.png"
 excerpt: 'When last we left our World’s Smallest Online Bookstore team, their Sprint was rocky. To'
 ---
 
-When last we left our World’s Smallest Online Bookstore team, their Sprint was rocky. To have an effective Sprint Review story, let’s assume that they magically wound back the clock (shazam!) and implemented the changes. As a result, they had the more effective Sprint Planning that we discussed [in the last blog post](/blog/how-sprint-planning-mistakes-can-derail-a-team.html).
+When last we left our World’s Smallest Online Bookstore team, their Sprint was rocky. To have an effective Sprint Review story, let’s assume that they magically wound back the clock (shazam!) and implemented the changes. As a result, they had the more effective Sprint Planning that we discussed [in the last blog post](/blog/how-sprint-planning-mistakes-can-derail-a-team).
 
 So let’s quickly recap that last episode. The team set “Have basic reader review system in place so book buyers can see a variety of opinions about a book” as their Sprint Goal. (They had a weak Goal initially but, after they magically went back in time and did things different, that was the improved result.)
 

@@ -13,7 +13,7 @@ excerpt: 'Research shows that people, whether acting individually or as a team, 
 
 Research shows that people, whether acting individually or as a team, achieve more when working toward an objective that is specific, challenging, and concrete.\[[1](#footnotes)\] For that, we need clear Sprint Goals.
 
-A Sprint should be so much more than just completing a number of User Stories or fixing bugs. If your Sprints are merely about ticking off items on a scattered work list without having a shared understanding of why they’re important or what purpose they serve, [your Development Team](/blog/scrum-development-team-whos-in-it.html) will struggle to keep focus in the short-term and will take longer to [become highly effective](/blog/5-steps-for-creating-high-performance-teams-ebook.html) in the long run. Sprint Goals provide purpose for the Scrum Team to work together effectively.
+A Sprint should be so much more than just completing a number of User Stories or fixing bugs. If your Sprints are merely about ticking off items on a scattered work list without having a shared understanding of why they’re important or what purpose they serve, [your Development Team](/blog/scrum-development-team-whos-in-it) will struggle to keep focus in the short-term and will take longer to [become highly effective](/blog/5-steps-for-creating-high-performance-teams-ebook) in the long run. Sprint Goals provide purpose for the Scrum Team to work together effectively.
 
 A Sprint should be so much more than just completing a number of User Stories or fixing bugs. If your Sprints are merely about ticking off items on a scattered work list without having a shared understanding of why they’re important or what purpose they serve, your Development Team will struggle to keep focus in the short-term and will take longer to become highly effective in the long run.
 
@@ -51,7 +51,7 @@ Finally, jointly identifying and achieving shared goals is a key element for gro
 
 ## When Not to Use Sprint Goals in Scrum
 
-Sometimes a team will have a Sprint of work with no focus. If this is rare, I wouldn’t try to set a Sprint Goal. Rather, I would acknowledge that, on this occasion, there isn’t a Sprint Goal. I have seen teams using Scrum to serve the needs of 4-5 distinct clients in a single Sprint. If their needs don’t have any overlap, then the team will not be able to set a Sprint Goal. Lacking a goal, this team will have a longer path to high performance. (I wouldn’t abandon Scrum altogether - see [Limits of the Framework](/blog/what-are-the-limits-of-the-scrum-framework.html)). However, the key point is that this should be a _rare_ occurrence, not license to skip Sprint Goals normally.
+Sometimes a team will have a Sprint of work with no focus. If this is rare, I wouldn’t try to set a Sprint Goal. Rather, I would acknowledge that, on this occasion, there isn’t a Sprint Goal. I have seen teams using Scrum to serve the needs of 4-5 distinct clients in a single Sprint. If their needs don’t have any overlap, then the team will not be able to set a Sprint Goal. Lacking a goal, this team will have a longer path to high performance. (I wouldn’t abandon Scrum altogether - see [Limits of the Framework](/blog/what-are-the-limits-of-the-scrum-framework)). However, the key point is that this should be a _rare_ occurrence, not license to skip Sprint Goals normally.
 
 ## Spotting Unhelpful, Meaningless Sprint Goals
 
@@ -59,7 +59,7 @@ In my experience, most Sprint Goals are not clear. Some poor examples I’ve see
 
 - Fix 10 bugs – _This lacks any sense of purpose. Why is it valuable to fix this batch of bugs vs any other bugs that are in the system?_
 - Finish 7 unrelated User Stories – _Similar to the previous example, there is no sense of purpose._
-- Complete the work assigned to the team in JIRA – _Yes, this is remarkably anti-Agile and ineffective, however, I see it all too often. This implies the team is a group of robots whose job it is to move a task from one column on [Sprint Backlog](/blog/the-humble-sprint-backlog.html) to another._
+- Complete the work assigned to the team in JIRA – _Yes, this is remarkably anti-Agile and ineffective, however, I see it all too often. This implies the team is a group of robots whose job it is to move a task from one column on [Sprint Backlog](/blog/the-humble-sprint-backlog) to another._
 
 None of these examples help focus the Team. Nor do they clarify the value the team will deliver. The best test to spot unhelpful, meaningless Sprint goals is when the Stakeholders have no idea what they’re getting at the end of the Sprint.
 

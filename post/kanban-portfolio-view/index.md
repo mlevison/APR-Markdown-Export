@@ -13,9 +13,9 @@ excerpt: '_(Presented as Part 3 in the [Scrum Alone is Not'
 
 ![Beyond Scrum: Scrum Alone Is Not Enough - portfolio kanban](src/content/blog/kanban-portfolio-view/images/scrum-alone-not-enough-kanban.jpg)
 
-_(Presented as Part 3 in the [Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough.html "Scrum Alone is Not Enough") series.)_
+_(Presented as Part 3 in the [Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough "Scrum Alone is Not Enough") series.)_
 
-In the last post of this series I talked about [Portfolio Management](/blog/portfolio-management.html), and how it aims to ensure that a team is always working on the highest priority work, without outside pressure taking their focus away from a manageable goal. Portfolio Management has value, but it also comes at the cost of increased overhead, loss of some control for Product Owners, and reduced ability to adapt in the moment, so let’s use it wisely.
+In the last post of this series I talked about [Portfolio Management](/blog/portfolio-management), and how it aims to ensure that a team is always working on the highest priority work, without outside pressure taking their focus away from a manageable goal. Portfolio Management has value, but it also comes at the cost of increased overhead, loss of some control for Product Owners, and reduced ability to adapt in the moment, so let’s use it wisely.
 
 ## Focus on Delivering Value, Not on Keeping Teams Busy
 

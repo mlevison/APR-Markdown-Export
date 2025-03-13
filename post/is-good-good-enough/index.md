@@ -73,7 +73,7 @@ Depending on the prevailing culture in the work environment, some of these, like
 
 The team will need to learn skills outside of their normal area of expertise to keep things moving whenever some of the team gets stuck or there are bottlenecks in an area. Ideally cross-skilling starts early, however it will take many months before it becomes habitual.
 
-The ScrumMaster is responsible for coaching team members to pay attention to bottlenecks in the system and for facilitating this learning. Sometimes cross-skilling goes against the corporate grain, on other occasions team members would prefer not to learn new skills or feel reluctant to work outside their comfort zone. Cross-skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) is critical to an effective team, so it falls to the ScrumMaster to coach in this situation. The ScrumMaster is going to need a good understanding of human [motivation and also how to influence effectively to help people, and organizations, see the benefits and come around.
+The ScrumMaster is responsible for coaching team members to pay attention to bottlenecks in the system and for facilitating this learning. Sometimes cross-skilling goes against the corporate grain, on other occasions team members would prefer not to learn new skills or feel reluctant to work outside their comfort zone. Cross-skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) is critical to an effective team, so it falls to the ScrumMaster to coach in this situation. The ScrumMaster is going to need a good understanding of human [motivation and also how to influence effectively to help people, and organizations, see the benefits and come around.
 
 #### Creating high-value increments that meet the Definition of Done
 

@@ -22,9 +22,9 @@ _Managers transitioning from waterfall to Agile will need to renegotiate their r
 
 _I was recently approached by a client who asked about effective Agile Organizational Structure. That question spawned these preceding articles:_
 
-- [Specialists Are Overrated](/blog/specialists-are-overrated.html)
-- [How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html)
-- [How to Be an Effective Manager in Scrum](/blog/how-to-be-an-effective-manager-in-scrum.html)
+- [Specialists Are Overrated](/blog/specialists-are-overrated)
+- [How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members)
+- [How to Be an Effective Manager in Scrum](/blog/how-to-be-an-effective-manager-in-scrum)
 
 ## ![The Role of Agile Managers: Why Job Titles Are Dangerous](src/content/blog/the-role-of-agile-managers-why-job-titles-are-dangerous/images/APR_BlogImage1_Oct2018-1024x607.jpg)
 
@@ -48,7 +48,7 @@ We get too specific with management titles too. For example, “Development Mana
 
 As Agile Team members, we move beyond titles to focus on collaboration, so why would leadership be any different?
 
-In Large-Scale Scrum (LeSS) adoptions, everyone lets go of titles and figures out, as a group, what roles need to be played. For many organizations, that is a bit too radical. However, the underlying principle is solid in the case of managers —you don’t need [managers](/blog/how-to-be-an-effective-manager-in-scrum.html) as traditionally understood, you need people, who focus on growing the capabilities of the team members.
+In Large-Scale Scrum (LeSS) adoptions, everyone lets go of titles and figures out, as a group, what roles need to be played. For many organizations, that is a bit too radical. However, the underlying principle is solid in the case of managers —you don’t need [managers](/blog/how-to-be-an-effective-manager-in-scrum) as traditionally understood, you need people, who focus on growing the capabilities of the team members.
 
 So what’s the best way for managers to choose new titles for themselves? Ask the team.
 
@@ -56,7 +56,7 @@ So what’s the best way for managers to choose new titles for themselves? Ask t
 
 There are obviously a few ways you could go about getting input from the team but, to get you started, I suggest running a short workshop. The focus will be on management reflecting on their roles.
 
-_(Assumption: you’re already familiar with the idea and mechanics of a [Skills Matrix workshop](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html).)_ 
+_(Assumption: you’re already familiar with the idea and mechanics of a [Skills Matrix workshop](/blog/how-to-cross-skill-and-grow-t-shaped-team-members).)_ 
 
 **Exercise Goal:** Create some form of a shared understanding with all the team members about the role that management is evolving into.
 
@@ -68,7 +68,7 @@ _(Assumption: you’re already familiar with the idea and mechanics of a [Skills
 
 **Activities:**
 
-_Role Responsibilities_ (similar format to the [Cross-skilling workshop](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html))
+_Role Responsibilities_ (similar format to the [Cross-skilling workshop](/blog/how-to-cross-skill-and-grow-t-shaped-team-members))
 
 - Using a silent listing style, each team member writes down everything a manager does (Action, Task, Responsibility) today, on PostIts or anything else at hand.
 - As a team, they sort the items into who does what in a Scrum world. ScrumMaster? Product Owner? Product Development Team? Not needed in Scrum? or Person previously titled as Manager?

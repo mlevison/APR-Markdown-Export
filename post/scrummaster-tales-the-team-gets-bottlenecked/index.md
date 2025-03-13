@@ -16,7 +16,7 @@ excerpt: '1. Martin, the only team member who knows how to make changes to the d
 
 1. Martin, the only team member who knows how to make changes to the database, has his name on four tasks that are in progress. Two of those tasks are blocking the remaining work on their respective stories.
 2. Ian, the business logic developer, has his name on three tasks, two of which are blocked by Martin. The other task is blocking continued work on another story.
-3. There are **six** stories in progress even though the team has previously agreed on a WIP (Work In Progress) [limit of 3 stories](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html) in progress at one time.
+3. There are **six** stories in progress even though the team has previously agreed on a WIP (Work In Progress) [limit of 3 stories](/blog/scrum-by-example-the-story-of-an-incomplete-sprint) in progress at one time.
 
 ## Analysis
 
@@ -32,7 +32,7 @@ The team isn’t respecting its own WIP limits.
 
 ## Story
 
-Steve raises this as an impediment at the Daily Scrum and asks for quick meeting right afterwards. He shares the three observations and asks the team what they think. Team members say things like: “Database work isn’t my speciality/skill” and “I wouldn’t be as productive on that”. As a result they say that they moved onto lower priority work. To get through the sprint without another disastrous ending (see: [The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html)), Steve asks what they can do to offload Martin and Ian allowing them to unblock higher priority work. Among other ideas the team decide:
+Steve raises this as an impediment at the Daily Scrum and asks for quick meeting right afterwards. He shares the three observations and asks the team what they think. Team members say things like: “Database work isn’t my speciality/skill” and “I wouldn’t be as productive on that”. As a result they say that they moved onto lower priority work. To get through the sprint without another disastrous ending (see: [The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint)), Steve asks what they can do to offload Martin and Ian allowing them to unblock higher priority work. Among other ideas the team decide:
 
 - to temporarily abandon work on the lower priority stories
 - to pair with Martin and Ian to get the higher priority stories sooner
@@ -49,7 +49,7 @@ To grow skills in those areas they agree to us a mixture of pair programming, in
 
 Finally the team posts the skills matrix in the team area and commits to revisit it in six to eight weeks.
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 _**Update:** As I went to compile a cast of characters I realized that I was using Doug and Martin interchangeably between posts. I changed this post to make Martin our database guy._
 

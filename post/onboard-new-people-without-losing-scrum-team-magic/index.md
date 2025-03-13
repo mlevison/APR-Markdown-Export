@@ -64,7 +64,7 @@ Someone will complain that all of this takes time. Yes, it does. However, not pu
 
 Geeky research moment.... a 2022 study\[[1](#footnotes)\] found that organizations that had deeper onboarding processes (months instead of one week) had better performance from the new employee and longer retention. So for the first few Sprints, allot between 15–20% of the team’s time to making the new person feel like part of the team. It will pay off.
 
-See also: [Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team.html)
+See also: [Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team)
 
 * * *
 

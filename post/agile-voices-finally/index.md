@@ -12,9 +12,9 @@ tags:
 excerpt: 'Nearly 6 months ago I saw another Top 20 list of Agile people. I was troubled. As a result'
 ---
 
-Nearly 6 months ago I saw another Top 20 list of Agile people. I was troubled. As a result I started an anti top 100 list: (from [Looking for 100 Agile Voices we should hear more from](/blog/looking-for-100-agile-voices-we-should-hear-more-from.html))
+Nearly 6 months ago I saw another Top 20 list of Agile people. I was troubled. As a result I started an anti top 100 list: (from [Looking for 100 Agile Voices we should hear more from](/blog/looking-for-100-agile-voices-we-should-hear-more-from))
 
-> In the past few years a number of Agile people I respect have published top 100 or even top 200 lists. While I, like many others, appreciate the attention they’ve brought, the whole idea seems very anti-agile. Agile promotes a democratic meritocracy. These lists do the opposite, they create “[heroes](/blog/agile-gurus-or-thought-leaders.html)” - people whose ideas are more important others. Instead, I think we should be widely read in the Agile community, often reaching outside our immediate realm. To that end I’m asking for your help creating a list of voices we should hear more from. My goal is find ~100, the limit is more from my time and energy than the lack of more people we could find.
+> In the past few years a number of Agile people I respect have published top 100 or even top 200 lists. While I, like many others, appreciate the attention they’ve brought, the whole idea seems very anti-agile. Agile promotes a democratic meritocracy. These lists do the opposite, they create “[heroes](/blog/agile-gurus-or-thought-leaders)” - people whose ideas are more important others. Instead, I think we should be widely read in the Agile community, often reaching outside our immediate realm. To that end I’m asking for your help creating a list of voices we should hear more from. My goal is find ~100, the limit is more from my time and energy than the lack of more people we could find.
 
 I naively assumed that once this went “live” I would be flooded with names. The first few came in rapidly, and they’ve trickled in on and off ever since. Well, the list has now reached 70 people; I’ve long since had my minimum viable product, but summer and family time intervened.
 

@@ -14,12 +14,12 @@ tags:
   - "scrum-team"
   - "scrummaster"
 coverImage: "clock-arms-Freepik.jpg"
-excerpt: '_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster'
+excerpt: '_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster'
 ---
 
 ![clock-arms-Freepik](src/content/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign/images/clock-arms-Freepik.jpg)
 
-_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
+_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
 Things have been going well for our ScrumMaster Steve and the team as they build out the WorldsSmallestOnlineBookStore. The team is ramping up towards their first public launch and, in the past week and a bit, they could feel the tension increasing.
 
@@ -59,14 +59,14 @@ In a case like this, it often boils down to the CEO not having a good understand
 
 ## How could Steve have handled this better?
 
-The day Ellen first came into the room with the demand for overtime (before the investors meeting), Steve could have taken her aside later in the day and discussed the costs. The simplest explanation might have been that any system has a “[hull speed](https://agilecraft.wordpress.com/2014/02/13/hull-speed-for-systems/)”, i.e. a maximum speed that can achieved without dramatically increasing the amount of effort. Adding more pressure won’t make a significant difference to the speed and in some cases just risks damaging the hull. Instead of overtime, Steve could have suggested this would be a good time to reinforce [core hours](/blog/scrum-master-tales-more-interruptions.html), shutdown outlook for most of the day, and cancel most meetings outside of the team. They could even tell the company not to interrupt the team at all during the core hours. All of these changes have the goal of giving the team members more focused time.
+The day Ellen first came into the room with the demand for overtime (before the investors meeting), Steve could have taken her aside later in the day and discussed the costs. The simplest explanation might have been that any system has a “[hull speed](https://agilecraft.wordpress.com/2014/02/13/hull-speed-for-systems/)”, i.e. a maximum speed that can achieved without dramatically increasing the amount of effort. Adding more pressure won’t make a significant difference to the speed and in some cases just risks damaging the hull. Instead of overtime, Steve could have suggested this would be a good time to reinforce [core hours](/blog/scrum-master-tales-more-interruptions), shutdown outlook for most of the day, and cancel most meetings outside of the team. They could even tell the company not to interrupt the team at all during the core hours. All of these changes have the goal of giving the team members more focused time.
 
-When the investors demanded more features in the same timeframe, Steve and Product Owner Paula could have shown Ellen the product backlog as it stood. They could have asked her what she would either drop completely or delay until after the release to achieve the new goals. In addition, they could have asked her for the priorities of each of the new items. Even during a crunch, the team would still benefit from spending a couple of hours doing [backlog refinement](/blog/scrummaster-tales-story-splitting-fun.html) with the new features. This would ensure that the team members have a common understanding and get at least minimal acceptance criteria for each. This would increase the chances that team members would collaborate during the crunch period.
+When the investors demanded more features in the same timeframe, Steve and Product Owner Paula could have shown Ellen the product backlog as it stood. They could have asked her what she would either drop completely or delay until after the release to achieve the new goals. In addition, they could have asked her for the priorities of each of the new items. Even during a crunch, the team would still benefit from spending a couple of hours doing [backlog refinement](/blog/scrummaster-tales-story-splitting-fun) with the new features. This would ensure that the team members have a common understanding and get at least minimal acceptance criteria for each. This would increase the chances that team members would collaborate during the crunch period.
 
 In the future, Ellen would benefit from seeing a map of the overall project portfolio of the work in flight and queued - a portfolio map that gets updated every few weeks so she always has recent information to share with the investors. In addition, it would help with realistic expectations management.
 
 But those positive Scrum practices didn’t happen for our hapless team this time, and instead they will spend the better part of the next three to four months undoing the damage of the overtime.
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Clock image [designed by Freepik](https://www.freepik.com/free-vector/entrepreneurs-around-clock_774088.htm). Remaining image by Agile Pain Relief Consulting.

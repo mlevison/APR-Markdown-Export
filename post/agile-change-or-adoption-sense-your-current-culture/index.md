@@ -21,7 +21,7 @@ excerpt: '(Continued from _Agile Change or Adoption Always Starts with Why_: [P
 
 ![Be Always Changing - sense culture - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-sense-your-current-culture/images/Be-Always-Changing-sense-culture.jpg)
 
-(Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](/blog/agile-change-or-adoption-always-starts-with-why.html), [Part 2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html))
+(Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](/blog/agile-change-or-adoption-always-starts-with-why), [Part 2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how))
 
 ### Sense Your Current Culture
 
@@ -61,7 +61,7 @@ Collaboration:
 
 Control:
 
-- We need [Red, Yellow, Green Reports](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html) to retain control
+- We need [Red, Yellow, Green Reports](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth) to retain control
 - Hierarchy matters – talk to your manager before going outside their span of control
 - Annual Performance Reviews are important
 - We use Stack Ranking and Rank and Yank to eliminate underperformers
@@ -69,7 +69,7 @@ Control:
 
 Cultivation:
 
-- We use a [skills matrix](https://agilepainrelief.com/blog/scrummaster-tales-the-team-gets-bottlenecked.html) to identify strengths and weaknesses in the team. We use this information to help individuals learn.
+- We use a [skills matrix](https://agilepainrelief.com/blog/scrummaster-tales-the-team-gets-bottlenecked) to identify strengths and weaknesses in the team. We use this information to help individuals learn.
 - We hold lunch and learns
 - We’ve created a [community of practice](https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice) to share new ideas. Example: [https://www.infoq.com/articles/levison-TDD-adoption-strategy](https://www.infoq.com/articles/levison-TDD-adoption-strategy/)
 
@@ -77,7 +77,7 @@ Competence:
 
 - _Nothing in this section as they don’t currently put emphasis on Competence._
 
-From this picture we can see that Scrum has truly taken hold at the team level, creating a culture of collaboration and cultivation. However the organizational structure remains stuck with a focus on control. If nothing changes, the control focus of the organization could destroy the collaborative culture the teams have built. We will discuss how to create a vision for change collaboratively with people from all levels of the organization, not just the executives, [in the next post](/blog/agile-change-or-adoption-create-a-vision.html).
+From this picture we can see that Scrum has truly taken hold at the team level, creating a culture of collaboration and cultivation. However the organizational structure remains stuck with a focus on control. If nothing changes, the control focus of the organization could destroy the collaborative culture the teams have built. We will discuss how to create a vision for change collaboratively with people from all levels of the organization, not just the executives, [in the next post](/blog/agile-change-or-adoption-create-a-vision).
 
 Other Frameworks to consider: - [Competing Values Framework](https://www.thercfgroup.com/files/resources/an_introduction_to_the_competing_values_framework.pdf) (pdf) - [Laloux Cultural Model](https://www.humanizingwork.com/laloux-cultural-model-and-agile-adoption/) – Red (Centralized Structure), Orange (Achievement Oriented), Green (People) and Teal (Shared Power).
 

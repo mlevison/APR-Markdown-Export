@@ -9,7 +9,7 @@ coverImage: "doorway-xs.jpg"
 excerpt: 'Let's start by looking back to where this idea stems from. As best I can tell objections'
 ---
 
-![Doorway - image licensed from Photodune](src/content/blog/multiple-returns-from-a-single-method/images/doorway-xs.jpg) It’s funny just about the only thing anyone really objected to from my recent post on [Minimal Coding Style](/blog/minimalist-coding-style.html) was multiple return statements.
+![Doorway - image licensed from Photodune](src/content/blog/multiple-returns-from-a-single-method/images/doorway-xs.jpg) It’s funny just about the only thing anyone really objected to from my recent post on [Minimal Coding Style](/blog/minimalist-coding-style) was multiple return statements.
 
 Let's start by looking back to where this idea stems from. As best I can tell objections to multiple returns stem from [Dijkstra's](https://en.wikipedia.org/wiki/Edsger_Dijkstra) 1968 paper “[Go To Statement Considered Harmful](https://david.tribble.com/text/goto.html)”. From David Tribble who has written a Retrospective on the letter, from the [introduction](https://david.tribble.com/text/goto.html):
 

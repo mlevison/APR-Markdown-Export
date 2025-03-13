@@ -20,15 +20,15 @@ The Guide goes on to say that the team is expected to cover three topics:
 
 **Why is the Sprint Valuable?** **What can be Done this Sprint?** **How will the chosen work get done?**
 
-So let’s peek in on our [World’s Smallest Online Bookstore team](/blog/scrum-by-example.html) that you'll recall from other blog posts. We’ll use them as an example of a typical Scrum team.
+So let’s peek in on our [World’s Smallest Online Bookstore team](/blog/scrum-by-example) that you'll recall from other blog posts. We’ll use them as an example of a typical Scrum team.
 
 ![illustration of anxious Scrum team meeting for Sprint planning with the product owner](src/content/blog/how-sprint-planning-mistakes-can-derail-a-team/images/APR_Blog-Illustrations_Sept2021_SprintPlanning_v3-1024x607.jpg)
 
 ScrumMaster Steve creates an agenda for the team’s next Sprint Planning session. The event starts at 9:00 am, and he will allow five minutes for people to drift in. He divides the remaining time (nearly four hours) into four x 50 minute blocks, allowing for a ten minute break every hour. He has allocated one block per topic (Why is the Sprint Valuable? What can be Done this Sprint? How will the chosen work get done?) and leaves the last block for extra time if needed.
 
-Product Owner Paula and the rest of the team met last week to [refine the Product Backlog](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html). What can possibly go wrong?
+Product Owner Paula and the rest of the team met last week to [refine the Product Backlog](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster). What can possibly go wrong?
 
-Steve starts the Sprint Planning session by explaining that, during the last Sprint, the team finished six items. Hearing this, the team then agree on their [Sprint Goal](/blog/sprint-goals-provide-purpose.html): deliver five product backlog items and fix two bugs. (Astute readers will have noticed that the team has barely begun, and they’ve already skipped some important stuff. They think they’ve covered Why is the Sprint Valuable?)
+Steve starts the Sprint Planning session by explaining that, during the last Sprint, the team finished six items. Hearing this, the team then agree on their [Sprint Goal](/blog/sprint-goals-provide-purpose): deliver five product backlog items and fix two bugs. (Astute readers will have noticed that the team has barely begun, and they’ve already skipped some important stuff. They think they’ve covered Why is the Sprint Valuable?)
 
 They go through the Product Backlog in priority order, selecting the following items:
 

@@ -28,6 +28,6 @@ Remember, Scrum is a problem-finding tool, not a problem-solving tool.
 
 Your organization has to solve the problems that Scrum highlights, for it to work effectively. Since Scrum doesn’t solve the problems for your organization, you’re not actually practicing Scrum if you don’t follow through and resolve the issues that it finds. Instead, you’re practicing Mechanical Scrum.
 
-\[1\] [Definition of Done](/blog/definition-of-done-user-stories-acceptance-criteria.html) - a checklist used by a Scrum Team to test if a Product Backlog Item is truly completed. \[2\] Feature Teams - A feature team is “a long-lived, cross-functional, cross-component team that completes many end-to-end customer features—one by one.” Source: Larman and Vodde: [https://www.featureteamTeams.org](https://www.featureteamTeams.org)
+\[1\] [Definition of Done](/blog/definition-of-done-user-stories-acceptance-criteria) - a checklist used by a Scrum Team to test if a Product Backlog Item is truly completed. \[2\] Feature Teams - A feature team is “a long-lived, cross-functional, cross-component team that completes many end-to-end customer features—one by one.” Source: Larman and Vodde: [https://www.featureteamTeams.org](https://www.featureteamTeams.org)
 
 Image attribution: [https://pixabay.com](https://pixabay.com)

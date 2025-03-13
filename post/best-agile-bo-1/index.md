@@ -7,7 +7,7 @@ categories:
 excerpt: 'This is the second part of my [Best Agile Books in 2007'
 ---
 
-This is the second part of my [Best Agile Books in 2007 Edition](/blog/best-agile-book.html). This post will considerably lighter on notes than its predecessor because I'm tired and under the weather.
+This is the second part of my [Best Agile Books in 2007 Edition](/blog/best-agile-book). This post will considerably lighter on notes than its predecessor because I'm tired and under the weather.
 
 ### **Background** Books
 
@@ -15,7 +15,7 @@ This is the second part of my [Best Agile Books in 2007 Edition](/blog/best-agil
 
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439/&tag=notesfromatoo-20) (2nd Ed) by Tom Demarco and Timothy Lister  - A pre Agile classic on how development (and other) succeed and fail. They start by demonstrating most project failures are people and not technology related. They go on to help you organize and build better teams. Sadly this book has been in print for twenty years and we're still making the same mistakes.
 
-"[The Wisdom of Teams](https://www.amazon.com/Wisdom-Teams-High-Performance-Organization-Essentials/dp/0060522003/&tag=notesfromatoo-20)" by Jon Katzenbach and Douglas Smith - Another pre Agile book Katzenbach and Smith study real teams in many industries providing some real analysis and rigour to the question of what made these teams successful. By the end of the book you will discover that "_Nothing can guarantee the creation of_ [_high performance teams_](https://www.amazon.com/gp/product/1567205372/&tag=notesfromatoo-20)_. The best you can do is put in place the conditions that will help them form_." This book was at the core of my series [Why Scrum Works](/blog/does-scrum-work.html).
+"[The Wisdom of Teams](https://www.amazon.com/Wisdom-Teams-High-Performance-Organization-Essentials/dp/0060522003/&tag=notesfromatoo-20)" by Jon Katzenbach and Douglas Smith - Another pre Agile book Katzenbach and Smith study real teams in many industries providing some real analysis and rigour to the question of what made these teams successful. By the end of the book you will discover that "_Nothing can guarantee the creation of_ [_high performance teams_](https://www.amazon.com/gp/product/1567205372/&tag=notesfromatoo-20)_. The best you can do is put in place the conditions that will help them form_." This book was at the core of my series [Why Scrum Works](/blog/does-scrum-work).
 
 [Influence, Science and Practice](https://www.amazon.com/Influence-Practice-Robert-B-Cialdini/dp/0321011473/&tag=notesfromatoo-20) by Robert Cildani - You probably read this in an undergraduate psych course. Consider going back to read it again. This classic work covers how and why people are influenced. This is at play as our teams organize themselves and also as we try to influence others to try our new ideas. It's only one of the few books in recent years that I've read a second time and taken notes from. (The other being Jean's [Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20)).
 

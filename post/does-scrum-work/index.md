@@ -8,7 +8,7 @@ coverImage: "rugby-match-xs.jpg"
 excerpt: 'At the core of any successful development project is a team. The team can either work'
 ---
 
-![Rugby match - image licensed from Photodune](src/content/blog/does-scrum-work/images/rugby-match-xs.jpg) This is the second post in a series (thanks Mishkin for hosting the opener_)_ – that discusses: Why does Scrum work? Why do any of the Agile Project Management methodology work? Final part [here](/blog/why-scrum-works.html).
+![Rugby match - image licensed from Photodune](src/content/blog/does-scrum-work/images/rugby-match-xs.jpg) This is the second post in a series (thanks Mishkin for hosting the opener_)_ – that discusses: Why does Scrum work? Why do any of the Agile Project Management methodology work? Final part [here](/blog/why-scrum-works).
 
 ## Teams
 
@@ -50,7 +50,7 @@ Through Events Artifacts and People. Let's examine how these elements contribute
 - Use fact based problem solving to break the stories down into appropriate tasks.
 - Gets team members to make a public commitment ("[Influence: Science and Practice](https://www.amazon.com/exec/obidos/ASIN/0321011473/notesfromatoo-20)" by Cialdini - Chapter 3 Commitment and Consistency)
 
-#### [Daily Scrum](/blog/daily_scrum_sit.html)
+#### [Daily Scrum](/blog/daily_scrum_sit)
 
 **Basics**: Once a day (preferably near the start of the day) the team gets together to answer three questions: What did you yesterday? What will you today? What obstacles are in our way?
 
@@ -73,6 +73,6 @@ Through Events Artifacts and People. Let's examine how these elements contribute
 - In discussing how to improve, we’re engaging in fact based problem solving and it reinforces the point, that the team owns and is responsible for the process.
 - Inspect and Adapt – the entire purpose of the retrospective
 
-The final part is posted [here](/blog/why-scrum-works.html).
+The final part is posted [here](/blog/why-scrum-works).
 
 Image via: [https://photodune.net/](https://photodune.net/)

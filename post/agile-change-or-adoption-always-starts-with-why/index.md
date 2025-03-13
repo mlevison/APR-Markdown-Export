@@ -17,7 +17,7 @@ tags:
 excerpt: 'Your organization has decided to become more “Agile.” Why? As we learned in a previous'
 ---
 
-Your organization has decided to become more “Agile.” Why? As we learned in a previous blog post, “[Because Our Competitors Are](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization.html)” is not a valid – or sensible – reason.
+Your organization has decided to become more “Agile.” Why? As we learned in a previous blog post, “[Because Our Competitors Are](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization)” is not a valid – or sensible – reason.
 
 Before embarking on a change, adoption, or improvement program, you need to know the rationale behind that decision. So… why Agile?
 
@@ -39,7 +39,7 @@ These and other failures involve some combination of the following:
 
 To be effective, Agile organizational change needs to… well, involve the Organization! Not just the executives who have made the decree, often without fully understanding what the goals of the change are. This shouldn’t be a quick decision made at a two-day corporate retreat. It needs to be an ongoing effort to figure out the “why” collaboratively and share it effectively, being mindful of some essential ingredients.
 
-We address those ingredients in the next blog post: [Agile Change or Adoption – the Steps to Go from “Why” to “How”](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html)
+We address those ingredients in the next blog post: [Agile Change or Adoption – the Steps to Go from “Why” to “How”](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how)
 
 \[1\] Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution – Ben Kepes: [https://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution](https://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution)
 

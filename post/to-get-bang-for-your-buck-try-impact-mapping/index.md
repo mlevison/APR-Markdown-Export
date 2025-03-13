@@ -73,7 +73,7 @@ Session One: define expected business Goals and measurements Session Two: build 
 
 **1\. Identify the core business objective.** Do this by listing possible business Goals, and discussing which one is the current priority. Goals often tie back to money (how to save money, make money, or protect money). However,  Goals may tie back to other tangible benefits such as number of readers for a book; improvement in the team’s morale, etc. All of these are measurable in a meaningful way and, if achieved, would make a positive difference in their context. To find real Goals, ask: Why is this feature important? Or: How would it be useful? Keep iterating until you find the underlying Goal. \[[2](#footnotes)\]
 
-**Using the fictional company of our** [**Scrum by Example team**](/blog/scrum-by-example.html), our Impact Map example Goal is: Increase Monthly Book Sales and Profitability for the World Smallest Online Bookstore
+**Using the fictional company of our** [**Scrum by Example team**](/blog/scrum-by-example), our Impact Map example Goal is: Increase Monthly Book Sales and Profitability for the World Smallest Online Bookstore
 
 **2\. Define good measurements.**\[[3](#footnotes)\]
 

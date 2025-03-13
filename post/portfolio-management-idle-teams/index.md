@@ -10,12 +10,12 @@ categories:
   - "scrum"
   - "teams"
 coverImage: "scrum-alone-not-enough-portfolio-management.jpg"
-excerpt: '(_Continued from [Portfolio Management Part 1](/blog/portfolio-management.html) in the'
+excerpt: '(_Continued from [Portfolio Management Part 1](/blog/portfolio-management) in the'
 ---
 
 ![Beyond Scrum: Scrum Alone Is Not Enough - portfolio management](src/content/blog/portfolio-management-idle-teams/images/scrum-alone-not-enough-portfolio-management.jpg)
 
-(_Continued from [Portfolio Management Part 1](/blog/portfolio-management.html) in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough.html)._)
+(_Continued from [Portfolio Management Part 1](/blog/portfolio-management) in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough)._)
 
 Imagine that the Portfolio Management group is giving the individual Product Owners a budgetary envelope of an approximate size. As Product Owners, we expect to make small bets on individual User Stories that will deliver value to the customer. The Portfolio Management group wants to make mid-sized bets (>1 Team Sprint) that will deliver value to the customer.
 
@@ -30,7 +30,7 @@ If the ‘idle’ Team were to join another Team temporarily, it wouldn’t spee
 
 And if the idle workers start developing a Feature that is further ahead on the Backlog, it undermines the Product Owner and Portfolio Management’s priority settings and decisions, which leaves room for “hey, could you do me a quick favour” requests within the Sprint that weren’t in the Sprint backlog. By the time the rest of the Team gets to that feature in the backlog, they may find that the work the idle Team had made on it is obsolete and needs to be undone before they can make new progress.
 
-The best solution is have ‘idle’ Team members look at the board and see if there are bottlenecks that they can help with within their own Team. They could also pay down their technical debt, or spend time learning something that expands their capacity as a Team to work outside of their current area/column(s) on the Kanban chart. For example, [the Team in the previous examples](/blog/portfolio-management.html) might teach themselves something about testing or creating effective online help.
+The best solution is have ‘idle’ Team members look at the board and see if there are bottlenecks that they can help with within their own Team. They could also pay down their technical debt, or spend time learning something that expands their capacity as a Team to work outside of their current area/column(s) on the Kanban chart. For example, [the Team in the previous examples](/blog/portfolio-management) might teach themselves something about testing or creating effective online help.
 
 The most effective thing (in terms of delivering value) is to not focus on the idle worker at all, but continue to focus on finishing the work and maximizing value delivered to the customer. This is where Portfolio Management can really excel, by understanding this fundamental truth and facilitating it.
 

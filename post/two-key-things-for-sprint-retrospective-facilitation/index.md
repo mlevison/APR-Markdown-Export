@@ -34,7 +34,7 @@ While it’s challenging when the facilitator is an active team member, having t
 
 ### 2\. Own the Retrospective Plan, Keep it Interesting
 
-To be effective, you should have a plan but also change up your retrospectives so they don’t get boring and predictable. If they’re always [the same old song and nothing improves](/blog/same-old-song-in-sprint-retrospective.html) as a result of the conversations, team members will become disengaged and miss out on the benefits of a well-run sprint retrospective.
+To be effective, you should have a plan but also change up your retrospectives so they don’t get boring and predictable. If they’re always [the same old song and nothing improves](/blog/same-old-song-in-sprint-retrospective) as a result of the conversations, team members will become disengaged and miss out on the benefits of a well-run sprint retrospective.
 
 As the facilitator, you own the design of the retrospective. You decide which activities fit the team’s circumstances and mood, so be mindful of your choices. For example, if your team had trust issues last Sprint, then don’t plan an activity like Story Oscars\[[2](#footnotes)\] that focuses on why a User Story went wrong, or there’s a good chance it will turn into a blame-and-shame session. In a situation like that, you’d be far better off to pick an exercise that is likely to promote a Systems Thinking mindset, so that the wider context becomes visible before you try to deal with trust issues.
 

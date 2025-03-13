@@ -16,11 +16,11 @@ excerpt: 'Picking up from: [Learning How to'
 
 ![Different colors sliced apple - image licensed from Photodune](src/content/blog/scrummaster-tales-story-splitting-fun/images/photodune-2996181-different-colors-sliced-apple-xs.jpg)
 
-Picking up from: [Learning How to Estimate](/blog/scrummaster-tales-learning-how-to-estimate.html)
+Picking up from: [Learning How to Estimate](/blog/scrummaster-tales-learning-how-to-estimate)
 
 The team are still in the Backlog Grooming/Refinement session. They’ve estimated a heap of stories and spotted several that need better Acceptance Criteria. However, there are several stories that Product Owner Paula would like to have worked on which are too large to commit to in a single Sprint. While they could estimate the Stories as they are, this seems like a waste of time. They’re better off getting out the scalpel and splitting the stories into smaller parts.
 
-_First a quick reminder from – [Why Split User Stories](/blog/story-slicing-how-small-is-enough.html)_:
+_First a quick reminder from – [Why Split User Stories](/blog/story-slicing-how-small-is-enough)_:
 
 Why not just give the team large stories that span iterations. Why slice those stories into smaller parts? A number of reasons:
 
@@ -75,7 +75,7 @@ N.B. If the dependency is just around sizing/effort then it's okay for the team 
 
 There are several dozen interesting ways to split stories; some more ideas and examples are found in:
 
-[https://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories/](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/) [https://agilepainrelief.com/blog/more-notes-on-story-splitting.html](/blog/more-notes-on-story-splitting.html) [https://www.agileforall.com/2009/12/10/new-to-agile-learn-how-to-split-stories/](https://agileforall.com/new-to-agile-learn-how-to-split-stories/) [https://xp123.com/articles/twenty-ways-to-split-stories/](https://xp123.com/articles/twenty-ways-to-split-stories/) [https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/](https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/) [https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/](https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/)
+[https://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories/](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/) [https://agilepainrelief.com/blog/more-notes-on-story-splitting.html](/blog/more-notes-on-story-splitting) [https://www.agileforall.com/2009/12/10/new-to-agile-learn-how-to-split-stories/](https://agileforall.com/new-to-agile-learn-how-to-split-stories/) [https://xp123.com/articles/twenty-ways-to-split-stories/](https://xp123.com/articles/twenty-ways-to-split-stories/) [https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/](https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/) [https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/](https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/)
 
 What problems have you had splitting stories? How did you split the stories in the end? What would you do differently today?
 

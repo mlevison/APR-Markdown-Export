@@ -21,9 +21,9 @@ excerpt: '(Continued from _Agile Change or Adoption Always Starts with'
 
 ![Be Always Changing - vision to strategy - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-turn-vision-into-strategy/images/Be-Always-Changing-vision-to-strategy.jpg)
 
-(Continued from _Agile Change or Adoption Always Starts with Why_ : [1](/blog/agile-change-or-adoption-always-starts-with-why.html) , [2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html) , [3](/blog/agile-change-or-adoption-sense-your-current-culture.html) , [4](/blog/agile-change-or-adoption-create-a-vision.html) )
+(Continued from _Agile Change or Adoption Always Starts with Why_ : [1](/blog/agile-change-or-adoption-always-starts-with-why) , [2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how) , [3](/blog/agile-change-or-adoption-sense-your-current-culture) , [4](/blog/agile-change-or-adoption-create-a-vision) )
 
-We’re already familiar with how Story Maps are an excellent way to help development teams visualize the work involved in building a large product. They act as stepping-stones between the initial vision and the resulting deliverable user stories. But Story Maps can serve a similar purpose in Organizational Change, too! If the Story Map (or Organizational Change Map) is created as a collaborative activity between the Executives and the people who will implement the changes, the activity becomes a form of Catchball, [as discussed in the previous post](/blog/agile-change-or-adoption-create-a-vision.html) . The Story Map then becomes the Strategy.
+We’re already familiar with how Story Maps are an excellent way to help development teams visualize the work involved in building a large product. They act as stepping-stones between the initial vision and the resulting deliverable user stories. But Story Maps can serve a similar purpose in Organizational Change, too! If the Story Map (or Organizational Change Map) is created as a collaborative activity between the Executives and the people who will implement the changes, the activity becomes a form of Catchball, [as discussed in the previous post](/blog/agile-change-or-adoption-create-a-vision) . The Story Map then becomes the Strategy.
 
 But collaboration is the key. Both Vision and Strategy should be created with input from the whole organization. Often they’re created in a Catchball / Story Map process mentioned above, but there is an alternative approach, such as an X-Matrix.
 
@@ -49,6 +49,6 @@ They reframe them as more positive goals:
 
 ![Worlds Smallest Online Bookstore Vision for Improvement - image by Agile Pain Relief Consulting with elements from Freepik](src/content/blog/agile-change-or-adoption-turn-vision-into-strategy/images/WSOBS-Vision-for-Improvement.jpeg)
 
-Next step: [Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes.html)
+Next step: [Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes)
 
 Image attributions: Agile Pain Relief, Karl Scotland, Agile Pain Relief with elements from freepik.com

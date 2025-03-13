@@ -7,13 +7,13 @@ coverImage: "agile-2009-conference-logo.png"
 excerpt: '- I found only one bad session. - I saw a lot of old friends and made some new ones (Kari,'
 ---
 
-![agile 2009 conference logo](src/content/blog/agile-2009-roundup/images/agile-2009-conference-logo.png) I’ve been home for a few days and have some time to digest what I learned. More of sessions were interactive this year, so I have fewer notes and can write fewer articles than last year ([Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html)).
+![agile 2009 conference logo](src/content/blog/agile-2009-roundup/images/agile-2009-conference-logo.png) I’ve been home for a few days and have some time to digest what I learned. More of sessions were interactive this year, so I have fewer notes and can write fewer articles than last year ([Agile 2008 Post Roundup](/blog/agile-2008-post-roundup)).
 
 ## **The Good**:
 
 - I found only one bad session.
 - I saw a lot of old friends and made some new ones (Kari, Mike S, Gerry, Xavier, Rachel, Liz, Doc, among many)
-- The food was a bit better than [last year](/blog/agile-2008-a-personal-retrospective.html). Although, as Rachel Davies explained, it’s very difficult to get good-quality nutritious food from a hotel at a price the conference can afford.
+- The food was a bit better than [last year](/blog/agile-2008-a-personal-retrospective). Although, as Rachel Davies explained, it’s very difficult to get good-quality nutritious food from a hotel at a price the conference can afford.
 - Open spaceI made some use of it to join random sessions, but mostly I just networked.
 - Free one-on-one consulting. I managed to help one free client over the course of an hour.
 - It was easy to find stuff.
@@ -74,7 +74,7 @@ Help me to see… corporate culture (Tobias Mayer, Lyssa Adkins). Trying to desc
 - Every time the question is asked the next person in the circle tries to explain how it fits in.
 - If the question has still not been satisfied after three tries, then start again at the beginning.
 
-[Learning: the Best Approaches for Your Brain](/blog/learning-best-approaches-for-your-brain-slide-deck.html) (Linda Rising and I). I was surprised at how well this session went. We managed to attract an audience of 65–75 people, and most seemed engaged. We asked the audience to produce a play that represented something they learned. The idea was that planning and acting out a play would help integrate the information and make this the attendees’ own. According to the feedback forms, at least two people were intimidated and didn’t understand the intent. Most of the rest of the audience got into the game so much so that we had two very good skits performed at the end, including JR Jenks playing on a banjo.
+[Learning: the Best Approaches for Your Brain](/blog/learning-best-approaches-for-your-brain-slide-deck) (Linda Rising and I). I was surprised at how well this session went. We managed to attract an audience of 65–75 people, and most seemed engaged. We asked the audience to produce a play that represented something they learned. The idea was that planning and acting out a play would help integrate the information and make this the attendees’ own. According to the feedback forms, at least two people were intimidated and didn’t understand the intent. Most of the rest of the audience got into the game so much so that we had two very good skits performed at the end, including JR Jenks playing on a banjo.
 
 **Thursday**
 

@@ -31,7 +31,7 @@ A User Story is a tool to move the focus from What we’re building (what often 
 - to focus on the business problem that needs to be solved, not the solution to that problem.
 - to start a conversation about why a problem needs solving, who needs it, and what problem to solve.
 - to demonstrate a need in as concise and simple a form as possible.
-- to be a [small, vertical slice of functionality](/blog/story-slicing-how-small-is-enough.html) – if we were making a cake, this is something that goes through all the layers – as opposed to delivering only the icing. In technical terms: through the entire system, not a description of the component layers or technical need (_as illustrated by the picture_). Traditional approaches often describe work to be done in technical layers (e.g. Business Logic or Database). This leads to waste in the form of Over Production. User Stories avoid this waste by challenging teams to build only the pieces in each layer required at that moment.
+- to be a [small, vertical slice of functionality](/blog/story-slicing-how-small-is-enough) – if we were making a cake, this is something that goes through all the layers – as opposed to delivering only the icing. In technical terms: through the entire system, not a description of the component layers or technical need (_as illustrated by the picture_). Traditional approaches often describe work to be done in technical layers (e.g. Business Logic or Database). This leads to waste in the form of Over Production. User Stories avoid this waste by challenging teams to build only the pieces in each layer required at that moment.
 
 A User Story is an invitation to a conversation.
 
@@ -67,7 +67,7 @@ That’s **why** the Definition of “Done” exists: to ensure that the members
 
 This is intended to be applicable to _all_ items in the Product Backlog, not just an individual User Story.
 
-Here is an example of a simplified Definition of “Done” from the World’s Smallest Online Bookstore that we use as a model in our [Scrum by Example series](/blog/scrum-by-example.html):
+Here is an example of a simplified Definition of “Done” from the World’s Smallest Online Bookstore that we use as a model in our [Scrum by Example series](/blog/scrum-by-example):
 
 <table class="postTable" style="width: 100%;" border="1"><tbody><tr style="border: 1px solid black; background: #cccccc;"><td><strong>Item</strong></td></tr><tr style="border: 1px solid black;"><td>Whenever changes are made to existing code, a Unit Test is written to cover that method</td></tr><tr style="border: 1px solid black;"><td>Usability Review Completed</td></tr><tr style="border: 1px solid black;"><td>Tested on iPad, iPhone and Android Phone</td></tr><tr style="border: 1px solid black;"><td>Performance Tests run</td></tr><tr style="border: 1px solid black;"><td>Code Peer Reviewed (if not written using Pair Programming)</td></tr><tr style="border: 1px solid black;"><td>End-User Documentation has been updated</td></tr></tbody></table>
 
@@ -84,7 +84,7 @@ To summarize, the goals of “Done” are:
 
 ## Acceptance Criteria
 
-While a User Story is deliberately vague to allow the Team freedom to decide the precise details of how something will be built, Acceptance Criteria are the precise details. They are unique to each User Story. _(For more details on how and when the Acceptance Criteria are discovered see: [the Lifecycle of a User Story and Acceptance criteria](/blog/lifecycle-of-a-user-story.html))_
+While a User Story is deliberately vague to allow the Team freedom to decide the precise details of how something will be built, Acceptance Criteria are the precise details. They are unique to each User Story. _(For more details on how and when the Acceptance Criteria are discovered see: [the Lifecycle of a User Story and Acceptance criteria](/blog/lifecycle-of-a-user-story))_
 
 The goals of Acceptance Criteria are:
 

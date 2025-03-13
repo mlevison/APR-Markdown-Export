@@ -14,7 +14,7 @@ excerpt: '(_Presented as Part 4 in the [Scrum Alone is Not Enough'
 
 ![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/taking-organizational-improvement-with-scrum-seriously/images/scrum-alone-not-enough-organizational-improvement.jpg)
 
-(_Presented as Part 4 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough.html), and accompanied by this [worked example](/blog/taking-organizational-improvement-seriously-case-study.html) of Organizational Improvement in WorldsSmallestOnlineBookstore._)
+(_Presented as Part 4 in the [Scrum Alone is Not Enough series](/blog/scrum-alone-is-not-enough), and accompanied by this [worked example](/blog/taking-organizational-improvement-seriously-case-study) of Organizational Improvement in WorldsSmallestOnlineBookstore._)
 
 If Agile change initiatives don’t produce at least the doubling in productivity that is possible, it’s often because Scrum is used as a wrapper around the current state of work, but the organization has failed to introduce the fundamental changes that Scrum should inspire.
 
@@ -22,9 +22,9 @@ Failure happens when Senior Management doesn’t understand the impact of their 
 
 Some managers don’t understand the principles that underlie Scrum: self-organization, the importance of delivering working software every sprint, the impact of multi-tasking, etc. They fail to recognize that Scrum isn’t about improving one team in isolation and, as a result, they can act in contradiction to the principles.
 
-Other managers have teams that have established Portfolio [Kanban Boards](/blog/kanban-portfolio-view.html) but they don’t review the boards with their teams. Management hears about problems, but lacks proper understanding of their context. Lacking context, management fails to act.
+Other managers have teams that have established Portfolio [Kanban Boards](/blog/kanban-portfolio-view) but they don’t review the boards with their teams. Management hears about problems, but lacks proper understanding of their context. Lacking context, management fails to act.
 
-Either way, people in the organization begin to feel that Scrum is just being wrapped around the existing state and [that nothing changes](/blog/scrum-without-removing-impediments-isnt-scrum.html). They feel that Scrum is only being paid lip service.
+Either way, people in the organization begin to feel that Scrum is just being wrapped around the existing state and [that nothing changes](/blog/scrum-without-removing-impediments-isnt-scrum). They feel that Scrum is only being paid lip service.
 
 Scrum isn’t intended to work this way. **Scrum is a tool to optimize the whole organization.**
 
@@ -60,7 +60,7 @@ Select the Org Team \[[1](#anchor1)\] with an eye to personnel who can bring abo
 
 In many organizations this will mean the Org Team will be comprised of Directors or Vice Presidents; in smaller organizations this will include the CEO/President.
 
-Some of these people will also be part of the [Portfolio Management Group](/blog/portfolio-management.html). It’s also important to look beyond the existing Management team to ensure we get greater diversity of thought, and that existing approaches are challenged.
+Some of these people will also be part of the [Portfolio Management Group](/blog/portfolio-management). It’s also important to look beyond the existing Management team to ensure we get greater diversity of thought, and that existing approaches are challenged.
 
 Since we’re going to utilize a Scrum-like approach to self-organize the Org Team, an individual who has a deep understanding of the organizational problems that the development teams face should be chosen to play **Product Owner**. In many cases this will be a Scrum Coach or an individual team’s ScrumMaster. The person needs a deep enough understanding of the issues to help bring clarity and provide a sense of priority.
 
@@ -76,7 +76,7 @@ The remaining team members, unlike a normal Scrum Team, will not be full time, h
 
 **Product Backlog – aka Organizational Improvement Queue**. Instead of a list of User Stories, the queue will consist of a list of changes or improvements. Like User Stories, it’s best if the items state the underlying problem rather than the solution. When the statements stay focused on the problem and not the solution, we keep the door open to more creative ideas than previously imagined.
 
-The Improvement Queue must be public and any team and their members should be able to add an item to it. In organizations where many of the teams are in the same place, it is best to maintain the queue next to the [Portfolio Kanban Board](/blog/kanban-portfolio-view.html), giving everyone a place to go and see a good summary of the state of the organization.
+The Improvement Queue must be public and any team and their members should be able to add an item to it. In organizations where many of the teams are in the same place, it is best to maintain the queue next to the [Portfolio Kanban Board](/blog/kanban-portfolio-view), giving everyone a place to go and see a good summary of the state of the organization.
 
 All of a good Product Owner’s standard prioritization tricks will come in handy here: Buy a Feature, Business Value Poker, Impact Mapping, and more. The key to all of these activities is to ensure that they involve stakeholders: Development Team Members, Team ScrumMasters, and others who are affected by the changes.
 
@@ -101,7 +101,7 @@ _So far we have established the **Goal** – why an organization would create an
 
 **Product Backlog/Organizational Queue Refinement \[[2](#anchor2)\]** - (the Org Team version of Product Backlog)
 
-Just as effective Development Teams [refine their Product Backlog](/blog/scrum-product-backlog-refinement.html), the Org Team does the same at least once per sprint for a couple of hours at a time, to ensure the Organizational Improvement Queue is ready in detail for the next couple of Sprints and to ensure that they have a sufficient understanding of the work in the medium term (3+ Sprints).
+Just as effective Development Teams [refine their Product Backlog](/blog/scrum-product-backlog-refinement), the Org Team does the same at least once per sprint for a couple of hours at a time, to ensure the Organizational Improvement Queue is ready in detail for the next couple of Sprints and to ensure that they have a sufficient understanding of the work in the medium term (3+ Sprints).
 
 The recommended focus is on Organizational Challenges rather than Stories, but the outline remains the same. Also, I have not found the basic planning poker estimation to be as effective in this context. Our Organizational Team needs to meet a group of ScrumMasters and members from Development Teams to refine their collective understanding of the problems that need to be solved. This will be a time-consuming exercise. Some clients have short-changed this, and I’ve seen them waste considerable time solving the wrong problem.
 
@@ -154,9 +154,9 @@ From the 2015 State of Scrum Report: "_Respondents report that senior management
 
 _Alternatives: Some people take the same approach except the Org Improvement Team uses Kanban instead of Scrum. Personally, I prefer them to use the same approach as the majority of their development teams, but whether they use Scrum or Kanban is less important than clear and visible progress towards solving their organizational impediments._
 
-Scrum requires real change from an organization at all levels, not just the team level. This pattern describes one way of ensuring that the executives are involved, that this becomes the core of their work, and that they truly understand Scrum. (See this in action though the [case study example](/blog/taking-organizational-improvement-seriously-case-study.html).)
+Scrum requires real change from an organization at all levels, not just the team level. This pattern describes one way of ensuring that the executives are involved, that this becomes the core of their work, and that they truly understand Scrum. (See this in action though the [case study example](/blog/taking-organizational-improvement-seriously-case-study).)
 
-Integral to doing this well is an approach to Visualizing all the work items (see Portfolio Kanban - [part 1](/blog/kanban-portfolio-view.html), [part 2](/blog/kanban-portfolio-view-continued.html)) and Managing the work itself (see Portfolio Management - [part 1](/blog/portfolio-management.html), [part 2](/blog/portfolio-management-idle-teams.html)).
+Integral to doing this well is an approach to Visualizing all the work items (see Portfolio Kanban - [part 1](/blog/kanban-portfolio-view), [part 2](/blog/kanban-portfolio-view-continued)) and Managing the work itself (see Portfolio Management - [part 1](/blog/portfolio-management), [part 2](/blog/portfolio-management-idle-teams)).
 
 ~
 

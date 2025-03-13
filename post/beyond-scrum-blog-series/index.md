@@ -26,53 +26,53 @@ We've had requests for a single page that lists all the ongoing [Beyond Scrum bl
 
 ![Beyond Scrum: Scrum Alone Is Not Enough](src/content/blog/beyond-scrum-blog-series/images/scrum-alone-not-enough-2-1024x985.jpg)
 
-[Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough.html)
+[Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough)
 
-[Simplicity](/blog/simplicity.html)
+[Simplicity](/blog/simplicity)
 
-[Scrum Development Team – Who’s In It?](/blog/scrum-development-team-whos-in-it.html)
+[Scrum Development Team – Who’s In It?](/blog/scrum-development-team-whos-in-it)
 
-[What is the Recommended Scrum Team Size?](/blog/scrum-team-size.html)
+[What is the Recommended Scrum Team Size?](/blog/scrum-team-size)
 
-[Specialists Are Overrated](/blog/specialists-are-overrated.html)
+[Specialists Are Overrated](/blog/specialists-are-overrated)
 
-[How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html)
+[How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members)
 
-["Because Our Competitors Are" is No Reason to Become an Agile Organization](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization.html)
+["Because Our Competitors Are" is No Reason to Become an Agile Organization](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization)
 
-[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework.html)
+[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework)
 
-[Don’t Inflict Scrum or Kanban on Teams](/blog/dont-inflict-scrum-or-kanban-on-teams.html)
+[Don’t Inflict Scrum or Kanban on Teams](/blog/dont-inflict-scrum-or-kanban-on-teams)
 
-[Taking Organizational Improvement with Scrum Seriously](/blog/taking-organizational-improvement-with-scrum-seriously.html)
+[Taking Organizational Improvement with Scrum Seriously](/blog/taking-organizational-improvement-with-scrum-seriously)
 
-[Taking Organizational Improvement Seriously – Case Study](/blog/taking-organizational-improvement-seriously-case-study.html)
+[Taking Organizational Improvement Seriously – Case Study](/blog/taking-organizational-improvement-seriously-case-study)
 
-[Agile Change or Adoption Always Starts With "Why"](/blog/agile-change-or-adoption-always-starts-with-why.html)
+[Agile Change or Adoption Always Starts With "Why"](/blog/agile-change-or-adoption-always-starts-with-why)
 
-[Agile Change or Adoption: the Steps to Go from "Why" to "How"](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html)
+[Agile Change or Adoption: the Steps to Go from "Why" to "How"](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how)
 
-[Agile Change or Adoption: Sense Your Current Culture](/blog/agile-change-or-adoption-sense-your-current-culture.html)
+[Agile Change or Adoption: Sense Your Current Culture](/blog/agile-change-or-adoption-sense-your-current-culture)
 
-[Agile Change or Adoption: Create a Vision](/blog/agile-change-or-adoption-create-a-vision.html)
+[Agile Change or Adoption: Create a Vision](/blog/agile-change-or-adoption-create-a-vision)
 
-[Agile Change or Adoption: Turn Vision into Strategy](/blog/agile-change-or-adoption-turn-vision-into-strategy.html)
+[Agile Change or Adoption: Turn Vision into Strategy](/blog/agile-change-or-adoption-turn-vision-into-strategy)
 
-[Agile Change or Adoption: Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes.html)
+[Agile Change or Adoption: Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes)
 
-[How to Be an Effective Manager in Scrum](/blog/how-to-be-an-effective-manager-in-scrum.html)
+[How to Be an Effective Manager in Scrum](/blog/how-to-be-an-effective-manager-in-scrum)
 
-[The Role of Agile Managers: Why Job Titles Are Dangerous](/blog/the-role-of-agile-managers-why-job-titles-are-dangerous.html)
+[The Role of Agile Managers: Why Job Titles Are Dangerous](/blog/the-role-of-agile-managers-why-job-titles-are-dangerous)
 
-[Kanban Portfolio View](/blog/kanban-portfolio-view.html)
+[Kanban Portfolio View](/blog/kanban-portfolio-view)
 
-[Portfolio Management](/blog/portfolio-management.html)
+[Portfolio Management](/blog/portfolio-management)
 
-[Red-Yellow-Green Status Reports and Other Models – How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html)
+[Red-Yellow-Green Status Reports and Other Models – How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth)
 
-[Bell Curves and Measuring Badly](/blog/bell-curves-and-measuring-badly.html)
+[Bell Curves and Measuring Badly](/blog/bell-curves-and-measuring-badly)
 
-[Measurement for Scrum - What are Appropriate Measures?](/blog/measurement-for-scrum-what-are-appropriate-measures.html)
+[Measurement for Scrum - What are Appropriate Measures?](/blog/measurement-for-scrum-what-are-appropriate-measures)
 
  
 

@@ -19,9 +19,9 @@ coverImage: "photodune-1447482-measures-xs.jpg"
 excerpt: 'This post has now been replaced by the updated and expanded [Red-Yellow-Green Status'
 ---
 
-This post has now been replaced by the updated and expanded [Red-Yellow-Green Status Reports and Other Models - How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html) post. Please update all bookmarks and links accordingly.
+This post has now been replaced by the updated and expanded [Red-Yellow-Green Status Reports and Other Models - How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth) post. Please update all bookmarks and links accordingly.
 
-We’ve previously seen that our [mental models](/blog/bell-curves-and-measuring-badly.html) often make false assumptions due to cognitive bias. Giving a Single number in a report has a similar problem.
+We’ve previously seen that our [mental models](/blog/bell-curves-and-measuring-badly) often make false assumptions due to cognitive bias. Giving a Single number in a report has a similar problem.
 
 The classic Agile number is ‘Velocity’: the average rate at which your team delivers work. It is often shared as just one number. E.g. our team achieves 20 pts a Sprint.
 

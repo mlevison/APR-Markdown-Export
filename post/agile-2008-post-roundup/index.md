@@ -81,9 +81,9 @@ Raghav Ramesh: [Agile2008](https://ragstorooks.wordpress.com/2008/08/19/agile200
 
 My own efforts:
 
-[Agile 2008 a Personal Retrospective](/blog/agile-2008-a-personal-retrospective.html) and on InfoQ: Agile Alliance Functional Test Workshop
+[Agile 2008 a Personal Retrospective](/blog/agile-2008-a-personal-retrospective) and on InfoQ: Agile Alliance Functional Test Workshop
 
-[Coaching Self Organizing Teams](https://www.infoq.com/news/2008/08/coaching_teams) and [Part Two](/blog/coaching-self-organizing-teams.html) (Joseph Pelrine)
+[Coaching Self Organizing Teams](https://www.infoq.com/news/2008/08/coaching_teams) and [Part Two](/blog/coaching-self-organizing-teams) (Joseph Pelrine)
 
 [Touchy Feely Impediments to Agile Adoption](https://www.infoq.com/news/2008/08/agile_impediments) (Amr Elssamadisy)
 

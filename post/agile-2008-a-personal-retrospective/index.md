@@ -13,7 +13,7 @@ I already wrote about my top sessions for InfoQ so I will just link to them inst
 
 [Agile Alliance Functional Test Workshop](https://www.infoq.com/news/2008/08/functional_test_results)
 
-[Coaching Self Organizing Teams](https://www.infoq.com/news/2008/08/coaching_teams) and [Part Two](/blog/coaching-self-organizing-teams.html) (Joseph Pelrine)
+[Coaching Self Organizing Teams](https://www.infoq.com/news/2008/08/coaching_teams) and [Part Two](/blog/coaching-self-organizing-teams) (Joseph Pelrine)
 
 [Touchy Feely Impediments to Agile Adoption](https://www.infoq.com/news/2008/08/agile_impediments) (Amr Elssamadisy)
 

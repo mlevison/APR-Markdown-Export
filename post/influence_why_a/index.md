@@ -15,6 +15,6 @@ One of the things that I’ve enjoyed most is the relevance of the book to every
 
 In the coming weeks I will share what I’ve learned about Cialdani’s “Weapons of Influence” and how I’ve seen them used in the real world.
 
-Next up “[Weapons of Influence](/blog/why_are_we_so_e.html)” or why do automatic responses work so well.
+Next up “[Weapons of Influence](/blog/why_are_we_so_e)” or why do automatic responses work so well.
 
 _Thanks to Guy Kawasaki for helping me discover this book via his Top Ten List and reviewing it here [Book Review: Influence--Science and Practice](https://guykawasaki.com/book_review_inf/). If the rest of the books on his top ten list are this good I won't run out of reading for another few years. Now according to the Reciprocity Principle I should just have to ask Guy for a link to my blog._

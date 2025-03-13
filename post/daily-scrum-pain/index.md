@@ -17,7 +17,7 @@ excerpt: '_**Dramatis Personae**_ Steve – a ScrumMaster and the hero of our st
 
 _**Dramatis Personae**_ Steve – a ScrumMaster and the hero of our story Michael – another ScrumMaster for a different team Doug – a member of Steve’s team James – a member of Steve’s team Fred – a member of Steve’s team Paula – the Product Owner of Steve’s team
 
-Steve and the team are starting to reduce the rate of [production support interruptions](https://agilepainrelief.com/blog/scrum-production-support.html). The team is starting to collaborate more, but Steve notices that team members are still sometimes surprised by what others are doing. Wasn't that what their [Daily Scrum](/blog/modern-guide-to-daily-scrum-meeting.html) (also known as Daily Scrum Meeting or Daily Standup) was supposed to inform them on? Steve goes back and checks his trusty Scrum Sources:
+Steve and the team are starting to reduce the rate of [production support interruptions](https://agilepainrelief.com/blog/scrum-production-support). The team is starting to collaborate more, but Steve notices that team members are still sometimes surprised by what others are doing. Wasn't that what their [Daily Scrum](/blog/modern-guide-to-daily-scrum-meeting) (also known as Daily Scrum Meeting or Daily Standup) was supposed to inform them on? Steve goes back and checks his trusty Scrum Sources:
 
 - Daily Scrum should happen first thing in the morning.
 - Team members answer three questions: What did you do yesterday? What will you do today? What are your obstacles?
@@ -86,7 +86,7 @@ Steve takes Michael’s advice to heart and implements his suggestions. After on
 
 By keeping these principles front-of-mind and guiding their team toward them, ScrumMasters everywhere will be well on their way to facilitating successful Daily Scrums.
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 * * *
 

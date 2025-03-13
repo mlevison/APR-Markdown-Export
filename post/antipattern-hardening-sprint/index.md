@@ -25,9 +25,9 @@ Unfortunately, we also regularly see recurring patterns of ineffective behaviour
 
 > "An anti-pattern is just like a pattern, except that instead of a solution it gives something that looks superficially like a solution but isn't one." ~ Andrew Koenig\[[1](#footnotes)\]
 
-_To explore the topic more deeply, please see this [growing collection of articles](/blog/scrum-anti-patterns.html)._ 
+_To explore the topic more deeply, please see this [growing collection of articles](/blog/scrum-anti-patterns)._ 
 
-[![Anti-Patterns in Agile Banner Illustration](src/content/blog/antipattern-hardening-sprint/images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5.jpg " ")](/blog/scrum-anti-patterns.html)
+[![Anti-Patterns in Agile Banner Illustration](src/content/blog/antipattern-hardening-sprint/images/APR_Blog-Illustrations_June2019_Anti-Patterns_v5.jpg " ")](/blog/scrum-anti-patterns)
 
 Scrum as an approach is already designed to deal with the unpredictable, without having to force exceptions. Whenever a team creates an exception, such as a special Sprint to solve a challenge, it creates an Anti-Pattern, which often results in additional problems.
 
@@ -108,7 +108,7 @@ To reduce the number of manual tasks, a team could:
 
 - Take one or two test cases every Sprint and find ways to automate them. It is sometimes easier to automate in the area the team is already doing feature work. _Caveat: the default approach to test automation – automate the GUI \[[10](#footnotes)\] and watch the results – is often not effective in the long run. However, effective test automation is beyond the scope of this blog entry._
 - Slow down. Since automated testing will require new skills, the team needs to slow down and take time to learn. Too often, it is assumed that team members will learn by osmosis.
-- Prioritize fixing defects. Delaying the fix just increases the complexity of the eventual fix and the code base. If instead, the Product Owner puts defects at the top of the Product Backlog when they’re found, they’re also sending the team a clear message: focus on quality. Related to defects are those messes (incorrectly called “Technical Debt"\[[11](#footnotes)\]) in the code base that are below the level that the Product Owner can see. If they’re small (e.g. 15-30 minutes work) they should just be fixed right away. If they’re larger, they warrant [a discussion with the team](/blog/scrummaster-tales-technical-debt-is-slowing-the-team.html) on how that section of the code can be improved as part of their ongoing work.
+- Prioritize fixing defects. Delaying the fix just increases the complexity of the eventual fix and the code base. If instead, the Product Owner puts defects at the top of the Product Backlog when they’re found, they’re also sending the team a clear message: focus on quality. Related to defects are those messes (incorrectly called “Technical Debt"\[[11](#footnotes)\]) in the code base that are below the level that the Product Owner can see. If they’re small (e.g. 15-30 minutes work) they should just be fixed right away. If they’re larger, they warrant [a discussion with the team](/blog/scrummaster-tales-technical-debt-is-slowing-the-team) on how that section of the code can be improved as part of their ongoing work.
 
 Teams that follow this approach well should not only eliminate their Hardening Sprint, but they should also be able to join the groups that do true Continuous Deployment/Delivery.
 

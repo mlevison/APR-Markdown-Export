@@ -48,6 +48,6 @@ In short there is no sane or safe reason for protected variable and no circumsta
 
 This rant brought to you by the Eclipse foundation whose code has more than a few protected member variables. Again I ask my friends at Eclipse - why did anyone think this was a good idea?
 
-This is the second in an occasional series of posts on really bad coding practices. The first was [Don't call overridable methods in constructors](/blog/dont-call-overr.html).
+This is the second in an occasional series of posts on really bad coding practices. The first was [Don't call overridable methods in constructors](/blog/dont-call-overr).
 
 _BTW I really like Eclipse I just wish that there was better code quality. Really it doesn't take any more time and effort._

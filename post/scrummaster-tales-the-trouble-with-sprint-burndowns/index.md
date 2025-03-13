@@ -13,7 +13,7 @@ tags:
 excerpt: '_Julia and Rob – are personas used by the BookStore Team to keep them focused on the needs'
 ---
 
-![SprintBurndownEstimateHrsRemaining](src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownEstimateHrsRemaining.png)It’s six Sprints after the “[Overtime/Disastrous Release](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html)”, which set the team back by several months. During the current Sprint Planning, the Team committed to completing the following nine User Stories:
+![SprintBurndownEstimateHrsRemaining](src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownEstimateHrsRemaining.png)It’s six Sprints after the “[Overtime/Disastrous Release](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)”, which set the team back by several months. During the current Sprint Planning, the Team committed to completing the following nine User Stories:
 
 _Julia and Rob – are personas used by the BookStore Team to keep them focused on the needs of real users. Julia is a Frequent Book Buyer and Rob is Rookie or First Time Book Buyer._
 
@@ -56,7 +56,7 @@ Clearly Team ‘A’ is better off even though they have more task hours remaini
 **Tricks that help**
 
 - Measure your Sprint Burndown in Number of Stories or Story Points. Only burndown when a Story is completed.
-- Limit WIP (Work In Progress) - this forces the team to finish Stories, collaborate, and share knowledge. Rally showed in a [recent study](/blog/stable-teams-really-do-matter.html) that reduced WIP correlates with getting more Stories to Done and fewer Defects.
+- Limit WIP (Work In Progress) - this forces the team to finish Stories, collaborate, and share knowledge. Rally showed in a [recent study](/blog/stable-teams-really-do-matter) that reduced WIP correlates with getting more Stories to Done and fewer Defects.
 - Choose a clear and effective [Sprint Goal](https://www.romanpichler.com/blog/sprint-goal-template/) - in this case a good Sprint Goal might have been: “By the end of the Sprint the Basic Gift Card should be available”. The Sprint Goal allows team members to ensure that their work is driving towards a greater goal. It helps maintain focus more effectively than a random grab bag of Stories. And if something needs to be dropped, it gives greater clarity around that choice.
 
 Some of the most effective Teams I’ve seen dispense with Sprint Burndowns altogether and just focus on the flow of work across the Scrum Wall. They focus on getting the Stories themselves to completion and the tasks are just aids. For those who prefer to use a Sprint Burndown consider - Sample Improved Sprint Burndown:
@@ -69,6 +69,6 @@ If the team had this, they would have seen sooner that they weren’t going to g
 
 Have you been burned by Sprint Burndowns?
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Images by Agile Pain Relief Consulting.

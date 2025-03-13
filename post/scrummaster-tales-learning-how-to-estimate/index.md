@@ -13,16 +13,16 @@ tags:
   - "scrum-by-example"
   - "sprint-planning"
 coverImage: "photodune-1602425-cards-hand-xs.jpg"
-excerpt: '_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster'
+excerpt: '_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster'
 ---
 
 ![Hand of cards - - image licensed from Photodune](src/content/blog/scrummaster-tales-learning-how-to-estimate/images/photodune-1602425-cards-hand-xs.jpg)
 
-_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
+_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
-Product Owner Paula has learned from her past mistakes (See [Not Ready for Planning](/blog/the-scrummaster-tales.html)) and she now holds Backlog Grooming/Refinement Sessions whenever she has enough Stories to be worth Estimating (typically every 2-3 Sprints). During these meetings, team members estimate New Stories, split Large Stories, and develop Acceptance Criteria.
+Product Owner Paula has learned from her past mistakes (See [Not Ready for Planning](/blog/the-scrummaster-tales)) and she now holds Backlog Grooming/Refinement Sessions whenever she has enough Stories to be worth Estimating (typically every 2-3 Sprints). During these meetings, team members estimate New Stories, split Large Stories, and develop Acceptance Criteria.
 
-With 10 new Stories and a couple of "Epics" that need to be split, Paula has scheduled a Grooming session for the middle of the Sprint. She has invited all the team members to attend; Kirby (see [New People on the Team](https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team.html)) comes but is grumbling, "I don’t see the point in this. It's just going to waste precious coding time. Why can’t this just happen in Sprint Planning?" (_Editor – Kirby hasn’t quite found his rhythm yet_). Paula reminds the team that the meeting exists so the team can ensure that Product Backlog is well prepared for the next Sprint Planning meeting. In addition, it helps her understand how much of the backlog they can realistically complete before the next release in three month’s time (_Editor – yes they have infrequent releases_).
+With 10 new Stories and a couple of "Epics" that need to be split, Paula has scheduled a Grooming session for the middle of the Sprint. She has invited all the team members to attend; Kirby (see [New People on the Team](https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team)) comes but is grumbling, "I don’t see the point in this. It's just going to waste precious coding time. Why can’t this just happen in Sprint Planning?" (_Editor – Kirby hasn’t quite found his rhythm yet_). Paula reminds the team that the meeting exists so the team can ensure that Product Backlog is well prepared for the next Sprint Planning meeting. In addition, it helps her understand how much of the backlog they can realistically complete before the next release in three month’s time (_Editor – yes they have infrequent releases_).
 
 She asks that they start estimating her first new story:
 
@@ -35,7 +35,7 @@ Team members start asking questions requiring clarification:
 - Does this include being able to see the book in the shopping cart? _Paula - No._
 - What if we don’t have accounts implemented when we start this story? _Paula - Then just use a fake/sample account for now._
 
-When the questions peter out, Team Members begin flipping through their Planning Poker™ cards (_I will have some for my readers soon_),looking for the right numbers. Kirby just looks around in confusion. Nobody had checked to see if he understood the estimation process. There was a pause and Scrum Master Steve asked, “What do you know about our estimation process?” The reply was, “Nothing.” Steve asked if he understood the flaws of traditional estimation – Kirby was sure he had this one down cold, “Yeah, you need to double the figures and then add a fudge factor, but never tell the developers otherwise their work will expand to fit the time available.” There was some nervous laughter, as Kirby has had trouble fitting into the team in the past (see [New People on the Team](https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team.html)).
+When the questions peter out, Team Members begin flipping through their Planning Poker™ cards (_I will have some for my readers soon_),looking for the right numbers. Kirby just looks around in confusion. Nobody had checked to see if he understood the estimation process. There was a pause and Scrum Master Steve asked, “What do you know about our estimation process?” The reply was, “Nothing.” Steve asked if he understood the flaws of traditional estimation – Kirby was sure he had this one down cold, “Yeah, you need to double the figures and then add a fudge factor, but never tell the developers otherwise their work will expand to fit the time available.” There was some nervous laughter, as Kirby has had trouble fitting into the team in the past (see [New People on the Team](https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team)).
 
 ## Analysis
 
@@ -95,6 +95,6 @@ With Estimation the focus is on how big the thing is that we’re building, but 
 
 What have you learned from your Estimation Process? What Estimation tips do you have?
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Images via: [https://photodune.net/](https://photodune.net/)

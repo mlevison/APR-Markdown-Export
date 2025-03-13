@@ -17,7 +17,7 @@ coverImage: "photodune-8431094-done-text-and-check-mark-xs.jpg"
 excerpt: 'The team was able to get from a very large Story: “As a first time book buyer I want to'
 ---
 
-![Done image licensed from Photodune](src/content/blog/creating-acceptance-criteria-waiting-too-long/images/photodune-8431094-done-text-and-check-mark-xs.jpg) The recent [Backlog Refinement](/blog/scrummaster-tales-story-splitting-fun.html) session helped split the upcoming User Stories.
+![Done image licensed from Photodune](src/content/blog/creating-acceptance-criteria-waiting-too-long/images/photodune-8431094-done-text-and-check-mark-xs.jpg) The recent [Backlog Refinement](/blog/scrummaster-tales-story-splitting-fun) session helped split the upcoming User Stories.
 
 The team was able to get from a very large Story: “As a first time book buyer I want to read a trustworthy review before I buy a book” to:
 
@@ -78,6 +78,6 @@ A few days later during the Sprint Planning meeting, the team spends far less ti
 
 When do you write your Acceptance Criteria?
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Images via: [https://photodune.net/](https://photodune.net/)

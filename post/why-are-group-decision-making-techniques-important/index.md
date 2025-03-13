@@ -20,7 +20,7 @@ Another reason good techniques are needed is because of cognitive biases.\[[1](#
 
 ### Establish Decision-making Policies
 
-The first thing to decide is how your group is going to handle decisions. Once that’s determined, add it to your [Working Agreements](/blog/team-friction-inspires-working-agreements.html). A defined policy will help people feel that their ideas got the same reception as anyone else’s ideas. When a team doesn’t have an agreement on their decision-making rule, then a team member might feel blindsided if, for example, a majority vote is called for and they were not expecting that. There should be no surprises.
+The first thing to decide is how your group is going to handle decisions. Once that’s determined, add it to your [Working Agreements](/blog/team-friction-inspires-working-agreements). A defined policy will help people feel that their ideas got the same reception as anyone else’s ideas. When a team doesn’t have an agreement on their decision-making rule, then a team member might feel blindsided if, for example, a majority vote is called for and they were not expecting that. There should be no surprises.
 
 ### Techniques for Low Cost or Reversible Decisions
 
@@ -135,7 +135,7 @@ Whatever the outcome, we need to be careful of “Resulting”\[[10](#footnotes)
 
 \[7\] [https://thedecisionlab.com/biases/the-sunk-cost-fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy) – commonly known as “throwing good money after bad”
 
-\[8\] [https://agilepainrelief.com/blog/future-perspective-for-organizational-change.html](/blog/future-perspective-for-organizational-change.html)
+\[8\] [https://agilepainrelief.com/blog/future-perspective-for-organizational-change.html](/blog/future-perspective-for-organizational-change)
 
 \[9\] Attributed to Gerald Weinberg: [https://en.wikipedia.org/wiki/Gerald\_Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg)
 

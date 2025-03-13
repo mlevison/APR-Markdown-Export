@@ -32,7 +32,7 @@ _A Scrum Sprint is incomplete when the Team can't deliver the working features t
 - Brad – the Team’s Business Analyst
 - Ian – the Team’s Business Logic programming specialist
 
-Last time we met [Steve](/blog/scrum-by-example.html), he had discovered that the Product Backlog had not been discussed and estimated by the Product Owner and the Team. At Steve’s suggestion, the Team delayed the Sprint to have a [Product Backlog Refinement meeting](/blog/scrum-product-backlog-refinement.html).
+Last time we met [Steve](/blog/scrum-by-example), he had discovered that the Product Backlog had not been discussed and estimated by the Product Owner and the Team. At Steve’s suggestion, the Team delayed the Sprint to have a [Product Backlog Refinement meeting](/blog/scrum-product-backlog-refinement).
 
 The result was that all User Stories at the top of the Product Backlog were properly discussed with the Product Owner, Stories that were too large were split into smaller ones, and all the Stories now have estimates. They have now completed Sprint Planning and started their Sprint on developing features for the World’s Smallest Online Bookstore.
 
@@ -47,7 +47,7 @@ Coming out of the Sprint planning meeting, the Team has committed to five Storie
 - As a book buyer, I want to pay for my book(s) quickly so I can get my purchase home – Story Points: 13
 - As a book buyer, I want a confirmation message so I can see that the purchase was successful – Story Points: 2
 
-The Team starts work on the first four Stories right away. Tonia (Quality Assurance specialist), spends the first few days working with Brad (Business Analyst). They clarify the [acceptance criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html) and she designs her test cases or test plan. When the acceptance criteria are unclear, they circle back with Paula (Product Owner) to get the best answers.
+The Team starts work on the first four Stories right away. Tonia (Quality Assurance specialist), spends the first few days working with Brad (Business Analyst). They clarify the [acceptance criteria](/blog/definition-of-done-user-stories-acceptance-criteria) and she designs her test cases or test plan. When the acceptance criteria are unclear, they circle back with Paula (Product Owner) to get the best answers.
 
 ### ... but then it became clear these were big problems they were tackling.
 
@@ -69,7 +69,7 @@ On the first day of the Sprint, the Team started work on four items at once. Thi
 
 Since the data we can gather is correlative (e.g. more WIP happens at the same time as the team gets less done), we have to speculate as to the reasons why. More WIP leads to: more [Multitasking,](/scrummaster-resources-and-references#multi-tasking-and-interruptions) reduced Focus time, more handoffs, and limits on collaboration. These combine to harm both throughput and quality.
 
-[Does your grocery store limit Work in Progress?](/blog/does-your-grocery-store-limit-work-in-progress.html)
+[Does your grocery store limit Work in Progress?](/blog/does-your-grocery-store-limit-work-in-progress)
 
 ## 2) Overcommitment
 
@@ -81,15 +81,15 @@ If the heroes of our story had followed this guideline, they would have known th
 
 The final problem is a more advanced concept and it is unlikely that a Team in their first few Sprints will be ready to solve this, but it is something they should be aware of as time goes by. This Team is still using a conventional, traditional-style approach to work, where every task is done sequentially by specialist roles. This might work for a problem where the outcome is predetermined and everything can be sequenced, but it often doesn’t work well in software development or any other realm of knowledge work.\[[4](#footnotes)\]
 
-In Scrum, [Teams are cross-functional](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) to better learn and adapt to constantly changing circumstances.
+In Scrum, [Teams are cross-functional](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) to better learn and adapt to constantly changing circumstances.
 
 ![Scrum by Example – The Story of an Incomplete Sprint](src/content/blog/scrum-by-example-the-story-of-an-incomplete-sprint/images/APR_Blog-Illustrations_April2019_TooMuchWIP_Panel3-1024x607.jpg)
 
-However, Steve’s Team is still learning this. Tonia, Brad, and Ian all have their specializations and, during the Sprint, do little work that falls outside their areas of expertise. This is also known as [Scrummerfall](/blog/scrummaster-tales-cascades-team-discover-scrummerfall.html), and is common for organizations starting with Scrum to do, as it is usually one of the biggest shifts in the way they do work, and it takes time to make this transition.
+However, Steve’s Team is still learning this. Tonia, Brad, and Ian all have their specializations and, during the Sprint, do little work that falls outside their areas of expertise. This is also known as [Scrummerfall](/blog/scrummaster-tales-cascades-team-discover-scrummerfall), and is common for organizations starting with Scrum to do, as it is usually one of the biggest shifts in the way they do work, and it takes time to make this transition.
 
 The consequence of this is that Tonia is the only one doing QA testing, while the rest of the Team occupies themselves with other things, despite QA clearly needing focus and help. In the long-term, it will mean that the Team has to wait even longer to get feedback on a given User Story, impeding their ability to learn and integrate feedback into future Sprints, ultimately making change costlier for the entire project.
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 ### Does your Team struggle with these kinds of challenges?
 

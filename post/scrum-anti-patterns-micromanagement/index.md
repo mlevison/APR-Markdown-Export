@@ -112,7 +112,7 @@ Disengagement is often engendered when a manager (or ScrumMaster or Product Owne
 
 [![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Reduced-Self-Organization-1024x421.jpg)](/wp-content/uploads/2019/09/Micromanaging-anti-pattern-CLD-Reduced-Self-Organization.jpg)
 
-**C) Delays in Decision-Making** Delays in decisions will begin to occur because the micromanager [causes a bottleneck](/blog/scrummaster-tales-the-team-gets-bottlenecked.html) because Team members will often be afraid to make a decision without the micromanager’s support, agreement or, worse, sign off. So instead, they wait, sometimes making things even worse by doing work that merely keeps them busy instead of the most important work of delivering value to the customer.
+**C) Delays in Decision-Making** Delays in decisions will begin to occur because the micromanager [causes a bottleneck](/blog/scrummaster-tales-the-team-gets-bottlenecked) because Team members will often be afraid to make a decision without the micromanager’s support, agreement or, worse, sign off. So instead, they wait, sometimes making things even worse by doing work that merely keeps them busy instead of the most important work of delivering value to the customer.
 
 These delays obviously harm productivity and customer outcomes, which leads to more pressure to adapt and recover from these building losses. However, these same delays mean that micromanaged groups can’t adapt to changing circumstances fast enough, often making the whole situation worse. _This is another negatively reinforcing feedback loop._
 
@@ -122,7 +122,7 @@ The more the manager tries to take control, the more decisions they must make. T
 
 **D) Limited Communication within the Team** As micromanagement increases and the Team increasingly needs the decision-maker before anything can progress, there is less need to talk to your peers, since there is a diminishing number of things to talk about. As a result, Knowledge Silos, prevalent in waterfall-style work, creep in, or possibly never go away in the first place. Additionally, this reduction in communication harms quality by reducing the diversity of thought available for tackling different problems. Siloed micromanagers also harm decision quality directly because they generally don’t seek opinions other than their own.
 
-These problems are often made worse in places where functional managers have a say in who does what kind of work. For example, a functional manager responsible for Quality Assurance (QA) might suggest that only QA people can create and run test cases. This arbitrary and artificial wall prevents other Team members from [cross-skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) and learning how to test, which could contribute to better quality work or a faster delivery rate. Functional managers, as a feature of their position, tend to have a vested interest in maintaining personal empires, so they work to ensure that boundaries and barriers stay up. Ultimately, in a healthy Agile work environment, there shouldn’t be a need for functional managers, and they should instead redefine their role to more positively contribute to the growth and autonomy of the teams they oversee.
+These problems are often made worse in places where functional managers have a say in who does what kind of work. For example, a functional manager responsible for Quality Assurance (QA) might suggest that only QA people can create and run test cases. This arbitrary and artificial wall prevents other Team members from [cross-skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) and learning how to test, which could contribute to better quality work or a faster delivery rate. Functional managers, as a feature of their position, tend to have a vested interest in maintaining personal empires, so they work to ensure that boundaries and barriers stay up. Ultimately, in a healthy Agile work environment, there shouldn’t be a need for functional managers, and they should instead redefine their role to more positively contribute to the growth and autonomy of the teams they oversee.
 
 These Silos subsequently increase the need for heroism since fewer people can only do certain kinds of work. These “heroes” ultimately harm self-organization and often work quality, coming under increasing pressure to work faster while being unable to seek help from their own Team. (We’ve not displayed quality on the diagram above because it was already getting too busy – instead, poor quality is just a subset of what makes customers unhappy).
 
@@ -138,7 +138,7 @@ _If the above looks bloody complicated, that’s... well, because it is. Human b
 
 ## Typical Causes of Micromanagement
 
-- Matrixed organizations or [Functional Managers](/blog/the-role-of-agile-managers-why-job-titles-are-dangerous.html) – which tends to be exhibited by maintaining separate functional teams apart from the Scrum Team
+- Matrixed organizations or [Functional Managers](/blog/the-role-of-agile-managers-why-job-titles-are-dangerous) – which tends to be exhibited by maintaining separate functional teams apart from the Scrum Team
 - Individual rewards that promote heroism, increase the size of knowledge silos, and harm self-organization of teams
 - A belief that one person knows better than another, which is closely related to…
 - A belief that you can better control outcomes by controlling people. _This is a delayed negatively reinforcing feedback loop because in every case, these behaviours harm the quality of work and therefore, harm the customer happiness. This is hard to see on a day-to-day basis because the negative effects on the customer are usually delayed. After all, the customer only notices they’re getting poorer-quality work sometime after it has been delivered._
@@ -147,18 +147,18 @@ _If the above looks bloody complicated, that’s... well, because it is. Human b
 ## Solutions for Micromanagement
 
 - Insulate the team from some of the above-mentioned dynamics:
-    - Make the Sprint a Black Box – Explain to stakeholders that once the Sprint has started, [the Team needs space to succeed](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint.html)
-    - Don’t track or display the [Sprint Burndown](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns.html) chart – Too often the Sprint Burndown is used by those outside the Team to ask the question “Why aren’t you going faster?”
+    - Make the Sprint a Black Box – Explain to stakeholders that once the Sprint has started, [the Team needs space to succeed](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint)
+    - Don’t track or display the [Sprint Burndown](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns) chart – Too often the Sprint Burndown is used by those outside the Team to ask the question “Why aren’t you going faster?”
     - If the official electronic tool is used to spy on the Team in Sprint, then the Team might consider using something outside of that tool for the Sprint Backlog. (e.g. Index cards).
     - If the Product Owner is micromanaging during Daily Scrum, the ScrumMaster should suggest that they not attend until the relationship is improved.
     - Suspend individual rewards for members of your Scrum Teams. _(This is a short avoidance, not a fix. Ultimately, individual rewards should end.)_
-- Instead of giving managers one number for team velocity, [always use ranges with probabilities](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html). _I usually recommend giving three numbers: 20, 50 and 80% confidence intervals._
+- Instead of giving managers one number for team velocity, [always use ranges with probabilities](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth). _I usually recommend giving three numbers: 20, 50 and 80% confidence intervals._
 - Never allow the Release Burndown and other charts to be viewed without also providing the context of the Product Backlog – move the conversation away from how much faster can you go, to which items can be done by the end of the Sprint.
-- Renegotiate [the relationship between managers and Development Team](/blog/how-to-be-an-effective-manager-in-scrum.html) members.
+- Renegotiate [the relationship between managers and Development Team](/blog/how-to-be-an-effective-manager-in-scrum) members.
 - Reinforce [Working Agreements](/scrummaster-resources-and-references#team-working-agreements) between Development Team, ScrumMaster and Product Owner so that all have a good understanding of their boundaries.
 - Educate managers that a “request” from management will be seen as a requirement by many Development Team members.
 - Educate managers that attending Daily Scrum on a regular basis sends the Development Team a signal that they need adult supervision. Management are best involved at the Sprint Review.
-- Work on [Cross-Skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) to breakdown silos within a Team and the organization at large.
+- Work on [Cross-Skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) to breakdown silos within a Team and the organization at large.
 - Eliminate individual rewards. Even better, replace the annual performance\[[8](#footnotes)\] reviews entirely and move to a continuous feedback model.
 - Have organizational leaders focus on outcomes, not the details of the work or how the Team does the work.
 - The further up the organizational ladder a leader is, the further into the future they should be encouraged to be looking for long-term strategy.

@@ -75,7 +75,7 @@ There are two major ways to discover opportunities for cross-skilling:
 
 Kanban/Scrum Board Skills Matrix
 
-We’ll explain how to use both in our [next post](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html).
+We’ll explain how to use both in our [next post](/blog/how-to-cross-skill-and-grow-t-shaped-team-members).
 
 \[1\] [https://twitter.com/DReinertsen/status/826540773868855296](https://twitter.com/DReinertsen/status/826540773868855296) \[2\] [Lean Software Development: An Agile Toolkit – Mary and Tom Poppendieck](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/&tag=notesfromatoo-20) \[3\] See: [https://en.wikipedia.org/wiki/Bus\_factor](https://en.wikipedia.org/wiki/Bus_factor) for more depth \[4\] [https://stefanroock.wordpress.com/2010/03/02/kanban-definition-of-lead-time-and-cycle-time/](https://stefanroock.wordpress.com/2010/03/02/kanban-definition-of-lead-time-and-cycle-time/)
 

@@ -4,10 +4,10 @@ date: "2008-10-23"
 categories: 
   - "software-development"
   - "tdd"
-excerpt: 'A few weeks ago I ran my first [Coding Dojo/Randori](/blog/tdd-randori-session.html) and'
+excerpt: 'A few weeks ago I ran my first [Coding Dojo/Randori](/blog/tdd-randori-session) and'
 ---
 
-A few weeks ago I ran my first [Coding Dojo/Randori](/blog/tdd-randori-session.html) and while the participants learned from the session there had been a few key flaws:
+A few weeks ago I ran my first [Coding Dojo/Randori](/blog/tdd-randori-session) and while the participants learned from the session there had been a few key flaws:
 
 - The problem was too big
 - The problem was in a domain that was unfamiliar to everyone

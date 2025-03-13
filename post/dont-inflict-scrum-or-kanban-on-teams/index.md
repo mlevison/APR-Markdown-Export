@@ -18,22 +18,22 @@ tags:
   - "team-building"
   - "work-environment"
 coverImage: "196891-OYDUHU-168.jpg"
-excerpt: '_(This article is part of the [Beyond Scrum](/blog/beyond-scrum-blog-series.html) series)_'
+excerpt: '_(This article is part of the [Beyond Scrum](/blog/beyond-scrum-blog-series) series)_'
 ---
 
-_(This article is part of the [Beyond Scrum](/blog/beyond-scrum-blog-series.html) series)_
+_(This article is part of the [Beyond Scrum](/blog/beyond-scrum-blog-series) series)_
 
 We’ve all experienced the pain of having someone impose a change on us – it doesn’t work.
 
 Forcing change conflicts with the essential human need for autonomy – No one likes being told what to do (if they didn't ask to be). Whichever model for understanding human behaviour you use\[[1](#footnotes)\]\[[2](#footnotes)\]\[[3](#footnotes)\], all of them recognize autonomy — to work in the way we see fit — as a central feature of human psychology. So when an organization _imposes_ an approach to work, whether it be Scrum, Kanban, or another Agile framework, it is unsurprising that the result often is  team members feel discouraged and resist adopting the change.
 
-As your organization evolves to become more effective (remember, [_Agile_ is not the goal in and of itself](/blog/agile-change-or-adoption-always-starts-with-why.html)) and you want your teams to follow and take ownership of the changes happening, instead of telling them, “we’re switching the whole organization to Scrum, Kanban, or another flavour of Agile,” invite them to [join you on the transformational journey](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html).
+As your organization evolves to become more effective (remember, [_Agile_ is not the goal in and of itself](/blog/agile-change-or-adoption-always-starts-with-why)) and you want your teams to follow and take ownership of the changes happening, instead of telling them, “we’re switching the whole organization to Scrum, Kanban, or another flavour of Agile,” invite them to [join you on the transformational journey](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how).
 
 ![Outstretched hand image designed by FreePik](src/content/blog/dont-inflict-scrum-or-kanban-on-teams/images/196891-OYDUHU-168-1024x683.jpg)
 
 ## Invite, Don’t Impose
 
-Start with explaining the business need – what are the [business goals and objectives you’re attempting to achieve and why](/blog/agile-change-or-adoption-always-starts-with-why.html). Frame it in terms of the required outcomes you are seeking.
+Start with explaining the business need – what are the [business goals and objectives you’re attempting to achieve and why](/blog/agile-change-or-adoption-always-starts-with-why). Frame it in terms of the required outcomes you are seeking.
 
 As an example, you could start with, “The business needs working, integrated, tested product every two weeks that delights the customer. We don’t need the largest number of features, just ones that solve the customer problems.”
 
@@ -53,9 +53,9 @@ All choices that teams and organizations make are just a series of experiments. 
 
 Agile can’t be imposed on people and still be effective. Agile is a journey you invite your team to join you on, which includes being open to the possibility that your team may favour a framework that you had not previously considered. At the end of it though, your teams can confidently say that they participated in the decision and joined you on the journey. All our study so far has been in this vein.
 
-a)    Create the [vision](/blog/agile-change-or-adoption-create-a-vision.html)
+a)    Create the [vision](/blog/agile-change-or-adoption-create-a-vision)
 
-b)    Create a [strategy for change](/blog/agile-change-or-adoption-turn-vision-into-strategy.html)
+b)    Create a [strategy for change](/blog/agile-change-or-adoption-turn-vision-into-strategy)
 
 c)    Involve the team(s) doing the work of implementing your changes
 

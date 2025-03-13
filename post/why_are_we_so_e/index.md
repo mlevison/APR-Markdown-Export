@@ -11,7 +11,7 @@ excerpt: '[![Influence- Science and Practice book'
 
 Do you ever walk into a clothing store just to buy a suit and walk out having bought the suit, tie, belt and several shirts? This chapter will explain what just happened.
 
-This is the third posting in an ongoing series of notes from Robert Caildini's " [Influence: Science and Practice](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)". This posting covers Chapter 2 "Weapons of Influence" Other postings in this series: [Introduction](/blog/influence_why_a.html), [Other Sources](/blog/influence_scien.html) coming soon: Reciprocation, Commitment/Consistency, Authority, Social Validation, Scarcity, Liking/Friendship
+This is the third posting in an ongoing series of notes from Robert Caildini's " [Influence: Science and Practice](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)". This posting covers Chapter 2 "Weapons of Influence" Other postings in this series: [Introduction](/blog/influence_why_a), [Other Sources](/blog/influence_scien) coming soon: Reciprocation, Commitment/Consistency, Authority, Social Validation, Scarcity, Liking/Friendship
 
 "Weapons of Influence" introduces the concept of fixed-action patterns or automatic responses.
 

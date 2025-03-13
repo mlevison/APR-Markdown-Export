@@ -29,9 +29,9 @@ In this post, we’ll explore the research, and I’ll share my personal experie
 
 When you’re trying to determine what will work best, your  Team’s needs should be more important than any arbitrary number. Factors you should consider include:
 
-- A [sufficiently broad set of skills](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) to build their product – aka Cross-Functional
+- A [sufficiently broad set of skills](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) to build their product – aka Cross-Functional
 - Team members dedicated to one, and only one, team
-- [Stable membership](/blog/stable-teams-really-do-matter.html) – i.e. team membership that is consistent over a long period of time\[[1](#footnotes)\]
+- [Stable membership](/blog/stable-teams-really-do-matter) – i.e. team membership that is consistent over a long period of time\[[1](#footnotes)\]
 - Diversity of thought – a sufficiently broad set of beliefs, attitudes and thinking patterns\[[2](#footnotes)\]
 
 Once the Team is formed, these are often just as important as team size when predicting success:

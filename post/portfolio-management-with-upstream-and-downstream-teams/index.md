@@ -9,7 +9,7 @@ coverImage: "Kanban-Portfolio-View-2024-upstream-downstream.png"
 excerpt: 'In our Scrum Alone is Not Enough discussion on [Portfolio'
 ---
 
-In our Scrum Alone is Not Enough discussion on [Portfolio Management](/blog/portfolio-management.html), we talked about what it is, and how the use of a Portfolio Kanban Board can help visualize challenges that are inhibiting work, including with parallel teams. That was tricky enough, but now let's tackle an even bigger challenge: managing work that happens before and after Scrum development teams. We work with many government departments and large organizations and some, for structural or regulatory reasons, have systems that operate in this way with upstream and downstream teams.
+In our Scrum Alone is Not Enough discussion on [Portfolio Management](/blog/portfolio-management), we talked about what it is, and how the use of a Portfolio Kanban Board can help visualize challenges that are inhibiting work, including with parallel teams. That was tricky enough, but now let's tackle an even bigger challenge: managing work that happens before and after Scrum development teams. We work with many government departments and large organizations and some, for structural or regulatory reasons, have systems that operate in this way with upstream and downstream teams.
 
 This article will focus on visualizing the flow of work from beginning to end, through all of the moving parts and teams. Once we establish a flow, we will learn to monitor it. Most importantly, we will start to make improvements. After all, there is little value in monitoring an existing process if it takes most of a Quarter to deliver value to the customer.
 
@@ -39,7 +39,7 @@ Let's start with some immediate improvements. These won't transform your organiz
 
 First, monitor the board regularly. Review it with Product Owners, ScrumMasters and representative team members from the upstream and downstream teams a couple of times a week.
 
-As with our [Kanban Portfolio View](/blog/kanban-portfolio-view.html) post, the same strategies for visualizing challenges and resolving dependencies still apply to begin making improvements.
+As with our [Kanban Portfolio View](/blog/kanban-portfolio-view) post, the same strategies for visualizing challenges and resolving dependencies still apply to begin making improvements.
 
 - Start with the items closest to being finished. What can be done to help them get to Done?
 - Also, look for the oldest items since, as items age, there is a greater chance that they’re no longer valuable.
@@ -88,7 +88,7 @@ _These will be the smallest wins but the easiest to start with._
 
 _These changes will be the hardest but have the deepest impact._
 
-- Move legal considerations to the start of the work, not the end. As we learned to write tests before code, we can consider legal requirements during design. When features are being designed, legal considerations are brought up front to smooth the latter part of the journey. This is the same thing that the Agile community has learned about testing. Move testing to the start of the Sprint, not at the end. Instead of finding bugs after the code is written, we get better quality by co-creating the tests and a test plan before we start the work. (See Example Mapping](/blog/example-mapping-your-secret-weapon-for-effective-acceptance-criteria.html), [Behaviour Driven Development and Agile Testing for more).
+- Move legal considerations to the start of the work, not the end. As we learned to write tests before code, we can consider legal requirements during design. When features are being designed, legal considerations are brought up front to smooth the latter part of the journey. This is the same thing that the Agile community has learned about testing. Move testing to the start of the Sprint, not at the end. Instead of finding bugs after the code is written, we get better quality by co-creating the tests and a test plan before we start the work. (See Example Mapping](/blog/example-mapping-your-secret-weapon-for-effective-acceptance-criteria), [Behaviour Driven Development and Agile Testing for more).
 - Apply this same "shift left" thinking to any part of the process that risks rejection.
 
 The ideal end state? Upstream and downstream work happens inside development teams. While this takes years to achieve, each step in this direction reduces cycle time, improves quality, and gets customer feedback faster. Remember why Agile started - long development processes led to poor quality and late feedback. When work takes 47-89 days to deliver value, we face the same problems that sparked the Agile movement.

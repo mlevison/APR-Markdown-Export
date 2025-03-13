@@ -8,7 +8,7 @@ coverImage: "agile-2009-conference-logo.png"
 excerpt: '[A Personal Retrospective on the Agile 2009'
 ---
 
-![](src/content/blog/agile-2009-post-roundup/images/agile-2009-conference-logo.png) Last year I did the [Agile 2008 Post Roundup](/blog/agile-2008-post-roundup.html), so I thought it might be fun to do this again this year. As usual, [InfoQ](https://www.infoq.com/agile2009/) has a number of items, including presentations and now MP3 downloads.
+![](src/content/blog/agile-2009-post-roundup/images/agile-2009-conference-logo.png) Last year I did the [Agile 2008 Post Roundup](/blog/agile-2008-post-roundup), so I thought it might be fun to do this again this year. As usual, [InfoQ](https://www.infoq.com/agile2009/) has a number of items, including presentations and now MP3 downloads.
 
 ### Retrospectives
 
@@ -48,7 +48,7 @@ Agile 2009 - Mark Mansour
 
 My #Agile2009 Conference Thoughts, Some enjoyable quotes from #agile2009 - Peter Edstrom
 
-[Agile 2009 Roundup](/blog/agile-2009-roundup.html) – my own effort
+[Agile 2009 Roundup](/blog/agile-2009-roundup) – my own effort
 
 [Agile2009 Recap](https://fitzgeraldsteele.wordpress.com/2009/09/07/agile2009-recap/) - Fitzgerald Steele
 

@@ -20,7 +20,7 @@ excerpt: '(Continued from _Agile Change or Adoption Always Starts with Why_: [P
 
 ![Be Always Changing - create vision - image by Agile Pain Relief Consulting](src/content/blog/agile-change-or-adoption-create-a-vision/images/Be-Always-Changing-create-vision.jpg)
 
-(Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](/blog/agile-change-or-adoption-always-starts-with-why.html), [Part 2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html), [Part 3](/blog/agile-change-or-adoption-sense-your-current-culture.html))
+(Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](/blog/agile-change-or-adoption-always-starts-with-why), [Part 2](/blog/agile-change-or-adoption-the-steps-to-go-from-why-to-how), [Part 3](/blog/agile-change-or-adoption-sense-your-current-culture))
 
 Most organizational change effort starts with a vision. But problems arise if the vision was created by a few executives who went off-site, as that can result in a vision that doesn’t address the problems felt by the doers at the team level, and it isn’t articulated in a way that makes sense to them.
 
@@ -38,7 +38,7 @@ The key point here is that the vision wasn’t just explained – much like crea
 
 #### Case Study
 
-At the WorldsSmallestOnlineBookStore, [Steve, our intrepid former ScrumMaster](/blog/the-scrummaster-tales.html) and now Agile Coach, organizes a Vision Workshop. The goal is to decide as a group what they’re trying to achieve with the significant organizational change they’ve taken on.
+At the WorldsSmallestOnlineBookStore, [Steve, our intrepid former ScrumMaster](/blog/the-scrummaster-tales) and now Agile Coach, organizes a Vision Workshop. The goal is to decide as a group what they’re trying to achieve with the significant organizational change they’ve taken on.
 
 Steve has invited 20 people to the event and asks them to self-organize into three to four teams. Each must have at least one executive, one middle manager, and two doers. Beyond that, he lets people choose which group they want to work with.
 
@@ -55,7 +55,7 @@ After an hour of work, each team shares their vision with the others and explain
 
 Finally, they come back together at the end to select a box that best represents their overall vision. (This is done by consensus and occasionally a consensus can’t be reached). In our case, they decide that a combination of the first two boxes best represents their vision.  The team that created the last box hasn’t done bad work, they just didn’t sell their peers on selecting it and the idea it represented. Sometimes you can have a great idea but others can’t see it and buy into it.
 
-Next, we'll explore how to [turn Vision into Strategy](/blog/agile-change-or-adoption-turn-vision-into-strategy.html).
+Next, we'll explore how to [turn Vision into Strategy](/blog/agile-change-or-adoption-turn-vision-into-strategy).
 
 \[1\] [Use the Catchball Process to Reduce Ambiguity – Tim McMahon](https://www.aleanjourney.com/2011/12/use-catchball-process-to-reduce.html)
 

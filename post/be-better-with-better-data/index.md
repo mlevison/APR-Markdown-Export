@@ -55,7 +55,7 @@ In [_The Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-ret
 To improve your use of metrics, find a few simple sources of data you could bring to your next retrospective. From the eBook, some highlights:
 
 - The Team calendar – helps to remember who was present and who was away
-- Did the team have any Production Support issues to deal with? When did they happen? Were there interruptions from other sources outside the team (e.g. VP or CEO)? When? Capture and display this information on a [Kanban wall](/blog/kanban-portfolio-view-continued.html).
+- Did the team have any Production Support issues to deal with? When did they happen? Were there interruptions from other sources outside the team (e.g. VP or CEO)? When? Capture and display this information on a [Kanban wall](/blog/kanban-portfolio-view-continued).
 - Items still In Progress at Sprint End
 - Number of User Stories that were thought complete but failed to meet the Definition of “Done”
 

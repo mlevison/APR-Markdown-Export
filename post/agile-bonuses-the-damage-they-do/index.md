@@ -147,6 +147,6 @@ In a study of what happened to patent applications at Thales, a change in the bo
 
 \[3\] [How to Reward Agile Teams: Incentives and Bonuses Are Different](https://www.mountaingoatsoftware.com/blog/how-to-reward-agile-teams)
 
-\[4\] [Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html)
+\[4\] [Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)
 
 \5\] [SCARF Model

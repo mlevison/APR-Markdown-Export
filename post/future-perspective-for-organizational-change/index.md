@@ -19,11 +19,11 @@ Right. Great. So that, in an oversimplified nutshell, is how everyone can have a
 
 But what about building a great organization?
 
-When I’m brought in to help people undertake [Organizational Change](/blog/beyond-scrum-blog-series.html), I always ask them, “Why are you undertaking this change?” Too often the answer is, “[To be Agile](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization.html)”. The problem, of course, is Agility is not the goal, it’s the outcome of improving the system. Then I ask who was involved in creating this “why” and the answer is usually “Management”.
+When I’m brought in to help people undertake [Organizational Change](/blog/beyond-scrum-blog-series), I always ask them, “Why are you undertaking this change?” Too often the answer is, “[To be Agile](/blog/because-our-competitors-are-is-no-reason-to-become-an-agile-organization)”. The problem, of course, is Agility is not the goal, it’s the outcome of improving the system. Then I ask who was involved in creating this “why” and the answer is usually “Management”.
 
-When change is started by Management alone, the Doers perceive the change to be [imposed on them](/blog/dont-inflict-scrum-or-kanban-on-teams.html) and not something they’re part of. Co-creating the Product Vision is critical for a Product to succeed, and the same applies to changing the system itself. We need the people who will be part of the change to participate in deciding the why of change.
+When change is started by Management alone, the Doers perceive the change to be [imposed on them](/blog/dont-inflict-scrum-or-kanban-on-teams) and not something they’re part of. Co-creating the Product Vision is critical for a Product to succeed, and the same applies to changing the system itself. We need the people who will be part of the change to participate in deciding the why of change.
 
-Typically the _why_ is because they want improvement of something, otherwise what’s the point? It can get trickier, though, when asked to identify what exactly that improvement should look like —what their [vision for organizational change](/blog/agile-change-or-adoption-create-a-vision.html) is. When we attempt to imagine the future, we tend to picture a slightly better version of the present. If I had asked you in the early to mid-2000s to imagine a future phone, it likely would have been some improved variant of a Blackberry with a physical keyboard. Few would have mentally pictured the iPhone features released in 2007, changing our expectations.
+Typically the _why_ is because they want improvement of something, otherwise what’s the point? It can get trickier, though, when asked to identify what exactly that improvement should look like —what their [vision for organizational change](/blog/agile-change-or-adoption-create-a-vision) is. When we attempt to imagine the future, we tend to picture a slightly better version of the present. If I had asked you in the early to mid-2000s to imagine a future phone, it likely would have been some improved variant of a Blackberry with a physical keyboard. Few would have mentally pictured the iPhone features released in 2007, changing our expectations.
 
 This happens because our brains are only able to extrapolate from the current state. So if we’re asked to look _forward_ a few years into the future, we tend to project a version that is consistent with the current world but only about 20-30% better. If we want to create a new world, we must reverse that direction and, instead, imagine ourselves in the future state looking _backward_. This is referred to as “backcasting”, which is different from forecasting in that you start with the end in mind and “cast” backwards.
 
@@ -35,7 +35,7 @@ Variants of this technique have been used by Amazon,\[[1](#footnotes)\] Komatsu
 
 Picture from: [https://www.naturalstep.ca/backcasting-starting-with-the-end-in-mind](https://www.naturalstep.ca/backcasting-starting-with-the-end-in-mind). Used with permission.
 
-<table width="595"><tbody><tr><td><strong>Goal</strong></td><td>Discover what success looks like in a change process.</td></tr><tr><td><strong>When to use</strong></td><td>At the start of a project or any time you’re beginning a new initiative.</td></tr><tr><td><strong>Time</strong></td><td>1-2 hours depending on facilitator experience and the size of the audience.</td></tr><tr><td><strong>Who is involved</strong></td><td>The <a href="/blog/taking-organizational-improvement-with-scrum-seriously.html" target="_blank" rel="noopener">Organizational Improvement Team</a> &nbsp;– must include some doers, a few key decision-makers, and a few key stakeholders (the people sponsoring the change)</td></tr></tbody></table>
+<table width="595"><tbody><tr><td><strong>Goal</strong></td><td>Discover what success looks like in a change process.</td></tr><tr><td><strong>When to use</strong></td><td>At the start of a project or any time you’re beginning a new initiative.</td></tr><tr><td><strong>Time</strong></td><td>1-2 hours depending on facilitator experience and the size of the audience.</td></tr><tr><td><strong>Who is involved</strong></td><td>The <a href="/blog/taking-organizational-improvement-with-scrum-seriously" target="_blank" rel="noopener">Organizational Improvement Team</a> &nbsp;– must include some doers, a few key decision-makers, and a few key stakeholders (the people sponsoring the change)</td></tr></tbody></table>
 
 ### Characteristics
 
@@ -97,7 +97,7 @@ Blank newspaper headline template:
 
 [![future perspective newspaper - blank](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-newspaper-blank-1024x643.png)](/wp-content/uploads/2022/04/future-perspective-newspaper-blank.png)
 
-Also see our “[Agile Change or Adoption Always Starts with Why](/blog/agile-change-or-adoption-always-starts-with-why.html)” article.
+Also see our “[Agile Change or Adoption Always Starts with Why](/blog/agile-change-or-adoption-always-starts-with-why)” article.
 
 **Want to have a better understanding of the _why_ and _how_ of more things in Scrum, and not just the book-level _what_?** Practising Scrum without proper understanding can bring poor results and, ultimately, frustration and resistance. In our [Certified Scrum workshops](/certified-scrum-agile-training), attendees learn in a fun and non-judgmental environment how to make Scrum work effectively in the real world, not just in principle. Join us to learn and to gain practical, hands-on experience.
 

@@ -16,7 +16,7 @@ excerpt: 'The team has just completed [Sprint'
 
 ![Group of people - licensed from Photodune](src/content/blog/scrummaster-tales-team-collaborate-acceptance-criteria/images/photodune-352256-group-of-people-xs.jpg)
 
-The team has just completed [Sprint Planning](/blog/creating-acceptance-criteria-waiting-too-long.html), committing to four stories:
+The team has just completed [Sprint Planning](/blog/creating-acceptance-criteria-waiting-too-long), committing to four stories:
 
 - As a first time book buyer I would like to read a review so I can see if a book is worth reading.
     - A review has text and isn’t empty
@@ -79,6 +79,6 @@ What seems odd:
 
 What do you find odd? What do you take away from the team’s experience this week?
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 Image Credit: Photodune

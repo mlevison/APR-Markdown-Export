@@ -7,13 +7,13 @@ categories:
 excerpt: 'Last year in response to some questions at a CSM course I wrote a post: "[Top 8 Agile'
 ---
 
-Last year in response to some questions at a CSM course I wrote a post: "[Top 8 Agile Books: Beyond the Basics](/blog/agile_and_relat.html)". This past week I was help out at a CSM course when the topic came up again. This time I've a much longer list of books.
+Last year in response to some questions at a CSM course I wrote a post: "[Top 8 Agile Books: Beyond the Basics](/blog/agile_and_relat)". This past week I was help out at a CSM course when the topic came up again. This time I've a much longer list of books.
 
 ### **Top Three – I wouldn't start an Agile project without these**
 
 [Agile Software Development: A Cooperative Game (2nd Ed)](https://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751/&tag=notesfromatoo-20) by Alistair Cockburn - Possibly the most interesting book I've ever read about agile software development. It's not about any one methodology, instead Alistair analyzes game play, individual communication, team cooperation: the elements that are the core of all software development. The book also includes sections on Agile outside of Software, a survey of the various methodologies and much more.
 
-[Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) by Jean Tabaka - A through explanation of what our role as ScrumMasters, Coaches and Facilitators is. It helps agilists understand (and perhaps manage) team dynamics. It’s also the source for my Planning and Retrospective agendas. See: [Good Agenda’s make Great Meetings](/blog/good-agendas-ma.html). My comments are in no way biased by the whiskey Jean bought on the first day of the Agile conference this year.
+[Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) by Jean Tabaka - A through explanation of what our role as ScrumMasters, Coaches and Facilitators is. It helps agilists understand (and perhaps manage) team dynamics. It’s also the source for my Planning and Retrospective agendas. See: [Good Agenda’s make Great Meetings](/blog/good-agendas-ma). My comments are in no way biased by the whiskey Jean bought on the first day of the Agile conference this year.
 
 [Agile Estimation and Planning](https://www.amazon.com/Agile-Estimating-Planning-Robert-Martin/dp/0131479415/&tag=notesfromatoo-20) by Mike Cohn - Sprint Planning to Release Planning. Estimating in Story Points vs. Ideal Days. One stop reading for planning. Added bonus the book is very easy to read - only five hours and I'd read most of it.
 
@@ -33,6 +33,6 @@ Last year in response to some questions at a CSM course I wrote a post: "[Top 8 
 
 "[Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/&tag=notesfromatoo-20)" by Kent Beck - you heard a lot about XP - both good and bad, you've heard alot of hyperbole - with people claiming that XP is a license to hack or that it will solve all problems for all projects. Kent actually explains the stuff that matters.
 
-I've got posts on [Background](/blog/best-agile-bo-1.html) and [Code](/blog/best-agile-bo-2.html) coming up and then I will return year of Scrum: Lessons Learned. Sorry for the recent silence life has been rather busy.
+I've got posts on [Background](/blog/best-agile-bo-1) and [Code](/blog/best-agile-bo-2) coming up and then I will return year of Scrum: Lessons Learned. Sorry for the recent silence life has been rather busy.
 
 _Caveat Emptor - if you buy any of the books after clicking on my link I get 4% of the price. In all likelihood that means I might be able to afford a coffee or two._

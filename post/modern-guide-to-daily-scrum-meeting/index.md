@@ -28,7 +28,7 @@ In my workshops, I tell people the daily scrum purpose is to:
 
 - Improve communication
 - Prepare the team for the day’s collaboration
-- Help the team sense whether they will meet the [Sprint Goal](/blog/sprint-goals-provide-purpose.html)
+- Help the team sense whether they will meet the [Sprint Goal](/blog/sprint-goals-provide-purpose)
 - Find anything that is slowing the team down towards meeting the goal
 
 If your team is struggling with Daily Scrum, always come back to the purpose to see if you’re achieving it or not. Daily Scrum isn’t the only time adjustments can be made to the Sprint plan, but it’s certainly a great opportunity.
@@ -59,7 +59,7 @@ Managers don’t attend Daily Scrum unless they’re acting as a Developer/Doer 
 
 ### Where should teams hold their Daily Scrum meeting?
 
-Pre-pandemic, I recommended that teams meet for Daily Scrum in their team room and ensure that everyone can see the Sprint Backlog. Now our teams are often either hybrid or fully remote, and I don’t see many team rooms. However, it’s still important that everyone on the team can see the Sprint Backlog during Daily Scrum. This is their way of visualizing the current state of the work. In addition, seeing the [Sprint Backlog](/blog/the-humble-sprint-backlog.html) makes it easier to determine as a team whether they still believe they can meet the Sprint Goal.
+Pre-pandemic, I recommended that teams meet for Daily Scrum in their team room and ensure that everyone can see the Sprint Backlog. Now our teams are often either hybrid or fully remote, and I don’t see many team rooms. However, it’s still important that everyone on the team can see the Sprint Backlog during Daily Scrum. This is their way of visualizing the current state of the work. In addition, seeing the [Sprint Backlog](/blog/the-humble-sprint-backlog) makes it easier to determine as a team whether they still believe they can meet the Sprint Goal.
 
 ### When should Daily Scrum happen?
 
@@ -134,7 +134,7 @@ Remote Scrum team members are also encouraged to physically stand in front of th
 
 ## Pitfalls of Bad Daily Scrum
 
-As I wrote in this Scrum by Example post with our fictional ScrumMaster, [some teams feel pain in their Daily Scrum](/blog/daily-scrum-pain.html). If you know someone who hates Daily Scrum (maybe yourself?), it likely stems from one of more of these common poor practices:
+As I wrote in this Scrum by Example post with our fictional ScrumMaster, [some teams feel pain in their Daily Scrum](/blog/daily-scrum-pain). If you know someone who hates Daily Scrum (maybe yourself?), it likely stems from one of more of these common poor practices:
 
 - Scrum Master telling people whose turn it is to speak
 - Too much personal socializing, wandering off topic (_Hint:  one group I worked with leaves the zoom session open after Daily Scrum so team members can catch up outside of the meeting timebox_)
@@ -146,7 +146,7 @@ As I wrote in this Scrum by Example post with our fictional ScrumMaster, [some t
 - Not raising impediments
 - Not prepared. It only takes a few minutes of reflection to consider the Sprint Goal and plan what the next most important thing you could do.
 - Problem solving. The team gets lost in the weeds of a good problem-solving discussion. My suggestion to teams? Consider capping the discussion at 1 min and resolving after Daily Scrum.
-- Too many people in attendance. If your Daily Scrum is larger than a [normal sized Scrum Team](/blog/scrum-team-size.html), it will take far too long. When this comes up in workshops, the leading cause is that the Scrum Team itself is too large.
+- Too many people in attendance. If your Daily Scrum is larger than a [normal sized Scrum Team](/blog/scrum-team-size), it will take far too long. When this comes up in workshops, the leading cause is that the Scrum Team itself is too large.
 - Notetaking and meeting summaries. The event is intended to help plan the day, so meeting notes are pointless as they would only be meaningful for a few hours. Further, aside from impediments, there is nothing we would expect to be shared since sharing information from Daily Scrum outside the team will reduce honesty and transparency, and people will protect themselves from the perceived risk.
 - Some team members attending multiple Daily Scrum. Let’s talk about this one in more detail …
 
@@ -172,7 +172,7 @@ If there are more than 3 teams, some groups create a separate Scrum of Scrums. F
 - Headphones or earbuds to reduce audio feedback.
 - Remind everyone to display the Sprint Backlog.
 
-Many of these types of things get baked into the [team’s working agreements](/blog/team-friction-inspires-working-agreements.html).
+Many of these types of things get baked into the [team’s working agreements](/blog/team-friction-inspires-working-agreements).
 
 ## Daily Scrum Tools
 

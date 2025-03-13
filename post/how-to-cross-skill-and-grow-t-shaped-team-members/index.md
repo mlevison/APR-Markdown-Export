@@ -10,10 +10,10 @@ tags:
   - "cross-skilling"
   - "cross-training"
 coverImage: "AgilePainRelief_KanbanBoard_Mockup_B_v2.jpg"
-excerpt: 'As we discussed in “[Specialists Are Overrated](/blog/specialists-are-overrated.html),”'
+excerpt: 'As we discussed in “[Specialists Are Overrated](/blog/specialists-are-overrated),”'
 ---
 
-As we discussed in “[Specialists Are Overrated](/blog/specialists-are-overrated.html),” developing cross-skills and “T-Shaped" people in a team has many benefits – for the team/organization itself, the customer, and the individual. That’s all fine and good to say, but how do you figure out where to start?
+As we discussed in “[Specialists Are Overrated](/blog/specialists-are-overrated),” developing cross-skills and “T-Shaped" people in a team has many benefits – for the team/organization itself, the customer, and the individual. That’s all fine and good to say, but how do you figure out where to start?
 
 There are two major ways to discover opportunities for cross-skilling:
 
@@ -26,7 +26,7 @@ There are two major ways to discover opportunities for cross-skilling:
 
 ![How to Cross-Skill and Grow T-shaped Team Members - sample Scrum Kanban board](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/AgilePainRelief_KanbanBoard_Mockup_A_v2-1024x696.jpg)
 
-The Team Board is a rich source of information as to where missing skills exist among a team’s members. If you’re unfamiliar with how a Team Board works or what it looks like, I posted an [example of a Kanban Board](/blog/kanban-portfolio-view.html) previously on this blog. Walk along the board every few days, look to see which column work items use up the most time. The board should also help you spot any item that gets blocked or is waiting for outside work. Every time an item is blocked because of an external dependency, record the reason. Over a few months, it will become clear which external dependencies impede work getting done the most. Any of these areas discovered are now opportunities for the team to cross-skill into. Once there is enough evidence to start (perhaps after 3-4 Sprints of collecting), share the data in a retrospective and ask the team two key questions:
+The Team Board is a rich source of information as to where missing skills exist among a team’s members. If you’re unfamiliar with how a Team Board works or what it looks like, I posted an [example of a Kanban Board](/blog/kanban-portfolio-view) previously on this blog. Walk along the board every few days, look to see which column work items use up the most time. The board should also help you spot any item that gets blocked or is waiting for outside work. Every time an item is blocked because of an external dependency, record the reason. Over a few months, it will become clear which external dependencies impede work getting done the most. Any of these areas discovered are now opportunities for the team to cross-skill into. Once there is enough evidence to start (perhaps after 3-4 Sprints of collecting), share the data in a retrospective and ask the team two key questions:
 
 ### Theory of Constraints
 
@@ -35,7 +35,7 @@ Demonstrates that in any system where there is a bottleneck, the rest of the sys
 - “What area would we like to put energy into learning?”
 - “Who has the interest and energy to learn about these areas in the next few Sprints?”
 
-If they do this well, the Team should rarely find itself stuck waiting for an external dependency because it will have grown the skills to handle many previously external dependencies inside the team. In addition, many bottlenecks, like a lack of Quality Assurance or editing skills, will have been resolved when those activities become a constraint \[[1](#footnotes)\] for getting work done; the [team easily adapts to changing needs](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint.html).
+If they do this well, the Team should rarely find itself stuck waiting for an external dependency because it will have grown the skills to handle many previously external dependencies inside the team. In addition, many bottlenecks, like a lack of Quality Assurance or editing skills, will have been resolved when those activities become a constraint \[[1](#footnotes)\] for getting work done; the [team easily adapts to changing needs](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint).
 
 Using the board as a source of data will also help reveal issues that the team has faced in the recent past. However, it only works as long as the future work looks similar to previous work. So it’s a necessary tool, but one with limitations.
 
@@ -59,7 +59,7 @@ A Skills Matrix is a self-reporting system where team members provide their own 
 
 ![Cross-Skilling in Scrum Teams](src/content/blog/how-to-cross-skill-and-grow-t-shaped-team-members/images/1-4_Cross_Skilling_in_Scrum_Teams2.jpg)
 
-I like to create a Skills Matrix whenever I start working with a new team. If we haven’t started work yet, then I do it at the same time as we [create the initial Definition of “Done”](/blog/definition-of-done-user-stories-acceptance-criteria.html), before the first Sprint. Once the Skills Matrix has been created, I recommend teams revisit it every few retrospectives to answer two questions:
+I like to create a Skills Matrix whenever I start working with a new team. If we haven’t started work yet, then I do it at the same time as we [create the initial Definition of “Done”](/blog/definition-of-done-user-stories-acceptance-criteria), before the first Sprint. Once the Skills Matrix has been created, I recommend teams revisit it every few retrospectives to answer two questions:
 
 - “Where have we learned new skills that would cause us to update our self ratings?”; and,
 - “Where would we next like to put our learning energy?”
@@ -78,7 +78,7 @@ Cross-skilling is important in every industry, and in each one there will obviou
 
 **Pair Programming** – two people work with one computer to produce one work item. Its primary benefit is to reduce the complexity of the system being built, thereby reducing defects. However, another benefit is the rapid spread of knowledge it engenders.  "_Pair programing \[sic\] rocks. Taught other developer something last week, he taught to his partner, and I just heard it spread to a 4th team member_"\[[2](#footnotes)\]. This technique can just as easily be used in non-technical/non-software-related work - Pair Writing\[[3](#footnotes)\] is just one example, Pair Learning\[[4](#footnotes)\] another.
 
-**Coding Dojo**\[[5](#footnotes)\] – a safe place to practice, where the team can [learn how to learn](/blog/scrummaster-tales-the-team-learn-how-to-learn.html). A group of team members get together to practice with a programming challenge. The challenge can be any simple programming problem that gives people the opportunity to practice a desired skill (e.g. Test Driven Development, Behaviour Driven Development). Good sources of problems: [https://codingdojo.org/kata/](https://codingdojo.org/kata/) and [https://codekata.com/](https://codekata.com/).
+**Coding Dojo**\[[5](#footnotes)\] – a safe place to practice, where the team can [learn how to learn](/blog/scrummaster-tales-the-team-learn-how-to-learn). A group of team members get together to practice with a programming challenge. The challenge can be any simple programming problem that gives people the opportunity to practice a desired skill (e.g. Test Driven Development, Behaviour Driven Development). Good sources of problems: [https://codingdojo.org/kata/](https://codingdojo.org/kata/) and [https://codekata.com/](https://codekata.com/).
 
 **Learning Time** – related to a Coding Dojo, this pattern formalizes the importance and value of learning. Many organizations expect their people to do professional reading on their own time, however, that sends a signal that work is more important than family or socializing with friends. Consider instead having the team set aside a block of a couple of hours to work on learning. There is a preference for group work, for example a Coding Dojo over personal coding practice; a Book Discussion workshop over individual reading time. Sometimes, instead of reading, it can be a presentation by someone with a different background or skill area for the rest of the team. Learning Time works best when it’s interactive and there is limited formal presentation.
 
@@ -100,6 +100,6 @@ If you want to go faster, stop focusing on the speed. Slow down. Take the time t
 
 Jason Yip – “Why T-Shaped People”[https://medium.com/@jchyip/why-t-shaped-people-e8706198e437](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) Andrew Fuqua on the “Theory of Constraints” [https://www.leadingagile.com/2018/03/the-real-first-step-in-the-theory-of-constraints/](https://www.leadingagile.com/2018/03/the-real-first-step-in-the-theory-of-constraints/)
 
-\[1\] See the Theory of Constraints: [https://en.wikipedia.org/wiki/Theory\_of\_constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) from Eli Goldratt. \[2\] Matt Cholick - [https://twitter.com/cholick/status/384816643370532864](https://twitter.com/cholick/status/384816643370532864) \[3\] Pair Writing: [https://pds.blog.parliament.uk/2017/03/29/pair-writing/](https://pds.blog.parliament.uk/2017/03/29/pair-writing/) and [https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts](https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts) \[4\] Pair Learning: [https://www.infoq.com/news/2018/02/pairing-learning](https://www.infoq.com/news/2018/02/pairing-learning/) \[5\] The original source for Coding Katas is Dave Thomas and Andy Hunts – Pragmatic Programmer. Our own work on Randori workshops is here: [TDD Randori Session](/blog/tdd-randori-session.html) and [TDD Randori Workshop](/blog/tdd-randori-workshop.html), with another example here: [The Team Learn How to Learn](/blog/scrummaster-tales-the-team-learn-how-to-learn.html)
+\[1\] See the Theory of Constraints: [https://en.wikipedia.org/wiki/Theory\_of\_constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) from Eli Goldratt. \[2\] Matt Cholick - [https://twitter.com/cholick/status/384816643370532864](https://twitter.com/cholick/status/384816643370532864) \[3\] Pair Writing: [https://pds.blog.parliament.uk/2017/03/29/pair-writing/](https://pds.blog.parliament.uk/2017/03/29/pair-writing/) and [https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts](https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts) \[4\] Pair Learning: [https://www.infoq.com/news/2018/02/pairing-learning](https://www.infoq.com/news/2018/02/pairing-learning/) \[5\] The original source for Coding Katas is Dave Thomas and Andy Hunts – Pragmatic Programmer. Our own work on Randori workshops is here: [TDD Randori Session](/blog/tdd-randori-session) and [TDD Randori Workshop](/blog/tdd-randori-workshop), with another example here: [The Team Learn How to Learn](/blog/scrummaster-tales-the-team-learn-how-to-learn)
 
 Image attribution: Agile Pain Relief Consulting

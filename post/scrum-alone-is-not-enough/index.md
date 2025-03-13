@@ -21,13 +21,13 @@ Like the [Design Patterns](https://en.wikipedia.org/wiki/Design_pattern) movemen
 
 \-       **Effective Agile Engineering Practices** – such as Unit Testing, Continuous Integration, Test Driven Development, Acceptance Test Driven Development (or BDD), Pair Programming. Without practices like these, the health of your codebase will degrade over time.
 
-\-       **[Portfolio Management](/blog/portfolio-management.html)** – the art of making big picture decisions about which major chunks of work the business would like focused on next. Organizations need portfolio management to ensure that major priorities are understood by the team’s Product Owners and worked on in priority order.
+\-       **[Portfolio Management](/blog/portfolio-management)** – the art of making big picture decisions about which major chunks of work the business would like focused on next. Organizations need portfolio management to ensure that major priorities are understood by the team’s Product Owners and worked on in priority order.
 
-\-       [**Kanban**](/blog/kanban-portfolio-view.html "Kanban Portfolio View") – (a tool to understand and improve flow) to help understand the flow of work at both the team and organization level. Without a good understanding of flow of work through the organization, we might make a change that is a local improvement but harms the whole.
+\-       [**Kanban**](/blog/kanban-portfolio-view "Kanban Portfolio View") – (a tool to understand and improve flow) to help understand the flow of work at both the team and organization level. Without a good understanding of flow of work through the organization, we might make a change that is a local improvement but harms the whole.
 
-\-       **[Organizational Improvement](/blog/taking-organizational-improvement-with-scrum-seriously.html)** – many issues that Scrum helps to find can’t be solved by the team or their ScrumMaster. Instead, organizations need to establish an ongoing improvement team dedicated to resolving these problems. ([Part 1: Taking Organizational Improvement Seriously](/blog/taking-organizational-improvement-with-scrum-seriously.html) | [Part 2: Case Study](/blog/taking-organizational-improvement-seriously-case-study.html))
+\-       **[Organizational Improvement](/blog/taking-organizational-improvement-with-scrum-seriously)** – many issues that Scrum helps to find can’t be solved by the team or their ScrumMaster. Instead, organizations need to establish an ongoing improvement team dedicated to resolving these problems. ([Part 1: Taking Organizational Improvement Seriously](/blog/taking-organizational-improvement-with-scrum-seriously) | [Part 2: Case Study](/blog/taking-organizational-improvement-seriously-case-study))
 
-\-       **Intra Team Coordination** – How will you coordinate the work among teams? Scrum of [Scrums](https://agilepainrelief.com/blog/a-tale-of-two-daily-scrums.html) is the most well known pattern and yet is rarely the best choice.
+\-       **Intra Team Coordination** – How will you coordinate the work among teams? Scrum of [Scrums](https://agilepainrelief.com/blog/a-tale-of-two-daily-scrums) is the most well known pattern and yet is rarely the best choice.
 
 \-       **Team Organization** – How will you organize your teams? As Component Teams? As Feature Teams? Using the Spotify model of Squads, Tribes and Guilds?
 

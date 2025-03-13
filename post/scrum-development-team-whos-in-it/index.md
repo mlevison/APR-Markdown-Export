@@ -45,6 +45,6 @@ Other points to remember: that people can be members of only one Development Tea
 
 The Scrum Guide language around teams isn’t perfect, however it’s a gross – and dangerous – misinterpretation to say that testers aren’t members of the Scrum Development team.
 
-Related article: [Choosing the Team Size in Scrum](/blog/scrum-team-size.html)
+Related article: [Choosing the Team Size in Scrum](/blog/scrum-team-size)
 
 (Image attribution: Melvin Green via FreeImages.com)

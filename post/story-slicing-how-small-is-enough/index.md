@@ -54,6 +54,6 @@ What not to do: Split along architectural or technology boundaries, as this will
 
 When slicing stories imagine using a scalpel and not a butcher’s knife. Go create some story sashimi.
 
-_Update: I was asked for some examples and I've written some in [More Story Splitting](/blog/more-notes-on-story-splitting.html)._
+_Update: I was asked for some examples and I've written some in [More Story Splitting](/blog/more-notes-on-story-splitting)._
 
 Image via: [https://photodune.net/](https://photodune.net/)

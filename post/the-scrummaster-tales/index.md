@@ -61,14 +61,14 @@ Example: "As a user I want to search using the author’s  first and last name 
 
 So what options does Steve have?
 
-- He could work for the rest of the day with Paula to rewrite and [split the stories](/blog/more-notes-on-story-splitting.html) but that still wouldn’t get the stories estimated.
+- He could work for the rest of the day with Paula to rewrite and [split the stories](/blog/more-notes-on-story-splitting) but that still wouldn’t get the stories estimated.
 - He could cancel the Sprint Planning session and delay the start of the Sprint. _The backlog is ill- prepared but Paula is new to Agile and appears to be trying to do the right thing. Cancelling Sprint Planning is an extremely strong signal to send at this stage of the game._
-- He could turn tomorrow’s Sprint Planning meeting into a [Backlog Grooming](/blog/basic-explanation-of-the-different-parts-of-agile-planning.html) (to rewrite and estimate the stories). After that’s completed he could hold a traditional Sprint Planning meeting. _This seems like the best option, but…_
+- He could turn tomorrow’s Sprint Planning meeting into a [Backlog Grooming](/blog/basic-explanation-of-the-different-parts-of-agile-planning) (to rewrite and estimate the stories). After that’s completed he could hold a traditional Sprint Planning meeting. _This seems like the best option, but…_
 
 Before he takes any action Steve should sit down with Paula and discuss the problems he sees, all the while making the focus not on the mistakes Paula has made but instead focusing on the backlog and what a good story would be. Then he should explain the current state of the world to the team, including all the options that they have and let the team decide what to do. Even if they make what Steve perceives to be a weaker decision they will learn from the mistake and grow.
 
 What options did you consider for Steve? What could he do differently?
 
-_[Scrum By Example](/blog/scrum-by-example.html) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
+_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
 Image via: [https://photodune.net/](https://photodune.net/)

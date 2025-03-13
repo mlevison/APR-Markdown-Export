@@ -24,7 +24,7 @@ Steve – a new ScrumMaster and the hero of our story Paula – the Product Owne
 
 **The Story So Far...**
 
-ScrumMaster Steve, Product Owner Paula, and the rest of the Scrum team have started another Sprint for building the [World’s Smallest Online Bookstore](/blog/scrum-by-example.html). Having learned [the consequences of over-committing](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html), this time they have committed to [fewer User Stories](/blog/lifecycle-of-a-user-story.html) and are about halfway through the Sprint. They have committed to eight User Stories with sizes ranging from 2 – 8 points:
+ScrumMaster Steve, Product Owner Paula, and the rest of the Scrum team have started another Sprint for building the [World’s Smallest Online Bookstore](/blog/scrum-by-example). Having learned [the consequences of over-committing](/blog/scrum-by-example-the-story-of-an-incomplete-sprint), this time they have committed to [fewer User Stories](/blog/lifecycle-of-a-user-story) and are about halfway through the Sprint. They have committed to eight User Stories with sizes ranging from 2 – 8 points:
 
 - As a Canadian book buyer, I want the World’s Smallest Online Bookstore to ship my book to Canada so I can get my book home – **Story Points: 8**
 - ...to calculate the import duty on my books – **Story Points: 3**
@@ -40,7 +40,7 @@ Five days into the Sprint, Paula interrupts the team and asks that they add in a
 
 ## A Failure to Respect Scrum Roles
 
-This is an example of a [Scrum Anti-Pattern](/blog/scrum-anti-patterns.html) that significantly harms the ability of the team to manage the scope of their Sprints. This scenario isn’t uncommon, especially for teams and organizations new to Scrum – almost every Scrum team will find themselves in this difficult situation, or one similar, at least once.
+This is an example of a [Scrum Anti-Pattern](/blog/scrum-anti-patterns) that significantly harms the ability of the team to manage the scope of their Sprints. This scenario isn’t uncommon, especially for teams and organizations new to Scrum – almost every Scrum team will find themselves in this difficult situation, or one similar, at least once.
 
 In this case, the Product Owner has fallen into a micro-managing mindset, imposing their will on the team by assigning work without consulting them or respecting their capacity to self-organize.
 
@@ -72,7 +72,7 @@ The above example is one I’ve seen countless times with clients I’ve worked 
 
 However it gets resolved, the problem must be addressed and then reflected on if the team is to perform effectively.
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 ### How to Learn More
 

@@ -43,13 +43,13 @@ Since we look at the Sprint Backlog during Daily Scrum, most Scrum teams update
 2. it can be turned into a Spike – a timeboxed investigative effort to better understand the problem, or
 3. t can be committed pending further clarification right after Sprint Planning. (This is a common practice and is almost always a bad idea. Options 1 and 2 are better choices).
 
-A Sprint is dynamic and evolves so the Sprint Backlog changes as the Sprint moves along. The Sprint plan that helped you start the Sprint often doesn’t last the whole Sprint. Did the team realize that a User Story (aka PBI) won’t be completed this Sprint? Remove it and tell the Product Owner. Hit by a product support defect mid-Sprint? Add the emergency fix to the Sprint Backlog, or put an existing item on hold and swarm the defect. (_Hint: if this is a frequent problem, we’ve covered reducing the Production Support burden in this [Scrum By Example entry](/blog/scrum-production-support.html)_).
+A Sprint is dynamic and evolves so the Sprint Backlog changes as the Sprint moves along. The Sprint plan that helped you start the Sprint often doesn’t last the whole Sprint. Did the team realize that a User Story (aka PBI) won’t be completed this Sprint? Remove it and tell the Product Owner. Hit by a product support defect mid-Sprint? Add the emergency fix to the Sprint Backlog, or put an existing item on hold and swarm the defect. (_Hint: if this is a frequent problem, we’ve covered reducing the Production Support burden in this [Scrum By Example entry](/blog/scrum-production-support)_).
 
 #### Fixed Scope or Variable Scope?
 
 People get themselves tied up in endless knots on this subject – are the contents of the Sprint fixed (i.e. Fixed Scope) or can they change (Variable Scope)? These notes won’t settle all debates, but they should help reduce them.
 
-- [Sprint Goal](/blog/sprint-goals-provide-purpose.html) – This shouldn’t change during the Sprint.
+- [Sprint Goal](/blog/sprint-goals-provide-purpose) – This shouldn’t change during the Sprint.
 - Product Items committed to the Sprint – If the Sprint isn’t going well, the team might drop an item. On rare occasions when something important is discovered by the PO, the Scrum Team might accept a new PBI mid-Sprint. _My normal recommendation is that they remove a larger existing item to accommodate the new item. I would expect the Team to discuss in their subsequent retrospective what happened and how to ensure that it doesn’t happen again._
 - Task Items – Any amount of change is fine here since tasks aren’t officially part of Scrum and the task list can change on a daily basis.
 
@@ -170,7 +170,7 @@ This happens when Team Members are signed up for one than one task or PBI at the
 
 #### Reporting
 
-The Sprint Backlog loses its value if used for external purposes like reporting, or for [micro-management](/blog/scrum-anti-patterns-micromanagement.html). When leadership uses it to look over the shoulders of the people doing the work — even if it’s not to direct the Development Team’s actions — it often leads to overloading the Sprint Backlog with details that undermine and eliminate transparency. The Sprint Backlog is used only by the Scrum team, and is not intended to be viewed by anyone else.
+The Sprint Backlog loses its value if used for external purposes like reporting, or for [micro-management](/blog/scrum-anti-patterns-micromanagement). When leadership uses it to look over the shoulders of the people doing the work — even if it’s not to direct the Development Team’s actions — it often leads to overloading the Sprint Backlog with details that undermine and eliminate transparency. The Sprint Backlog is used only by the Scrum team, and is not intended to be viewed by anyone else.
 
 #### Multiple Sprints
 
@@ -184,7 +184,7 @@ When people come from a traditional world into Scrum, some try to use the Sprint
 
 The Sprint Backlog is also the Developers’ forecasting tool. Each day during Daily Scrum, they replan their work and update the Sprint Backlog , using it to help them assess whether they’re on track to meet their Sprint Goal. If they realize that their Sprint Goal is in jeopardy, they work with the Product Owner on replanning.
 
-In the past, Teams used to use a [Sprint Burndown Chart](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns.html) that tracked task hours remaining to be done. Now, most of us would suggest that the focus on Tasks, versus focusing on User Stories/PBIs, is anti-pattern so we don’t recommend Sprint Burndowns.
+In the past, Teams used to use a [Sprint Burndown Chart](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns) that tracked task hours remaining to be done. Now, most of us would suggest that the focus on Tasks, versus focusing on User Stories/PBIs, is anti-pattern so we don’t recommend Sprint Burndowns.
 
 ## Sprint Backlog vs Kanban Wall vs Product Backlog
 

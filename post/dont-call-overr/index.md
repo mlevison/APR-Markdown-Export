@@ -49,4 +49,4 @@ To the eclipse guys: come on not even MS would allow this to be checked into the
 
 Sorry for the lack of posts in the last week a perfect storm of events has conspired to keep me busy.
 
-Next up a post on the [perils of protected variables](/blog/protected-varia.html) - which stunningly Eclipse also uses.
+Next up a post on the [perils of protected variables](/blog/protected-varia) - which stunningly Eclipse also uses.

@@ -21,7 +21,7 @@ excerpt: '_Whenever you are building and deploying a complex system, there are a
 
 _Whenever you are building and deploying a complex system, there are always going to be bugs, defects, and unforeseen problems with usability — commonly referred to as Production Support issues. Today, our ScrumMaster and their Team grapple with these issues, to help you understand how they affect a Scrum Team and what you can do to prevent them from dragging you down._
 
-[ScrumMaster Steve and his Team](/blog/scrum-by-example.html) have released the World’s Smallest Online Bookstore. It’s live, and books are selling and shipping. This turns out to be a blessing and a curse because the business is making money, but with it comes support issues.
+[ScrumMaster Steve and his Team](/blog/scrum-by-example) have released the World’s Smallest Online Bookstore. It’s live, and books are selling and shipping. This turns out to be a blessing and a curse because the business is making money, but with it comes support issues.
 
 In the first two Sprints after the release, the Team noticeably struggles and often fails to meet its planning commitments. At first, Steve is okay with this, believing it’s inevitable post-release hiccups but, when it’s clear that the trend is continuing into the third Sprint, he starts to get worried. He spends some time watching the Development Team work and notices that Team members are often interrupted several times a day. Most of these interruptions are from production support issues.
 
@@ -33,7 +33,7 @@ It is this second line support that is causing frequent interruptions, as whenev
 
 ![How to Handle Production Support Issues in Scrum - an example of a sprint backlog with lower section for support tickets](src/content/blog/scrum-production-support/images/2019CSM-Sample-Scrum-Task-Board_2-1024x975.jpg)
 
-After four or five Sprints, he charts the resulting effect on the Team’s Sprint Burnup ([Burndowns](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns.html) and [Cumulative Flow Diagrams](/scrummaster-resources-and-references#estimation) could be used as well), to show the correlation between Production Support Issues each Sprint and the number of Backlog Items completed.
+After four or five Sprints, he charts the resulting effect on the Team’s Sprint Burnup ([Burndowns](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns) and [Cumulative Flow Diagrams](/scrummaster-resources-and-references#estimation) could be used as well), to show the correlation between Production Support Issues each Sprint and the number of Backlog Items completed.
 
 ![Example of a release burnup chart](src/content/blog/scrum-production-support/images/Release-Burnup-Support-Issues.jpg)
 
@@ -53,7 +53,7 @@ The Team can also do a number of things to mitigate interruptions:
     - Extreme version of this solution is [Pattern: Illegitimus Non Interruptus](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/illegitimus-non-interruptus) – cancel the Sprint if interruptions exceed the timebox. _Note: This works well to highlight the problem, however, I would only recommend it as a last resort._
 - Limit the number of production support items “in Progress” to one. This forces hard decisions to be made about the value of fixing an item immediately but limits the ability to fix another one before the first is finished.
 
-The obvious problem is that these defects detract from the Team’s ability to finish User Stories in a Sprint. However, the problem is much deeper than just that. [When any interruption happens in a Sprint](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint.html), the Team loses focus. When they lose focus, it harms the quality of the work they were doing on the new Stories.
+The obvious problem is that these defects detract from the Team’s ability to finish User Stories in a Sprint. However, the problem is much deeper than just that. [When any interruption happens in a Sprint](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint), the Team loses focus. When they lose focus, it harms the quality of the work they were doing on the new Stories.
 
 Handling emergency defects in Sprint leads to fewer completed Stories, more defects in those Stories, and poorer quality fixes to defects as people rush. Which, at a later date, will cause more interruptions in the Sprint. _In [Systems Thinking](/scrummaster-resources-and-references#systems-thinking) this is called a negatively reinforcing feedback loop._
 
@@ -76,11 +76,11 @@ It took the Team over 20 Sprints (almost an entire year) to get to this state, s
 
 This a good start to turning the quality issues around. Six months later we check back in with the Team – they have reduced their support workload to ~20% of the time (still not great, but a far cry from the 50%+ they had before), they have slowed down, and with renewed focus on quality are finally delivering on zero net new bugs every Sprint. The original goal of Acceptance Tests for all new code wasn’t achieved in the first few Sprints after it was suggested. It took the better part of the next two months, but they would eventually get there.
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 ### Do you want to coach your team towards better solutions?
 
-_The above scenario, and others experienced by our well-intentioned but often misguided fictional [ScrumMaster Steve and Team](/blog/scrum-by-example.html), are topics commonly discussed in our [training workshops](/certified-scrum-agile-training). Fundamentally changing the way a Team works as it transitions to practicing Scrum is one of the more challenging issues that organizations face in their Scrum evolution. We would love to have you join us to receive hands-on learning of the challenges – and solutions – as well as tips on how to integrate them into your Scrum._
+_The above scenario, and others experienced by our well-intentioned but often misguided fictional [ScrumMaster Steve and Team](/blog/scrum-by-example), are topics commonly discussed in our [training workshops](/certified-scrum-agile-training). Fundamentally changing the way a Team works as it transitions to practicing Scrum is one of the more challenging issues that organizations face in their Scrum evolution. We would love to have you join us to receive hands-on learning of the challenges – and solutions – as well as tips on how to integrate them into your Scrum._
 
 \[1\] Most Sprint Retrospectives focus on the current Sprint, however, it does help from time to time to have a retrospective with a wider remit. \[2\] [_The ETTO Principle: Efficiency-Thoroughness Trade-Off: Why Things That Go Right Sometimes Go Wrong_](https://www.amazon.ca/ETTO-Principle-Efficiency-Thoroughness-Trade-Off-Sometimes-ebook/dp/B077315CYY/&tag=notesfromatoo-20) by Erik Hollnagel \[3\] [https://en.wikipedia.org/wiki/Hindsight\_bias](https://en.wikipedia.org/wiki/Hindsight_bias) \[4\] [https://docs.microsoft.com/en-gb/archive/blogs/ericgu/no-bugs-journey-episode-2-its-a-matter-of-values](https://docs.microsoft.com/en-gb/archive/blogs/ericgu/no-bugs-journey-episode-2-its-a-matter-of-values)
 

@@ -25,11 +25,11 @@ If models are used, you’d better understand what they are, and their shortcomi
 
 To create a simplified model for quick and easy digestion, you reduce the layers of details down to an abstract representation. This can be helpful because it’s easier to see patterns in a simple model, but it’s important that everyone remains mindful of how many steps away they are from the detailed reality. Let’s examine these successively abstract models:
 
-#### [A little bit abstract: A team’s Task Board, Scrum Wall, or the overall Portfolio Kanban Wall](/blog/kanban-portfolio-view.html)
+#### [A little bit abstract: A team’s Task Board, Scrum Wall, or the overall Portfolio Kanban Wall](/blog/kanban-portfolio-view)
 
 These are all first-order models of reality. While not perfect mirrors of the current state of the work, they’re fairly close. They help visually demonstrate qualitative information (e.g., which stories are complete, not just how many). _Small errors creep in if people forget to move items for a day, and other times what is happening in the team is more complex than the board can represent. But, overall, it’s a pretty good representation._
 
-#### [More abstract: A Release Burndown Chart, Burnup Chart, or Cumulative Flow Diagram](/blog/kanban-portfolio-view-continued.html)
+#### [More abstract: A Release Burndown Chart, Burnup Chart, or Cumulative Flow Diagram](/blog/kanban-portfolio-view-continued)
 
 These are all second-order models of reality. They summarize the information contained on the Scrum Walls/Task Boards mentioned above. They’re useful because they help spot trends, but they still have less information than the Portfolio Kanban Wall and they suffer two major weaknesses:
 

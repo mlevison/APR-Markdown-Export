@@ -10,10 +10,10 @@ tags:
   - "solid-code"
   - "test-driven-development"
   - "yagni"
-excerpt: 'During last weeks [TDD Randori session](/blog/tdd-randori-session.html) I was asked, what'
+excerpt: 'During last weeks [TDD Randori session](/blog/tdd-randori-session) I was asked, what'
 ---
 
-During last weeks [TDD Randori session](/blog/tdd-randori-session.html) I was asked, what are the advantages of TDD. Here is my short list:
+During last weeks [TDD Randori session](/blog/tdd-randori-session) I was asked, what are the advantages of TDD. Here is my short list:
 
 - - Writing tests first require you to really consider what you want from the code
     - Short feedback loop

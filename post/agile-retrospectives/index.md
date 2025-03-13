@@ -105,7 +105,7 @@ Remind participants at the start of every retrospective that it is never about b
 
 ### Simple Ground Rules
 
-Clear meeting ground rules should be part of your [Team Working Agreements](/blog/team-friction-inspires-working-agreements.html).
+Clear meeting ground rules should be part of your [Team Working Agreements](/blog/team-friction-inspires-working-agreements).
 
 Ideally, ground rules will be behavioural (e.g. “state views and ask genuine questions”) vs abstract (e.g. “be respectful”).\[[3](#footnotes)\]
 
@@ -148,7 +148,7 @@ Some of this work happens in the retrospective, but a lot of it happens before. 
 
 - - the Team calendar – helps to remember who was present and who was away
     - Number of Stories Completed
-    - [Sprint Burndown](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns.html) (hint: avoid burndowns in task hours as they cause team members to focus on completing tasks and not delivering features)
+    - [Sprint Burndown](/blog/scrummaster-tales-the-trouble-with-sprint-burndowns) (hint: avoid burndowns in task hours as they cause team members to focus on completing tasks and not delivering features)
     - Sometimes better than the Sprint Burndown is to take a snapshot of the team’s Scrum Wall every few days. At best, a burndown shows that you had a problem. Snapshots of the team wall will show you which Product Backlog Items or User Stories got stuck and where the issue was.
     - Did the team have any Production Support issues to deal with? When did they happen? Were there interruptions from other sources (i.e. VP or CEO)? When? Capture this information on a Kanban wall.
     - Average Cycle Time and if there were any extreme outliers
@@ -158,7 +158,7 @@ Some of this work happens in the retrospective, but a lot of it happens before. 
     - Number of User Stories that were thought complete but failed to meet Definition of “Done”
     - … _Any other sources of information that could help with the team’s awareness of their circumstances – with one caveat – please, at all costs, avoid information that is focused or directed at one individual._
 
-(For a massively long list of measures, see: [https://agilepainrelief.com/blog/measurement-for-scrum-what-are-appropriate-measures.html](/blog/measurement-for-scrum-what-are-appropriate-measures.html)). Start small and build as your team learns to digest and understand the data found.
+(For a massively long list of measures, see: [https://agilepainrelief.com/blog/measurement-for-scrum-what-are-appropriate-measures.html](/blog/measurement-for-scrum-what-are-appropriate-measures)). Start small and build as your team learns to digest and understand the data found.
 
 It’s important to gather this data before the retrospective because we don’t have accurate or complete memories of what happened in the past Sprint. In a CSM workshop, I ask a simple question, “Without looking at your tools, can you tell me what you completed a week and a day ago?” Most people can’t. Yet when we walk into a retrospective, we magically expect people to have better memories of a 2 to 4-week Sprint. Since that is unrealistic, the team and ScrumMaster need to gather the objective data that is available to them and provide it to the Team before the retrospective, either in a handout or email. Team members then can take time, either before or during the retrospective, to review the data gathered.
 

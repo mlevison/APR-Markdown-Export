@@ -16,7 +16,7 @@ coverImage: "photodune-9444702-yellow-working-sign-xs.jpg"
 excerpt: 'We join the team this week in their Sprint Planning session as they start by rechecking'
 ---
 
-![Yellow vector working sign - image licensed from Photodune](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/photodune-9444702-yellow-working-sign-xs.jpg) The first law of holes is “When you’re in one, stop digging”. [In the last sprint](/blog/scrummaster-tales-technical-debt-is-slowing-the-team.html) the team discovered that they’re in a hole – in this case they had dug themselves into technical debt.
+![Yellow vector working sign - image licensed from Photodune](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/photodune-9444702-yellow-working-sign-xs.jpg) The first law of holes is “When you’re in one, stop digging”. [In the last sprint](/blog/scrummaster-tales-technical-debt-is-slowing-the-team) the team discovered that they’re in a hole – in this case they had dug themselves into technical debt.
 
 We join the team this week in their Sprint Planning session as they start by rechecking their Retrospective action items:
 
@@ -37,7 +37,7 @@ Adding the “Definition of Done” at the top (permanently) and a “Unit Test�
 
 On **Day 1**, Ian (the unofficial Build Master) and Doug sit down together to get [Sonar](https://www.sonarsource.org/) up and running. After spending a few hours getting it configured in their CI system they have a pretty page of Java projects to visit from their dashboard.![Screenshot from Sonar's own Nemo](src/content/blog/scrummaster-tales-stop-digging-new-holes/images/Sonar-screenshot.png)
 
-After having some fun looking at the worst violations, they come to realize that the default configurations of PMD can be very noisy (with warnings for method name too long and too short). They quickly decide to load up PMD in Eclipse and make a first pass at simplifying rules. Even after simplification they find the code base still has over 10,000 rule violations. They agree to raise the issue in the next [Daily Scrum](/blog/pathologies-of-the-daily-scrum-or-standup.html). They also decide to write a short note to the team explain which rules they dropped and why. In addition they discovered that their existing Unit Tests only provide 10% Code Coverage.
+After having some fun looking at the worst violations, they come to realize that the default configurations of PMD can be very noisy (with warnings for method name too long and too short). They quickly decide to load up PMD in Eclipse and make a first pass at simplifying rules. Even after simplification they find the code base still has over 10,000 rule violations. They agree to raise the issue in the next [Daily Scrum](/blog/pathologies-of-the-daily-scrum-or-standup). They also decide to write a short note to the team explain which rules they dropped and why. In addition they discovered that their existing Unit Tests only provide 10% Code Coverage.
 
 **Day 2** During Daily Scrum – Ian describes what they’ve learned from installing Sonar and trying to configure PMD. After the meeting the developers have a five minute chat to agree on a strategy to handle the PMD issues. They agree just to eliminate PMD warnings as they work on a class. When there are too many warnings to eliminate in one sitting, they agree to at least chip away at some and create a technical debt card/postit to capture the bigger issue(s).
 
@@ -70,6 +70,6 @@ By end of the Sprint the team have completed the Stories they originally committ
 
 _With a spot of luck perhaps in the next few sprints they will make their codebase marginally cleaner and easier to work with._
 
-_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example.html) to learn more about the series and discover other helpful articles.**_
+_**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
 First image via: [https://photodune.net/](https://photodune.net/). Remaining images by Agile Pain Relief.
