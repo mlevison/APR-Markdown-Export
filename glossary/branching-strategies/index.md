@@ -15,7 +15,7 @@ _Some teams in the Trunk Based model, use micro-branches, that live only for one
 #### Resource Links:
 
 - [Branch by Abstraction for dealing with the few complexities that crop up with working off of Trunk](https://martinfowler.com/bliki/BranchByAbstraction.html)
-- [Branching by an abstraction in the trunk instead of branching via Source Control](https://paulhammant.com/blog/branch_by_abstraction.html)
+- [Branching by an abstraction in the trunk instead of branching via Source Control](https://paulhammant.com/blog/branch_by_abstraction)
 - [Continuous Integration and Feature Branching](https://www.davefarley.net/?p=247)
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) By Martin Fowler. This is the deepest single article on the subject
 - [Long running branches — Why are we still doing this?](https://medium.com/design-and-tech-co/long-running-branches-why-are-we-still-doing-this-605e37611d03)

@@ -26,7 +26,7 @@ Fixing legacy code does not come with a magic wand.
 
 Finally have empathy for the people who wrote this code. It might even have been an younger version of yourself. The real magic is in putting the focus on improving the readability of the code and raising the bar on quality Sprint over Sprint.
 
-[Reinventing Existing Products – Big Bite vs Small Nibble Rewrites](https://agilepainrelief.com/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites.html)
+[Reinventing Existing Products – Big Bite vs Small Nibble Rewrites](https://agilepainrelief.com/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites)
 
 #### Resource Links:
 

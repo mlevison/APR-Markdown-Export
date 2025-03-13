@@ -6,7 +6,7 @@ excerpt: 'Test Driven Development \[TDD\] and Behaviour Driven Development \[BDD
 
 Test Driven Development \[TDD\] and Behaviour Driven Development \[BDD\] are often confused because the similarity of their names. TDD is the original technique - "engineering practice where the developer writes their Unit Test case before they write their code". It helps raise quality by ensuring the developer built what they intended to. However, it doesn't prove that the developer had the right intention when they wrote the code. BDD is an evolution of TDD. In this approach, the people doing the work - often a BA, Developer, and Tester - work together to define the acceptance criteria as examples that could be understood by a non-technical person. Further, the examples are often automated as acceptance tests on the boundary of the system.
 
-[Test Driven Development is Not a Quality Assurance Technique](/blog/test-driven-development-is-not-a-quality-assurance-technique.html)
+[Test Driven Development is Not a Quality Assurance Technique](/blog/test-driven-development-is-not-a-quality-assurance-technique)
 
 #### Resource Links:
 

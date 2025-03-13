@@ -33,8 +33,8 @@ Mistakes that organizations make:
 - appointing a ScrumMaster instead of getting the team to make the decision about who would best help them
 - making the Team’s Manager their ScrumMaster
 
-[Scrum by Example – Stories for the Working ScrumMaster]((/blog/scrum-by-example.html))
-[ScrumMaster for Three Teams? What are the Alternatives?](/blog/scrummaster-for-three-teams-what-are-the-alternatives.html)
+[Scrum by Example – Stories for the Working ScrumMaster]((/blog/scrum-by-example))
+[ScrumMaster for Three Teams? What are the Alternatives?](/blog/scrummaster-for-three-teams-what-are-the-alternatives)
 
 #### Resource Links:
 

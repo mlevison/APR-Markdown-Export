@@ -10,7 +10,7 @@ Consider Pair Programming or, even better, Ensemble Programming instead.
 
 #### Resource Links:
 
-- [The case against code reviews](https://www.jocrossick.com/blog/no-code-reviews.html) - Jo Crossick
+- [The case against code reviews](https://www.jocrossick.com/blog/no-code-reviews) - Jo Crossick
 - [Code review vs. Pair programming](https://jbenckhuijsen.blogspot.com/2021/03/code-review-vs-pair-programming.html)
 - [Evolving Code Reviews Into Pair Programming](https://focusedlabs.io/blog/evolving-code-reviews-into-pair-programming)
 - [Pair Programming > Code Reviews](https://theo.posthaven.com/pair-programming-code-reviews) - Theodore Nguyen-Cao

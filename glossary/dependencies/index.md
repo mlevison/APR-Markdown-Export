@@ -13,7 +13,7 @@ date: "2021-02-08"
 - [Dependencies, Scrum of Scrums, and SAFe](https://ronjeffries.com/articles/2015-02-08-dependencies/)
 - [Dependency and Skill Capacity Planning (portfolio planning)](https://focusedobjective.com/dependency-skill-capacity-planning-portfolio-planning/)
 - [Dependency Management in a Large Agile Environment (slideshare)](https://www.slideshare.net/sgreene/dependency-management-in-a-large-agile-environment-presentation)
-- [Eliminate Dependencies, Don’t Manage Them](https://less.works/blog/2018/07/22/eliminate-dependencies.html)
+- [Eliminate Dependencies, Don’t Manage Them](https://less.works/blog/2018/07/22/eliminate-dependencies)
 - [Impact of Multiple Team Dependencies in Software Development](https://observablehq.com/@troymagennis/impact-of-multiple-team-dependencies-in-software-developm)
 - [Managing Technical Dependencies (lays out many options including the weak choice – Scrum of Scrums)](https://www.agilecoachjournal.com/2012-04-26/managing-technical-dependencies)
 - [On hardware dependencies and scrum](https://www.embedded.com/on-hardware-dependencies-and-scrum/)

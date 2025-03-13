@@ -63,7 +63,7 @@ As this happens again and again over the course of a few weeks, our developer is
 
 So, the WIP limit itself isn’t magical. Instead, it helps team members get unstuck from the status quo, challenges them to learn, and improves collaboration.
 
-[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html)
+[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint)
 
 #### Resource Links:
 

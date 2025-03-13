@@ -6,8 +6,8 @@ excerpt: '**Product Backlog Refinement** (formerly known as "Product Backlog Gro
 
 **Product Backlog Refinement** (formerly known as "Product Backlog Grooming") is a session during which the Scrum Team (Developers, Product Owner, ScrumMaster) prepare the Product Backlog for the next few sprints. New Product Backlog Items (PBIs) are added for new needs to be considered. PBIs that are too large to be worked on in a single Sprint are broken down into smaller items. Estimates are made as to how much time each PBI will require to complete. The Product Owner makes prioritization decisions about PBIs, sharing with the Team their reasoning. PBIs that are no longer important are deleted, making room for new ones. The items that are candidates for the next Sprint Planning have their initial acceptance criteria written.
 
-[Scrum by Example – Product Backlog Refinement in Action]((/blog/scrum-product-backlog-refinement.html))
-[Scrum By Example – Ill-Prepared Team Goes into Sprint Planning]((/blog/the-scrummaster-tales.html))
+[Scrum by Example – Product Backlog Refinement in Action]((/blog/scrum-product-backlog-refinement))
+[Scrum By Example – Ill-Prepared Team Goes into Sprint Planning]((/blog/the-scrummaster-tales))
 [Scrum Anti-Patterns: Large Product Backlog](https://resources.scrumalliance.org/Article/scrum-anti-patterns-large-product-backlog)
 
 ### Resource Links:

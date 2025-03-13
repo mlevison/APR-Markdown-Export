@@ -9,7 +9,7 @@ excerpt: '**Impact Mapping** is a tool to help teams focus their work on the fea
 
 #### ![impact mapping example](src/content/glossary/impact-mapping/images/impact-mapping-WSOBS-example3.png)
 
-[Want to Get the Most Bang for Your Buck? Try Impact Mapping](/blog/to-get-bang-for-your-buck-try-impact-mapping.html)
+[Want to Get the Most Bang for Your Buck? Try Impact Mapping](/blog/to-get-bang-for-your-buck-try-impact-mapping)
 
 #### Resource Links:
 

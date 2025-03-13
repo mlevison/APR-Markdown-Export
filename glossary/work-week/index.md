@@ -6,7 +6,7 @@ excerpt: 'Our modern work week of five days on and two days off is nothing more 
 
 Our modern work week of five days on and two days off is nothing more than an accident of history. Many organizations, and now even countries, are experimenting with what is most effective.
 
-[Scrum By Example – Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html)
+[Scrum By Example – Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)
 
 #### Resource Links:
 

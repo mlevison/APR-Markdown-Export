@@ -8,7 +8,7 @@ The ScrumGuide says that Sprints "are fixed length events of one month or less t
 
 That's useful but incomplete. What is too long? What is too short? Where do most teams start?
 
-[Choosing a Scrum Sprint Length – Shorter Beats Longer](/blog/choosing-scrum-sprint-length.html)
+[Choosing a Scrum Sprint Length – Shorter Beats Longer](/blog/choosing-scrum-sprint-length)
 
 #### Resource Links:
 

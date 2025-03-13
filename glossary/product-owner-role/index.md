@@ -31,12 +31,12 @@ Mistakes organizations make:
 - Not empowering a PO to make business decisions
 - Treating the PO as proxy for stakeholders or senior management – the PO isn’t an errand runner
 - Assuming that a good product is just the sum of stakeholder/customer requests
-- Assuming that the PO is a [Business Analyst with a better job title](/blog/product-owner-isn-business-analyst-steroids.html)
+- Assuming that the PO is a [Business Analyst with a better job title](/blog/product-owner-isn-business-analyst-steroids)
 
 [Certified Scrum Product Owner Training]((https://agilepainrelief.com/certified-scrum-product-owner-cspo-training))
-[Product Owner isn’t just a Business Analyst on Steriods]((/blog/product-owner-isn-business-analyst-steroids.html))
-[Technical User Stories or The Team Tries to Fool the Product Owner | Agile Pain Relief]((https://agilepainrelief.com/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner.html))
-[Reinventing Existing Products – Big Bite vs Small Nibble Rewrites](https://agilepainrelief.com/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites.html)
+[Product Owner isn’t just a Business Analyst on Steriods]((/blog/product-owner-isn-business-analyst-steroids))
+[Technical User Stories or The Team Tries to Fool the Product Owner | Agile Pain Relief]((https://agilepainrelief.com/blog/scrummaster-tales-technical-user-stories-team-pull-fast-product-owner))
+[Reinventing Existing Products – Big Bite vs Small Nibble Rewrites](https://agilepainrelief.com/blog/reinventing-existing-products-big-bite-vs-small-nibble-rewrites)
 
 #### Resource Links:
 

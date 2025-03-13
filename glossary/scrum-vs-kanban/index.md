@@ -6,13 +6,13 @@ excerpt: '**Scrum** is a tool that organizes a team to deliver value to a custom
 
 **Scrum** is a tool that organizes a team to deliver value to a customer. Along the way, the team is expected to improve the product and also the way they work together. **Kanban** is a tool to improve the flow of work through your existing process. As a famous ad from the '70s suggested, they work better together.
 
-Scrum doesn't solve all problems: see [Limits of Scrum](/blog/what-are-the-limits-of-the-scrum-framework.html). It's most effective when it's used to build a team that learns to deliver value. Scrum is a revolutionary change, often radically different from the past way of working, which can be good since breaking old habits can sometimes form better habits.
+Scrum doesn't solve all problems: see [Limits of Scrum](/blog/what-are-the-limits-of-the-scrum-framework). It's most effective when it's used to build a team that learns to deliver value. Scrum is a revolutionary change, often radically different from the past way of working, which can be good since breaking old habits can sometimes form better habits.
 
 Since Kanban evolves from an existing process, it's a gentle change, simply helping the current process become more effective.
 
 The best Scrum teams adopt Kanban practices because they make Scrum better. But doing either Scrum or Kanban well requires discipline. Without discipline, no process will be effective. I've heard it said that Bad Scrum beats Bad Kanban. Bad Scrum will be painful and people will be forced to act to improve. Bad Kanban may look enough like the existing system that people still accept it as normal.
 
-[Don’t Inflict Scrum or Kanban on Teams](/blog/dont-inflict-scrum-or-kanban-on-teams.html)
+[Don’t Inflict Scrum or Kanban on Teams](/blog/dont-inflict-scrum-or-kanban-on-teams)
 
 #### Resource Links:
 

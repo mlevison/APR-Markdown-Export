@@ -6,9 +6,9 @@ excerpt: 'The **Daily Scrum** is the daily meeting where the Scrum Team get read
 
 The **Daily Scrum** is the daily meeting where the Scrum Team get ready to collaborate for the day, and check if they’re still on track to complete their goal forecast by the end of the Sprint.
 
-[The Modern Guide to the Daily Scrum Meeting](/blog/modern-guide-to-daily-scrum-meeting.html)
+[The Modern Guide to the Daily Scrum Meeting](/blog/modern-guide-to-daily-scrum-meeting)
 
-[Scrum by Example – Feeling Pain from Your Daily Scrum?](/blog/daily-scrum-pain.html)
+[Scrum by Example – Feeling Pain from Your Daily Scrum?](/blog/daily-scrum-pain)
 
 #### Resource Links:
 

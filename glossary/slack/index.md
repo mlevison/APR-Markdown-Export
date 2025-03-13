@@ -15,7 +15,7 @@ In the Agile world, some approaches, like Scaled Agile, conflate both kinds of s
 
 Show me the rate at which your team is Learning (and adapting) and I will predict where they will be in a year's time.
 
-[Cross-Skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) requires Learning Time [Scrum by Example – How to Handle Production Support Issues in Scrum](/blog/scrum-production-support.html) - One common approach to Production Support uses slack time.
+[Cross-Skilling](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) requires Learning Time [Scrum by Example – How to Handle Production Support Issues in Scrum](/blog/scrum-production-support) - One common approach to Production Support uses slack time.
 
 #### Resource Links:
 

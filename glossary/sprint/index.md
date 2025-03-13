@@ -10,5 +10,5 @@ A **Sprint** is a fixed period, ranging from one week to one month in length, du
 [The Story of a Sprint](/the-story-of-a-sprint) - video and transcript
 
 ![life cycle of the Scrum sprint - image by Agile Pain Relief Consulting]((src/content/glossary/sprint/images/life-cycle-of-the-sprint-labelled-1024x805.jpg))
-[Is There a Best Day to Start and Finish a Sprint?](/blog/is-there-a-best-day-to-start-and-finish-a-sprint.html)
+[Is There a Best Day to Start and Finish a Sprint?](/blog/is-there-a-best-day-to-start-and-finish-a-sprint)
 

@@ -20,7 +20,7 @@ They seem new to many in the Agile Community, having been popularized by LeSS [C
 
 For a Community of Practice to work effectively, leadership must acknowledge the importance of team members spending time on improving their professional skills.
 
-#### [The Importance of Nurturing Community](/blog/the-importance-of-nurturing-community.html)
+#### [The Importance of Nurturing Community](/blog/the-importance-of-nurturing-community)
 
 #### Resource Links:
 

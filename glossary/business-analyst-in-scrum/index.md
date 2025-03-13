@@ -14,16 +14,16 @@ This question, or a variation of it, is one that often comes up in [training wor
 - BA is the Product Owner
 - BA works inside the Scrum Team assisting the Product Owner flesh specific details. (This happens most often when there is one PO for multiple teams working on a single product, in which case the PO is focused on Product Strategy/Prioritization not PBIs/User Stories)
 - BA participates with QA and Programmers to define acceptance criteria - in the BDD style
-- BA [cross skills](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html) and helps with QA, this is a natural outgrowth of the previous step
+- BA [cross skills](/blog/how-to-cross-skill-and-grow-t-shaped-team-members) and helps with QA, this is a natural outgrowth of the previous step
 - Some cross skill into UX work and, rarely, others cross skill to programming
 
-[How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html)
+[How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members)
 
-[Product Owner Isn’t Just a Business Analyst on Steroids](/blog/product-owner-isn-business-analyst-steroids.html)
+[Product Owner Isn’t Just a Business Analyst on Steroids](/blog/product-owner-isn-business-analyst-steroids)
 
-[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html)
+[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint)
 
-[Scrum By Example – The Team Collaborate on Acceptance Criteria](/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html)
+[Scrum By Example – The Team Collaborate on Acceptance Criteria](/blog/scrummaster-tales-team-collaborate-acceptance-criteria)
 
 #### Resource Links:
 

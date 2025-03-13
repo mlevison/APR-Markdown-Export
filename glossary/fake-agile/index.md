@@ -4,7 +4,7 @@ date: "2022-02-07"
 excerpt: 'Agile's success is also its Achilles heel. Everyone wants to **do** Agile, but not'
 ---
 
-Agile's success is also its Achilles heel. Everyone wants to **do** Agile, but not everyone wants to make any changes to **be** Agile. There is a lot of focus on performing ceremonies, yet organizations often don't take the time to understand the mindset. Like their close relative [AntiPatterns](/blog/scrum-anti-patterns.html), more ways to do **Fake Agile** exist than can be counted. Here are just a few:
+Agile's success is also its Achilles heel. Everyone wants to **do** Agile, but not everyone wants to make any changes to **be** Agile. There is a lot of focus on performing ceremonies, yet organizations often don't take the time to understand the mindset. Like their close relative [AntiPatterns](/blog/scrum-anti-patterns), more ways to do **Fake Agile** exist than can be counted. Here are just a few:
 
 - No customer involvement
 - Agile means no testing

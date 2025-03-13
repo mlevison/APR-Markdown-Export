@@ -54,7 +54,7 @@ The principles exist in place of hard and fast rules to aid in guiding decisions
 #### Resource Links:
 
 - [First Steps in a Large-Scale Scrum Adoption at Agfa Healthcare: Case Study](https://less.works/case-studies/agfa-healthcare.html)
-- [Descaling Organizations with LeSS](https://less.works/blog/2015/05/08/less-scaling-descaling-organizations-with-less.html)
+- [Descaling Organizations with LeSS](https://less.works/blog/2015/05/08/less-scaling-descaling-organizations-with-less)
 - [Developing a High Capacity Network Gateway with LeSS](https://www.infoq.com/articles/network-gateway-less)
 - [Huawei – LeSS without Scrum](https://less.works/case-studies/huawei)
 - [Less – Large Scale Scrum (less is more)](https://less.works/)

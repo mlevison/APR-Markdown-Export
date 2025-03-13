@@ -40,7 +40,7 @@ Anything that slows the team’s progress towards the Sprint Goal is an impedime
 
 ### Spot the Problem
 
-There are a couple of tricks and tips that I’ve found to help make impediments more apparent. First, change the word to “slowdowns” – it’s a lot easier to admit to being slowed by something,  than it is being impeded (which suggests stopped). Go deeper as the Certified ScrumMaster, and look at [the Sprint Backlog](/blog/the-humble-sprint-backlog.html) or Kanban board to spot items that have spent several days in the same state (e.g. “In Progress”, “waiting for test” etc.). These items are likely impeded by something.
+There are a couple of tricks and tips that I’ve found to help make impediments more apparent. First, change the word to “slowdowns” – it’s a lot easier to admit to being slowed by something,  than it is being impeded (which suggests stopped). Go deeper as the Certified ScrumMaster, and look at [the Sprint Backlog](/blog/the-humble-sprint-backlog) or Kanban board to spot items that have spent several days in the same state (e.g. “In Progress”, “waiting for test” etc.). These items are likely impeded by something.
 
 Is work piling up? Sometimes bottlenecks or missing skills create impediments. Too many teams don’t even notice that they have bottlenecks, but they’re great indicators of areas where cross-skilling will be a benefit and make the team more efficient.
 

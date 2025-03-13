@@ -15,7 +15,7 @@ _ICAgile says: "Agile coaching is a craft intended to guide others in understand
 
 I suggest part of the challenge is that an Agile coach needs to take on many stances: Coach, Mentor, Facilitator, Guide and occasionally even teacher. The resources below focus on tools to help the coach on their journey.
 
-[Coaching Self Organizing Teams: review of Hard science for soft skills session](/blog/coaching-self-organizing-teams.html)
+[Coaching Self Organizing Teams: review of Hard science for soft skills session](/blog/coaching-self-organizing-teams)
 
 #### Resource Links:
 

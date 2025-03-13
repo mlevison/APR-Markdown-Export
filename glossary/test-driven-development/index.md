@@ -8,7 +8,7 @@ excerpt: '**Test Driven Development (TDD)** is the engineering practice where th
 
 It is a practice or discipline that is used inside other Agile processes (Scrum, XP, Kanban etc.), however it isn't a process itself. TDD is an excellent technique, however it has limits. It works by ensuring the developer built what they intended, and by reducing complexity. Reducing complexity reduces defects. However, TDD doesn't prove that the code does what the _user_ expected, just what the _developer_ expected.
 
-Test Driven Development versus Behaviour Driven Development [Misconceptions with Test Driven Development](/blog/misconceptions-with-test-driven-development.html)
+Test Driven Development versus Behaviour Driven Development [Misconceptions with Test Driven Development](/blog/misconceptions-with-test-driven-development)
 
 #### Resource Links:
 

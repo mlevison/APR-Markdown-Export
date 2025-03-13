@@ -25,7 +25,7 @@ Self-organization requires constraints or boundaries to be effective. Self-selec
 
 1. **Team Competence** - The Scrum Team should be cross-functional (i.e. the team is able to deliver complete user stories or features, without asking another team for help).
 2. **Skills** - For example, one front-end developer, one backend developer, one additional developer, one tester, and someone with requirements or UX knowledge. Clearly this will vary as it depends on the project needs. Note, not everyone makes this an explicit constraint.
-3. **Team Size** - Define the maximum and minimum number of people on a team. See: [Scrum Team Size](/blog/scrum-team-size.html)
+3. **Team Size** - Define the maximum and minimum number of people on a team. See: [Scrum Team Size](/blog/scrum-team-size)
 4. **Stewardship** - Individuals should make choices on what they believe is best for the organization/product.
 
 _Sidebar: If the product being built requires few people (3 or less), consider making it part of the work of a bigger team. The same happens if the product work will be short-lived. Form high-function teams and then keep them fed. Unless truly required, don't pay a team re-formation tax every few months._

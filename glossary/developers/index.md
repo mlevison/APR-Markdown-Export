@@ -21,7 +21,7 @@ To achieve this, we assign Developers some responsibilities:
 - They put real effort into continuous improvement.
 - They collaborate towards achieving the Sprint Goal.
 
-To learn more about the Doers, see: [Scrum by Example: Stories for the Working ScrumMaster](/blog/scrum-by-example.html).  It's focused on the ScrumMaster role, but the series also provides many examples of work in a team.
+To learn more about the Doers, see: [Scrum by Example: Stories for the Working ScrumMaster](/blog/scrum-by-example).  It's focused on the ScrumMaster role, but the series also provides many examples of work in a team.
 
 #### Resource Links:
 

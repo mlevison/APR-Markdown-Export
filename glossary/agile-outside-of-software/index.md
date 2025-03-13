@@ -24,7 +24,7 @@ In many of these examples, the groups don't use Scrum itself, rather they invent
 - make team improvement a core part of the work,
 - make improving communication and collaboration a regular part of the work.
 
-[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework.html)
+[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework)
 
 #### Resource Links:
 

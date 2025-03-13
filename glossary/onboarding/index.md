@@ -4,9 +4,9 @@ date: "2024-03-07"
 excerpt: '**Onboarding** is a term to describe introducing a newly-hired person into an'
 ---
 
-**Onboarding** is a term to describe introducing a newly-hired person into an organization. In the case of Scrum and Agile teams, it's important to recognize the effects it can have on a team that is high-performing and effective. Fortunately, there are ways to [onboard new people without losing scrum team magic.](/blog/onboard-new-people-without-losing-scrum-team-magic.html)
+**Onboarding** is a term to describe introducing a newly-hired person into an organization. In the case of Scrum and Agile teams, it's important to recognize the effects it can have on a team that is high-performing and effective. Fortunately, there are ways to [onboard new people without losing scrum team magic.](/blog/onboard-new-people-without-losing-scrum-team-magic)
 
-[Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team.html)
+[Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team)
 
 #### Resource Links:
 

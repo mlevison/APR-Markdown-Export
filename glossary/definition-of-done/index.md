@@ -89,7 +89,7 @@ _Eewww._ This sounds very traditional. I only include this because I’ve seen t
 
 #### ![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](src/content/glossary/definition-of-done/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2-1024x607.jpg)
 
-[Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria.html)
+[Definition of Done vs. User Stories vs. Acceptance Criteria](/blog/definition-of-done-user-stories-acceptance-criteria)
 
 #### Resource Links:
 

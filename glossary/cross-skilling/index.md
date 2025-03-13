@@ -16,11 +16,11 @@ Teams that do not encourage cross-skilling and who have only person who perform 
 - **Stuck** - if a team member goes on vacation or, worse, leaves the team maybe unable to finish some work items
 - ...
 
-[How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members.html)
+[How to Cross-Skill and Grow T-shaped Team Members](/blog/how-to-cross-skill-and-grow-t-shaped-team-members)
 
-[Scrum By Example – The Team Gets Bottlenecked](/blog/scrummaster-tales-the-team-gets-bottlenecked.html)
+[Scrum By Example – The Team Gets Bottlenecked](/blog/scrummaster-tales-the-team-gets-bottlenecked)
 
-[Specialists Are Overrated](/blog/specialists-are-overrated.html)
+[Specialists Are Overrated](/blog/specialists-are-overrated)
 
 #### Resource Links:
 

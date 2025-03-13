@@ -28,7 +28,7 @@ __If worker busyness were the measure of software productivity, then pull reques
 - Ensemble programming: collaborative development with an effective work-in-progress of one, eliminates need for post-facto reviews and rework
 - If pull requests must be used, reduce the size of the average change; prioritize finishing other people's pull requests before doing your own work; prefer conversations over written feedback.
 
-[Scrum Anti-Patterns – How We Hold Back Our Scrum Teams](/blog/scrum-anti-patterns.html)
+[Scrum Anti-Patterns – How We Hold Back Our Scrum Teams](/blog/scrum-anti-patterns)
 
 #### Resource Links:
 

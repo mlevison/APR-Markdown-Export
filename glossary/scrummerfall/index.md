@@ -23,11 +23,11 @@ Both versions lead to:
 
 A better approach is to watch the work product and not the worker. Help the team focus on getting items to finished, not maximizing the number of stories through a pipeline.
 
-[Scrum by Example – Is Your Scrum Team a Victim of Scrummerfall?](/blog/scrum-team-scrummerfall.html)
+[Scrum by Example – Is Your Scrum Team a Victim of Scrummerfall?](/blog/scrum-team-scrummerfall)
 
-[Collaboration, Over Work in Isolation](/blog/collaboration-over-work-in-isolation.html)
+[Collaboration, Over Work in Isolation](/blog/collaboration-over-work-in-isolation)
 
-[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html)
+[Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint)
 
 #### Resource Links:
 

@@ -6,7 +6,7 @@ excerpt: '**Agile or Lean UX** (User eXperience) is about incorporating UX into 
 
 **Agile or Lean UX** (User eXperience) is about incorporating UX into the flow of work of a development team. Many try the approach of having the UX people work 1-2 Sprints ahead of the development team. This can work, however the pipeline model leads to some additional challenges with work being done on items that change before implementation, therefore wasting the UX person's time. The approach from Lean UX is to instead increase collaboration between UX and the rest of the development team. Over time, this collaboration increases the amount of UX work done in Sprint and reduces the amount done ahead of time.
 
-[Vision to User Stories - What is the Best Flow?](/blog/vision-to-user-stories-what-is-the-best-flow.html)
+[Vision to User Stories - What is the Best Flow?](/blog/vision-to-user-stories-what-is-the-best-flow)
 
 #### Resource Links:
 

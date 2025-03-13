@@ -5,7 +5,7 @@ date: "2021-05-21"
 
 Frequently in [workshops](/certified-scrum-agile-training), I get asked, “Where shouldn’t we use Scrum?” The short answer is there are lots of instances where the Scrum framework doesn’t fit. However, to give a more complete and effective answer to this question, first we need to have an idea of why and when Scrum does work and what the key conditions are for success. We can then show examples of where it isn’t a good fit.
 
-[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework.html) 
+[What Are the Limits of the Scrum Framework?](/blog/what-are-the-limits-of-the-scrum-framework) 
 
 #### Resource Links:
 

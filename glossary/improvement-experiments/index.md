@@ -8,9 +8,9 @@ Agile teams attempt to use Retrospectives as a tool for Team Improvement. Yet ou
 
 This is at the core of our eBook: [_The Guide to Effective Agile Retrospecti_ves](/guide-to-effective-agile-retrospectives) - hint: plan your improvements into the Sprint, track them on the Sprint Backlog, and review them in the next Retrospective.
 
-At an organizational level: [Agile Change or Adoption: Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes.html)
+At an organizational level: [Agile Change or Adoption: Define Small Organizational Changes](/blog/agile-change-or-adoption-define-small-organizational-changes)
 
-Bringing them into your Sprint: [The Humble Sprint Backlog](/blog/the-humble-sprint-backlog.html)
+Bringing them into your Sprint: [The Humble Sprint Backlog](/blog/the-humble-sprint-backlog)
 
 #### Resource Links
 

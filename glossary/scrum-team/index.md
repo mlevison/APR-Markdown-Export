@@ -11,7 +11,7 @@ The **Scrum Team** is all of the people needed to get the product built and int
 - Product Owner, who manages the vision for what they will be creating
 - Developers, who are the cross-functional group of people who will build the Product (e.g. in software development this group usually includes programmers, business analysts, quality assurance, user experience and more).
 
-[Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team.html)
+[Scrum By Example – New People on the Team](/blog/scrummaster-tales-new-people-on-the-team)
 
 #### Resource Links:
 
@@ -28,7 +28,7 @@ The **Scrum Team** is all of the people needed to get the product built and int
 - [How Different Team Topologies Influence DevOps Culture](https://www.infoq.com/articles/devops-team-topologies/)
 - [How Women Can Help Build Better Agile Teams](https://www.agileconnection.com/article/how-women-can-help-build-better-agile-teams)
 - [Leading Teams: Setting the Stage for Great Performances – The Five Keys to Successful Teams](https://hbswk.hbs.edu/archive/2996.html)
-- [New People on Your Project](/blog/new-people-on-your-project.html)
+- [New People on Your Project](/blog/new-people-on-your-project)
 - [\[Product Owner – Dev. Team\] Ladder of Empowerment](https://innovagility.com/2018/09/11/product-owner-dev-team-ladder-of-empowerment/)
 - [Six Common Misperceptions About Teamwork](https://hbr.org/2011/06/six-common-misperceptions-abou)
 - [Measuring Team Performance](https://innolution.com/blog/team-performance-measureshttps://innolution.com/blog/team-performance-measures)

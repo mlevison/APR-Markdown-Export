@@ -8,7 +8,7 @@ The "**Spotify Model**" is often misunderstood and misapplied in organizations. 
 
 Many organizations make mistakes when implementing this model. Don't copy and paste another company's Agile approach. Remember, no model is perfect for all time and all organizations. Being truly Agile means evolving and adapting to each unique need. Create a custom Agile model based on your culture and people. Focus on key principles underpinning Spotify's success, such as: delivering value, product experimentation, autonomy, alignment, cross-functional teams, engineering culture, psychological safety, continuous improvement, morale, and optimizing workflow. These principles are crucial for long-term success.
 
-#### [The Spotify Model of Scaling - Spotify Doesn’t Use It, Neither Should You](/blog/the-spotify-model-of-scaling-spotify-doesnt-use-it-neither-should-you.html)
+#### [The Spotify Model of Scaling - Spotify Doesn’t Use It, Neither Should You](/blog/the-spotify-model-of-scaling-spotify-doesnt-use-it-neither-should-you)
 
 #### Resource Links:
 

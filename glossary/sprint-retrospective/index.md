@@ -11,12 +11,12 @@ Sprint Review and Retrospective are often confused. The Sprint Review is focused
 
 **[_The Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives) by Mark Levison - get the free eBook and email learning series [here](/guide-to-effective-agile-retrospectives)**
 
-[Meeting Ground Rules Updated]((/blog/meeting-ground-rules-updated.html))
-[Scrum by Example – Same Old Song in Sprint Retrospective]((/blog/same-old-song-in-sprint-retrospective.html))
-[When to stop holding retrospectives?]((/blog/when-to-stop-holding-retrospectives.html))
-[Agile Games for Making Retrospectives Interesting]((/blog/agile-games-for-making-retrospectives-interesting.html))
-[Two Key Things for Sprint Retrospective Facilitation]((/blog/two-key-things-for-sprint-retrospective-facilitation.html))
-[The Difference Between Data and Metrics](/blog/be-better-with-better-data.html)
+[Meeting Ground Rules Updated]((/blog/meeting-ground-rules-updated))
+[Scrum by Example – Same Old Song in Sprint Retrospective]((/blog/same-old-song-in-sprint-retrospective))
+[When to stop holding retrospectives?]((/blog/when-to-stop-holding-retrospectives))
+[Agile Games for Making Retrospectives Interesting]((/blog/agile-games-for-making-retrospectives-interesting))
+[Two Key Things for Sprint Retrospective Facilitation]((/blog/two-key-things-for-sprint-retrospective-facilitation))
+[The Difference Between Data and Metrics](/blog/be-better-with-better-data)
 
 #### Resource Links:
 

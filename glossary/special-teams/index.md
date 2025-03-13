@@ -9,7 +9,7 @@ Sometimes organizations form **Special Teams** assigned to tackle technical bugs
 
 Three quick reasons, among many: - other teams no longer feel responsible for dealing with the problem: defects; security; ... - queues build up in front of the special team, often making it difficult to release - special teams have an incentive to keep their problems around forever to justify their continued existance
 
-[Scrum by Example – Stuck Waiting for Other Teams](/blog/scrummaster-tales-stuck-waiting-for-other-teams.html)
+[Scrum by Example – Stuck Waiting for Other Teams](/blog/scrummaster-tales-stuck-waiting-for-other-teams)
 
 #### Resource Links:
 

@@ -9,7 +9,7 @@ excerpt: '**Appreciative Inquiry** is an approach to team development and organi
 So Appreciative Inquiry takes the inverse approach and focuses on what we have happening that we can celebrate. Team members are asked to participate in four sections:
 
 1. **Discovery – Appreciating.** Tell stories that illustrate what is best about us and/or our system. Sample questions: What do you remember most about our work? Where did we collaborate best? What strengths did you and others bring to our work?
-2. **Dream – Envisioning.** (See: [Future Perspective for Change: Why Backcasting Helps Get You Where You Want to Be](/blog/future-perspective-for-organizational-change.html)). Dream about positive things that could happen. Sample questions: What would make you talk about our team to other people? How can we grow our team’s skills to take our next challenge? What will we do to celebrate when we succeed?
+2. **Dream – Envisioning.** (See: [Future Perspective for Change: Why Backcasting Helps Get You Where You Want to Be](/blog/future-perspective-for-organizational-change)). Dream about positive things that could happen. Sample questions: What would make you talk about our team to other people? How can we grow our team’s skills to take our next challenge? What will we do to celebrate when we succeed?
 3. **Design - Co-constructing.** Discuss actions that we need to take to build the desired future system. Sample questions: What have you learned that could help us on the journey? What steps could you take to get us started?
 4. **Destiny – Sustaining.** Consider what we need to do to build a learning culture. Sample questions: What mindset do we need to make this work? What new things will we try to make this work? What would you like to learn to be able to achieve our dream?
 
@@ -30,7 +30,7 @@ So Appreciative Inquiry takes the inverse approach and focuses on what we have h
 
 [_The Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives)
 
-[Collaboration, Over Work in Isolation](/blog/collaboration-over-work-in-isolation.html)
+[Collaboration, Over Work in Isolation](/blog/collaboration-over-work-in-isolation)
 
 #### Resource Links:
 

@@ -57,7 +57,7 @@ Some Scrum teams invite interested stakeholders (e.g. Marketing or Sales Manager
 
 "Where do the details go?" is a question I often hear in Product Owner workshops. The original user stories had the text of the story on the front and the detailed acceptance criteria on the back. Specific details about what a story allows and disallows become the acceptance criteria, that are effectively the children of the user story.
 
-Confusion over what is a user story vs. definition of done vs. acceptance criteria is one of the most common problems in Scrum, and [we cover it in detail here](/blog/definition-of-done-user-stories-acceptance-criteria.html). But, in a nutshell, Definition of “Done” is the global quality checklist for all user stories. Acceptance criteria are the specific details needed to complete a user story. A user story is a placeholder for a conversation about meeting a User need.
+Confusion over what is a user story vs. definition of done vs. acceptance criteria is one of the most common problems in Scrum, and [we cover it in detail here](/blog/definition-of-done-user-stories-acceptance-criteria). But, in a nutshell, Definition of “Done” is the global quality checklist for all user stories. Acceptance criteria are the specific details needed to complete a user story. A user story is a placeholder for a conversation about meeting a User need.
 
 ![Definition of Done vs. User Stories vs. Acceptance Criteria - image by Agile Pain Relief Consulting](src/content/glossary/user-story/images/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2-1024x607.jpg)
 
@@ -68,12 +68,12 @@ Confusion over what is a user story vs. definition of done vs. acceptance criter
 - demonstrate a need as concisely and simply as possible
 - be a small, vertical slice of functionality
 
-[Life Cycle of a User Story]((/blog/lifecycle-of-a-user-story.html))
-[Story Slicing, How Small is Enough?]((/blog/story-slicing-how-small-is-enough.html))
-[More Notes on Story Splitting]((/blog/more-notes-on-story-splitting.html))
-[Vision to User Stories – What is the Best Flow?]((/blog/vision-to-user-stories-what-is-the-best-flow.html))
-[Scrum By Example – The Team Collaborate on Acceptance Criteria]((/blog/scrummaster-tales-team-collaborate-acceptance-criteria.html))
-[Scrum by Example – How to Deal with Bad User Stories as a ScrumMaster](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster.html)
+[Life Cycle of a User Story]((/blog/lifecycle-of-a-user-story))
+[Story Slicing, How Small is Enough?]((/blog/story-slicing-how-small-is-enough))
+[More Notes on Story Splitting]((/blog/more-notes-on-story-splitting))
+[Vision to User Stories – What is the Best Flow?]((/blog/vision-to-user-stories-what-is-the-best-flow))
+[Scrum By Example – The Team Collaborate on Acceptance Criteria]((/blog/scrummaster-tales-team-collaborate-acceptance-criteria))
+[Scrum by Example – How to Deal with Bad User Stories as a ScrumMaster](/blog/deal-with-bad-scrum-user-stories-as-a-scrummaster)
 
 #### Resource Links:
 

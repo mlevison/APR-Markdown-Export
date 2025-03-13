@@ -19,7 +19,7 @@ Before agreeing to create new documentation, I prefer to ask team members these 
 
 If you expected a template, effective ones don't exist. Ultimately the team members need to negotiate amongst themselves with the Product Owner what documents they need, and what the minimum amount is that is required to do the job effectively.
 
-[Lifecycle of a User Story](/blog/lifecycle-of-a-user-story.html)
+[Lifecycle of a User Story](/blog/lifecycle-of-a-user-story)
 
 #### Resources Links:
 

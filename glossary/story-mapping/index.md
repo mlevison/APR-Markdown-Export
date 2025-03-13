@@ -9,7 +9,7 @@ A **Story Map** is a way to help visualize the flow or story of a product. Acros
 
 Story Maps were invented because their creator Jeff Patton was frustrated with "flat" Product Backlogs that lost track of the Product Vision. People use Story Maps as a stepping stone from Vision to User Stories, they're also used to help sort out and recover from a messy Large Product Backlog.
 
-[Learning Story Mapping Through Exercises](/blog/learning-story-mapping-exercises.html)
+[Learning Story Mapping Through Exercises](/blog/learning-story-mapping-exercises)
 
 ![story mapping example](src/content/glossary/story-mapping/images/story-mapping.png)
 

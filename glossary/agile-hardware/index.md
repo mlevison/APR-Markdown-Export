@@ -14,7 +14,7 @@ The world of hardware today resembles the software of the early 2000's - we had 
 - [“Agile” Chip Building (CRAFT, ChipKit, Chip Gallery)](https://vlsiarch.eecs.harvard.edu/agile-chip-building-craft-chipkit-chip-gallery)
 - [Agile Hardware – doing it at the PCB level](https://innovel.net/agile-hardware-design-mindset/)
 - [Agile Hardware Challenges](https://flashdev.org/agile-hardware-challenges/)
-- [Agile Hardware Design?](https://christoph.ruegg.name/blog/agile-hardware-design.html)
+- [Agile Hardware Design?](https://christoph.ruegg.name/blog/agile-hardware-design)
 - [Agile hardware development – nonsense or necessity?](https://www.eetimes.com/agile-hardware-development-nonsense-or-necessity/)
 - [Agile Project Development at Intel: A Scrum Odyssey](https://scrumtrainingseries.com/Intel-case-study.pdf)
 - [Agile Transformation in IC Development](https://agilesoc.com/articles/agile-transformation-in-ic-development/)

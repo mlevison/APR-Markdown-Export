@@ -11,7 +11,7 @@ Most teams discover Swarming as they approach the end of the Sprint with multipl
 
 More effective teams learn to swarm _all_ items, so a team of six people might only have two items in progress at one time. Each item gets worked on by several people collaboratively until it gets to 'Done'. Beware, Swarming is often a gateway drug to Ensemble Programming.
 
-[Scrum by Example – Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign.html) - Swarming would have helped, just a bit. [Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint.html) - the classic example that should lead to a team discovering Swarming.
+[Scrum by Example – Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign) - Swarming would have helped, just a bit. [Scrum by Example – The Story of an Incomplete Sprint](/blog/scrum-by-example-the-story-of-an-incomplete-sprint) - the classic example that should lead to a team discovering Swarming.
 
 #### Resource Links:
 

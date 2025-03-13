@@ -8,7 +8,7 @@ When a team has a product that is live in the field, they need a pattern to hand
 
 Hint: creating a separate team to handle fixing defects is an anti-pattern - see: Special Teams
 
-[Scrum by Example – How to Handle Production Support Issues in Scrum](/blog/scrum-production-support.html)
+[Scrum by Example – How to Handle Production Support Issues in Scrum](/blog/scrum-production-support)
 
 #### Resource Links:
 

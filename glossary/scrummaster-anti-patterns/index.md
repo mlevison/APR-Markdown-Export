@@ -15,7 +15,7 @@ Even the ScrumMaster can join in the AntiPattern fun:
 - Scrum Parent - ScrumMaster solves all the team’s problems for them
 - Facilitator only - not realizing there is more to the role; the ScrumMaster facilitates meetings but puts no effort into coaching
 
-[MicroManagement](https://agilepainrelief.com/blog/scrum-anti-patterns-micromanagement.html) is just one of the many general [Agile Anti Patterns](https://agilepainrelief.com/blog/scrum-anti-patterns.html) that we document.
+[MicroManagement](https://agilepainrelief.com/blog/scrum-anti-patterns-micromanagement) is just one of the many general [Agile Anti Patterns](https://agilepainrelief.com/blog/scrum-anti-patterns) that we document.
 
 #### Resource Links:
 

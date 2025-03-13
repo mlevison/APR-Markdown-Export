@@ -18,7 +18,7 @@ Greenleaf’s quote packs in a lot. Practically, how does a servant leader do th
 - Active listener
 - Humility
 - Supportive and empathetic
-- Acts without power (no [micro-managing](/blog/scrum-anti-patterns-micromanagement.html), **don’t assign work items to people**)
+- Acts without power (no [micro-managing](/blog/scrum-anti-patterns-micromanagement), **don’t assign work items to people**)
 - Helps the team understand the purpose of their work (hint: make sure the team has a shared vision)
 - Helps the team understand their process
 - Models the behaviours they expect from others
@@ -28,8 +28,8 @@ Greenleaf’s quote packs in a lot. Practically, how does a servant leader do th
 - Grows team members' autonomy
 - Speaks last - when there are ideas to be shared, gives space for other team members to speak first
 
-For what it's worth, recent changes to the Scrum Guide mean that it no longer directly references "servant leadership". Instead, it says “Scrum Masters are true leaders who serve the Scrum Team and the larger organization.” It then cites a dozen ways the ScrumMaster serves the Team, Product Owner and Organization. So it avoids saying servant leadership and nonetheless implies it. [Scrum Anti-Patterns: Micromanagement]((/blog/scrum-anti-patterns-micromanagement.html))
-[How Escape Rooms Teach About Teams](/blog/how-escape-rooms-teach-about-teams.html)
+For what it's worth, recent changes to the Scrum Guide mean that it no longer directly references "servant leadership". Instead, it says “Scrum Masters are true leaders who serve the Scrum Team and the larger organization.” It then cites a dozen ways the ScrumMaster serves the Team, Product Owner and Organization. So it avoids saying servant leadership and nonetheless implies it. [Scrum Anti-Patterns: Micromanagement]((/blog/scrum-anti-patterns-micromanagement))
+[How Escape Rooms Teach About Teams](/blog/how-escape-rooms-teach-about-teams)
 
 #### Resource Links:
 

@@ -9,8 +9,8 @@ excerpt: '**Forecasting** in the Agile world asks the difficult questions: How m
 
 Many teams attempt to forecast by measuring their Product Backlog in Story Points and dividing by the average number of story points achieved per Sprint. This is rarely effective.
 
-[Bell Curves and Measuring Badly]((/blog/bell-curves-and-measuring-badly.html))
-[Red-Yellow-Green Status Reports and Other Models – How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html)
+[Bell Curves and Measuring Badly]((/blog/bell-curves-and-measuring-badly))
+[Red-Yellow-Green Status Reports and Other Models – How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth)
 
 #### Resource Links:
 

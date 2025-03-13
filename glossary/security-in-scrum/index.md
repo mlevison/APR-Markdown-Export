@@ -11,7 +11,7 @@ People have tried different approaches over time, with varying degrees of succes
 **Avoid:**
 
 - Fix security issues as defects after the implementation
-- [Hardening Sprints](/blog/antipattern-hardening-sprint.html) (which is just a formal version of fixing security issues later)
+- [Hardening Sprints](/blog/antipattern-hardening-sprint) (which is just a formal version of fixing security issues later)
 - Special Teams - where the special team take care of the security work. Like all special teams in a Agile world, this team will likely become the bottleneck to frequent releases.
 
 **Try:**
@@ -25,8 +25,8 @@ People have tried different approaches over time, with varying degrees of succes
 
 Everything mentioned about security is also applicable to any highly-regulated environment where the team are required to meet a compliance goal.
 
-[Scrum Anti-Patterns: The Hardening Sprint]((/blog/antipattern-hardening-sprint.html))
-[Scrum by Example – Stuck Waiting for Other Teams](/blog/scrummaster-tales-stuck-waiting-for-other-teams.html) (Special Teams and their effect) [Scrum Development Team – Who’s In It?](/blog/scrum-development-team-whos-in-it.html)
+[Scrum Anti-Patterns: The Hardening Sprint]((/blog/antipattern-hardening-sprint))
+[Scrum by Example – Stuck Waiting for Other Teams](/blog/scrummaster-tales-stuck-waiting-for-other-teams) (Special Teams and their effect) [Scrum Development Team – Who’s In It?](/blog/scrum-development-team-whos-in-it)
 
 #### Resource Links:
 

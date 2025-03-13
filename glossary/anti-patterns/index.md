@@ -15,15 +15,15 @@ Unfortunately, we also regularly see recurring design patterns that create ineff
 
 Below, you can browse through our growing collection of articles about Anti-Patterns – what causes them, and what you can do to resolve or avoid them.
 
-[Agile Bonuses - The Damage They Do](/blog/agile-bonuses-the-damage-they-do.html)
+[Agile Bonuses - The Damage They Do](/blog/agile-bonuses-the-damage-they-do)
 
-[Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint.html)
+[Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint)
 
 [Scrum Anti-Patterns: Large Product Backlog](https://resources.scrumalliance.org/Article/scrum-anti-patterns-large-product-backlog) (published on ScrumAlliance.org) ([download link for PDF version](https://www.dropbox.com/s/hnn9qte2efneyb8/Scrum%20AntiPatterns%20Large%20Product%20Backlog.pdf?dl=0) in case the Scrum Alliance link is no longer functional)
 
-[Scrum Anti-Patterns: Micromanagement](/blog/scrum-anti-patterns-micromanagement.html)
+[Scrum Anti-Patterns: Micromanagement](/blog/scrum-anti-patterns-micromanagement)
 
-[Scrum by Example – Scrum Anti-Patterns & Unplanned Work Disrupting the Sprint](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint.html)
+[Scrum by Example – Scrum Anti-Patterns & Unplanned Work Disrupting the Sprint](/blog/scrum-by-example-scrum-anti-patterns-unplanned-work-disrupting-the-sprint)
 
 #### Resource Links:
 
