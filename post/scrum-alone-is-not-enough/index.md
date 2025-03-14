@@ -27,7 +27,7 @@ Like the [Design Patterns](external:https://en.wikipedia.org/wiki/Design_pattern
 
 \-       **[Organizational Improvement](/blog/taking-organizational-improvement-with-scrum-seriously)** – many issues that Scrum helps to find can’t be solved by the team or their ScrumMaster. Instead, organizations need to establish an ongoing improvement team dedicated to resolving these problems. ([Part 1: Taking Organizational Improvement Seriously](/blog/taking-organizational-improvement-with-scrum-seriously) | [Part 2: Case Study](/blog/taking-organizational-improvement-seriously-case-study))
 
-\-       **Intra Team Coordination** – How will you coordinate the work among teams? Scrum of [Scrums](external:https://agilepainrelief.com/blog/a-tale-of-two-daily-scrums) is the most well known pattern and yet is rarely the best choice.
+\-       **Intra Team Coordination** – How will you coordinate the work among teams? Scrum of [Scrums](blog/a-tale-of-two-daily-scrums) is the most well known pattern and yet is rarely the best choice.
 
 \-       **Team Organization** – How will you organize your teams? As Component Teams? As Feature Teams? Using the Spotify model of Squads, Tribes and Guilds?
 

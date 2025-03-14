@@ -17,7 +17,7 @@ excerpt: '_**Dramatis Personae**_ Steve – a ScrumMaster and the hero of our st
 
 _**Dramatis Personae**_ Steve – a ScrumMaster and the hero of our story Michael – another ScrumMaster for a different team Doug – a member of Steve’s team James – a member of Steve’s team Fred – a member of Steve’s team Paula – the Product Owner of Steve’s team
 
-Steve and the team are starting to reduce the rate of [production support interruptions](external:https://agilepainrelief.com/blog/scrum-production-support). The team is starting to collaborate more, but Steve notices that team members are still sometimes surprised by what others are doing. Wasn't that what their [Daily Scrum](/blog/modern-guide-to-daily-scrum-meeting) (also known as Daily Scrum Meeting or Daily Standup) was supposed to inform them on? Steve goes back and checks his trusty Scrum Sources:
+Steve and the team are starting to reduce the rate of [production support interruptions](blog/scrum-production-support). The team is starting to collaborate more, but Steve notices that team members are still sometimes surprised by what others are doing. Wasn't that what their [Daily Scrum](/blog/modern-guide-to-daily-scrum-meeting) (also known as Daily Scrum Meeting or Daily Standup) was supposed to inform them on? Steve goes back and checks his trusty Scrum Sources:
 
 - Daily Scrum should happen first thing in the morning.
 - Team members answer three questions: What did you do yesterday? What will you do today? What are your obstacles?

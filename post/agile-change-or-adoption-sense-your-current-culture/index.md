@@ -69,7 +69,7 @@ Control:
 
 Cultivation:
 
-- We use a [skills matrix](external:https://agilepainrelief.com/blog/scrummaster-tales-the-team-gets-bottlenecked) to identify strengths and weaknesses in the team. We use this information to help individuals learn.
+- We use a [skills matrix](blog/scrummaster-tales-the-team-gets-bottlenecked) to identify strengths and weaknesses in the team. We use this information to help individuals learn.
 - We hold lunch and learns
 - We’ve created a [community of practice](external:https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice) to share new ideas. Example: [https://www.infoq.com/articles/levison-TDD-adoption-strategy](external:https://www.infoq.com/articles/levison-TDD-adoption-strategy/)
 
