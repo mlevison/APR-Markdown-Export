@@ -71,8 +71,7 @@ When teams transition from traditional project management methods, they might be
 
 #### **Example Sprint Backlog 1:**
 
-[![Illustration of a sprint backlog board, with various placeholder columns and sticky notes](src/content/blog/the-humble-sprint-backlog/images/2017CSM-Sample-Scrum-Task-Board-v2-895x1024.jpg)](/wp-content/uploads/2021/05/2017CSM-Sample-Scrum-Task-Board-v2.jpg)
-
+![Illustration of a sprint backlog board, with various placeholder columns and sticky notes](src/content/blog/the-humble-sprint-backlog/images/2017CSM-Sample-Scrum-Task-Board-v2-895x1024.jpg)
 To someone new to the Agile world the picture above may look a bit alien. Let’s break it down further and make sense of it.
 
 ### Does a Sprint Backlog have tasks – yes or no?
@@ -115,15 +114,13 @@ The Team above has a product live in the field. They have added a swim lane to v
 
 The above two examples are obviously graphics created to illustrate common Sprint Backlog structure. Here are some photos of actual Sprint Backlogs, and you can click on the smaller photos to open full-size images.
 
-\[caption id="attachment\_12749" align="alignleft" width="300"\][![Photo of a whiteboard with a sprint backlog on it, featuring multiple lanes](src/content/blog/the-humble-sprint-backlog/images/ASameerBendre-2-300x225.jpg)](/wp-content/uploads/2021/05/ASameerBendre-2.jpg) Image courtesy of Sameer Bendre.\[/caption\]
+![Photo of a whiteboard with a sprint backlog on it, featuring multiple lanes](src/content/blog/the-humble-sprint-backlog/images/ASameerBendre-2-300x225.jpg)] Image courtesy of Sameer Bendre.
 
 **Sprint Backlog Example 3:** This Team has Expedite Lanes at the top, and column headings include “Challenge”, “Analysis and Planning” and “Unit Test”.
 
-\[caption id="attachment\_12751" align="alignleft" width="300"\][![Photo of a Sprint Backlog board, with a unique Calls column](src/content/blog/the-humble-sprint-backlog/images/DavidKoontz-PainFreeDental-Marketing-300x225.jpg)](/wp-content/uploads/2021/05/DavidKoontz-PainFreeDental-Marketing-scaled.jpg) Image courtesy of [David Koontz](external:https://t.co/TsWPt6402B?amp=1).\[/caption\]
+![Photo of a Sprint Backlog board, with a unique Calls column](src/content/blog/the-humble-sprint-backlog/images/DavidKoontz-PainFreeDental-Marketing-300x225.jpg)Image courtesy of [David Koontz](external:https://t.co/TsWPt6402B?amp=1).
 
-**Sprint Backlog Example 4:** This is the Sprint Backlog of a marketing company, and they’ve elected to have a “Calls” Column to keep those separate from other Backlog Items. Other Columns are “To Do”, “In Progress” (with a “Waiting” section), “Complete”, “Reviewed”, and “Done”.
-
-\[caption id="attachment\_12752" align="alignleft" width="300"\][![Photo of a sprint backlog on a white board, with team-unique columns](src/content/blog/the-humble-sprint-backlog/images/SameerBendre-1-300x225.jpg)](/wp-content/uploads/2021/05/SameerBendre-1.jpg) Image courtesy of Sameer Bendre.\[/caption\]
+![Photo of a sprint backlog on a white board, with team-unique columns](src/content/blog/the-humble-sprint-backlog/images/SameerBendre-1-300x225.jpg) Image courtesy of Sameer Bendre.
 
 **Sprint Backlog Example 5:** This Team has chosen columns for “WIP” (Work in Progress), “Ready for CR” and “In CR”, “Validate in Prod”, and “Closed in TFS”.
 

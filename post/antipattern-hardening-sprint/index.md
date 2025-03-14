@@ -61,7 +61,7 @@ Teams who have spent a long time working in a waterfall fashion often elect for 
 
 ### Consequences of using Hardening Sprints
 
-[![The Hardening Sprint - Causal Loop Diagram](src/content/blog/antipattern-hardening-sprint/images/Hardening-Sprint-CLD-1024x769.jpg)](/wp-content/uploads/2019/09/Hardening-Sprint-CLD.jpg)
+![The Hardening Sprint - Causal Loop Diagram](src/content/blog/antipattern-hardening-sprint/images/Hardening-Sprint-CLD-1024x769.jpg)
 
 Hardening Sprints are essentially the Scrum developers' version of “we’ll fix it in post.” They tend to decrease the readability of the code base because people have a habit\[[3](#footnotes)\] of delaying any tidy-up work until then. The messier the code is to read, the harder and more time-intensive it is to add new features or test existing ones. Many people call this Technical Debt.\[[4](#footnotes)\] It doesn’t take long before the team needs to add more time into the Hardening Sprint to get the work fully tested.
 

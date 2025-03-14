@@ -106,11 +106,11 @@ _To illustrate how individual effects of micromanagement can lead to larger, sel
 
 Disengagement is often engendered when a manager (or ScrumMaster or Product Owner for that matter) finds themselves pressured to work faster. Often, they feel the easiest way to increase work speed is to look at the Team’s work and find a way to “help them.” This “help” almost always impinges on the Team’s autonomy and damages Team members’ engagement with the work at hand. As the Team becomes less engaged, the quality and quantity of work drops, illustrated in the Causal Loop Diagram below by the reduction in Customer Happiness. Unsurprisingly, as Customer Happiness is reduced, it leads to more external pressure on management to work faster.
 
-[![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Disengagement-1024x488.jpg)](/wp-content/uploads/2019/09/Micromanaging-anti-pattern-CLD-Disengagement.jpg)
+![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Disengagement-1024x488.jpg)
 
 **B) Reduction in Self-Organization** Without autonomy and self-organization, the Team’s capacity is reduced and opportunities for them to experiment, fail, and learn from that experience disappears.
 
-[![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Reduced-Self-Organization-1024x421.jpg)](/wp-content/uploads/2019/09/Micromanaging-anti-pattern-CLD-Reduced-Self-Organization.jpg)
+![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Reduced-Self-Organization-1024x421.jpg)
 
 **C) Delays in Decision-Making** Delays in decisions will begin to occur because the micromanager [causes a bottleneck](/blog/scrummaster-tales-the-team-gets-bottlenecked) because Team members will often be afraid to make a decision without the micromanager’s support, agreement or, worse, sign off. So instead, they wait, sometimes making things even worse by doing work that merely keeps them busy instead of the most important work of delivering value to the customer.
 
@@ -118,7 +118,7 @@ These delays obviously harm productivity and customer outcomes, which leads to m
 
 The more the manager tries to take control, the more decisions they must make. The more decisions, the longer each decision must wait to be made. As decision time increases, Team members will do lower-priority work while they wait. They don’t want to start something important after all, because if the decision for the original problem arrives, they will have to drop whatever they are doing to attend to the new work. Both delayed decisions and low-priority work mean that less is done to delight the customer.
 
-[![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Delayed-Decisions-1024x533.jpg)](/wp-content/uploads/2019/09/Micromanaging-anti-pattern-CLD-Delayed-Decisions.jpg)
+![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Delayed-Decisions-1024x533.jpg)
 
 **D) Limited Communication within the Team** As micromanagement increases and the Team increasingly needs the decision-maker before anything can progress, there is less need to talk to your peers, since there is a diminishing number of things to talk about. As a result, Knowledge Silos, prevalent in waterfall-style work, creep in, or possibly never go away in the first place. Additionally, this reduction in communication harms quality by reducing the diversity of thought available for tackling different problems. Siloed micromanagers also harm decision quality directly because they generally don’t seek opinions other than their own.
 
@@ -128,11 +128,11 @@ These Silos subsequently increase the need for heroism since fewer people can on
 
 Finally, reduced communication also harms the ability to experiment, innovate and learn from failure, hampering any hope of improving.
 
-[![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Limited-Communication-1024x644.jpg)](/wp-content/uploads/2019/09/Micromanaging-anti-pattern-CLD-Limited-Communication.jpg)
+![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD-Limited-Communication-1024x644.jpg)
 
 ## Micromanaging anti-pattern CLD (Causal Loop Diagram)
 
-[![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD.jpg)](/wp-content/uploads/2019/09/Micromanaging-anti-pattern-CLD.jpg)
+![Scrum Anti-Patterns Casual Loop Diagram: Micromanagement - image by Agile Pain Relief Consulting](src/content/blog/scrum-anti-patterns-micromanagement/images/Micromanaging-anti-pattern-CLD.jpg)
 
 _If the above looks bloody complicated, that’s... well, because it is. Human beings are complicated, and trying to herd large groups of us into doing complex work is especially challenging. Trying to do all that with micromanagers is mind-bogglingly convoluted._
 

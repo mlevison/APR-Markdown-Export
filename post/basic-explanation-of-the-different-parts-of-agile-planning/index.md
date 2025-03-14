@@ -11,6 +11,6 @@ excerpt: 'For the sake of simplicity, I’m ignoring anything beyond release pla
 
 For the sake of simplicity, I’m ignoring anything beyond release planning (e.g. strategic, roadmap, …), but you should definitely have some.
 
-[![Layers of Agile Planning - by Certified Scrum Trainer Mark Levison](src/content/blog/basic-explanation-of-the-different-parts-of-agile-planning/images/Layers-of-Agile-Planning-466x1024.jpg)](/wp-content/uploads/2011/03/Layers-of-Agile-Planning-scaled.jpg)
+![Layers of Agile Planning - by Certified Scrum Trainer Mark Levison](src/content/blog/basic-explanation-of-the-different-parts-of-agile-planning/images/Layers-of-Agile-Planning-466x1024.jpg)
 
 Stock image via: [https://photodune.net/](external:https://photodune.net/). Layers of Agile Planning image by Agile Pain Relief Consulting

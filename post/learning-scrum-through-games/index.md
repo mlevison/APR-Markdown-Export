@@ -52,7 +52,6 @@ We learned a number of interesting things from both sessions:
 Finally, when running this the goal isn’t a perfectly run exercise or perfect comic book; its aim is to have people experience the chaos that is Scrum and see how it can work.
 
 ## Handouts
-
 [Intro to Scrum with Games Backlog and Schedule](/wp-content/uploads/2020/01/Intro-to-Scrum-with-Games-Backlog-and-Schedule.pdf) (pdf) [Introduction to Scrum Concepts](/wp-content/uploads/2020/01/Introduction-to-Scrum-Concepts.pdf) (pdf)
 
 ## Slides

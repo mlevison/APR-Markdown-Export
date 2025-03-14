@@ -95,7 +95,7 @@ Just by changing the opening question, this exercise can also work well for a Pr
 
 Blank newspaper headline template:
 
-[![future perspective newspaper - blank](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-newspaper-blank-1024x643.png)](/wp-content/uploads/2022/04/future-perspective-newspaper-blank.png)
+![future perspective newspaper - blank](src/content/blog/future-perspective-for-organizational-change/images/future-perspective-newspaper-blank-1024x643.png)
 
 Also see our “[Agile Change or Adoption Always Starts with Why](/blog/agile-change-or-adoption-always-starts-with-why)” article.
 
