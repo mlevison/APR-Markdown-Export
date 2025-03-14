@@ -37,7 +37,7 @@ Make onboarding a priority, one that trumps regular work. Helping the new person
 - Some teams have **Decision Making** rules as part of their working agreements. If your team doesn’t, now is a great time to add them.
 - Define **Boundaries**. All teams have boundaries, but where do they stop? Who is and isn’t part of the team? Who else do they rely on? When do they rely on others?
 - Share the **team history**. Maybe not with flip charts, but take the time to tell the story of the team. How was it formed? Who was originally on it? What was the original Product Vision and how has that changed? Understanding a little bit of how a team evolved helps you understand how they work together and the product(s) they’ve built.
-- Try [**Appreciative Interviews**](https://www.liberatingstructures.com/5-appreciative-interviews-ai/) as a way of sharing how and why this team is successful. Consider doing these for a few Sprints. It’s a great reminder, and validation, for existing team members as well.
+- Try [**Appreciative Interviews**](external:https://www.liberatingstructures.com/5-appreciative-interviews-ai/) as a way of sharing how and why this team is successful. Consider doing these for a few Sprints. It’s a great reminder, and validation, for existing team members as well.
 - Try **Pairing** or **Ensemble Programming**. In our Engineering Practices, we make the case why these should be in common use. With a new person on the team, it helps the new team member learn both the toolset and the code more rapidly. Even if the team member is non-technical, I would still recommend pairing to help learn about the work that is going on around them so they have a better understanding of how they can contribute.
 - Consider a **Personal Manual or Readme**. Some teams publish and maintain an overview of how they like to work and interact with the world.
 - Share **how the team works**. This could be things like the meeting schedule (including: Backlog Refinement), and how they feel about Estimation (No estimates? T-shirt sizing? Story points? Gummy bears?)
@@ -68,4 +68,4 @@ See also: [Scrum By Example – New People on the Team](/blog/scrummaster-tales-
 
 * * *
 
-\[1\] [The long walk together: The role of institutionalized socialization in shaping newcomers’ future expectations about their networks.](https://doi.org/10.1016/j.jvb.2022.103757) Journal of Vocational Behavior, 137, 103757. Jiang, J. Y., Ashforth, B. E., & Li, J. (2022).
+\[1\] [The long walk together: The role of institutionalized socialization in shaping newcomers’ future expectations about their networks.](external:https://doi.org/10.1016/j.jvb.2022.103757) Journal of Vocational Behavior, 137, 103757. Jiang, J. Y., Ashforth, B. E., & Li, J. (2022).

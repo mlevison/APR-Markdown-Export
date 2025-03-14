@@ -35,7 +35,7 @@ _In most organizations, work items spend more time waiting than getting done. Of
 
 Let's start simple. Gather your team and map out how work flows through your organization. Think big chunks of work (about a week's worth), not tiny details.
 
-The details: gather the Product Owner(s), ScrumMaster(s), Team Members and Stakeholders. If the group size is large, either do the work in two rounds or invite-only a couple of representatives from each group. You can do this with the formality of [value stream mapping](https://en.wikipedia.org/w/index.php?title=Value-stream_mapping), or write down an ordered list of the steps. Each step is a possible column on the board. Since we're creating a portfolio view, the minutia of what happens inside a single development team will be a distraction. Consider tracking work at the Feature/Epic level (~1 week's work for each team; T-shirt sizing L/XL; Story Points 13/20/...). Any more fine-grained, and the level of detail will be overwhelming.
+The details: gather the Product Owner(s), ScrumMaster(s), Team Members and Stakeholders. If the group size is large, either do the work in two rounds or invite-only a couple of representatives from each group. You can do this with the formality of [value stream mapping](external:https://en.wikipedia.org/w/index.php?title=Value-stream_mapping), or write down an ordered list of the steps. Each step is a possible column on the board. Since we're creating a portfolio view, the minutia of what happens inside a single development team will be a distraction. Consider tracking work at the Feature/Epic level (~1 week's work for each team; T-shirt sizing L/XL; Story Points 13/20/...). Any more fine-grained, and the level of detail will be overwhelming.
 
 I've seen a simple board like the one pictured below work well. Your board will be different; don't copy ours.
 
@@ -85,8 +85,8 @@ Want to guarantee failure? Here's your recipe:
 
 _I wish this was sarcasm. But I've seen so many teams behave this way, I have to assume there is an instruction manual that advocates this._
 
-\[1\] [https://scaledagile.com/blog/safe-program-dependency-board-retrospective/](https://scaledagile.com/blog/safe-program-dependency-board-retrospective/)
+\[1\] [https://scaledagile.com/blog/safe-program-dependency-board-retrospective/](external:https://scaledagile.com/blog/safe-program-dependency-board-retrospective/)
 
 Updated on December 18, 2024
 
-Image attribution: Agile Pain Relief Consulting unless otherwise noted. Elements of first image [designed by Freepik](https://www.freepik.com/).
+Image attribution: Agile Pain Relief Consulting unless otherwise noted. Elements of first image [designed by Freepik](external:https://www.freepik.com/).

@@ -20,7 +20,7 @@ Many people who attend [Scrum training courses](/certified-scrum-agile-training)
 
 ## What is the main purpose of a daily scrum meeting?
 
-I don’t run around quoting the _[Scrum Guide](https://scrumguides.org/scrum-guide.html#daily-scrum)_ as if it is the final word on anything, however it does provide a good starting point:
+I don’t run around quoting the _[Scrum Guide](external:https://scrumguides.org/scrum-guide.html#daily-scrum)_ as if it is the final word on anything, however it does provide a good starting point:
 
 “The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.”
 

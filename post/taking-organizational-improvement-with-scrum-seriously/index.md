@@ -28,7 +28,7 @@ Either way, people in the organization begin to feel that Scrum is just being wr
 
 Scrum isn’t intended to work this way. **Scrum is a tool to optimize the whole organization.**
 
-From the [2015 State of Scrum Report](https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2015-state-of-scrum):
+From the [2015 State of Scrum Report](external:https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2015-state-of-scrum):
 
 > _Interestingly, 71% also believe that using Scrum causes tension with other parts of the organization not using Scrum._
 > 
@@ -145,7 +145,7 @@ From the 2015 State of Scrum Report: "_Respondents report that senior management
 
 - Where I’ve seen this fall apart – when Management feels this is special and not part of their \*\*work\*\*. To succeed, it is important that this becomes part of their normal work. Consider bringing all Management work through this group.
 - Not closely tied to vision or strategy.
-- No real urgency – See Jon Kotter – “[It all Starts with a Sense of Urgency](https://www.exed.hbs.edu/assets/Documents/sense-urgency.pdf)” (pdf).
+- No real urgency – See Jon Kotter – “[It all Starts with a Sense of Urgency](external:https://www.exed.hbs.edu/assets/Documents/sense-urgency.pdf)” (pdf).
 - Not enough energy from Management to solve the problems revealed. Will signal to the teams that Scrum is fine at the team level, but the organization doesn’t believe in real change.
 - Tactical and not Systemic focus will wear out the people who are involved in the change without making the real changes needed.
 - Without sufficient backing and support for real change, this just turns into a gripes forum.
@@ -160,12 +160,12 @@ Integral to doing this well is an approach to Visualizing all the work items (se
 
 ~
 
-References: [https://www.forbes.com/sites/stevedenning/2015/07/22/how-to-make-the-whole-organization-agile/](https://www.forbes.com/sites/stevedenning/2015/07/22/how-to-make-the-whole-organization-agile/)
+References: [https://www.forbes.com/sites/stevedenning/2015/07/22/how-to-make-the-whole-organization-agile/](external:https://www.forbes.com/sites/stevedenning/2015/07/22/how-to-make-the-whole-organization-agile/)
 
-My thanks to [Zuzi Sochova](https://soch.cz/blog/) for their feedback in writing this.
+My thanks to [Zuzi Sochova](external:https://soch.cz/blog/) for their feedback in writing this.
 
 * * *
 
-\[1\] Derived from Jon Kotter’s change model – see “[The Heart of Change](https://www.amazon.ca/The-Heart-Change-Real-Life-Organizations/dp/1422187330/&tag=notesfromatoo-20)” – one of his several books on change.\[2\] This is really the same as Product Backlog Refinement – however like many I find “Backlog” an odd word because it implies you’re late even before you start work.
+\[1\] Derived from Jon Kotter’s change model – see “[The Heart of Change](external:https://www.amazon.ca/The-Heart-Change-Real-Life-Organizations/dp/1422187330/&tag=notesfromatoo-20)” – one of his several books on change.\[2\] This is really the same as Product Backlog Refinement – however like many I find “Backlog” an odd word because it implies you’re late even before you start work.
 
-Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).
+Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](external:https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).

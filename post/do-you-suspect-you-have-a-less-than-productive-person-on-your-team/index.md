@@ -21,11 +21,11 @@ If it is a real problem how to handle it.
 
 ### Your Perception
 
-Strong language like "Rotten Apple" "Ruins the team""drag on productivity" etc. imply that you're already convinced the person is the problem. Unfortunately, this can just be prejudice. [Linda Rising](https://www.infoq.com/articles/Who-Do-You-Trust-Linda-Rising/), author of _"Fearless Change: Patterns_ _for Introducing New Ideas_", notes that people will categorize or stereotype other people in a very short period of time.
+Strong language like "Rotten Apple" "Ruins the team""drag on productivity" etc. imply that you're already convinced the person is the problem. Unfortunately, this can just be prejudice. [Linda Rising](external:https://www.infoq.com/articles/Who-Do-You-Trust-Linda-Rising/), author of _"Fearless Change: Patterns_ _for Introducing New Ideas_", notes that people will categorize or stereotype other people in a very short period of time.
 
 > "In many cases, a supervisor “determines” the ability of a worker in about three weeks, labelling them as either “can do” or “can’t do” workers. Once a prejudice has been formed, the supervisor views all the actions of that worker through this filter. If two workers make the same mistake, in the case of the “Can’t do” worker, the supervisor will think, “There he/she goes again, making the same mistakes,” while in the case of the “Can do” worker the supervisor will think, “Maybe he/she wasn’t feeling well.” Eventually, the supervisor can only recognize actions that affirm their prejudice."
 
-In such a case like this consider using **[Beginners Mind](https://www.infoq.com/news/2008/08/beginners_mind/)** (courtesy of Jean Tabaka and David Hussman). Let go of the outcome, take a step back, ask why not how, bring silence listen, and observe. The key is finding a way to let go of previous conceptions and reexamine the situation from scratch. How is this person working?
+In such a case like this consider using **[Beginners Mind](external:https://www.infoq.com/news/2008/08/beginners_mind/)** (courtesy of Jean Tabaka and David Hussman). Let go of the outcome, take a step back, ask why not how, bring silence listen, and observe. The key is finding a way to let go of previous conceptions and reexamine the situation from scratch. How is this person working?
 
 ### Team's Perception
 
@@ -76,8 +76,8 @@ So before we rush off to action:
 - Listen/Watch - don't measure
 - Only if there is a problem - then solve it.
 
-For a great deal more on this and related topics you might like a book by Johanna Rothmann and Esther Derby: [Behind Closed Doors: Secrets of Great Management (Pragmatic Programmers)](https://www.amazon.com/gp/product/0976694026/&tag=notesfromatoo-20).
+For a great deal more on this and related topics you might like a book by Johanna Rothmann and Esther Derby: [Behind Closed Doors: Secrets of Great Management (Pragmatic Programmers)](external:https://www.amazon.com/gp/product/0976694026/&tag=notesfromatoo-20).
 
 Caveat Emptor - if you buy any of the books after clicking on my link I get 4% of the price. In all likelihood that means I might be able to afford a coffee or two.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

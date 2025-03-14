@@ -26,4 +26,4 @@ The reasons vary with each client, but in my mind, it’s simply that Agile may 
 
 _Update: Don Grey and Esther Derby have already written on this topic. Great minds think alike._
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

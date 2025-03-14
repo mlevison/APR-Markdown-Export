@@ -16,7 +16,7 @@ _How long should a Scrum Sprint be? A Scrum Sprint is a short period of time whe
 
 Let’s start with the purpose of a Sprint: a fixed period of time for the Team to focus and develop a product with quality high enough that they could release it to the customer. A “good” Sprint Length, then, has to be long enough to produce results, but short enough to limit risk.
 
-[The Scrum Guide](https://scrumguides.org/scrum-guide.html) says that:
+[The Scrum Guide](external:https://scrumguides.org/scrum-guide.html) says that:
 
 > The heart of Scrum is a Sprint, a time-box of one month or less during which a “Done,” useable, and potentially releasable Product Increment is created.
 
@@ -80,8 +80,8 @@ _Note: On the rare occasion that I've seen Sprints shorter than one week, it see
 
 - Once a Sprint has started, don’t change its duration (i.e. don’t extend) - The end of Sprint is not a deadline, but an opportunity to pause, reflect, learn and improve. - If there are problems either in delivering the committed items or delivering the intended quality, you’re better off pausing and learning from the problems than changing the Sprint duration.
 - Consistency – Humans benefit from having some consistency, structure and predictability in their world. So, once the Sprint length is set, it’s usually best to stick with it. The Scrum Guide even notes: “Sprints have consistent durations throughout a development effort.”
-- Experiment – As your team and organization evolve, what used to work might change. Run experiments – example: [https://medium.com/akeneo-labs/experimenting-one-week-sprint-93dd04b42191](https://medium.com/akeneo-labs/experimenting-one-week-sprint-93dd04b42191)  _Note: I don’t recommend growing a single team to 15 people._
-- 2-day Sprints? In an extreme case, [Mishkin Berteig coached one team to use 2-day Sprints](https://www.infoq.com/news/2008/09/Short-Iterations-Mishkin-Berteig/) using the short Sprint to reveal greater dysfunction in the organization.
+- Experiment – As your team and organization evolve, what used to work might change. Run experiments – example: [https://medium.com/akeneo-labs/experimenting-one-week-sprint-93dd04b42191](external:https://medium.com/akeneo-labs/experimenting-one-week-sprint-93dd04b42191)  _Note: I don’t recommend growing a single team to 15 people._
+- 2-day Sprints? In an extreme case, [Mishkin Berteig coached one team to use 2-day Sprints](external:https://www.infoq.com/news/2008/09/Short-Iterations-Mishkin-Berteig/) using the short Sprint to reveal greater dysfunction in the organization.
 - To do well with shorter Sprints, Scrum Development Teams need to work on some skills: - [Story Splitting](/blog/scrummaster-tales-story-splitting-fun) – so that they divide the work into small manageable chunks - Agile Engineering Practices – to ensure that increment delivered is of high quality - Learning to put Quality Assurance at the beginning and not the end of their development process. Usually this requires learning Behavior-Driven Development, also known as Example Driven Development.
 
 ## Choose the Scrum Sprint Length
@@ -98,9 +98,9 @@ Whatever Sprint Length you set, honour it as the Team’s choice.  Then review,
 
 ### Additional References
 
-"[The Sprint Length](https://medium.com/serious-scrum/the-sprint-length-4222d383c84a)" by Sjoerd Nijland
+"[The Sprint Length](external:https://medium.com/serious-scrum/the-sprint-length-4222d383c84a)" by Sjoerd Nijland
 
-"[What is the optimal sprint length in Scrum?](https://hackernoon.com/what-is-the-optimal-sprint-length-in-scrum-368e966f3243)" by Matthias Orgler
+"[What is the optimal sprint length in Scrum?](external:https://hackernoon.com/what-is-the-optimal-sprint-length-in-scrum-368e966f3243)" by Matthias Orgler
 
 ### _If that all seemed like too much…_
 
@@ -108,7 +108,7 @@ _The many different factors to consider can be a little overwhelming for people 
 
 _Mark runs CSM workshops in Ottawa and across Canada throughout the year. To find out when he’ll be near you, [check out our ScrumMaster page.](/certified-scrummaster-csm-training)_
 
-\[1\] “Dark Work” is any work that wasn’t intended to be done during the Sprint that is picked up and done without being surfaced to the team and placed on the board \[2\] [https://info.scrumalliance.org/State-of-Scrum-2017-18.html](https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/State%20of%20Scrum/2017-SoSR-Final-Version-\(Pages\).pdf)
+\[1\] “Dark Work” is any work that wasn’t intended to be done during the Sprint that is picked up and done without being surfaced to the team and placed on the board \[2\] [https://info.scrumalliance.org/State-of-Scrum-2017-18.html](external:https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/State%20of%20Scrum/2017-SoSR-Final-Version-\(Pages\).pdf)
 
 _Image attribution: Agile Pain Relief Consulting_
 

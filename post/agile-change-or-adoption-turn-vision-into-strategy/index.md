@@ -37,7 +37,7 @@ If you choose the Story Map method, break down a few items at a time into manage
 
 At the WorldsSmallestOnlineBookStore, there are over one hundred people involved in making the quality changes that were implied by the vision! This is too large for even the most effective facilitator to handle in a single event. So Steve, the appointed ScrumMaster and Agile Coach, decides to run “Vision to Strategy” sessions in five groups. Each session includes at least one executive and a couple of other people who were participants in creating the original vision.The five groups discover the following problems:
 
-- [Stack Ranking](https://mspoweruser.com/microsoft-abolishes-stack-ranking-system-employee-evaluation-process/) , affectionately known as Rank and Yank. Since its introduction two years ago, has turned the workplace into a competition to get a bonus and avoid being fired. Team(s) involved: Organizational Improvement Team
+- [Stack Ranking](external:https://mspoweruser.com/microsoft-abolishes-stack-ranking-system-employee-evaluation-process/) , affectionately known as Rank and Yank. Since its introduction two years ago, has turned the workplace into a competition to get a bonus and avoid being fired. Team(s) involved: Organizational Improvement Team
 - Full Regression Test Cycle is Too Long (four people take three weeks to run it). This means that even after a release is complete there is an extra three weeks before the software can be deployed. Team(s) involved: All Development Teams
 - Hard to Make Changes because the Code Base is Brittle. Team(s) involved: All Development Teams
 - Pressure to Deliver over Quality. Team(s) involved: Organizational Improvement Team

@@ -53,4 +53,4 @@ _**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog
 
 _**Update:** As I went to compile a cast of characters I realized that I was using Doug and Martin interchangeably between posts. I changed this post to make Martin our database guy._
 
-Images via: [https://photodune.net/](https://photodune.net/)
+Images via: [https://photodune.net/](external:https://photodune.net/)

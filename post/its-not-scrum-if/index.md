@@ -25,6 +25,6 @@ This is a lighthearted list of some of the many things I’ve seen going wrong. 
 
 From all of these rules, remember that Scrum itself isn’t the point. The point is to deliver high quality working software, which we do most effectively by creating High Performance teams. Scrum is a tool to create teams, no more.
 
-Thanks to [Neil Killick](https://twitter.com/neil_killick), [Neil Johnson](https://twitter.com/nosnhojn), [Amy Neil](https://twitter.com/momofxandm) and [Marc Andre-Morriset](https://twitter.com/lagimik) for their suggestions, which are represented in spirit, if not exact copies of their tweets.
+Thanks to [Neil Killick](external:https://twitter.com/neil_killick), [Neil Johnson](external:https://twitter.com/nosnhojn), [Amy Neil](external:https://twitter.com/momofxandm) and [Marc Andre-Morriset](external:https://twitter.com/lagimik) for their suggestions, which are represented in spirit, if not exact copies of their tweets.
 
 What are your “It’s not Scrum if…” stories?

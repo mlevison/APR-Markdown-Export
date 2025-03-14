@@ -22,7 +22,7 @@ They created a play, “Spike Sherman”. Our story opens with Diane preparing 
 
 Clearly too large – so the team’s splitter, Jason, applied the patterns from the handout and broke the Story into its constituent pieces: Cong and Sherman. Once split, the Story was sent to Yurika to be checked against **INVEST**:
 
-(Original idea from Bill Wake: [https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)):
+(Original idea from Bill Wake: [https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/](external:https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)):
 
 **Independent** - dependencies between Stories limit the flexibility of both the Product Owner and development team. The Product Owner should be able to ask for Stories in whatever order makes sense.
 

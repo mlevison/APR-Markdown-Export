@@ -8,9 +8,9 @@ tags:
 excerpt: 'MS has a rule about this in'
 ---
 
-MS has a rule about this in [FxCop](https://msdn2.microsoft.com/en-us/library/ms182331\(VS.80\).aspx). PMD has a rule:
+MS has a rule about this in [FxCop](external:https://msdn2.microsoft.com/en-us/library/ms182331\(VS.80\).aspx). PMD has a rule:
 
-##### [ConstructorCallsOverridableMethod](https://pmd.sourceforge.net/rules/design.html). In both cases the point is to discourage the following weird behaviour. From Eclipse:
+##### [ConstructorCallsOverridableMethod](external:https://pmd.sourceforge.net/rules/design.html). In both cases the point is to discourage the following weird behaviour. From Eclipse:
 
 ```
 public abstract class CellEditor {

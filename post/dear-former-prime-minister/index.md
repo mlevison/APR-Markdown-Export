@@ -24,7 +24,7 @@ Software – more so than the robots we were warned about in the ‘60s – has 
 
 I help organizations thrive in the Software Age.  I help leadership evolve from traditional methods and structures of, typically, management heavy, using carrot and stick employee motivation, to self-organizing teams and self-motivating teams who adapt quickly and effectively in the face of industry, culture, and economic changes.
 
-When you and I chatted, I also mentioned my wife’s work, which is possibly more important than my own. I explained my encounter with you to her, and she wrote a blog post: “[Dear Former Prime Minister, Here’s what I do for women and why I do it](https://yourfinanciallaunchpad.com/dear-former-prime-minister-heres-what-i-do-for-women-and-why-i-do-it-2/).”
+When you and I chatted, I also mentioned my wife’s work, which is possibly more important than my own. I explained my encounter with you to her, and she wrote a blog post: “[Dear Former Prime Minister, Here’s what I do for women and why I do it](external:https://yourfinanciallaunchpad.com/dear-former-prime-minister-heres-what-i-do-for-women-and-why-i-do-it-2/).”
 
 My wife explains that she is “on a mission to help women grow their financial literacy and their confidence in order to create better options for themselves and their families, especially when life happens, as it inevitably does.” In that respect, we have very related goals, except mine is focused on people – and, more recently, leaders and entire organizations – growing group strength and confidence, so they have better business options and responses when industry and economic challenges happen.
 

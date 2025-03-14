@@ -57,7 +57,7 @@ A Working Agreement doesn’t have a police force to ensure that it’s followed
 - **Public and Visible** – preferably written in a large font and posted in a prominent space (perhaps where Daily Stand-up takes place)
 - **Collaborative** – created by all, not imposed by others
 - **Short** – a small list of agreements that are easily remembered and lived up to trumps a big list that overwhelms people and gets forgotten
-- **Updated Frequently** – [Taiichi Ohno](https://blog.gembaacademy.com/2010/02/16/excerpts_from_an_interview_with_taiichi_ohno_july_1/) once said: "If the kanbans do not change for one month, you are salary thieves"
+- **Updated Frequently** – [Taiichi Ohno](external:https://blog.gembaacademy.com/2010/02/16/excerpts_from_an_interview_with_taiichi_ohno_july_1/) once said: "If the kanbans do not change for one month, you are salary thieves"
 - **Consequential** – when the agreements are violated, Team members call out the violation with respectful reminders
 
 ### Working Agreements Should be Unique to Team Needs
@@ -201,7 +201,7 @@ _**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog
 
 **Want to learn how to put together really effective Working Agreements?** If there is one idea at the heart of Scrum and Agile that is most important, it is respecting the people you work with. When you empower teams to make decisions about how they work, you use one of the most powerful methods to help them be more effective and become high-performing. Working Agreements are a great step toward that improvement. In our Certified ScrumMaster workshops, attendees discover how to support and facilitate these kinds of agreements. If you are committed to helping create a respectful environment for your team, we invite you to [join us to learn how and to gain practical, hands-on experience](/certified-scrummaster-csm-training).
 
-\[1\] [https://nomad8.com/articles/creating-working-agreements-that-are-actually-useful](https://nomad8.com/articles/creating-working-agreements-that-are-actually-useful) \[2\] [https://www.mccarthyshow.com/online/](https://mccarthyshow.com) \[3\] [https://www.liberatingstructures.com/1-1-2-4-all/](https://www.liberatingstructures.com/1-1-2-4-all/) \[4\] [https://www.agilelearninglabs.com/2008/03/active-listening-techniques/](https://agilelearninglabs.com/2008/03/active-listening-techniques/) \[5\] Ritual Dissent – a technique to formalize dissent: [https://whatsthepont.com/2011/08/14/ritual-dissent-getting-better-proposals-and-dealing-with-saboteurs/](https://whatsthepont.blog/2011/08/14/ritual-dissent-getting-better-proposals-and-dealing-with-saboteurs/)
+\[1\] [https://nomad8.com/articles/creating-working-agreements-that-are-actually-useful](external:https://nomad8.com/articles/creating-working-agreements-that-are-actually-useful) \[2\] [https://www.mccarthyshow.com/online/](external:https://mccarthyshow.com) \[3\] [https://www.liberatingstructures.com/1-1-2-4-all/](external:https://www.liberatingstructures.com/1-1-2-4-all/) \[4\] [https://www.agilelearninglabs.com/2008/03/active-listening-techniques/](external:https://agilelearninglabs.com/2008/03/active-listening-techniques/) \[5\] Ritual Dissent – a technique to formalize dissent: [https://whatsthepont.com/2011/08/14/ritual-dissent-getting-better-proposals-and-dealing-with-saboteurs/](external:https://whatsthepont.blog/2011/08/14/ritual-dissent-getting-better-proposals-and-dealing-with-saboteurs/)
 
 Image attribution: Agile Pain Relief Consulting
 

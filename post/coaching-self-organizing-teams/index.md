@@ -7,7 +7,7 @@ coverImage: "Challenge_vs_skill.wikipedia-commons-Oliverbeatson.png"
 excerpt: 'In the best session I’ve attended at Agile 2008 Joseph Pelrine talked about some of the'
 ---
 
-In the best session I’ve attended at Agile 2008 Joseph Pelrine talked about some of the ideas and science around self organization teams. The talk has an excellent subtitle “Hard science for soft skills”. I’ve already covered some of the presentation and exercises on [InfoQ](https://www.infoq.com/news/2008/08/coaching_teams/) so I won’t repeat that here. Instead I will focus on the additional material we covered.
+In the best session I’ve attended at Agile 2008 Joseph Pelrine talked about some of the ideas and science around self organization teams. The talk has an excellent subtitle “Hard science for soft skills”. I’ve already covered some of the presentation and exercises on [InfoQ](external:https://www.infoq.com/news/2008/08/coaching_teams/) so I won’t repeat that here. Instead I will focus on the additional material we covered.
 
 ### Conflict
 
@@ -69,4 +69,4 @@ J's law of groups - groups larger than seven tend to sub-divide when you add the
 
 In addition when the group organisation changes (adding/removing members) all the relationships need to be renegotiated. So if change of team membership must happen its better to get it all out the way at once.  For the same reasons groups must reform as per the Tuckman.
 
-Image attribution: [Oliverbeatson](https://en.wikipedia.org/wiki/User:Oliverbeatson) via Wikimedia Commons
+Image attribution: [Oliverbeatson](external:https://en.wikipedia.org/wiki/User:Oliverbeatson) via Wikimedia Commons

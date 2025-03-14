@@ -25,7 +25,7 @@ excerpt: '[Cross Skilling](/blog/scrummaster-tales-the-team-gets-bottlenecked) i
 
 ## Analysis
 
-The team have just discovered Technical Debt (see my article “[Technical Debt a Managers Perspective](https://www.infoq.com/articles/technical-debt-levison/)”) or a [mess](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt) (where Uncle Bob would argue that I misuse technical debt). Either way it would appear that the code is slowing the team down. At the start of the project they appeared too fast but now they’re slowing down. In reality they weren’t really going fast, instead they weren’t ensuring that they were really done.
+The team have just discovered Technical Debt (see my article “[Technical Debt a Managers Perspective](external:https://www.infoq.com/articles/technical-debt-levison/)”) or a [mess](external:https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt) (where Uncle Bob would argue that I misuse technical debt). Either way it would appear that the code is slowing the team down. At the start of the project they appeared too fast but now they’re slowing down. In reality they weren’t really going fast, instead they weren’t ensuring that they were really done.
 
 ## Back to the Story
 
@@ -33,9 +33,9 @@ Doug remembers reading about the problems of technical debt (aka a mess) recentl
 
 Coding Java the team have a rich supply of tools available to them:
 
-- [PMD](https://pmd.sourceforge.net/) – “scans Java source code and looks for potential problems" examples: Dead code, Duplicate Code, missed private and final markers, over complicated code etc.
-- [Sonar](https://www.sonarsource.org/) – “Sonar is an open platform to manage code quality” – it uses static analysis tools (including PMD), code coverage tools et al to measure the state of the code. It plugs into the CI server and keeps data on an ongoing basis.
-- [Sort](https://www.artima.com/forums//threaded.jsp?forum=155&thread=182754) – Laurent Bossavit taught us this year’s ago: “getting a file list of all source code files, then sorting that list by (decreasing) file size. I start with the largest source file, and see if there's a reason it's the largest”
+- [PMD](external:https://pmd.sourceforge.net/) – “scans Java source code and looks for potential problems" examples: Dead code, Duplicate Code, missed private and final markers, over complicated code etc.
+- [Sonar](external:https://www.sonarsource.org/) – “Sonar is an open platform to manage code quality” – it uses static analysis tools (including PMD), code coverage tools et al to measure the state of the code. It plugs into the CI server and keeps data on an ongoing basis.
+- [Sort](external:https://www.artima.com/forums//threaded.jsp?forum=155&thread=182754) – Laurent Bossavit taught us this year’s ago: “getting a file list of all source code files, then sorting that list by (decreasing) file size. I start with the largest source file, and see if there's a reason it's the largest”
 
 Doug and Ian decide to use PMD and Sorting by filesize as a starting point, as Sonar takes a bit longer to configure. Each time they find a major issue they take write it down on a large postit note along with some reference information (i.e. the files involved anything else. _Ed note the precise format doesn’t matter – what matters is that the developers understand the issue its describing and will be able to guess which stories they might affect in the future)._ By the end of the first day they’ve come up with over 50 postit that contain noteworthy items (vs. a missing private or final which can be fixed in a few seconds). On the 2nd day they sit down with the rest of the team to prioritize the items using slows us down the most as criteria. During the remainder of the Sprint team members tackle smaller technical debt items (< 2hrs) when the items are related to the story they’re working on.
 

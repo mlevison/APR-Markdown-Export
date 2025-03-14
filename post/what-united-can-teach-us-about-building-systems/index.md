@@ -10,7 +10,7 @@ coverImage: "800px-United_Airlines_777_N797UA.jpg"
 excerpt: '\[caption id="attachment\_8949" align="aligncenter" width="800"\]![By InSapphoWeTrust from'
 ---
 
-\[caption id="attachment\_8949" align="aligncenter" width="800"\]![By InSapphoWeTrust from Los Angeles, California, USA (United Airlines - N797UA Uploaded by Altair78) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons](src/content/blog/what-united-can-teach-us-about-building-systems/images/800px-United_Airlines_777_N797UA.jpg) United Airlines, by [Altair78](https://commons.wikimedia.org/wiki/File:United_Airlines_777_N797UA.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/legalcode)\[/caption\]In April 2017, United Airlines made global headlines when they forcibly removed one passenger (David Dao) who had already boarded the flight, to accommodate crew flying to another destination. The flight staff called the airport police and Dao was hurt as he was dragged off the plane, suffering a concussion, loss of teeth and other injuries.
+\[caption id="attachment\_8949" align="aligncenter" width="800"\]![By InSapphoWeTrust from Los Angeles, California, USA (United Airlines - N797UA Uploaded by Altair78) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons](src/content/blog/what-united-can-teach-us-about-building-systems/images/800px-United_Airlines_777_N797UA.jpg) United Airlines, by [Altair78](external:https://commons.wikimedia.org/wiki/File:United_Airlines_777_N797UA.jpg), [CC BY-SA 2.0](external:https://creativecommons.org/licenses/by-sa/2.0/legalcode)\[/caption\]In April 2017, United Airlines made global headlines when they forcibly removed one passenger (David Dao) who had already boarded the flight, to accommodate crew flying to another destination. The flight staff called the airport police and Dao was hurt as he was dragged off the plane, suffering a concussion, loss of teeth and other injuries.
 
 In the same week, another United passenger flying from Hawaii to Los Angeles was forced off a plane despite having paid full fare for a first class ticket. “That’s when they told me they needed the seat for somebody more important who came at the last minute,” Geoff Fearns said. “They said they have a priority list and this other person was higher on the list than me. They said they’d put me in cuffs if they had to.”
 
@@ -28,7 +28,7 @@ David Dao was removed from his flight because four crew showed up after the pass
 
 There are two significant problems here:
 
-- \[caption id="attachment\_8952" align="alignright" width="300"\]![Stochastic Queueing, by David Levinson. CC BY-SA 3.0](src/content/blog/what-united-can-teach-us-about-building-systems/images/StochasticQueueingQueueLength-created-by-David-Levinson.png) [Stochastic Queueing](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Queueing#/media/File:StochasticQueueingQueueLength.png), by David Levinson. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)\[/caption\]
+- \[caption id="attachment\_8952" align="alignright" width="300"\]![Stochastic Queueing, by David Levinson. CC BY-SA 3.0](src/content/blog/what-united-can-teach-us-about-building-systems/images/StochasticQueueingQueueLength-created-by-David-Levinson.png) [Stochastic Queueing](external:https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Queueing#/media/File:StochasticQueueingQueueLength.png), by David Levinson. [CC BY-SA 3.0](external:https://creativecommons.org/licenses/by-sa/3.0/legalcode)\[/caption\]
     
     By attempting to have every flight 100% full, there is no capacity to respond to small things going wrong in the system. E.g. extra people showing up at the last minute and creating a shortage of seats. This shows up time and time again, when utilization of capacity in a system exceeds a certain point and the system becomes fragile or breaks completely. In highways and road systems, it happens at around 65-70% of the designed capacity of the road.
 - By having only enough crew in each city to survive that day’s flights, United is again running at 100% capacity with respect to crew. There is additional risk in that a small problem in Chicago would escalate and become a big problem in Kentucky 24 hours later.
@@ -41,7 +41,7 @@ When we’re building teams for knowledge work (e.g. Software Development, Marke
 
 ### More on Capacity and Slack:
 
-[https://qz.com/312075/why-the-second-busiest-airport-in-the-world-is-often-nightmarishly-fragile/](https://qz.com/312075/why-the-second-busiest-airport-in-the-world-is-often-nightmarishly-fragile/) [https://en.wikibooks.org/wiki/Fundamentals\_of\_Transportation/Queueing](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Queueing) [https://brodzinski.com/2012/05/slack-time.html](https://brodzinski.com/2012/05/slack-time.html)
+[https://qz.com/312075/why-the-second-busiest-airport-in-the-world-is-often-nightmarishly-fragile/](external:https://qz.com/312075/why-the-second-busiest-airport-in-the-world-is-often-nightmarishly-fragile/) [https://en.wikibooks.org/wiki/Fundamentals\_of\_Transportation/Queueing](external:https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Queueing) [https://brodzinski.com/2012/05/slack-time.html](external:https://brodzinski.com/2012/05/slack-time.html)
 
 ## Too Many Conflicting Rules
 
@@ -70,6 +70,6 @@ The real question: is Munoz attempting to make significant changes to affect the
 
 #### Culture References at United:
 
-[https://onemileatatime.boardingarea.com/2017/04/11/united-denied-boarding-fiasco/](https://onemileatatime.com/united-denied-boarding-fiasco/) [https://www.forbes.com/sites/stevedenning/2011/04/01/is-delighting-the-customer-profitable/](https://www.forbes.com/sites/stevedenning/2011/04/01/is-delighting-the-customer-profitable/)
+[https://onemileatatime.boardingarea.com/2017/04/11/united-denied-boarding-fiasco/](external:https://onemileatatime.com/united-denied-boarding-fiasco/) [https://www.forbes.com/sites/stevedenning/2011/04/01/is-delighting-the-customer-profitable/](external:https://www.forbes.com/sites/stevedenning/2011/04/01/is-delighting-the-customer-profitable/)
 
 \[1\] Deadheading crew – flight staff who aren’t working on the flight but are instead flying to the destination in a passenger seat, to work a flight from there.

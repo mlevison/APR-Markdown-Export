@@ -10,10 +10,10 @@ tags:
   - "tdd-randori"
   - "test-driven-development"
   - "workshop"
-excerpt: 'We ran our first TDD [Randori](https://en.wikipedia.org/wiki/Randori) session at lunch'
+excerpt: 'We ran our first TDD [Randori](external:https://en.wikipedia.org/wiki/Randori) session at lunch'
 ---
 
-We ran our first TDD [Randori](https://en.wikipedia.org/wiki/Randori) session at lunch today (approx 15 attendees). I was inspired by Dave Nicolette's session at Agile 2008 and used the [Danilo Santo's](https://www.dtsato.com/blog/2008/08/12/coding-dojo-agile-2008/) paper on their Brazilian Coding Dojo as a guide.
+We ran our first TDD [Randori](external:https://en.wikipedia.org/wiki/Randori) session at lunch today (approx 15 attendees). I was inspired by Dave Nicolette's session at Agile 2008 and used the [Danilo Santo's](external:https://www.dtsato.com/blog/2008/08/12/coding-dojo-agile-2008/) paper on their Brazilian Coding Dojo as a guide.
 
 In a Randori we work as a group trying to solve a **small** problem using TDD:
 
@@ -28,7 +28,7 @@ In a Randori we work as a group trying to solve a **small** problem using TDD:
 
 I picked the problem based on a complaint I've heard from people after many of the TDD classes: "the examples are too trivial and don't speak to real world problems. I also hear that we don't enough chance to practice TDD".
 
-For our initial example to trying working through we tried: Brian Marick's "[A workbook for practicing test-driven design](http://www.exampler.com/blog/2007/06/26/a-workbook-for-practicing-test-driven-design-draft/)". The problem and sample code come from the world of Hierarchical Data Format (HDF), a library for storing large amounts of scientific data. Brian provides an initial simple implementation and then invites the reader to make some changes:
+For our initial example to trying working through we tried: Brian Marick's "[A workbook for practicing test-driven design](external:http://www.exampler.com/blog/2007/06/26/a-workbook-for-practicing-test-driven-design-draft/)". The problem and sample code come from the world of Hierarchical Data Format (HDF), a library for storing large amounts of scientific data. Brian provides an initial simple implementation and then invites the reader to make some changes:
 
 1. ...
 2. Add the ability to read and write unsigned 4-byte integers, something like:
@@ -42,7 +42,7 @@ For our initial example to trying working through we tried: Brian Marick's "[A w
 
 So far so good. In the 60 minutes of coding time we had we were able to make solve #2 with an elegant solution, but got hung up in #3. To introduce Strings we had to take a big step, much bigger than TDD would encourage. Net result we got caught in a bit of tangled mess and ran out of time before could tidy it up.
 
-After the session we conducted a very short retrospective using happy and sad post it notes and dot voting (both from [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/&tag=notesfromatoo-20)).
+After the session we conducted a very short retrospective using happy and sad post it notes and dot voting (both from [Agile Retrospectives: Making Good Teams Great](external:https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/&tag=notesfromatoo-20)).
 
 In the Happy category we had:
 
@@ -72,10 +72,10 @@ In the Sad category we had:
 
 A single session will not hone anyone's TDD (nor my moderation) skills. I suggest that we continue to meet in the future (every two weeks). For the next session I will find a smaller problem - perhaps a few classes of untested code. We can set the goal testing it, simplifying it and making changes as requested by a mythical product owner.
 
-Beyond this it would be useful to have sessions that focus on: Mocks, Test Doubles, GUI's (Presenter First?), Web Apps, Databases?, other real world problems that teams are encountering as part of TDD. [Test Driven: Lasse Koskela](https://www.amazon.com/Test-Driven-Acceptance-Java-Developers/dp/1932394850/&tag=notesfromatoo-20) is an excellent source book for ideas in this area.
+Beyond this it would be useful to have sessions that focus on: Mocks, Test Doubles, GUI's (Presenter First?), Web Apps, Databases?, other real world problems that teams are encountering as part of TDD. [Test Driven: Lasse Koskela](external:https://www.amazon.com/Test-Driven-Acceptance-Java-Developers/dp/1932394850/&tag=notesfromatoo-20) is an excellent source book for ideas in this area.
 
 BTW Brian's HDF workbook is an interesting problem I just wouldn't expect to tackle it 60 minutes of coding time.
 
-_Update: I forgot to mention the [TDD Problems site](https://sites.google.com/site/tddproblems/)._
+_Update: I forgot to mention the [TDD Problems site](external:https://sites.google.com/site/tddproblems/)._
 
 _Update 2: The followup session: [Another TDD Workshop](/blog/tdd-randori-workshop)._

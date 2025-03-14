@@ -33,7 +33,7 @@ Variants of this technique have been used by Amazon,\[[1](#footnotes)\] Komatsu
 
  
 
-Picture from: [https://www.naturalstep.ca/backcasting-starting-with-the-end-in-mind](https://www.naturalstep.ca/backcasting-starting-with-the-end-in-mind). Used with permission.
+Picture from: [https://www.naturalstep.ca/backcasting-starting-with-the-end-in-mind](external:https://www.naturalstep.ca/backcasting-starting-with-the-end-in-mind). Used with permission.
 
 <table width="595"><tbody><tr><td><strong>Goal</strong></td><td>Discover what success looks like in a change process.</td></tr><tr><td><strong>When to use</strong></td><td>At the start of a project or any time you’re beginning a new initiative.</td></tr><tr><td><strong>Time</strong></td><td>1-2 hours depending on facilitator experience and the size of the audience.</td></tr><tr><td><strong>Who is involved</strong></td><td>The <a href="/blog/taking-organizational-improvement-with-scrum-seriously" target="_blank" rel="noopener">Organizational Improvement Team</a> &nbsp;– must include some doers, a few key decision-makers, and a few key stakeholders (the people sponsoring the change)</td></tr></tbody></table>
 
@@ -91,7 +91,7 @@ Just by changing the opening question, this exercise can also work well for a Pr
 
 ### Complementary tools
 
-[Liberating Structures 1-2-4-All](https://www.liberatingstructures.com/1-1-2-4-all/) might work well to help the group self-organize to synthesize their discoveries.
+[Liberating Structures 1-2-4-All](external:https://www.liberatingstructures.com/1-1-2-4-all/) might work well to help the group self-organize to synthesize their discoveries.
 
 Blank newspaper headline template:
 
@@ -103,4 +103,4 @@ Also see our “[Agile Change or Adoption Always Starts with Why](/blog/agile-ch
 
 * * *
 
-\[1\] [https://commoncog.com/blog/working-backwards/](https://commoncog.com/blog/working-backwards/) \[2\] Ch 4 – [_The Knowledge Gap – The Art of Action_](https://www.amazon.ca/Art-Action-Leaders-between-Actions/dp/1857885597/&tag=notesfromatoo-20) by Stephen Bungay \[3\] [https://medium.com/age-of-awareness/envisioning-a-future-that-works-for-all-characteristics-of-the-visioning-process-ab02332a63ce](https://medium.com/age-of-awareness/envisioning-a-future-that-works-for-all-characteristics-of-the-visioning-process-ab02332a63ce) [https://energyfutureslab.com/backcasting-starting-with-the-end-in-mind/](https://energyfutureslab.com/backcasting-starting-with-the-end-in-mind/) a href="https://sustainablebrands.com/read/new-metrics/backcasting-a-roadmap-to-transformational-change" target="\_blank" rel="noopener">https://sustainablebrands.com/read/new-metrics/backcasting-a-roadmap-to-transformational-change \[4\] [_Innovation Games: Creating Breakthrough Products Through Collaborative Play_](https://www.amazon.ca/Innovation-Games-Creating-Breakthrough-Collaborative/dp/0321437292/&tag=notesfromatoo-20) by Luke Hohmann \[5\] For example: [https://paraffin.ltd/visioning/](https://paraffin.ltd/visioning/)
+\[1\] [https://commoncog.com/blog/working-backwards/](external:https://commoncog.com/blog/working-backwards/) \[2\] Ch 4 – [_The Knowledge Gap – The Art of Action_](external:https://www.amazon.ca/Art-Action-Leaders-between-Actions/dp/1857885597/&tag=notesfromatoo-20) by Stephen Bungay \[3\] [https://medium.com/age-of-awareness/envisioning-a-future-that-works-for-all-characteristics-of-the-visioning-process-ab02332a63ce](external:https://medium.com/age-of-awareness/envisioning-a-future-that-works-for-all-characteristics-of-the-visioning-process-ab02332a63ce) [https://energyfutureslab.com/backcasting-starting-with-the-end-in-mind/](external:https://energyfutureslab.com/backcasting-starting-with-the-end-in-mind/) a href="https://sustainablebrands.com/read/new-metrics/backcasting-a-roadmap-to-transformational-change" target="\_blank" rel="noopener">https://sustainablebrands.com/read/new-metrics/backcasting-a-roadmap-to-transformational-change \[4\] [_Innovation Games: Creating Breakthrough Products Through Collaborative Play_](external:https://www.amazon.ca/Innovation-Games-Creating-Breakthrough-Collaborative/dp/0321437292/&tag=notesfromatoo-20) by Luke Hohmann \[5\] For example: [https://paraffin.ltd/visioning/](external:https://paraffin.ltd/visioning/)

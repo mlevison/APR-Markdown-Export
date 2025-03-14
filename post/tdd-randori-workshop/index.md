@@ -17,7 +17,7 @@ This week we ran a second session and had a much better time. The key to success
 
 This week's problem:
 
-Score a [bowling](https://en.wikipedia.org/wiki/Bowling) game, (credit to Bob Martin and Ron Jeffries for the idea) based on the following rules:
+Score a [bowling](external:https://en.wikipedia.org/wiki/Bowling) game, (credit to Bob Martin and Ron Jeffries for the idea) based on the following rules:
 
 - A single bowling game consists of ten frames.
 - For each frame, a bowler is allowed a maximum of two rolls to knock down all ten pins
@@ -26,7 +26,7 @@ Score a [bowling](https://en.wikipedia.org/wiki/Bowling) game, (credit to Bob Ma
 
 Effectively this means the ball after a Spare is counted twice - once for the spare and once for the strike. With Strikes the next two balls are counted twice.
 
-[**Scoring Examples**](https://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring) (from wikipedia): A **Single** strike:
+[**Scoring Examples**](external:https://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring) (from wikipedia): A **Single** strike:
 
 Frame 1, ball 1: 10 pins (strike)
 
@@ -96,7 +96,7 @@ So net result I picked a better problem than last time and we all learned a litt
 Problem sources for Coding Dojo's:
 
 - Coding Dojo Wiki
-- [TDD Problems Wiki](https://sites.google.com/site/tddproblems/)
-- [Danilo Sato](https://www.dtsato.com/blog/2008/10/21/source-of-problems-for-your-coding-dojo/) mentions a few others that I'm not familiar with.
+- [TDD Problems Wiki](external:https://sites.google.com/site/tddproblems/)
+- [Danilo Sato](external:https://www.dtsato.com/blog/2008/10/21/source-of-problems-for-your-coding-dojo/) mentions a few others that I'm not familiar with.
 
 Have you tried a Randori or Coding Dojo? What was your experience?

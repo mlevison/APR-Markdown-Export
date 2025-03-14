@@ -87,6 +87,6 @@ Become an Agile Organization because it helps your organization to thrive in a C
 
 #### References:
 
-[https://www.anecdote.com/2009/04/a-simple-explanation-cynefin-framework/](https://www.anecdote.com/2009/04/a-simple-explanation-cynefin-framework/) [https://www.scrumsense.com/blog/cynefin-framework/](https://www.scrumsense.com/blog/cynefin-framework/) [https://www.mindtools.com/pages/article/cynefin-framework.htm](https://www.mindtools.com/pages/article/cynefin-framework.htm) [https://www.leadingagile.com/2011/01/the-12-key-reasons-companies-adopt-agile/](https://www.leadingagile.com/2011/01/the-12-key-reasons-companies-adopt-agile/)
+[https://www.anecdote.com/2009/04/a-simple-explanation-cynefin-framework/](external:https://www.anecdote.com/2009/04/a-simple-explanation-cynefin-framework/) [https://www.scrumsense.com/blog/cynefin-framework/](external:https://www.scrumsense.com/blog/cynefin-framework/) [https://www.mindtools.com/pages/article/cynefin-framework.htm](external:https://www.mindtools.com/pages/article/cynefin-framework.htm) [https://www.leadingagile.com/2011/01/the-12-key-reasons-companies-adopt-agile/](external:https://www.leadingagile.com/2011/01/the-12-key-reasons-companies-adopt-agile/)
 
-Image by Agile Pain Relief Consulting. Image elements [designed by Freepik](https://www.freepik.com/free-vector/calligraphic-circles_762241.htm).
+Image by Agile Pain Relief Consulting. Image elements [designed by Freepik](external:https://www.freepik.com/free-vector/calligraphic-circles_762241.htm).

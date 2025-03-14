@@ -40,7 +40,7 @@ When long regression cycles are an issue, without a systemic approach the organi
 
 ![Long Regression Cycle Casual Loop Diagram](src/content/blog/taking-organizational-improvement-seriously-case-study/images/LongRegressionCycle.png)
 
-This is a simple [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram) – it’s intended to help us look past the initial problem and see deeper causes.
+This is a simple [causal loop diagram](external:https://en.wikipedia.org/wiki/Causal_loop_diagram) – it’s intended to help us look past the initial problem and see deeper causes.
 
 Variables create cause and effect within a system. In a causal loop diagram, you start with a single part of the system that you can already identify and just keep asking “what influences this part?” then draw links between the interconnected parts using arrows pointing in the direction of influence. Once you can no longer think of additional parts or influences to add, you have a closed loop.
 
@@ -133,4 +133,4 @@ In our last post we saw what we needed:
 
 Even with an Organizational Improvement Team, problems still aren’t easy to solve,  but they’re solved more easily when addressed at the right level.
 
-Images by Agile Pain Relief Consulting. Elements of first image [designed by Freepik](https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).
+Images by Agile Pain Relief Consulting. Elements of first image [designed by Freepik](external:https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).

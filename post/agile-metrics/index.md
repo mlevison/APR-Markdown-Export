@@ -15,11 +15,11 @@ coverImage: "photodune-3795126-graph-xs.jpg"
 excerpt: 'If you must collect metrics, here is what I would consider. **Running Tested Purchased'
 ---
 
-![eps10 business graph with arrow - image licensed from Photodune](src/content/blog/agile-metrics/images/photodune-3795126-graph-xs.jpg) I’m frequently getting requests for good Agile Metrics and I’m never quite sure how to respond. Courtesy of some time waiting at [LGA](https://www.laguardiaairport.com), I’ve been giving this some more thought. For many organizations metrics are irrelevant, don’t bother collecting them as they will just waste your time (and money).
+![eps10 business graph with arrow - image licensed from Photodune](src/content/blog/agile-metrics/images/photodune-3795126-graph-xs.jpg) I’m frequently getting requests for good Agile Metrics and I’m never quite sure how to respond. Courtesy of some time waiting at [LGA](external:https://www.laguardiaairport.com), I’ve been giving this some more thought. For many organizations metrics are irrelevant, don’t bother collecting them as they will just waste your time (and money).
 
 If you must collect metrics, here is what I would consider.
 
-**Running Tested Purchased Features –** Ron Jeffries is famous the metric [Running Tested Features](https://ronjeffries.com/xprog/articles/jatrtsmetric/) (RTF). I suggest that you consider taking it one step further until you’ve sold the feature to the customer you don’t know if they value it or not. For most product organizations this is a bit of stretch to measure in which case stick with Ron’s advice.
+**Running Tested Purchased Features –** Ron Jeffries is famous the metric [Running Tested Features](external:https://ronjeffries.com/xprog/articles/jatrtsmetric/) (RTF). I suggest that you consider taking it one step further until you’ve sold the feature to the customer you don’t know if they value it or not. For most product organizations this is a bit of stretch to measure in which case stick with Ron’s advice.
 
 Questions to ask:
 
@@ -34,17 +34,17 @@ Questions to ask:
 
 Alright, you made it this far you deserve some options:
 
-Martin Fowler says: [CannotMeasureProductivity](https://www.martinfowler.com/bliki/CannotMeasureProductivity.html). Dave Nicolette presented on this at Agile 2009 (this article links to heaps of others). I wrote this for InfoQ last year:  [What is a Good Agile Metric?](https://www.infoq.com/news/2009/11/good-agile-metrics/). InfoQ also has: [Metrics in an Agile World](https://www.infoq.com/presentations/agile-metrics/).
+Martin Fowler says: [CannotMeasureProductivity](external:https://www.martinfowler.com/bliki/CannotMeasureProductivity.html). Dave Nicolette presented on this at Agile 2009 (this article links to heaps of others). I wrote this for InfoQ last year:  [What is a Good Agile Metric?](external:https://www.infoq.com/news/2009/11/good-agile-metrics/). InfoQ also has: [Metrics in an Agile World](external:https://www.infoq.com/presentations/agile-metrics/).
 
 The following tools will help you measure, but please remember they often have many bad measures (_comments?_) turned with the good ones. Think carefully when choosing your rulesets:
 
-- [Sonar](https://www.sonarsource.org/) – has a bunch of interesting measures: Cyclomatic Complexity, Duplicated code, … _._ While there are other plugins, its of most use in the Java world.
-- [JDepend](https://github.com/clarkware/jdepend) – helps you spot good vs. bad dependencies.
-- PMD, FindBugs, JLint – [see a comparison of all three](http://www.cs.tufts.edu/~jfoster/papers/issre04.pdf) (pdf). Some of these tools check some pointless things: method name too short or too long? missing Javadoc comments? Please configure these with the help of a grown adult. But they can also be configured to spot methods (> 30-40 lines) and classes (>300-400 lines) that are too long.
-- [NDepend](https://www.ndepend.com/) like JDepend and heaps more measures. Again please be careful configure only with an adults help :-) _Caveat Emptor I’ve been given a free copy of NDepend (that I’ve never had a chance to use)._
+- [Sonar](external:https://www.sonarsource.org/) – has a bunch of interesting measures: Cyclomatic Complexity, Duplicated code, … _._ While there are other plugins, its of most use in the Java world.
+- [JDepend](external:https://github.com/clarkware/jdepend) – helps you spot good vs. bad dependencies.
+- PMD, FindBugs, JLint – [see a comparison of all three](external:http://www.cs.tufts.edu/~jfoster/papers/issre04.pdf) (pdf). Some of these tools check some pointless things: method name too short or too long? missing Javadoc comments? Please configure these with the help of a grown adult. But they can also be configured to spot methods (> 30-40 lines) and classes (>300-400 lines) that are too long.
+- [NDepend](external:https://www.ndepend.com/) like JDepend and heaps more measures. Again please be careful configure only with an adults help :-) _Caveat Emptor I’ve been given a free copy of NDepend (that I’ve never had a chance to use)._
 
 _When paying attention to measures of the code, what matters is the trend and not the absolute numbers. Finally just because a tool can measure it doesn't mean its worth measuring, conversely some of the best measures don't have tools to measure them. In this case note that none of the above tools measure cycle time._
 
 _Updated to make clear the point that you shouldn't measure people and the limitations of tools._
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

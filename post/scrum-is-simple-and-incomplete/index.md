@@ -18,4 +18,4 @@ excerpt: '- User Stories - Planning Poker - Release Planning - Engineering Pract
 
 I teach about all of these in my [CSM courses](/certified-scrummaster-csm-training), but none of these is core to Scrum. None is required. Why not? Scrum is incomplete it gives you enough information to get started and says you should improve from there. Its not a straight jacket and it welcomes other ideas/practices. I get concerned when people seek a complete methodology as they discourage diversity, outside thought and even thinking for yourself. So practice Scrum but don’t assume it or any other toolbox has all the answers. Sample from the buffet.
 
-Images via: [https://photodune.net/](https://photodune.net/)
+Images via: [https://photodune.net/](external:https://photodune.net/)

@@ -127,11 +127,11 @@ One long-time alumni shared that his company has gone fully work from home and i
 
 An excellent question that was brought up: What problem is an organization trying to solve by bringing people into the office? Some suggested that management decisions to force people might be the product of historical habit, or perhaps even leadership desires to try to control employees, rather than trust them to do their jobs.
 
-I agree that paranoia is one reason many managers don't like remote work. Consider the following observation in “[Hybrid Work Is Just Work. Are We Doing It Wrong?](https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work?__s=xxxxxxx&utm_source=drip&utm_medium=email&utm_campaign=Forcing+People+Back+to+the+Office%3A%C2%A0+People+Speak+Out)”:
+I agree that paranoia is one reason many managers don't like remote work. Consider the following observation in “[Hybrid Work Is Just Work. Are We Doing It Wrong?](external:https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work?__s=xxxxxxx&utm_source=drip&utm_medium=email&utm_campaign=Forcing+People+Back+to+the+Office%3A%C2%A0+People+Speak+Out)”:
 
-> "85% of leaders say that the shift to hybrid work has made it challenging to have confidence that employees are being productive. And as some organizations use technology to track activity rather than impact, employees lack context on how and why they’re being tracked, which can undermine trust and lead to ‘[productivity theater](https://www.inc.com/jessica-stillman/productivity-asynchronous-remote-work.html?__s=xxxxxxx&utm_source=drip&utm_medium=email&utm_campaign=Forcing+People+Back+to+the+Office%3A%C2%A0+People+Speak+Out).’ This has led to productivity paranoia: where leaders fear that lost productivity is due to employees not working, even though hours worked, number of meetings, and other activity metrics have increased."
+> "85% of leaders say that the shift to hybrid work has made it challenging to have confidence that employees are being productive. And as some organizations use technology to track activity rather than impact, employees lack context on how and why they’re being tracked, which can undermine trust and lead to ‘[productivity theater](external:https://www.inc.com/jessica-stillman/productivity-asynchronous-remote-work.html?__s=xxxxxxx&utm_source=drip&utm_medium=email&utm_campaign=Forcing+People+Back+to+the+Office%3A%C2%A0+People+Speak+Out).’ This has led to productivity paranoia: where leaders fear that lost productivity is due to employees not working, even though hours worked, number of meetings, and other activity metrics have increased."
 
-Another interesting article: “[Think Hybrid Work Doesn’t Work? The Data Disagrees](https://www.gartner.com/en/articles/think-hybrid-work-doesnt-work-the-data-disagrees?__s=xxxxxxx&utm_source=drip&utm_medium=email&utm_campaign=Forcing+People+Back+to+the+Office%3A%C2%A0+People+Speak+Out)”.
+Another interesting article: “[Think Hybrid Work Doesn’t Work? The Data Disagrees](external:https://www.gartner.com/en/articles/think-hybrid-work-doesnt-work-the-data-disagrees?__s=xxxxxxx&utm_source=drip&utm_medium=email&utm_campaign=Forcing+People+Back+to+the+Office%3A%C2%A0+People+Speak+Out)”.
 
 While hybrid work isn’t preferred by everyone, it’s undeniable that the freedom to choose the _where_ has a direct and profound impact on the _what_ and _how_ for teams.
 
@@ -139,20 +139,20 @@ I’d love to hear your take on the issue, too. Please comment below.
 
 * * *
 
-\[1\] [https://www.greatplacetowork.com/resources/blog/remote-work-productivity-study-finds-surprising-reality-2-year-study](https://www.greatplacetowork.com/resources/blog/remote-work-productivity-study-finds-surprising-reality-2-year-study)
+\[1\] [https://www.greatplacetowork.com/resources/blog/remote-work-productivity-study-finds-surprising-reality-2-year-study](external:https://www.greatplacetowork.com/resources/blog/remote-work-productivity-study-finds-surprising-reality-2-year-study)
 
-\[2\] [https://hbr.org/2020/08/research-knowledge-workers-are-more-productive-from-home](https://hbr.org/2020/08/research-knowledge-workers-are-more-productive-from-home)
+\[2\] [https://hbr.org/2020/08/research-knowledge-workers-are-more-productive-from-home](external:https://hbr.org/2020/08/research-knowledge-workers-are-more-productive-from-home)
 
-\[3\] [https://www.macroeconomics.lv/remote-work-forced-experiment-during-covid-19-era-or-lasting-value](https://www.macroeconomics.lv/remote-work-forced-experiment-during-covid-19-era-or-lasting-value)
+\[3\] [https://www.macroeconomics.lv/remote-work-forced-experiment-during-covid-19-era-or-lasting-value](external:https://www.macroeconomics.lv/remote-work-forced-experiment-during-covid-19-era-or-lasting-value)
 
-\[4\] [https://www.employment-studies.co.uk/resource/working-home-under-covid-19-lockdown](https://www.employment-studies.co.uk/resource/working-home-under-covid-19-lockdown)
+\[4\] [https://www.employment-studies.co.uk/resource/working-home-under-covid-19-lockdown](external:https://www.employment-studies.co.uk/resource/working-home-under-covid-19-lockdown)
 
-\[5\] [https://policyoptions.irpp.org/magazines/december-2022/public-service-ordered-back-to-office/](https://policyoptions.irpp.org/magazines/december-2022/public-service-ordered-back-to-office/)
+\[5\] [https://policyoptions.irpp.org/magazines/december-2022/public-service-ordered-back-to-office/](external:https://policyoptions.irpp.org/magazines/december-2022/public-service-ordered-back-to-office/)
 
 \[6\] Does this feel like a game of buzzword bingo yet?
 
-\[7\] [https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx](https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx)
+\[7\] [https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx](external:https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx)
 
-\[8\] [https://www.linkedin.com/business/talent/blog/talent-acquisition/remote-jobs-attract-majority-applications-first-time](https://www.linkedin.com/business/talent/blog/talent-acquisition/remote-jobs-attract-majority-applications-first-time)
+\[8\] [https://www.linkedin.com/business/talent/blog/talent-acquisition/remote-jobs-attract-majority-applications-first-time](external:https://www.linkedin.com/business/talent/blog/talent-acquisition/remote-jobs-attract-majority-applications-first-time)
 
-\[9\] [https://theconversation.com/working-one-day-a-week-in-person-might-be-the-key-to-happier-more-productive-employees-195076](https://theconversation.com/working-one-day-a-week-in-person-might-be-the-key-to-happier-more-productive-employees-195076) Another reference that is worth mentioning: [https://hbr.org/2022/10/4-myths-about-in-person-work-dispelled](https://hbr.org/2022/10/4-myths-about-in-person-work-dispelled)
+\[9\] [https://theconversation.com/working-one-day-a-week-in-person-might-be-the-key-to-happier-more-productive-employees-195076](external:https://theconversation.com/working-one-day-a-week-in-person-might-be-the-key-to-happier-more-productive-employees-195076) Another reference that is worth mentioning: [https://hbr.org/2022/10/4-myths-about-in-person-work-dispelled](external:https://hbr.org/2022/10/4-myths-about-in-person-work-dispelled)

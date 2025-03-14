@@ -3,10 +3,10 @@ title: "Agile Architect - An Oxymoron"
 date: "2007-03-13"
 categories: 
   - "agile"
-excerpt: '[Gojko Azdic](https://gojko.net/2007/03/06/agile-architect) builds on the work of Nick'
+excerpt: '[Gojko Azdic](external:https://gojko.net/2007/03/06/agile-architect) builds on the work of Nick'
 ---
 
-[Gojko Azdic](https://gojko.net/2007/03/06/agile-architect) builds on the work of Nick Hines at ThoughtWorks to suggest the need for a specialized role called an Agile Architect. Yet another role - this is what we rail against being carried over from Waterfall/RUP world. Gojko defines the role of an architect to:
+[Gojko Azdic](external:https://gojko.net/2007/03/06/agile-architect) builds on the work of Nick Hines at ThoughtWorks to suggest the need for a specialized role called an Agile Architect. Yet another role - this is what we rail against being carried over from Waterfall/RUP world. Gojko defines the role of an architect to:
 
 > On the topic of evaluating software architects, the final argument was that a ‘_good architect needs to spot refactoring risks and to know how much it will cost later to refactor_‘. Again, this architect figure somehow appears in an agile context, now effectively possessing the power to decide whether to do the simplest thing possible or to build more structure into the solution. Answering questions from the audience about up-front design, panelists somehow came to the conclusion that the architect shouldprovide‘_enough design to keep the development going smooth, identifying the risks along the way_‘. To perform this continuous design, an architect should be one step ahead of the team, always providing other developers with enough insight so that they can implement the next set of stories.
 
@@ -17,4 +17,4 @@ I think we would all agree that there is value in sketching out the layout of th
 
 Creating a new role doesn't seem justified. We're better off coaching the team to spot and discuss architectural issues on their own.
 
-_Update Pete Brehens has mentioned this post in the most recent [Carnival of the Agilists](https://trailridgeconsulting.com/blog/?p=88)_
+_Update Pete Brehens has mentioned this post in the most recent [Carnival of the Agilists](external:https://trailridgeconsulting.com/blog/?p=88)_

@@ -12,9 +12,9 @@ excerpt: 'Always chasing little scraps of paper around the office? Then consider
 
 ![Paper Balls- image licensed from Photodune](src/content/blog/getting_things_/images/paper-balls-xs.jpg)
 
-Always chasing little scraps of paper around the office? Then consider ["My Life Organized" (MLO)](https://www.mylifeorganized.net/) as a task manager.
+Always chasing little scraps of paper around the office? Then consider ["My Life Organized" (MLO)](external:https://www.mylifeorganized.net/) as a task manager.
 
-This is a very short review because I know I have another five tasks to achieve before I shutdown my computer tonight. How do I know that I have five tasks? Because I use a combination of [David Allen's "Getting Things Done"](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/&tag=notesfromatoo-20) (GTD) system and "My Life Organized" (MLO).
+This is a very short review because I know I have another five tasks to achieve before I shutdown my computer tonight. How do I know that I have five tasks? Because I use a combination of [David Allen's "Getting Things Done"](external:https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/&tag=notesfromatoo-20) (GTD) system and "My Life Organized" (MLO).
 
 In a nutshell MLO is task outliner. It allows you keep track of all of the things you want to do now, tomorrow and ever. The outliner looks and works like the windows folder system. If that was all MLO offered it would be a good tool.
 
@@ -26,4 +26,4 @@ So if you were like me, always chasing bits of paper then stop reading this revi
 
 There. One task on my list is complete. Four to go.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

@@ -40,26 +40,26 @@ In this session we will use this research to discover:
 
 #### Game Material (Dropbox folder):
 
-- [Team Actions Worksheet](https://www.dropbox.com/s/37mhetg9vks4efr/Team%20Actions%20Worksheet.pdf?dl=0) (1 per team)
+- [Team Actions Worksheet](external:https://www.dropbox.com/s/37mhetg9vks4efr/Team%20Actions%20Worksheet.pdf?dl=0) (1 per team)
 
 #### Facilitators Material:
 
-- [Teams Game](https://www.dropbox.com/s/shtheqzhnn1rjkh/Team%20Games.pdf?dl=0)
-- [Sample Games](https://www.dropbox.com/s/1cjj6ljfufxnd65/Sample%20games.pdf?dl=0) – four possible paths through the game played out
+- [Teams Game](external:https://www.dropbox.com/s/shtheqzhnn1rjkh/Team%20Games.pdf?dl=0)
+- [Sample Games](external:https://www.dropbox.com/s/1cjj6ljfufxnd65/Sample%20games.pdf?dl=0) – four possible paths through the game played out
 - Slides
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/42768710" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
 **[Magic and Science of Teams Game Edition](//www.slideshare.net/mlevison/magic-and-science-of-teams-game-edition "Magic and Science of Teams Game Edition")** from **[Mark Levison](//www.slideshare.net/mlevison)**
 
-In addition to the game material, I’ve written a paper on the “[5 Steps Towards High-Performance Teams](https://www.dropbox.com/s/n5k56pg8wo3vsni/Five%20Steps%20Towards%20Creating%20High%20Performance%20Teams.pdf?dl=0)”.
+In addition to the game material, I’ve written a paper on the “[5 Steps Towards High-Performance Teams](external:https://www.dropbox.com/s/n5k56pg8wo3vsni/Five%20Steps%20Towards%20Creating%20High%20Performance%20Teams.pdf?dl=0)”.
 
-Enjoy playing with your team. [![Creative Commons License Icon](src/content/blog/welcome-to-the-high-performance-teams-game/images/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) High-Performance Teams Game by [Mark Levison - Agile Pain Relief Consulting](https://agilepainrelief.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Enjoy playing with your team. [![Creative Commons License Icon](src/content/blog/welcome-to-the-high-performance-teams-game/images/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) High-Performance Teams Game by [Mark Levison - Agile Pain Relief Consulting](external:https://agilepainrelief.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](external:https://creativecommons.org/licenses/by-sa/4.0/).
 
 * * *
 
-_Feedback from [GOAT](https://goagiletour.ca/ "Gatineau Ottawa Agile Tour 2014 (GOAT#14)") (Gatineau Ottawa Agile Tour 2015): During game play at the conference, only the facilitator knew the benefit/effects of each action while the game progressed. As a result, in the 90 minute session some teams had a difficult time keeping track of the calculations. Future editions will reveal all the calculation details on paper to the attendees in the round after they’ve played._
+_Feedback from [GOAT](external:https://goagiletour.ca/ "Gatineau Ottawa Agile Tour 2014 (GOAT#14)") (Gatineau Ottawa Agile Tour 2015): During game play at the conference, only the facilitator knew the benefit/effects of each action while the game progressed. As a result, in the 90 minute session some teams had a difficult time keeping track of the calculations. Future editions will reveal all the calculation details on paper to the attendees in the round after they’ve played._
 
-\[1\] Sandy Pentland - [The New Science of Building Great Teams](https://hbr.org/2012/04/the-new-science-of-building-great-teams) \[2\] Ben Waber - [People Analytics](https://www.amazon.ca/People-Analytics-Technology-Transform-Business/dp/0133158314/&tag=notesfromatoo-20)
+\[1\] Sandy Pentland - [The New Science of Building Great Teams](external:https://hbr.org/2012/04/the-new-science-of-building-great-teams) \[2\] Ben Waber - [People Analytics](external:https://www.amazon.ca/People-Analytics-Technology-Transform-Business/dp/0133158314/&tag=notesfromatoo-20)
 
-Image by Agile Pain Relief Consulting. Elements of image by [Juancho10](https://www.vecteezy.com/vector-art/226404-red-vector-dice#licenses-popup) and Canva.
+Image by Agile Pain Relief Consulting. Elements of image by [Juancho10](external:https://www.vecteezy.com/vector-art/226404-red-vector-dice#licenses-popup) and Canva.

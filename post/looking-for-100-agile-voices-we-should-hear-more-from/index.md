@@ -32,4 +32,4 @@ In the spirit of inspect and adapt I’m open to suggestions that will make this
 
 _Update: "I will reject suggested people for no visible reason" - It was suggested that this was poorly said. Agreed. When I other talked to the authors of other lists they say they use stats to make the decision to avoid controversy and having to justify their choices. This list will come from the heart and might not include someone who you think should be there. My only point was that when I do exclude people I don't want to spend the time writing about why. I acknowledge the list is arbitrary as is any human curated list that's what will make it interesting._
 
-Images via: [https://photodune.net/](https://photodune.net/)
+Images via: [https://photodune.net/](external:https://photodune.net/)

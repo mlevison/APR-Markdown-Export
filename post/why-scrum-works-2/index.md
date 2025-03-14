@@ -21,4 +21,4 @@ Continue on Agile Advice...
 
 Part Two: [Does Scrum Work? Hell Yes!!! Why?](/blog/does-scrum-work) has been posted
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

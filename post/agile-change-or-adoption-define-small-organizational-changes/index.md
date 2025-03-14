@@ -33,7 +33,7 @@ In the [previous post’s Case Study](/blog/agile-change-or-adoption-turn-vision
 
 Scrum Development Teams often use User Stories to help them articulate the need and the value of a new piece of functionality, so let’s apply the same principles to this Organizational Improvement that we’re trying to accomplish.
 
-Robin Dymond uses [Improvement Stories](https://innovel.net/improve-measurably-with-improvement-stories/) at the team level so that teams have a tool to inject improvement into every Sprint. We will use the same approach at the organizational level. Like User Stories, Improvement Stories have: Why, What, Who and Acceptance Criteria.
+Robin Dymond uses [Improvement Stories](external:https://innovel.net/improve-measurably-with-improvement-stories/) at the team level so that teams have a tool to inject improvement into every Sprint. We will use the same approach at the organizational level. Like User Stories, Improvement Stories have: Why, What, Who and Acceptance Criteria.
 
 Start with why – why would the organization benefit from a change? Time savings? Quality improvements? Repeatability? Reduction on conflict or stress? Happier team members? By stating the “why” first, we don’t presuppose the solution. Instead, we focus on the problem.
 
@@ -43,7 +43,7 @@ There are two different templates you can try for creating Improvement Stories.
 
 “Template B - Start with Why” emphasizes the importance of why more than the standard template.
 
-[](https://www.innovel.net/wp-content/uploads/improvementstorytemplateB.png)[![Sample Improvement Story Template - by Robin Dymond](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/improvementstorytemplateB-1024x628.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateB.png)Template A is likely more familiar to most people who are using User Stories.
+[](external:https://www.innovel.net/wp-content/uploads/improvementstorytemplateB.png)[![Sample Improvement Story Template - by Robin Dymond](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/improvementstorytemplateB-1024x628.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateB.png)Template A is likely more familiar to most people who are using User Stories.
 
 [![Sample Improvement Story Template - by Robin Dymond](src/content/blog/agile-change-or-adoption-define-small-organizational-changes/images/improvementstorytemplateA-1024x636.png)](https://innovel.net/wp-content/uploads/improvementstorytemplateA.png)
 

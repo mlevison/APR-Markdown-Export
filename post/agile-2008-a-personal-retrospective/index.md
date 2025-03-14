@@ -11,17 +11,17 @@ excerpt: 'I already wrote about my top sessions for InfoQ so I will just link to
 
 I already wrote about my top sessions for InfoQ so I will just link to them instead of repeating myself here:
 
-[Agile Alliance Functional Test Workshop](https://www.infoq.com/news/2008/08/functional_test_results)
+[Agile Alliance Functional Test Workshop](external:https://www.infoq.com/news/2008/08/functional_test_results)
 
-[Coaching Self Organizing Teams](https://www.infoq.com/news/2008/08/coaching_teams) and [Part Two](/blog/coaching-self-organizing-teams) (Joseph Pelrine)
+[Coaching Self Organizing Teams](external:https://www.infoq.com/news/2008/08/coaching_teams) and [Part Two](/blog/coaching-self-organizing-teams) (Joseph Pelrine)
 
-[Touchy Feely Impediments to Agile Adoption](https://www.infoq.com/news/2008/08/agile_impediments) (Amr Elssamadisy)
+[Touchy Feely Impediments to Agile Adoption](external:https://www.infoq.com/news/2008/08/agile_impediments) (Amr Elssamadisy)
 
-[Beginner's Mind - An Approach to Listening](https://www.infoq.com/news/2008/08/beginners_mind) (Jean Tabaka and David Hussman)
+[Beginner's Mind - An Approach to Listening](external:https://www.infoq.com/news/2008/08/beginners_mind) (Jean Tabaka and David Hussman)
 
-[Overcoming Resistance to Change](https://www.infoq.com/news/2008/08/overcoming_resistance) (Dave Nicolette and Lasse Koskela)
+[Overcoming Resistance to Change](external:https://www.infoq.com/news/2008/08/overcoming_resistance) (Dave Nicolette and Lasse Koskela)
 
-Following [JB's lead](https://www.jbrains.ca/), I will do a short, short retrospective:
+Following [JB's lead](external:https://www.jbrains.ca/), I will do a short, short retrospective:
 
 **Worked Well**
 

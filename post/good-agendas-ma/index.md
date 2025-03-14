@@ -13,7 +13,7 @@ coverImage: "agenda-xs.jpg"
 excerpt: 'It's fun to compare the standard review and retrospective agenda 1. The team demos the'
 ---
 
-![Agenda - image licensed from Photodune](src/content/blog/good-agendas-ma/images/agenda-xs.jpg) At Agile 2007, I attended Jean Tabaka's "Why I don't like Mondays". In this session, Jean emphasized the importance of a meeting purpose and agenda. At the time I thought "Well my meetings use the standard Scrum agendas and we get a lot of value out of the meetings." Wow was I ever wrong. I bought Jean's book [Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) and found a revised set of Agendas.
+![Agenda - image licensed from Photodune](src/content/blog/good-agendas-ma/images/agenda-xs.jpg) At Agile 2007, I attended Jean Tabaka's "Why I don't like Mondays". In this session, Jean emphasized the importance of a meeting purpose and agenda. At the time I thought "Well my meetings use the standard Scrum agendas and we get a lot of value out of the meetings." Wow was I ever wrong. I bought Jean's book [Collaboration Explained](external:https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) and found a revised set of Agendas.
 
 It's fun to compare the standard review and retrospective agenda
 
@@ -59,8 +59,8 @@ What a difference - we discover new problems and since we have an action plan wi
 
 To quote one of my team members "the old review and retrospective agenda didn’t help remind her what happened and where we ended up. By breaking things down into smaller more focused chunks the new agenda (and prompting questions) has made our retrospectives more valuable". Another has said that finally the planning meetings leave them with confidence that we've planned well. I just feel ashamed for having taken so long to discover I was running bad meetings.
 
-The agendas in Jean's book [Collaboration Explained](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) also include prompt questions - which help focus peoples minds on the question. Finally I will add that the agendas (she covers Scrum, XP, Crystal) are only a handy appendix at the end of an amazing book. My copy is dog eared.
+The agendas in Jean's book [Collaboration Explained](external:https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Development/dp/0321268776/&tag=notesfromatoo-20) also include prompt questions - which help focus peoples minds on the question. Finally I will add that the agendas (she covers Scrum, XP, Crystal) are only a handy appendix at the end of an amazing book. My copy is dog eared.
 
 _Caveat Emptor - if you buy Jean's book after clicking on my link I get 4% of the price. Buy many copies so I can afford to replace my worn out copy._
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

@@ -53,7 +53,7 @@ This should be done blind – everyone makes their decision and votes are reveal
 
 #### _Decider Protocol_
 
-From the [Core Protocols](https://thecoreprotocols.org/) – a set of Protocols to help teams go about their work, minimizing the time wasted in meetings. The protocols are designed to help focus discussion and decision making.
+From the [Core Protocols](external:https://thecoreprotocols.org/) – a set of Protocols to help teams go about their work, minimizing the time wasted in meetings. The protocols are designed to help focus discussion and decision making.
 
 One actionable idea is proposed.
 
@@ -88,7 +88,7 @@ Dot voting is the Agile community’s poster child for decision-making technique
 
 The other challenge is that you can see that people voted for an item, but not why they voted _against_ another, missing an opportunity to improve it.
 
-It’s worth noting that dot voting is a popular tool for online interactions and distributed teams. The online tools typically cost money, but whiteboard tools such as [https://www.mural.co/](https://www.mural.co/), [https://miro.com](https://miro.com) and [https://stormboard.com/](https://stormboard.com/) all allow the facilitator to create a dot voting session. They also have the advantage of being blind. Tools like [https://www.groupmap.com/](https://www.groupmap.com/), [https://consider.it/](https://consider.it/) and [https://stormz.me/en](https://stormz.me/en) have a richer set of tools to generate, organize, and vote on ideas. While these aren’t designed for retrospectives, they might be useful.
+It’s worth noting that dot voting is a popular tool for online interactions and distributed teams. The online tools typically cost money, but whiteboard tools such as [https://www.mural.co/](external:https://www.mural.co/), [https://miro.com](external:https://miro.com) and [https://stormboard.com/](external:https://stormboard.com/) all allow the facilitator to create a dot voting session. They also have the advantage of being blind. Tools like [https://www.groupmap.com/](external:https://www.groupmap.com/), [https://consider.it/](external:https://consider.it/) and [https://stormz.me/en](external:https://stormz.me/en) have a richer set of tools to generate, organize, and vote on ideas. While these aren’t designed for retrospectives, they might be useful.
 
 ### Techniques for Expensive or Irreversible Decisions
 
@@ -121,22 +121,22 @@ Whatever the outcome, we need to be careful of “Resulting”\[[10](#footnotes)
 
 * * *
 
-\[1\] There are several book length treatments of this subject. [_Decisive: How to Make Better Choices in Life and Work_](https://www.amazon.ca/Decisive-Make-Better-Choices-Life/dp/0307361136/&tag=notesfromatoo-20) by Chip and Dan Heath and [_Thinking in Bets_](https://www.amazon.ca/Thinking-Bets-Making-Smarter-Decisions/dp/0735216371/&tag=notesfromatoo-20) by Annie Duke are a good start. We will touch only lightly on the challenges.
+\[1\] There are several book length treatments of this subject. [_Decisive: How to Make Better Choices in Life and Work_](external:https://www.amazon.ca/Decisive-Make-Better-Choices-Life/dp/0307361136/&tag=notesfromatoo-20) by Chip and Dan Heath and [_Thinking in Bets_](external:https://www.amazon.ca/Thinking-Bets-Making-Smarter-Decisions/dp/0735216371/&tag=notesfromatoo-20) by Annie Duke are a good start. We will touch only lightly on the challenges.
 
-\[2\] [https://www.lucidmeetings.com/glossary/consensus-decision-making](https://www.lucidmeetings.com/glossary/consensus-decision-making)
+\[2\] [https://www.lucidmeetings.com/glossary/consensus-decision-making](external:https://www.lucidmeetings.com/glossary/consensus-decision-making)
 
 \[3\] Curiously, Planning Poker was originally invented as a tool to cut through endless debate in estimation meetings.
 
-\[4\] [https://thecoreprotocols.org/](https://thecoreprotocols.org/)
+\[4\] [https://thecoreprotocols.org/](external:https://thecoreprotocols.org/)
 
-\[5\] [https://thecoreprotocols.org/protocols/decider.html](https://thecoreprotocols.org/protocols/decider.html)
+\[5\] [https://thecoreprotocols.org/protocols/decider.html](external:https://thecoreprotocols.org/protocols/decider.html)
 
-\[6\] [https://thecoreprotocols.org/protocols/resolution.html](https://thecoreprotocols.org/protocols/resolution.html)
+\[6\] [https://thecoreprotocols.org/protocols/resolution.html](external:https://thecoreprotocols.org/protocols/resolution.html)
 
-\[7\] [https://thedecisionlab.com/biases/the-sunk-cost-fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy) – commonly known as “throwing good money after bad”
+\[7\] [https://thedecisionlab.com/biases/the-sunk-cost-fallacy](external:https://thedecisionlab.com/biases/the-sunk-cost-fallacy) – commonly known as “throwing good money after bad”
 
 \[8\] [https://agilepainrelief.com/blog/future-perspective-for-organizational-change.html](/blog/future-perspective-for-organizational-change)
 
-\[9\] Attributed to Gerald Weinberg: [https://en.wikipedia.org/wiki/Gerald\_Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg)
+\[9\] Attributed to Gerald Weinberg: [https://en.wikipedia.org/wiki/Gerald\_Weinberg](external:https://en.wikipedia.org/wiki/Gerald_Weinberg)
 
 \[10\] Courtesy of Annie Duke

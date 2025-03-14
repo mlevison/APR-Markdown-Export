@@ -32,7 +32,7 @@ The output of this is:
 NullPointerException
 ```
 
-This output is expected. The problem: the designer of SimpleBase relied on the author of the Derived behaving well and only setting value to a valid value. I prefer to [trust no one](https://en.wikipedia.org/wiki/Paranoia_%28role-playing_game%29). In our simple case this was easy to debug. But in more complex code is like finding a needle in haystack - slow, time consuming and completely unnecessary.
+This output is expected. The problem: the designer of SimpleBase relied on the author of the Derived behaving well and only setting value to a valid value. I prefer to [trust no one](external:https://en.wikipedia.org/wiki/Paranoia_%28role-playing_game%29). In our simple case this was easy to debug. But in more complex code is like finding a needle in haystack - slow, time consuming and completely unnecessary.
 
 Most examples of protected variables (e.g. Eclipse: TextCellEditor) that I've found could easily be replaced by a protected getter. Now the derived class can't damage the base class data.
 

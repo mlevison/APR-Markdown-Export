@@ -48,7 +48,7 @@ Through Events Artifacts and People. Let's examine how these elements contribute
 
 - We forge a specific performance goal for the team with the participation of the entire team.
 - Use fact based problem solving to break the stories down into appropriate tasks.
-- Gets team members to make a public commitment ("[Influence: Science and Practice](https://www.amazon.com/exec/obidos/ASIN/0321011473/notesfromatoo-20)" by Cialdini - Chapter 3 Commitment and Consistency)
+- Gets team members to make a public commitment ("[Influence: Science and Practice](external:https://www.amazon.com/exec/obidos/ASIN/0321011473/notesfromatoo-20)" by Cialdini - Chapter 3 Commitment and Consistency)
 
 #### [Daily Scrum](/blog/daily_scrum_sit)
 
@@ -60,7 +60,7 @@ Through Events Artifacts and People. Let's examine how these elements contribute
 - Keeps everyone on the team in touch with what other team members are doing – which helps cross pollination and also demonstrate that all team members are participating equally.
 - Problems discovered are solved offline – promoting both fact based problem solving and a greater reliance on your teammates. According to Karl Weick (author of “Managing the Unexpected: Assuring High Performance in an Age of Complexity”), surfacing problems is one of the biggest issues that organizations and groups face.
 - Encourages team members to talk to each other a habit which usually extends beyond the daily scrum. **Result**: problems are solved more quickly and a better quality of architecture evolves.
-- By talking about what we intend to accomplish we’re making a form of public commitment which helps motivate us ("[Influence: Science and Practice](https://www.amazon.com/exec/obidos/ASIN/0321011473/notesfromatoo-20)" by Cialdini - Chapter 3 Commitment and Consistency). _Yes this effectively a form of social pressure_.
+- By talking about what we intend to accomplish we’re making a form of public commitment which helps motivate us ("[Influence: Science and Practice](external:https://www.amazon.com/exec/obidos/ASIN/0321011473/notesfromatoo-20)" by Cialdini - Chapter 3 Commitment and Consistency). _Yes this effectively a form of social pressure_.
 
 #### Review and Retrospective
 
@@ -75,4 +75,4 @@ Through Events Artifacts and People. Let's examine how these elements contribute
 
 The final part is posted [here](/blog/why-scrum-works).
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

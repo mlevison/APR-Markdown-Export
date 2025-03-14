@@ -22,9 +22,9 @@ Getting hired into a position that is a poor fit is a bad idea, but I do appreci
 
 I’ve read a heap of books that helped me on the journey of defining my vision, and these are the best three that I recommend:
 
-- _[Hero on a Mission: A Path to a Meaningful Life](https://amzn.to/3unexOF)_ by Donald Miller
-- _[Be Your Future Self Now: The Science of Intentional Transformation](https://amzn.to/3unexOF)_ by Dr. Benjamin Hardy. This book should be about 1/3 of the length that it is, and it’s not a long book.
-- _[The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12](https://amzn.to/3OD2Bz9)_ by Brian P. Moran, Michael Lennington
+- _[Hero on a Mission: A Path to a Meaningful Life](external:https://amzn.to/3unexOF)_ by Donald Miller
+- _[Be Your Future Self Now: The Science of Intentional Transformation](external:https://amzn.to/3unexOF)_ by Dr. Benjamin Hardy. This book should be about 1/3 of the length that it is, and it’s not a long book.
+- _[The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12](external:https://amzn.to/3OD2Bz9)_ by Brian P. Moran, Michael Lennington
 
 Taking the time to establish a clear vision is just as important in life as it is in product development. Otherwise, you’re plugging away, without knowing if you’re putting time and effort into the things that actually matter to you.
 
@@ -54,18 +54,18 @@ To register and receive the special offer pricing, please: – Go to the course 
 
 ## Other sources
 
-- Book: _[Never Search Alone](https://www.amazon.ca/Never-Search-Alone-Seekers-Playbook/dp/B0BJ486SJ1/ref=sr_1_1): The Job Seeker’s Playbook_ and its accompanying support [website](https://www.phyl.org)  – the author advises creating a Job Search Council. Very much in line with my thinking.
+- Book: _[Never Search Alone](external:https://www.amazon.ca/Never-Search-Alone-Seekers-Playbook/dp/B0BJ486SJ1/ref=sr_1_1): The Job Seeker’s Playbook_ and its accompanying support [website](external:https://www.phyl.org)  – the author advises creating a Job Search Council. Very much in line with my thinking.
 - Accountability group for former attendees - _If you’ve attended a workshop with me ever, I’m setting up a mutual accountability group inside our 3 Percent Better Community._
-- My approach bears some similarities to [Personal Agility](https://personalagilityinstitute.org) and [_Personal Agility: Unlocking Purpose, Alignment, and Transformation_](https://www.amazon.ca/Personal-Agility-Unlocking-Alignment-Transformation/dp/1957600152/&tag=notesfromatoo-20)
-- Bernie Maloney has a video series on [networking, resumes and interviews](https://www.youtube.com/playlist?list=PLusNTFKrjCmzLgwbog6XdtDCpjGxZLk-z)
-- Mark Kilby - [Are You Job Hunting or Job Fishing](https://differability.works/are-you-job-hunting-or-job-fishing/)
-- Johanna Rothman - has written a book, _[Manage Your Job Search](https://www.jrothman.com/books/manage-your-job-search/),_ and has [additional blog material](https://www.jrothman.com/tag/manage-your-job-search/)
-- Elisabeth Hendrickson - [Your Next Manager](https://www.linkedin.com/pulse/your-next-manager-elisabeth-hendrickson-obcbf/)
-- Alberto Blanco - [Career Transition Retro for Agile Coaches](https://www.leadsticks.com/career-transition-advise-for-agile-coaches/)
+- My approach bears some similarities to [Personal Agility](external:https://personalagilityinstitute.org) and [_Personal Agility: Unlocking Purpose, Alignment, and Transformation_](external:https://www.amazon.ca/Personal-Agility-Unlocking-Alignment-Transformation/dp/1957600152/&tag=notesfromatoo-20)
+- Bernie Maloney has a video series on [networking, resumes and interviews](external:https://www.youtube.com/playlist?list=PLusNTFKrjCmzLgwbog6XdtDCpjGxZLk-z)
+- Mark Kilby - [Are You Job Hunting or Job Fishing](external:https://differability.works/are-you-job-hunting-or-job-fishing/)
+- Johanna Rothman - has written a book, _[Manage Your Job Search](external:https://www.jrothman.com/books/manage-your-job-search/),_ and has [additional blog material](external:https://www.jrothman.com/tag/manage-your-job-search/)
+- Elisabeth Hendrickson - [Your Next Manager](external:https://www.linkedin.com/pulse/your-next-manager-elisabeth-hendrickson-obcbf/)
+- Alberto Blanco - [Career Transition Retro for Agile Coaches](external:https://www.leadsticks.com/career-transition-advise-for-agile-coaches/)
 
-[Interviewing.io](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes) had a paper on recruiting and it also gave advice on the job search: "_We strongly encourage anyone looking for work in this market, especially if you come from a non-traditional background, to stop spending energy on applying online, full stop. Instead, reach out to hiring managers. The numbers will be on your side there, as relatively few candidates are targeting hiring managers directly._"
+[Interviewing.io](external:https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes) had a paper on recruiting and it also gave advice on the job search: "_We strongly encourage anyone looking for work in this market, especially if you come from a non-traditional background, to stop spending energy on applying online, full stop. Instead, reach out to hiring managers. The numbers will be on your side there, as relatively few candidates are targeting hiring managers directly._"
 
-Beware, there are people charging job seekers money for help. Bernie Maloney [warns of hiring bandits](https://www.youtube.com/watch?v=LxNIo4MV4Ic)  - _gross (_the bandits, not Bernie 🙂)
+Beware, there are people charging job seekers money for help. Bernie Maloney [warns of hiring bandits](external:https://www.youtube.com/watch?v=LxNIo4MV4Ic)  - _gross (_the bandits, not Bernie 🙂)
 
 If you’re a vendor and email me regarding this post, I will just mark your email as spam. (I already get 2–3 emails a day looking to promote things on our site.)
 

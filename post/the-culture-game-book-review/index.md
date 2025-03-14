@@ -14,24 +14,24 @@ tags:
 excerpt: 'Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile'
 ---
 
-Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile Manager_](https://newtechusa.net/the-culture-game-book/)[![The Culture Game: Tools for the Agile Manager book image](src/content/blog/the-culture-game-book-review/images/TCG-flat-medium-300x229-1.jpg)](https://newtechusa.net/about/the-culture-game-book/)
+Dan Mezick has written an intriguing new book: [_The Culture Game: Tools for the Agile Manager_](external:https://newtechusa.net/the-culture-game-book/)[![The Culture Game: Tools for the Agile Manager book image](src/content/blog/the-culture-game-book-review/images/TCG-flat-medium-300x229-1.jpg)](https://newtechusa.net/about/the-culture-game-book/)
 
 _The Culture Game_ is a book to give Agile Leaders\[[1](#footnotes)\] a tool to help change the culture of their companies. It is intended to help organizations that aren't ready to adopt something as radical as Scrum or that want help in speeding up the cultural change that Scrum requires.
 
-Taking a leaf out of Dan's book - the review will be written using the [Perfection Game](https://www.hanoulle.be/2010/03/perfection-game-sdc-2010/). The Perfection Game is one the [Core Protocols](https://www.hanoulle.be/2010/03/19/perfection-game-sdc-2010/) that Dan mentions in Part 2 of the book. In the Perfection Game - you give a numeric rating and state what you like and what it would take to make it perfect.
+Taking a leaf out of Dan's book - the review will be written using the [Perfection Game](external:https://www.hanoulle.be/2010/03/perfection-game-sdc-2010/). The Perfection Game is one the [Core Protocols](external:https://www.hanoulle.be/2010/03/19/perfection-game-sdc-2010/) that Dan mentions in Part 2 of the book. In the Perfection Game - you give a numeric rating and state what you like and what it would take to make it perfect.
 
 I rate the book 8 out of 10.
 
 ### **What I like:**
 
-\- **Part 1** shows how all work is really a game and that taking our games seriously can help improve the quality of work for all involved. Dan also shows that Agile practices help to create a ‘Peter Senge style’ [Learning Organization](https://en.wikipedia.org/wiki/Learning_organization) at the team level and that these teams are laboratories for the rest of the organization.
+\- **Part 1** shows how all work is really a game and that taking our games seriously can help improve the quality of work for all involved. Dan also shows that Agile practices help to create a ‘Peter Senge style’ [Learning Organization](external:https://en.wikipedia.org/wiki/Learning_organization) at the team level and that these teams are laboratories for the rest of the organization.
 
 \- **Part 2** is organized as a series of sixteen Patterns that can be used independently of one another or they can reinforce each other.
 
 - **Core Protocols** (mentioned in the ‘Structure Your Interactions’ chapter) - a set of protocols (from …) that help teams create safe rules for engagement in difficult circumstances. _It’s been years since I first encountered these and I was delighted to be reminded of them. Formalizing their use is another tool to help create safe places for the teams we coach. They are especially powerful in the context of the Scrum Meetings where all too often we expect people to attend without having gained their explicit agreement._
 - **Run Frequent Experiments** - run frequent small experiments and learn from them. Rather than one large experiment, which is what happens when we run a large waterfall project, Dan encourages us to run many small experiments and learn from their outcomes. Failed experiments are not waste. The only waste is when we don't learn from the failure. _This is one of my favourite suggestions to clients. Don't over analyze, just run lots of small experiments with the goal of learning as quickly as possible._
 - **Manage Visually**\- post information on the walls. Find information that others will care about (i.e. project status, …) post it on the walls and update it on a regular basis. _Most Scrum teams get as far as creating a task wall; few take it further. Borrow from the Kanban world, visualize your workflow, post your Working Agreements, etc._
-- **Game Your Meetings** - Think of every meeting as a game - are the rules clear, did the team create them (_this section reminded me to use_ [_Working Agreements_](https://www.estherderby.com/norms-values-working-agreements-simple-rules/) _more explicitly_), is the goal clear? If we made participation voluntary and made them fun perhaps they would be energizing.
+- **Game Your Meetings** - Think of every meeting as a game - are the rules clear, did the team create them (_this section reminded me to use_ [_Working Agreements_](external:https://www.estherderby.com/norms-values-working-agreements-simple-rules/) _more explicitly_), is the goal clear? If we made participation voluntary and made them fun perhaps they would be energizing.
 
 Other Patterns/Chapter Titles (not commenting on them here):
 

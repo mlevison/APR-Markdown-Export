@@ -14,7 +14,7 @@ excerpt: 'Retrospectives are _explicitly_ part of Scrum – “[The Sprint Retro
 
 ![Agile and Scrum Retrospectives](src/content/blog/agile-retrospectives/images/APR-BlogIllustration_July2020_AgileRetrospectives_v1.jpg) The goal of this post is to give teams a basic, solid introduction on how to have not-sucky Sprint Retrospectives. I cover here the common misunderstandings about retrospectives and share the fundamentals of how to have an effective Sprint Retrospective. If you're later interested in going in-depth on this topic, my [_Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives) also includes examples and descriptions of recommended activities to help improve this Scrum Event that Team Members and ScrumMasters often struggle with.
 
-Retrospectives are _explicitly_ part of Scrum – “[The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint](https://scrumguides.org/scrum-guide.html#events-retro).” and _implicitly_ part of the whole Agile movement – witness Agile Manifesto Principle #12: “[At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly](http://agilemanifesto.org/principles.html)."
+Retrospectives are _explicitly_ part of Scrum – “[The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint](external:https://scrumguides.org/scrum-guide.html#events-retro).” and _implicitly_ part of the whole Agile movement – witness Agile Manifesto Principle #12: “[At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly](external:http://agilemanifesto.org/principles.html)."
 
 Scrum values openness and courage. It‘s all about looking honestly at past performance and making changes where needed. The Scrum pillars of transparency, inspect, and adapt are applied to pull those values, tenets, and goals together. To achieve this, continuous improvement and short feedback loops are at the core of any Agile process. Without a structured improvement process, it can be difficult for teams to improve, and without improvement, they will stagnate. For frameworks like Scrum and XP, and relatives like Lean, we use retrospectives as the core part of this process.
 
@@ -75,9 +75,9 @@ Well-run retrospectives provide an opportunity for small improvements and clear 
 
 ### Don’t Blame the Player, Fix the Game
 
-Take a [systemic perspective](https://thesystemsthinker.com/moving-from-blame-to-accountability/).
+Take a [systemic perspective](external:https://thesystemsthinker.com/moving-from-blame-to-accountability/).
 
-We don’t need to blame people. Instead, engineer a system so simple that errors go away ([Resilience Engineering](https://github.com/lorin/resilience-engineering)).
+We don’t need to blame people. Instead, engineer a system so simple that errors go away ([Resilience Engineering](external:https://github.com/lorin/resilience-engineering)).
 
 11 Laws from the Fifth Discipline\[[1](#footnotes)\] (early book on systems thinking):
 
@@ -93,9 +93,9 @@ We don’t need to blame people. Instead, engineer a system so simple that error
 10. Dividing an elephant in half does not produce two small elephants.
 11. There is no blame.
 
-If you look around you will find that Systems Thinking is taking root in realms as diverse as [patient safety](https://www.cmpa-acpm.ca/en/education-events/good-practices/the-healthcare-system/quality-improvement-patient-safety) and aircraft [accident investigation](https://www.researchgate.net/publication/300466708_The_Benefits_of_a_Systems-Thinking_Approach_to_Accident_Investigation).
+If you look around you will find that Systems Thinking is taking root in realms as diverse as [patient safety](external:https://www.cmpa-acpm.ca/en/education-events/good-practices/the-healthcare-system/quality-improvement-patient-safety) and aircraft [accident investigation](external:https://www.researchgate.net/publication/300466708_The_Benefits_of_a_Systems-Thinking_Approach_to_Accident_Investigation).
 
-[Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html) (Norman Kerth): “Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.”
+[Retrospective Prime Directive](external:http://www.retrospectives.com/pages/retroPrimeDirective.html) (Norman Kerth): “Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.”
 
 Kerth’s Prime Directive is often misunderstood. He is not saying everyone is blameless no matter what happens in the retrospective. If we walk into a retrospective thinking about a certain team member and the big mistake they made, we won’t be looking at the circumstances surrounding the event. Instead, we will be focusing on the person. Many errors occur not because of a person’s behaviour, but because the system guided them towards the outcome. _Example: mid-Sprint, a serious defect was found. A team member rushed to fix and deploy. Their work fixed the problem but created a new, larger problem._
 
@@ -130,11 +130,11 @@ Need a prompt to help create effective ground rules? Try “Think of the best or
 
 ### Well-Structured
 
-Many retrospectives use the model originally outlined in “[Agile Retrospectives – Making Good Teams Great](https://pragprog.com/titles/dlret/agile-retrospectives/)” – Esther Derby and Diana Larsen.
+Many retrospectives use the model originally outlined in “[Agile Retrospectives – Making Good Teams Great](external:https://pragprog.com/titles/dlret/agile-retrospectives/)” – Esther Derby and Diana Larsen.
 
 ![Sprint Retrospective Structure](src/content/blog/agile-retrospectives/images/Retrospective-Structure-Chris-Smith.jpg)
 
-##### Figure 1 - Creative Commons - Chris Smith [https://leadingagileteams.com](https://leadingagileteams.com/)
+##### Figure 1 - Creative Commons - Chris Smith [https://leadingagileteams.com](external:https://leadingagileteams.com/)
 
 That picture is evocative but it doesn’t tell you much about what happens at each phase, so let’s learn more about each one.
 
@@ -168,7 +168,7 @@ For the data gathering that happens during the retrospective itself, we need act
 
 **Decide What to Do.** For many people, this is the only part of the retrospective that seems natural because we want to jump in and solve problems. The effort until now has been focused on having a deep understanding of the issues. Now we decide which action(s) the team thinks will be most effective for making small changes.
 
-Once you decide what you have the energy to tackle, consider writing your actions as [S.M.A.R.T. Goals](https://www.goal-setting-guide.com/smart-goal-setting-a-surefire-way-to-achieve-your-goals/): Specific, Measurable, Attainable, Realistic/Relevant, Timely. S.M.A.R.T. is just a checklist that forces the team to ask questions about the action or change they have committed to. In the context of a Scrum team, I recommend always make ‘timely’ less than two weeks, so you check back in the next retrospective. Caveat: not all goals meet the S.M.A.R.T. criteria, and that’s fine. Sometimes the benefit is asking the questions, not the goal. _If you want to take your actions up a level and turn them into experiments, we cover this is in more depth in this free download:_
+Once you decide what you have the energy to tackle, consider writing your actions as [S.M.A.R.T. Goals](external:https://www.goal-setting-guide.com/smart-goal-setting-a-surefire-way-to-achieve-your-goals/): Specific, Measurable, Attainable, Realistic/Relevant, Timely. S.M.A.R.T. is just a checklist that forces the team to ask questions about the action or change they have committed to. In the context of a Scrum team, I recommend always make ‘timely’ less than two weeks, so you check back in the next retrospective. Caveat: not all goals meet the S.M.A.R.T. criteria, and that’s fine. Sometimes the benefit is asking the questions, not the goal. _If you want to take your actions up a level and turn them into experiments, we cover this is in more depth in this free download:_
 
 #### Send me [_The Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives)
 
@@ -188,7 +188,7 @@ For a more in-depth look at retrospective items including suggested activities, 
 
 ### Send me [_The Guide to Effective Agile Retrospectives_](/guide-to-effective-agile-retrospectives)
 
-\[1\] _The Fifth Discipline: The Art & Practice of The Learning Organization_ by Peter Senge [https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254/](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254/) \[2\] [https://en.wikipedia.org/wiki/You\_can%27t\_have\_your\_cake\_and\_eat\_it](https://en.wikipedia.org/wiki/You_can%27t_have_your_cake_and_eat_it) \[3\] "8 Ground Rules for Great Meetings" by Roger Schwarz - [https://hbr.org/2016/06/8-ground-rules-for-great-meetings](https://hbr.org/2016/06/8-ground-rules-for-great-meetings) \[4\] Curiously Roger Schwarz also recommends the opposite: [http://www.schwarzassociates.com/managing-performance/why-facilitators-and-consultants-shouldnt-ask-groups-to-develop-their-own-ground-rules/](http://www.schwarzassociates.com/managing-performance/why-facilitators-and-consultants-shouldnt-ask-groups-to-develop-their-own-ground-rules/) \[5\] These are originally from "8 Ground Rules for Great Meetings" by Roger Schwarz - [https://hbr.org/2016/06/8-ground-rules-for-great-meetings](https://hbr.org/2016/06/8-ground-rules-for-great-meetings) \[6\] Original idea from Peter Stevens \[7\] Activities where team members contribute their information silently and at the same time (e.g. writing on post-it notes and sticking them up when everyone is done).
+\[1\] _The Fifth Discipline: The Art & Practice of The Learning Organization_ by Peter Senge [https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254/](external:https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254/) \[2\] [https://en.wikipedia.org/wiki/You\_can%27t\_have\_your\_cake\_and\_eat\_it](external:https://en.wikipedia.org/wiki/You_can%27t_have_your_cake_and_eat_it) \[3\] "8 Ground Rules for Great Meetings" by Roger Schwarz - [https://hbr.org/2016/06/8-ground-rules-for-great-meetings](external:https://hbr.org/2016/06/8-ground-rules-for-great-meetings) \[4\] Curiously Roger Schwarz also recommends the opposite: [http://www.schwarzassociates.com/managing-performance/why-facilitators-and-consultants-shouldnt-ask-groups-to-develop-their-own-ground-rules/](external:http://www.schwarzassociates.com/managing-performance/why-facilitators-and-consultants-shouldnt-ask-groups-to-develop-their-own-ground-rules/) \[5\] These are originally from "8 Ground Rules for Great Meetings" by Roger Schwarz - [https://hbr.org/2016/06/8-ground-rules-for-great-meetings](external:https://hbr.org/2016/06/8-ground-rules-for-great-meetings) \[6\] Original idea from Peter Stevens \[7\] Activities where team members contribute their information silently and at the same time (e.g. writing on post-it notes and sticking them up when everyone is done).
 
 Image credit Agile Pain Relief Consulting
 

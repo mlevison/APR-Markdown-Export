@@ -3,12 +3,12 @@ title: "Is there Value in the Noika Test"
 date: "2008-10-28"
 categories: 
   - "software-development"
-excerpt: 'A few years ago [Bas Vodde](https://twitter.com/basvodde?lang=en) defined a simple test to'
+excerpt: 'A few years ago [Bas Vodde](external:https://twitter.com/basvodde?lang=en) defined a simple test to'
 ---
 
-A few years ago [Bas Vodde](https://twitter.com/basvodde?lang=en) defined a simple test to help **his coaching group** determine whether teams were trying to be agile and whether it would be worth investing coaching time with these teams.
+A few years ago [Bas Vodde](external:https://twitter.com/basvodde?lang=en) defined a simple test to help **his coaching group** determine whether teams were trying to be agile and whether it would be worth investing coaching time with these teams.
 
-As described by [Joe Little](https://agileconsortium.blogspot.com/2007/12/nokia-test.html), the test is:
+As described by [Joe Little](external:https://agileconsortium.blogspot.com/2007/12/nokia-test.html), the test is:
 
 > The Nokia Test is in two parts. First, are you doing Iterative Development?
 > 
@@ -24,7 +24,7 @@ As described by [Joe Little](https://agileconsortium.blogspot.com/2007/12/nokia-
 > - The team generates burndown charts and knows their velocity
 > - There are no project managers (or anyone else) disrupting the work of the team
 
-Then recently on Scrum Development, [Michael Dubakov](https://twitter.com/mdubakov) started a long-winded conversation by saying: ["I **don't** think it is a good idea to have such tests at all."](https://mdubakov.com/posts/are-we-agile-yet/) I think Michael's premise is good, but do see value in a set of questions as a starting point for a conversation. As a coach I use a larger version of this test to give me an idea where teams are at. It's not the be all and end all but it can be a great starting point - i.e. here are the areas that bear closer examination. Example: In a team of seven every team member but two say the team is doing TDD. Hmmm, what's going on. Ask more questions.
+Then recently on Scrum Development, [Michael Dubakov](external:https://twitter.com/mdubakov) started a long-winded conversation by saying: ["I **don't** think it is a good idea to have such tests at all."](external:https://mdubakov.com/posts/are-we-agile-yet/) I think Michael's premise is good, but do see value in a set of questions as a starting point for a conversation. As a coach I use a larger version of this test to give me an idea where teams are at. It's not the be all and end all but it can be a great starting point - i.e. here are the areas that bear closer examination. Example: In a team of seven every team member but two say the team is doing TDD. Hmmm, what's going on. Ask more questions.
 
 On the other hand if you actually look and care about the numerical value then you've missed the whole point.
 

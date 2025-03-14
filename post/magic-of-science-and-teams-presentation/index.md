@@ -8,14 +8,14 @@ tags:
   - "development-team"
   - "scrum-team"
   - "team-building"
-excerpt: '[#GOAT13](https://goagiletour.ca/) is now but a fond memory. As promised to the attendees'
+excerpt: '[#GOAT13](external:https://goagiletour.ca/) is now but a fond memory. As promised to the attendees'
 ---
 
-[#GOAT13](https://goagiletour.ca/) is now but a fond memory. As promised to the attendees I’m posting the presentation slides including presenter’s notes:
+[#GOAT13](external:https://goagiletour.ca/) is now but a fond memory. As promised to the attendees I’m posting the presentation slides including presenter’s notes:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/28660263" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-and [handout](https://www.slideshare.net/mlevison/the-magic-and-science-of-teams).
+and [handout](external:https://www.slideshare.net/mlevison/the-magic-and-science-of-teams).
 
 I’m also doing a bit of a retrospective to reflect on how to improve for next time. Many of the comments in my Perfection game are based on attendee’s feedback after the session.
 
@@ -28,7 +28,7 @@ Here’s what I promised:
 
 In this 90-minute session I will give short snippets of a presentation. After every segment the audience will work in their table(s) to prepare a play. For the play they will be expected to demonstrate some aspect(s) of what they learned from the core material.
 
-[**Perfection Game**](https://www.hanoulle.be/2010/07/08/perfection-game/): 7/10
+[**Perfection Game**](external:https://www.hanoulle.be/2010/07/08/perfection-game/): 7/10
 
 **What went well:**
 

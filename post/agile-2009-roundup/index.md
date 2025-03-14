@@ -51,15 +51,15 @@ Here are the rough notes on the sessions I attended
 
 Coaching Workshop (Rachel Davies and Liz Sedly) - I’ve written about this session previously:
 
-Giving and receiving effective feedback (Liz Keogh) – I wrote up the session for InfoQ: [Giving and Receiving Effective Feedback](https://www.infoq.com/news/2009/08/Effective-Feedback)
+Giving and receiving effective feedback (Liz Keogh) – I wrote up the session for InfoQ: [Giving and Receiving Effective Feedback](external:https://www.infoq.com/news/2009/08/Effective-Feedback)
 
 **Tuesday**
 
 I tried to attend: Risk and Risk Management – Theory and Practice – but got bounced because of the small room. After trying my one bad session I went to  Rachel and Liz’s next session: Top Ten Coaching Tips will be written up for InfoQ shortly.
 
-Facilitation Patterns and Antipatterns (Steven “Doc” List) – Doc introduced us to a number of anti-patterns. My favorites were Gladiator, Dominator, Prima Donna and Terrible Tweeter. We did a role playing game using a deck of cards. Each participant was a given a card saying what antipattern to exhibit and then we discussed an interesting topic. After the discussion we tried to guess what roles our compatriots played. After the initial presentation I thought it would be very easy to spot the problem behaviours, but once I was part of the discussion I realized just how tough it was. I think that we could have some fun with this game at [Agile Ottawa](https://agileottawa.wordpress.com/).
+Facilitation Patterns and Antipatterns (Steven “Doc” List) – Doc introduced us to a number of anti-patterns. My favorites were Gladiator, Dominator, Prima Donna and Terrible Tweeter. We did a role playing game using a deck of cards. Each participant was a given a card saying what antipattern to exhibit and then we discussed an interesting topic. After the discussion we tried to guess what roles our compatriots played. After the initial presentation I thought it would be very easy to spot the problem behaviours, but once I was part of the discussion I realized just how tough it was. I think that we could have some fun with this game at [Agile Ottawa](external:https://agileottawa.wordpress.com/).
 
-How to Develop Your Leadership Power Daily: An Agile Approach to Growth (Christopher Avery). It was a good session. For me, it was mostly a reminder of Amr’s “[Touchy Feely Impediments to Agile Adoption](https://www.infoq.com/news/2008/08/agile_impediments),” yet, nonetheless, it was a timely reminder.
+How to Develop Your Leadership Power Daily: An Agile Approach to Growth (Christopher Avery). It was a good session. For me, it was mostly a reminder of Amr’s “[Touchy Feely Impediments to Agile Adoption](external:https://www.infoq.com/news/2008/08/agile_impediments),” yet, nonetheless, it was a timely reminder.
 
 **Wednesday** the day for our presentation—net result: I wasn’t as focused as I would have liked to have been.
 

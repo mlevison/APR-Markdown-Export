@@ -7,7 +7,7 @@ coverImage: "casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg"
 excerpt: '...(and I’ve done many) are static. One or more people study the code often long after it'
 ---
 
-![Portrait of casual executives working together at a meeting with laptop. - image licensed from Photodune](src/content/blog/pair-programmin/images/casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg) Ok so I’m about a month behind. Over on [Coding Horror Jeff Atwood](https://blog.codinghorror.com/pair-programming-vs-code-reviews/) asked “**I can't help wondering if pair programming is nothing more than code review on steroids**”. In a word ‘No’.
+![Portrait of casual executives working together at a meeting with laptop. - image licensed from Photodune](src/content/blog/pair-programmin/images/casual-executives-working-together-at-a-meeting-with-laptop-xs.jpg) Ok so I’m about a month behind. Over on [Coding Horror Jeff Atwood](external:https://blog.codinghorror.com/pair-programming-vs-code-reviews/) asked “**I can't help wondering if pair programming is nothing more than code review on steroids**”. In a word ‘No’.
 
 ### **Code Reviews**
 
@@ -28,10 +28,10 @@ Some additional benefits:
 - More people are aware of problems as they develop.
 - Helps raise everyone’s skill level as pairs learn tricks from each other.
 - Reduces the number of places where only one person understands what’s going on.
-- Fewer bugs – about 15% fewer according to a study by Alistair Cockburn and Laurie Williams ([PDF](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF))
+- Fewer bugs – about 15% fewer according to a study by Alistair Cockburn and Laurie Williams ([PDF](external:https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF))
 
-One point which Jeff definitely has right – it's hard work. Pairing for eight hours a day is not an option. Most pairs work in two-hour blocks twice a day. For a more detailed article see Jeff Langr: [Pair Programming Observations](https://langrsoft.com/2005/01/09/pair-programming-observations/)
+One point which Jeff definitely has right – it's hard work. Pairing for eight hours a day is not an option. Most pairs work in two-hour blocks twice a day. For a more detailed article see Jeff Langr: [Pair Programming Observations](external:https://langrsoft.com/2005/01/09/pair-programming-observations/)
 
 So, Jeff, if you want to discover the benefits of pairing in person (or over a remote connection) give me a shout and we will arrange something.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

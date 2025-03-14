@@ -25,7 +25,7 @@ Short answer: Yes. Long answer: many people misunderstand the Scrum Guide.
 
 ### Scrum Development Team Membership
 
-[The Scrum Guide](https://scrumguides.org/scrum-guide.html) has a short section called “The Development Team” which says:
+[The Scrum Guide](external:https://scrumguides.org/scrum-guide.html) has a short section called “The Development Team” which says:
 
 > The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint. Only members of the Development Team create the Increment.
 

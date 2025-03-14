@@ -26,7 +26,7 @@ Most organizational change effort starts with a vision. But problems arise if th
 
 Instead of inviting just the senior executive team, we need a workshop that involves senior management, middle management, and a fair representation of the doers (e.g. developers, testers, support staff).
 
-Then we need to define our vision collaboratively. Any of the familiar Agile approaches for creating vision (e.g. Innovation Games: [Product Box](https://stormz.me/en/blog/stormz-games-product-box1) or [Prune the Product Tree](https://lucidspark.com/templates/prune-the-product-tree#:~:text=Prune%20the%20Product%20Tree%20is,which%20ones%20to%20let%20go.), or Roman Pichler’s [Vision Board](https://www.romanpichler.com/blog/the-product-vision-board/)) are effective choices. The goal is to create an initial vision with buy-in from all, and that can be easily explained/understood by even those who weren’t present.
+Then we need to define our vision collaboratively. Any of the familiar Agile approaches for creating vision (e.g. Innovation Games: [Product Box](external:https://stormz.me/en/blog/stormz-games-product-box1) or [Prune the Product Tree](external:https://lucidspark.com/templates/prune-the-product-tree#:~:text=Prune%20the%20Product%20Tree%20is,which%20ones%20to%20let%20go.), or Roman Pichler’s [Vision Board](external:https://www.romanpichler.com/blog/the-product-vision-board/)) are effective choices. The goal is to create an initial vision with buy-in from all, and that can be easily explained/understood by even those who weren’t present.
 
 But after you create the vision, you have to communicate clearly about it, otherwise the change you hope to generate is at risk.
 
@@ -49,7 +49,7 @@ His framing question: “In two years and one day we’re part of a better organ
 - create faster time to market?
 - have better employee retention?
 
-Each team is challenged to create a “[Product Box](https://stormz.me/en/blog/stormz-games-product-box1)” that illustrates the organizational changes they would like to see. -           One team creates a box that shows a customer abandoning a purchase, and then a bigger picture of many happier customers. An arrow indicates the change from unhappy to happy. -           Another team shows quality changing from a rubber stamp, to being built into every brick in a structure. -           The last team shows a box with images on two sides. On the first side there is a solid brick wall with moss grown all over it. Many of the bricks are old and chipped. At the bottom of the box is a tiny clean section of the wall where the bricks have been repaired. It says “Agile”. On the other side of the box the team shows a wall largely cleaned of moss and with many repaired bricks. They explain that the moss was the past practices that were holding all the teams back. Once cleaned, the teams - both product development and operational - were able to repair many of the bricks.
+Each team is challenged to create a “[Product Box](external:https://stormz.me/en/blog/stormz-games-product-box1)” that illustrates the organizational changes they would like to see. -           One team creates a box that shows a customer abandoning a purchase, and then a bigger picture of many happier customers. An arrow indicates the change from unhappy to happy. -           Another team shows quality changing from a rubber stamp, to being built into every brick in a structure. -           The last team shows a box with images on two sides. On the first side there is a solid brick wall with moss grown all over it. Many of the bricks are old and chipped. At the bottom of the box is a tiny clean section of the wall where the bricks have been repaired. It says “Agile”. On the other side of the box the team shows a wall largely cleaned of moss and with many repaired bricks. They explain that the moss was the past practices that were holding all the teams back. Once cleaned, the teams - both product development and operational - were able to repair many of the bricks.
 
 After an hour of work, each team shares their vision with the others and explains what each element represents. They return to their tables and update their own vision based on what they discovered from their peers.
 
@@ -57,6 +57,6 @@ Finally, they come back together at the end to select a box that best represents
 
 Next, we'll explore how to [turn Vision into Strategy](/blog/agile-change-or-adoption-turn-vision-into-strategy).
 
-\[1\] [Use the Catchball Process to Reduce Ambiguity – Tim McMahon](https://www.aleanjourney.com/2011/12/use-catchball-process-to-reduce.html)
+\[1\] [Use the Catchball Process to Reduce Ambiguity – Tim McMahon](external:https://www.aleanjourney.com/2011/12/use-catchball-process-to-reduce.html)
 
 Image attribution: Agile Pain Relief Consulting

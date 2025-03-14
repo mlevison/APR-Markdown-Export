@@ -23,7 +23,7 @@ Many teams reach a plateau and assume that they're done since they can't make an
 
 ## Boredom
 
-A far bigger problem is boredom. Once the team has experienced the same retrospective style three times in a row, they will become bored. If you're facilitating watch for people fidgeting, playing with their phones or having side conversations. That's a good indication that they're not engaged. If you keep on running the same retrospective read: [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/titles/dlret/agile-retrospectives/) (Esther Derby and Diana Larsen) and [Collaboration Explained: Facilitation Skills for Software Project Leaders](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776/&tag=notesfromatoo-20) (Jean Tabaka). Google Agile Retrospectives. Read This blog. Whatever you do seek out new styles.
+A far bigger problem is boredom. Once the team has experienced the same retrospective style three times in a row, they will become bored. If you're facilitating watch for people fidgeting, playing with their phones or having side conversations. That's a good indication that they're not engaged. If you keep on running the same retrospective read: [Agile Retrospectives: Making Good Teams Great](external:https://pragprog.com/titles/dlret/agile-retrospectives/) (Esther Derby and Diana Larsen) and [Collaboration Explained: Facilitation Skills for Software Project Leaders](external:https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776/&tag=notesfromatoo-20) (Jean Tabaka). Google Agile Retrospectives. Read This blog. Whatever you do seek out new styles.
 
 ## Ineffective
 

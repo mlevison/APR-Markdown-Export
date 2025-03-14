@@ -16,7 +16,7 @@ coverImage: "3d-men-holding-hands-in-a-circle-xs.jpg"
 excerpt: 'Here’s what they saw: - **Dedicating Team Members** to one team doubles productivity,'
 ---
 
-![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/stable-teams-really-do-matter/images/3d-men-holding-hands-in-a-circle-xs.jpg) For years now Rally has been performing a large ongoing experiment on the Agile world. As a side effect of providing one of the better known tools they’ve managed to see a lot of data accumulate about what makes an effective Agile team. In a report called “[The Impact of Agile Quantified](https://www.infoq.com/presentations/agile-quantify/)” they’ve sanitized the data and then run some statistical analysis on it.
+![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/stable-teams-really-do-matter/images/3d-men-holding-hands-in-a-circle-xs.jpg) For years now Rally has been performing a large ongoing experiment on the Agile world. As a side effect of providing one of the better known tools they’ve managed to see a lot of data accumulate about what makes an effective Agile team. In a report called “[The Impact of Agile Quantified](external:https://www.infoq.com/presentations/agile-quantify/)” they’ve sanitized the data and then run some statistical analysis on it.
 
 Here’s what they saw:
 
@@ -30,11 +30,11 @@ I was surprised to find that stable teams are less frequent among the Rally cust
 
 As with any set of measures, I think the value isn’t so much in the number as the signal regarding what to look at in our teams. In addition, I suspect some high performing teams will probably be doing things that don’t show up well in the larger dataset. For instance, I’ve seen many high performing teams with less WIP than the number of team members. Instead they swarm all work, etc.
 
-The [report](https://docs.broadcom.com/doc/outcomes-driven-organization) from Rally is well worth reading, although it’s sixteen pages long. (You will have to give away your email address).
+The [report](external:https://docs.broadcom.com/doc/outcomes-driven-organization) from Rally is well worth reading, although it’s sixteen pages long. (You will have to give away your email address).
 
 To my friends at Rally, there are many interesting questions to be asked here. If we look only at stable teams – what do we learn about team size? If we look only at mature teams (>1 yr old and stable) – do any of our discoveries around team size and estimation change? What about time to fix defects vs. productivity or quality? What about time to fix defects vs. team size? Story size vs. productivity vs. defects? Distributed teams’ productivity? What about the highest performing teams – what where they doing…? Have you considered releasing your dataset to the rest of the world so we can help you mine it? Two reasons: more eyes will spot more ideas and the Agile ideas have always been developed and evolved in an open fashion. Perhaps you could release with the rule that anything someone else discovers from it has to be shared openly.
 
-Hat tip to [Dave Nicolette](https://davenicolette.wordpress.com/2013/08/16/correlation-between-high-wip-and-defects/) who first pointed this paper out to me
+Hat tip to [Dave Nicolette](external:https://davenicolette.wordpress.com/2013/08/16/correlation-between-high-wip-and-defects/) who first pointed this paper out to me
 
 \[1\]In the paper this is referred to “Full Scrum” – which is odd since Scrum doesn’t require Estimation at all.
 

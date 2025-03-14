@@ -62,6 +62,6 @@ Scrum provides the framework to create high performance teams, by supporting man
 
 Does every Scrum project succeed - of course not (projects can fail using any methodology). Is it the Silver Bullet (aka Fred Brooks The Mythical Man Month)? of course not - but none the less it works and helps many teams focus on delivering value to the customer every day.
 
-Thanks to Larissa Berger, Norbert Winklareth and [Mishkin Bertieg](https://www.agileadvice.com) for their feedback and guidance in writing this.
+Thanks to Larissa Berger, Norbert Winklareth and [Mishkin Bertieg](external:https://www.agileadvice.com) for their feedback and guidance in writing this.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

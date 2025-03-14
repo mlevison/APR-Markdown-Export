@@ -88,12 +88,12 @@ Prefer stable team membership over a cast of changing characters. When you donâ€
 
 \[2\] A Review of Flightcrew-Involved, Major Accidents of U.S. Air carriers 1978 Through 1990 - NTSB
 
-\[3\] [https://hbr.org/2009/05/why-teams-dont-work](https://hbr.org/2009/05/why-teams-dont-work)
+\[3\] [https://hbr.org/2009/05/why-teams-dont-work](external:https://hbr.org/2009/05/why-teams-dont-work)
 
 \[4\] Team Familiarity, Role Experience, and Performance: Evidence from Indian Software Services - Robert S. Huckman, Bradley R. Staats, David M. Upton
 
-\[5\] [https://www.infoq.com/presentations/agile-quantify/](https://www.infoq.com/presentations/agile-quantify/)
+\[5\] [https://www.infoq.com/presentations/agile-quantify/](external:https://www.infoq.com/presentations/agile-quantify/)
 
-\[6\] [https://hbr.org/2013/12/the-hidden-benefits-of-keeping-teams-intact](https://hbr.org/2013/12/the-hidden-benefits-of-keeping-teams-intact)
+\[6\] [https://hbr.org/2013/12/the-hidden-benefits-of-keeping-teams-intact](external:https://hbr.org/2013/12/the-hidden-benefits-of-keeping-teams-intact)
 
-\[7\] [https://medium.com/ingeniouslysimple/reteaming/home](https://medium.com/ingeniouslysimple/reteaming/home)
+\[7\] [https://medium.com/ingeniouslysimple/reteaming/home](external:https://medium.com/ingeniouslysimple/reteaming/home)

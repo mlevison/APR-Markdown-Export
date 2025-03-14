@@ -13,4 +13,4 @@ For the sake of simplicity, I’m ignoring anything beyond release planning (e.g
 
 [![Layers of Agile Planning - by Certified Scrum Trainer Mark Levison](src/content/blog/basic-explanation-of-the-different-parts-of-agile-planning/images/Layers-of-Agile-Planning-466x1024.jpg)](/wp-content/uploads/2011/03/Layers-of-Agile-Planning-scaled.jpg)
 
-Stock image via: [https://photodune.net/](https://photodune.net/). Layers of Agile Planning image by Agile Pain Relief Consulting
+Stock image via: [https://photodune.net/](external:https://photodune.net/). Layers of Agile Planning image by Agile Pain Relief Consulting

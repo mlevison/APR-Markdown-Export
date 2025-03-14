@@ -6,7 +6,7 @@ categories:
 excerpt: 'As with my previous post a quick question to the [Scrum mailing'
 ---
 
-As with my previous post a quick question to the [Scrum mailing list](https://groups.yahoo.com/group/scrumdevelopment/) goes a long way. My original question:
+As with my previous post a quick question to the [Scrum mailing list](external:https://groups.yahoo.com/group/scrumdevelopment/) goes a long way. My original question:
 
 > After reading the Ken's first scrum book and some of Mike Cohn's Agile Estimation book - I'm a little confused as to when the team should estimate the product backlog. It seems clear that during the sprint planning meeting we should look at the product backlog and choose the stories that we will work with the Product Owner. Once we've selected the stories, we will break them down into tasks and estimate the number of hours involved etc.
 > 
@@ -14,11 +14,11 @@ As with my previous post a quick question to the [Scrum mailing list](https://gr
 > 
 > When new stories are added to the backlog do we estimate them as they're added or do we wait until there is a batch?
 
-I was concerned if we estimated stories one off that it would take up alot the team's time and we wouldn't do a good job of getting the relative sizes right. I got a number of responses. Several people recommended estimating as them as the PM created them. Others even included some buffer time in Sprint just for this purpose. However Mike Cohn (author of [Agile Estimating and Planning](https://www.amazon.com/Agile-Estimating-Planning-Robert-Martin/dp/0131479415/&tag=notesfromatoo-20)) made the suggestions that seem to make the most sense.
+I was concerned if we estimated stories one off that it would take up alot the team's time and we wouldn't do a good job of getting the relative sizes right. I got a number of responses. Several people recommended estimating as them as the PM created them. Others even included some buffer time in Sprint just for this purpose. However Mike Cohn (author of [Agile Estimating and Planning](external:https://www.amazon.com/Agile-Estimating-Planning-Robert-Martin/dp/0131479415/&tag=notesfromatoo-20)) made the suggestions that seem to make the most sense.
 
 - Estimate them at the project start - _that works well except when you introduce Sprint to an existing project._
 - A few days before the start of the next sprint estimate any newly arrived tasks. Taking all of 5-10 minutes to do this.
 
 Thanks to Mike Cohn, Hubert Smits and David H for filling in the details for me.
 
-Technorati : Scrum, agile, process, software development Del.icio.us : [Scrum](https://del.icio.us/tag/Scrum), [agile](https://del.icio.us/tag/agile), [process](https://del.icio.us/tag/process), [software development](https://del.icio.us/tag/software+development)
+Technorati : Scrum, agile, process, software development Del.icio.us : [Scrum](external:https://del.icio.us/tag/Scrum), [agile](external:https://del.icio.us/tag/agile), [process](external:https://del.icio.us/tag/process), [software development](external:https://del.icio.us/tag/software+development)

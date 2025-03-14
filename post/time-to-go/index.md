@@ -26,4 +26,4 @@ It's been great working with everyone and I look forward to crossing paths again
 
 My permanent email address is [mark@mlevison.com](mailto:mark@mlevison.com). I would be delighted to connect with anyone on LinkedIn (yes, I know I've dissed LinkedIn before).
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

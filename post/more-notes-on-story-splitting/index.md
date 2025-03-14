@@ -16,7 +16,7 @@ excerpt: 'A few elements of the'
 
 ![Done image licensed from Photodune](src/content/blog/more-notes-on-story-splitting/images/photodune-8431094-done-text-and-check-mark-xs.jpg) In response to my recent [Story Splitting post](/blog/story-slicing-how-small-is-enough), I had a few questions and couple of confusions that need clearing up.
 
-A few elements of the [INVEST](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) criteria need some discussion:
+A few elements of the [INVEST](external:https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) criteria need some discussion:
 
 - Negotiable – the details are negotiated with the Product Owner as the team goes to implement the story. However that negotiation is a two street and not an excuse to ask for scope creep.
 - Valuable – the story has to be valuable to a User however that may not be enough value to be worth releasing at this moment. Instead it may take several stories together to be sufficient value for the end user. For example if we imagine the login page for a new site that needs to support its own signup system, Facebook, Twitter and OpenID. It may not be worth releasing the page without all the elements yet they still maybe good places to make a split.
@@ -64,4 +64,4 @@ Finally when do you stop splitting? At the lower end no smaller than two develop
 
 Slides from a recent Webinar are [here](/wp-content/uploads/2020/01/User-Story-Splitting-2008-Webinar-slides.pdf) (pdf).
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

@@ -7,7 +7,7 @@ coverImage: "3d-men-holding-hands-in-a-circle-xs.jpg"
 excerpt: 'The statement is very simple: I believe that communities exist as homes for professionals'
 ---
 
-![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/a-community-of-thinkers-a-personal-commitment/images/3d-men-holding-hands-in-a-circle-xs.jpg) In December, [Liz Keogh](https://lizkeogh.com/2009/12/07/a-community-of-thinkers/), [Eric Willeke](https://manicprogrammer.com/cs/blogs/willeke/archive/2009/12/06/a-community-of-thinkers.aspx), and [Jean Tabaka](https://www.rallydev.com/agileblog/2009/12/a-community-of-thinkers/) got together at the Rally offices in Boulder. In only a day, they drafted a statement of beliefs and respect. If we all agree to follow them and respect each other, many of the rifts that have appeared in the Agile community in the past year will start to heal (see the comments under Jean’s post [“Escalation”](https://www.rallydev.com/agileblog/2009/12/escalation-is-killing-our-healthy-conflict-in-agile/) for examples of those rifts).
+![3D men holding hands in a circle. - image by PhotoDune](src/content/blog/a-community-of-thinkers-a-personal-commitment/images/3d-men-holding-hands-in-a-circle-xs.jpg) In December, [Liz Keogh](external:https://lizkeogh.com/2009/12/07/a-community-of-thinkers/), [Eric Willeke](external:https://manicprogrammer.com/cs/blogs/willeke/archive/2009/12/06/a-community-of-thinkers.aspx), and [Jean Tabaka](external:https://www.rallydev.com/agileblog/2009/12/a-community-of-thinkers/) got together at the Rally offices in Boulder. In only a day, they drafted a statement of beliefs and respect. If we all agree to follow them and respect each other, many of the rifts that have appeared in the Agile community in the past year will start to heal (see the comments under Jean’s post [“Escalation”](external:https://www.rallydev.com/agileblog/2009/12/escalation-is-killing-our-healthy-conflict-in-agile/) for examples of those rifts).
 
 The statement is very simple:
 
@@ -27,7 +27,7 @@ I believe that leaders in each community have a responsibility to exhibit these 
 
 I am a member of a community of thinkers. If I should happen to be a catalyst more than others, I consider that a tribute to those who have inspired me.
 
-”A Community of Thinkers” by [Liz Keogh](https://lizkeogh.com/2009/12/07/a-community-of-thinkers/), [Jean Tabaka](https://www.rallydev.com/agileblog/2009/12/a-community-of-thinkers/) and [Eric Willeke](https://manicprogrammer.com/cs/blogs/willeke/archive/2009/12/06/a-community-of-thinkers.aspx) is licensed under a [Creative Commons Attribution-Share Alike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/us/). Please attribute to the distributor of your copy or derivative.
+”A Community of Thinkers” by [Liz Keogh](external:https://lizkeogh.com/2009/12/07/a-community-of-thinkers/), [Jean Tabaka](external:https://www.rallydev.com/agileblog/2009/12/a-community-of-thinkers/) and [Eric Willeke](external:https://manicprogrammer.com/cs/blogs/willeke/archive/2009/12/06/a-community-of-thinkers.aspx) is licensed under a [Creative Commons Attribution-Share Alike 3.0 License](external:https://creativecommons.org/licenses/by-sa/3.0/us/). Please attribute to the distributor of your copy or derivative.
 
 I would like to add to that an echo what Chris Matts and Olav Maassen have already said on the subject:
 
@@ -39,4 +39,4 @@ I would like to add to that an echo what Chris Matts and Olav Maassen have alrea
 
 My goal is not to tell you how to develop software. My goal is to help you deliver great software and to challenge you to do more than you ever have before. Whether we use Scrum, XP, Lean, Kanban or some new technique doesn’t matter to me. What does matter is helping people achieve great things.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

@@ -57,7 +57,7 @@ Each User Story (sometimes called a Product Backlog Item or PBI) and its associa
 
 ## Definition of “Done”
 
-[The Scrum Guide](https://scrumguides.org/scrum-guide.html), in a way that is maddeningly vague, says that:
+[The Scrum Guide](external:https://scrumguides.org/scrum-guide.html), in a way that is maddeningly vague, says that:
 
 > _**When a Product Backlog item or an Increment is described as ‘Done’, everyone must understand what ‘Done’ means.**_
 

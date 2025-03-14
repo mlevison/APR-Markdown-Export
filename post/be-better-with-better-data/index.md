@@ -67,7 +67,7 @@ There’s rising popularity for using the Happiness Index – whether you’re h
 
 _‘(Team) Morale is the **enthusiasm** and **persistence** with which a member of a team engages in the prescribed activities of that group’ (Manning, 1991)._
 
-In the Retrospectives book, we shared some summary notes about Christiaan Verwijs’s advice on how to measure morale for a team in a way that more useful than the Happiness Metric. He also a created a free survey tool to help measure morale anonymously across a team: [https://teammetrics.theliberators.com](https://teammetrics.theliberators.com)
+In the Retrospectives book, we shared some summary notes about Christiaan Verwijs’s advice on how to measure morale for a team in a way that more useful than the Happiness Metric. He also a created a free survey tool to help measure morale anonymously across a team: [https://teammetrics.theliberators.com](external:https://teammetrics.theliberators.com)
 
 Example Data - Morale
 
@@ -101,6 +101,6 @@ Remember, metrics are a tool to help a team know where to focus its energy for i
 
 **Want to have a better understanding of the _why_ and _how_ of more things in Scrum, and not just the book-level _what_?** Practising Scrum without proper understanding can bring poor results and, ultimately, frustration and resistance. In our Certified ScrumMaster workshops, attendees learn in a fun and non-judgmental environment how to make Scrum work effectively in the real world, not just in principle. [Join us to learn and to gain practical, hands-on experience](/certified-scrummaster-csm-training).
 
-\[1\]  [https://en.wikiquote.org/wiki/Eliyahu\_M.\_Goldratt](https://en.wikiquote.org/wiki/Eliyahu_M._Goldratt) - from The Haystack Syndrome – caveat this book is generally considered hard reading even for experts in the field.
+\[1\]  [https://en.wikiquote.org/wiki/Eliyahu\_M.\_Goldratt](external:https://en.wikiquote.org/wiki/Eliyahu_M._Goldratt) - from The Haystack Syndrome – caveat this book is generally considered hard reading even for experts in the field.
 
-Image attributions: [https://medium.com/the-liberators/agile-teams-dont-use-happiness-metrics-measure-team-morale-3050b339d8af](https://medium.com/the-liberators/agile-teams-dont-use-happiness-metrics-measure-team-morale-3050b339d8af) and Agile Pain Relief Consulting
+Image attributions: [https://medium.com/the-liberators/agile-teams-dont-use-happiness-metrics-measure-team-morale-3050b339d8af](external:https://medium.com/the-liberators/agile-teams-dont-use-happiness-metrics-measure-team-morale-3050b339d8af) and Agile Pain Relief Consulting

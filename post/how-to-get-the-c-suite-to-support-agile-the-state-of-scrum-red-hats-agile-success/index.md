@@ -4,14 +4,14 @@ date: "2018-02-22"
 categories: 
   - "leadership"
   - "scrum"
-excerpt: 'Yearly since 2013, Scrum’s certifying body, [Scrum Alliance®](https://scrumalliance.org/),'
+excerpt: 'Yearly since 2013, Scrum’s certifying body, [Scrum Alliance®](external:https://scrumalliance.org/),'
 ---
 
 > “I’m not here to experiment. I’m here to get production stacks out the door, and Agile helps us get there.” — Tim Burke, VP of Cloud and Operating System Infrastructure Engineering at Red Hat
 
-Yearly since 2013, Scrum’s certifying body, [Scrum Alliance®](https://scrumalliance.org/), sponsors the State of Scrum, a survey of more than 2,000 of their member Agile and Scrum practitioners across 91 countries. The survey data is then analyzed prepared into an annual report. [The 2017-2018 report](https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2018-state-of-scrum) just came out last month and we’ve now had a chance to go through it.
+Yearly since 2013, Scrum’s certifying body, [Scrum Alliance®](external:https://scrumalliance.org/), sponsors the State of Scrum, a survey of more than 2,000 of their member Agile and Scrum practitioners across 91 countries. The survey data is then analyzed prepared into an annual report. [The 2017-2018 report](external:https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2018-state-of-scrum) just came out last month and we’ve now had a chance to go through it.
 
-While the numbers were encouraging (particularly the ones that show that once a team or organization becomes Agile, they will almost never go back), one of the most stand-out parts of the report is the short case study on [Red Hat Inc.’s adoption of Scrum](https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2018-state-of-scrum) – a timeless example of how to overcome administrative or executive apprehension about bringing Scrum or any other Agile framework into the mainstream of an organization.
+While the numbers were encouraging (particularly the ones that show that once a team or organization becomes Agile, they will almost never go back), one of the most stand-out parts of the report is the short case study on [Red Hat Inc.’s adoption of Scrum](external:https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2018-state-of-scrum) – a timeless example of how to overcome administrative or executive apprehension about bringing Scrum or any other Agile framework into the mainstream of an organization.
 
 Red Hat, in the business of providing IT product solutions,  found itself getting slowed up by traditional “waterfall” structures for building and delivering products to their clients as they got larger. When it came to the implementation of Agile as a solution to this problem, their executive management was concerned that Agile would lead to a loss of control over their ability to deliver.
 

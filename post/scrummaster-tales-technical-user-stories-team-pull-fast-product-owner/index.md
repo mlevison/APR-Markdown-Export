@@ -56,7 +56,7 @@ Martin writes up an index card for the Foobar class and posts in the ‘Technica
 
 ### Other sources:
 
-“[As a Developer is not a Story](https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)” – Bill Wake “[Technical Stories: We don’t need ‘em](https://ronjeffries.com/xprog/articles/technical-stories-we-dont-need-em/)” – Ron Jeffries "[Refactoring not in the Backlog](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)" - also Ron Jeffries “[Technical User Stories](https://blog.arielvalentin.com/2007/09/technical-user-stories.html)” Ariel Valentin
+“[As a Developer is not a Story](external:https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)” – Bill Wake “[Technical Stories: We don’t need ‘em](external:https://ronjeffries.com/xprog/articles/technical-stories-we-dont-need-em/)” – Ron Jeffries "[Refactoring not in the Backlog](external:https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)" - also Ron Jeffries “[Technical User Stories](external:https://blog.arielvalentin.com/2007/09/technical-user-stories.html)” Ariel Valentin
 
 _**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 

@@ -29,7 +29,7 @@ Since many invest time and money into becoming a [Certified ScrumMaster](/certif
 - What is the purpose of Scrum?
 - What is the purpose of the ScrumMaster?
 
-Luckily, we can find those answers in the [Scrum Guide](https://scrumguides.org/index.html). “_Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems._”
+Luckily, we can find those answers in the [Scrum Guide](external:https://scrumguides.org/index.html). “_Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems._”
 
 The Guide goes on to say that the ScrumMaster role is “_accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework._”
 

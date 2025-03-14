@@ -80,4 +80,4 @@ When do you write your Acceptance Criteria?
 
 _**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
-Images via: [https://photodune.net/](https://photodune.net/)
+Images via: [https://photodune.net/](external:https://photodune.net/)

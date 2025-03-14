@@ -11,28 +11,28 @@ tags:
   - "scrum-smells"
   - "troubleshooting"
 coverImage: "sniffing-dog-xs.jpg"
-excerpt: 'As it stands today the [Catalog](https://scrumcommunity.pbwiki.com/Scrum+Smells) contains'
+excerpt: 'As it stands today the [Catalog](external:https://scrumcommunity.pbwiki.com/Scrum+Smells) contains'
 ---
 
-![Sniffing dog- image licensed from Photodune](src/content/blog/agilescrum-smells/images/sniffing-dog-xs.jpg) In 2003 Mike Cohn started this project with a paper entitled: [Toward a Catalog of Scrum Smells](https://www.mountaingoatsoftware.com/articles/toward-a-catalog-of-scrum-smells) (pdf - in the spirit of [Code Smells](https://martinfowler.com/bliki/CodeSmell.html)) and last year Rowan Bunning did a presentation Sharing More than Deodorant for Scrum Smells (pdf). Rowan encouraged me to create a wiki with all of these smells. So I've spent some time in the past few days fleshing out this Catalog.  These are a series of simple patterns that describe a problem and then offer some potential solutions.
+![Sniffing dog- image licensed from Photodune](src/content/blog/agilescrum-smells/images/sniffing-dog-xs.jpg) In 2003 Mike Cohn started this project with a paper entitled: [Toward a Catalog of Scrum Smells](external:https://www.mountaingoatsoftware.com/articles/toward-a-catalog-of-scrum-smells) (pdf - in the spirit of [Code Smells](external:https://martinfowler.com/bliki/CodeSmell.html)) and last year Rowan Bunning did a presentation Sharing More than Deodorant for Scrum Smells (pdf). Rowan encouraged me to create a wiki with all of these smells. So I've spent some time in the past few days fleshing out this Catalog.  These are a series of simple patterns that describe a problem and then offer some potential solutions.
 
-As it stands today the [Catalog](https://scrumcommunity.pbwiki.com/Scrum+Smells) contains nearly 20 smells:
+As it stands today the [Catalog](external:https://scrumcommunity.pbwiki.com/Scrum+Smells) contains nearly 20 smells:
 
-- [Persistent Signatures](https://scrumcommunity.pbwiki.com/Persistent+Signatures)
-- [ScrumMaster Assigns Work](https://scrumcommunity.pbwiki.com/ScrumMaster+Assigns+Work)
-- [The Daily Scrum is For the ScrumMaster](https://scrumcommunity.pbwiki.com/The+Daily+Scrum+is+For+the+ScrumMaster)
-- [Specialized Job Roles](https://scrumcommunity.pbwiki.com/Specialized+Job+Roles)
-- [Testers will not integrate with Team](https://scrumcommunity.pbwiki.com/Testers+will+not+integrate+with+Team)
-- [Reluctance to estimate Backlog Items](https://scrumcommunity.pbwiki.com/Reluctance+to+estimate+Backlog+Items)
-- [Is It Really Done](https://scrumcommunity.pbwiki.com/Is+It+Really+Done) inspired by Henrik Kniberg
-- [Nothing Ever Changes Around Here](https://scrumcommunity.pbwiki.com/Nothing+Ever+Changes+Around+Here) inspired by Henrik Kniberg
-- [No One Wants to Attend Retrospectives, by Mark Levison](https://scrumcommunity.pbwiki.com/No+One+Wants+to+Attend+Retrospectives+)
-- [Executive Pressure](https://scrumcommunity.pbwiki.com/Executive+Pressure) inspired by Henrik Kniberg
-- [Missing Sprint Commitment](https://scrumcommunity.pbwiki.com/Missing+Sprint+Commitment) inspired by Henrik Kniberg
-- [Technical Debt](https://scrumcommunity.pbwiki.com/Technical+Debt) inspired by Henrik Kniberg
-- [Not Acting Like a Team](https://scrumcommunity.pbwiki.com/Not+Acting+Like+a+Team) inspired by Henrik Kniberg
-- [No Engineering Practices, by Mark Levison](https://scrumcommunity.pbwiki.com/No+Engineering+Practices)
-- [Gorilla in the Room](https://scrumcommunity.pbwiki.com/Gorilla+in+the+Room) inspired by Mark Wainwright
+- [Persistent Signatures](external:https://scrumcommunity.pbwiki.com/Persistent+Signatures)
+- [ScrumMaster Assigns Work](external:https://scrumcommunity.pbwiki.com/ScrumMaster+Assigns+Work)
+- [The Daily Scrum is For the ScrumMaster](external:https://scrumcommunity.pbwiki.com/The+Daily+Scrum+is+For+the+ScrumMaster)
+- [Specialized Job Roles](external:https://scrumcommunity.pbwiki.com/Specialized+Job+Roles)
+- [Testers will not integrate with Team](external:https://scrumcommunity.pbwiki.com/Testers+will+not+integrate+with+Team)
+- [Reluctance to estimate Backlog Items](external:https://scrumcommunity.pbwiki.com/Reluctance+to+estimate+Backlog+Items)
+- [Is It Really Done](external:https://scrumcommunity.pbwiki.com/Is+It+Really+Done) inspired by Henrik Kniberg
+- [Nothing Ever Changes Around Here](external:https://scrumcommunity.pbwiki.com/Nothing+Ever+Changes+Around+Here) inspired by Henrik Kniberg
+- [No One Wants to Attend Retrospectives, by Mark Levison](external:https://scrumcommunity.pbwiki.com/No+One+Wants+to+Attend+Retrospectives+)
+- [Executive Pressure](external:https://scrumcommunity.pbwiki.com/Executive+Pressure) inspired by Henrik Kniberg
+- [Missing Sprint Commitment](external:https://scrumcommunity.pbwiki.com/Missing+Sprint+Commitment) inspired by Henrik Kniberg
+- [Technical Debt](external:https://scrumcommunity.pbwiki.com/Technical+Debt) inspired by Henrik Kniberg
+- [Not Acting Like a Team](external:https://scrumcommunity.pbwiki.com/Not+Acting+Like+a+Team) inspired by Henrik Kniberg
+- [No Engineering Practices, by Mark Levison](external:https://scrumcommunity.pbwiki.com/No+Engineering+Practices)
+- [Gorilla in the Room](external:https://scrumcommunity.pbwiki.com/Gorilla+in+the+Room) inspired by Mark Wainwright
 
 But to improve this we need you help:
 
@@ -71,7 +71,7 @@ If we're not continuously improving we're not really Agile. So what happened?
 
 #### 6\. Example Remedies
 
-- After discussing issues - ask team members to suggest concrete actions (see [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/titles/dlret/agile-retrospectives/) for some great ideas).
+- After discussing issues - ask team members to suggest concrete actions (see [Agile Retrospectives: Making Good Teams Great](external:https://pragprog.com/titles/dlret/agile-retrospectives/) for some great ideas).
 - Ensure that action items are small and achievable.
 - Ask a for one volunteer to own each action item.
 - Action items can't be assigned to people not present at the meeting.
@@ -80,6 +80,6 @@ If we're not continuously improving we're not really Agile. So what happened?
 
 #### 7\. Case Studies
 
-Credit: this is based on material from "[10 ways to screw up with Scrum and XP](https://blog.crisp.se/2008/08/07/henrikkniberg/1218084360000)" by Henrik Kniberg, and personal experience.
+Credit: this is based on material from "[10 ways to screw up with Scrum and XP](external:https://blog.crisp.se/2008/08/07/henrikkniberg/1218084360000)" by Henrik Kniberg, and personal experience.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

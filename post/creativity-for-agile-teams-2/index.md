@@ -21,14 +21,14 @@ There are many ways to redefine a work environment to support greater creativity
 
 Creativity can manifest in a variety of ways, including the creation of something new, refinement of something that already exists, and problem-solving. While creativity is traditionally thought of as a solo activity, many human endeavours also leverage the creative power of groups. Agile emphasizes group creativity to produce better products in shorter time frames.
 
-I gave a presentation on this subject at the [GOAT17 Conference](https://goagiletour.ca/), offering a summary of the literature and our experiences, which describes and demonstrates how creativity can be enhanced by providing a safe, nurturing environment. Doing so often has the added benefits of enhancing group interactions, more appropriately pacing activities that utilize different sensory modes, and increasing collective trust in the power of subconscious integration.
+I gave a presentation on this subject at the [GOAT17 Conference](external:https://goagiletour.ca/), offering a summary of the literature and our experiences, which describes and demonstrates how creativity can be enhanced by providing a safe, nurturing environment. Doing so often has the added benefits of enhancing group interactions, more appropriately pacing activities that utilize different sensory modes, and increasing collective trust in the power of subconscious integration.
 
 The following are my downloadable materials from my presentation. The PDF itself is a general, but limited, resource so I strongly recommend that it be used in tandem with the much more valuable handout.
 
-[Creativity For Agile Teams – Mark Levison and Roger Brown](https://www.dropbox.com/s/vzphreqhck060ti/CreativityForAgileTeams2017.pdf?dl=0)
+[Creativity For Agile Teams – Mark Levison and Roger Brown](external:https://www.dropbox.com/s/vzphreqhck060ti/CreativityForAgileTeams2017.pdf?dl=0)
 
-[Creativity for Agile Teams handout](https://www.dropbox.com/s/4d4vnpho8kepz8i/Creativity%20for%20Agile%20Teams%20%E2%80%93%20GOAT2017.pdf?dl=0)
+[Creativity for Agile Teams handout](external:https://www.dropbox.com/s/4d4vnpho8kepz8i/Creativity%20for%20Agile%20Teams%20%E2%80%93%20GOAT2017.pdf?dl=0)
 
-We hope that this material helps provide the foundation and encouragement for your own team. Please share in the comments or on the [Agile Pain Relief Consulting Facebook page](https://www.facebook.com/agilepainrelief/) some of the fun ways that your team fosters creativity and agility!
+We hope that this material helps provide the foundation and encouragement for your own team. Please share in the comments or on the [Agile Pain Relief Consulting Facebook page](external:https://www.facebook.com/agilepainrelief/) some of the fun ways that your team fosters creativity and agility!
 
 (Crayons image licensed from Photodune)

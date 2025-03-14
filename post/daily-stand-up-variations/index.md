@@ -29,4 +29,4 @@ An additional trick I saw someone at my client us: pass the questions round on a
 
 BTW I’ve been very quiet recently in part because I’m busy with client work and in part because just having become a CST I’ve decided to revamp my training materials yet again. More details coming soon.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

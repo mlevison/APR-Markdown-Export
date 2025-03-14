@@ -67,7 +67,7 @@ People who see a relationship between software and construction often assume tha
 
 As a result, replacing or adding a new person slows the whole team down for at least 3-4 months. Individually, the new team member often takes even longer than that to become fully productive. While construction also suffers slow downs when people are changed, it will be to nowhere near the same degree as a software project.
 
-Over 40 years after it was first written, the old [Fred Brooks](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) quote still applies: "Adding more people to a late project just makes it later".
+Over 40 years after it was first written, the old [Fred Brooks](external:https://en.wikipedia.org/wiki/The_Mythical_Man-Month) quote still applies: "Adding more people to a late project just makes it later".
 
 ## Conclusion
 
@@ -87,8 +87,8 @@ We’re exploring the problem space of our customers. We’re creating new ideas
 
 I’m not the first to explore this vein. Other views:
 
-Martin Fowler: [The New Methodology](https://www.martinfowler.com/articles/newMethodology.html#SeparationOfDesignAndConstruction) Thomas Guest: [Why Software Development isn’t Like Construction](https://wordaligned.org/articles/why-software-development-isnt-like-construction) Mishkin Berteig: [The software construction analogy is broken](https://www.kuro5hin.org/story/2003/3/13/211831/159)
+Martin Fowler: [The New Methodology](external:https://www.martinfowler.com/articles/newMethodology.html#SeparationOfDesignAndConstruction) Thomas Guest: [Why Software Development isn’t Like Construction](external:https://wordaligned.org/articles/why-software-development-isnt-like-construction) Mishkin Berteig: [The software construction analogy is broken](external:https://www.kuro5hin.org/story/2003/3/13/211831/159)
 
-\[1\] [Designing With Your Thumb](https://www.beingbrunel.com/designing-with-your-thumb/) – Thomas Michael Wallace
+\[1\] [Designing With Your Thumb](external:https://www.beingbrunel.com/designing-with-your-thumb/) – Thomas Michael Wallace
 
-Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](https://www.freepik.com/).
+Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](external:https://www.freepik.com/).

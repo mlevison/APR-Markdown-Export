@@ -30,7 +30,7 @@ If you’re going to become an Agile Organization, and you understand that it ha
     Be mindful of the current state of both the **business** and **culture** before starting, so it can structure the change to fit in organically.
 - ### Create a Vision for Change
     
-    Create a vision for change collaboratively with people from all levels of the organization, not just the executives. Invite collaboration rather than proclamation. Visualize both the change (e.g. [Product Box](https://scaledagile.com/business-solutions/safe-enterprise/)) and the work involved in the change (e.g. a [Kanban board](/blog/kanban-portfolio-view))
+    Create a vision for change collaboratively with people from all levels of the organization, not just the executives. Invite collaboration rather than proclamation. Visualize both the change (e.g. [Product Box](external:https://scaledagile.com/business-solutions/safe-enterprise/)) and the work involved in the change (e.g. a [Kanban board](/blog/kanban-portfolio-view))
 - ### Go from Vision to Strategy
     
     See the Leaders changing before the Doers. Work in small steps, in the same vein as Scrum User Stories, making many small changes with each being an incremental improvement on the ones preceding it.

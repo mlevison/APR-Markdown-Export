@@ -74,4 +74,4 @@ Remember, Portfolio Management creates overhead, takes some control away from Pr
 
 Updated on December 18, 2024
 
-Images by Agile Pain Relief Consulting. Elements of first image [designed by Freepik](https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).
+Images by Agile Pain Relief Consulting. Elements of first image [designed by Freepik](external:https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).

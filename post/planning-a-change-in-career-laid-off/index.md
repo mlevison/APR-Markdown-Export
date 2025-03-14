@@ -16,11 +16,11 @@ I would recommend building your personal profile so that people will know you an
 
 1. Get an email address with your own domain name. Having a hotmail/yahoo/gmail address just looks unprofessional. Domain names are cheap, and you can alias your domain to a Google apps or any other account. It just looks better.
 2. Start a blog. Don’t use blogger—it looks cheap. Pick something you can control the look and feel. Typepad and wordpress are both great choices. Focus on quality and value, not frequency. BTW Use feedburner from the start if you ever migrate; it will save a ton of hassles.
-3. Find your local Agile group ([Scrum Community PBwiki](https://scrumcommunity.pbwiki.com/Local+Groups) has some). Start attending meetings. Ask relevant questions, become known, become a speaker.
-4. Find an Agile mailing list (or two) that interests you ([Scrum Development](https://groups.yahoo.com/group/scrumdevelopment), [Agile Testing](https://tech.groups.yahoo.com/group/testdrivendevelopment/), [TDD](https://tech.groups.yahoo.com/group/agile-testing/), …);start answering questions (when you have something of value to add).
-5. Start twittering. I’m: [https://twitter.com/mlevison](https://twitter.com/mlevison "https://twitter.com/mlevison"). If you look through the list of people I’m following, you will find many interesting people in the Agile community. You can also search on “agile.” You will see interesting conversations float by. _I use tweetdeck as my tool._
+3. Find your local Agile group ([Scrum Community PBwiki](external:https://scrumcommunity.pbwiki.com/Local+Groups) has some). Start attending meetings. Ask relevant questions, become known, become a speaker.
+4. Find an Agile mailing list (or two) that interests you ([Scrum Development](external:https://groups.yahoo.com/group/scrumdevelopment), [Agile Testing](external:https://tech.groups.yahoo.com/group/testdrivendevelopment/), [TDD](external:https://tech.groups.yahoo.com/group/agile-testing/), …);start answering questions (when you have something of value to add).
+5. Start twittering. I’m: [https://twitter.com/mlevison](external:https://twitter.com/mlevison "https://twitter.com/mlevison"). If you look through the list of people I’m following, you will find many interesting people in the Agile community. You can also search on “agile.” You will see interesting conversations float by. _I use tweetdeck as my tool._
 6. Try LinkedIn—yes, I’ve dissed it before, but you might get something from it. I haven’t. _My LinkedIn profile._
 
 Remember your focus is helping other people. Do that and they will pay you back in spades. It may take a while, but eventually it will. In my case, it took about two years, but in the end it helped me land my ideal job: Coaching Agile teams.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

@@ -30,6 +30,6 @@ Let’s hope the Canadian Federal Government learns about doing Scrum before it 
 
 #### What has your experience been with Early and Incremental Delivery?
 
-Reference: [https://www.cbc.ca/news/canada/ottawa/phoenix-pay-update-deadline-1.3751126](https://www.cbc.ca/news/canada/ottawa/phoenix-pay-update-deadline-1.3751126)
+Reference: [https://www.cbc.ca/news/canada/ottawa/phoenix-pay-update-deadline-1.3751126](external:https://www.cbc.ca/news/canada/ottawa/phoenix-pay-update-deadline-1.3751126)
 
 Image attribution: Photodune

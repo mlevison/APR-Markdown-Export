@@ -15,7 +15,7 @@ excerpt: 'To be successful with Scrum in the long term you need more than the ba
 
 To be successful with Scrum in the long term you need more than the basic framework. This is intentional. Scrum provides the structure as a starting point, but it’s designed to work well when applied with other effective patterns.
 
-Like the [Design Patterns](https://en.wikipedia.org/wiki/Design_pattern) movement of the late '90s, a pattern can be used by itself or with others. E.g. the [Command Pattern](https://en.wikipedia.org/wiki/Command_pattern) and the [Memento Pattern](https://en.wikipedia.org/wiki/Memento_pattern) can be combined to build an effective undo/redo system. Scrum is only one pattern for one team. It gives you the bare minimum framework that could possibly work, however in many contexts you will need to incorporate other tools/patterns to build more effective systems.
+Like the [Design Patterns](external:https://en.wikipedia.org/wiki/Design_pattern) movement of the late '90s, a pattern can be used by itself or with others. E.g. the [Command Pattern](external:https://en.wikipedia.org/wiki/Command_pattern) and the [Memento Pattern](external:https://en.wikipedia.org/wiki/Memento_pattern) can be combined to build an effective undo/redo system. Scrum is only one pattern for one team. It gives you the bare minimum framework that could possibly work, however in many contexts you will need to incorporate other tools/patterns to build more effective systems.
 
 ### Beyond Scrum you should consider:
 
@@ -27,7 +27,7 @@ Like the [Design Patterns](https://en.wikipedia.org/wiki/Design_pattern) movemen
 
 \-       **[Organizational Improvement](/blog/taking-organizational-improvement-with-scrum-seriously)** – many issues that Scrum helps to find can’t be solved by the team or their ScrumMaster. Instead, organizations need to establish an ongoing improvement team dedicated to resolving these problems. ([Part 1: Taking Organizational Improvement Seriously](/blog/taking-organizational-improvement-with-scrum-seriously) | [Part 2: Case Study](/blog/taking-organizational-improvement-seriously-case-study))
 
-\-       **Intra Team Coordination** – How will you coordinate the work among teams? Scrum of [Scrums](https://agilepainrelief.com/blog/a-tale-of-two-daily-scrums) is the most well known pattern and yet is rarely the best choice.
+\-       **Intra Team Coordination** – How will you coordinate the work among teams? Scrum of [Scrums](external:https://agilepainrelief.com/blog/a-tale-of-two-daily-scrums) is the most well known pattern and yet is rarely the best choice.
 
 \-       **Team Organization** – How will you organize your teams? As Component Teams? As Feature Teams? Using the Spotify model of Squads, Tribes and Guilds?
 
@@ -43,4 +43,4 @@ Scrum is just the starting point.
 
 _In the next few months, I will explore patterns that can be effective when attempting Scrum at a larger scale (more than three teams). What topics would you like me to explore?_
 
-Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](https://www.freepik.com/).
+Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](external:https://www.freepik.com/).

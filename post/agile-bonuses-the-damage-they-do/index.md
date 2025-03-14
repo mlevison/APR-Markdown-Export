@@ -123,9 +123,9 @@ Not yet convinced? You will be after you read this research that wasn’t conduc
 
 #### Research That Doesn’t Suck
 
-**[_Why Motivating People Doesn’t Work and What Does_](https://www.amazon.ca/Motivating-People-Doesnt-Work-What/dp/1626569452/&tag=notesfromatoo-20)** – Susan Fowler Intrinsic motivation—motivation that comes from inside us— is more sustainable than extrinsic or external motivation. The famous carrot or stick.
+**[_Why Motivating People Doesn’t Work and What Does_](external:https://www.amazon.ca/Motivating-People-Doesnt-Work-What/dp/1626569452/&tag=notesfromatoo-20)** – Susan Fowler Intrinsic motivation—motivation that comes from inside us— is more sustainable than extrinsic or external motivation. The famous carrot or stick.
 
-[**Self-Determination Theory in Work Organizations: The State of a Science**](https://www.researchgate.net/publication/312960448_Self-Determination_Theory_in_Work_Organizations_The_State_of_a_Science) – Deci, Olafsen, Ryan When our work environment has bonuses, the bonuses reduce the effect of the intrinsic motivation.
+[**Self-Determination Theory in Work Organizations: The State of a Science**](external:https://www.researchgate.net/publication/312960448_Self-Determination_Theory_in_Work_Organizations_The_State_of_a_Science) – Deci, Olafsen, Ryan When our work environment has bonuses, the bonuses reduce the effect of the intrinsic motivation.
 
 The first important finding in the meta-analysis by Cerasoli et al. (2014) showed that intrinsic motivation had a moderate to strong relation to performance across all studies and all types of performance, whether or not incentives were also being used. Accordingly, this indicates that intrinsic motivation is extremely important for the workplace. Furthermore, in line with the undermining effect of rewards on intrinsic motivation, Cerasoli et al. found that intrinsic motivation had a weaker effect on performance when incentives were directly salient, and a stronger relation to performance when the incentives were not directly salient.
 
@@ -133,7 +133,7 @@ The same paper shows that rewards help when the work is simple, but when the wor
 
 In more nuanced analyses, Cerasoli et al. (2014) found that intrinsic motivation was a stronger predictor of performance quality, whereas extrinsic incentives were a stronger predictor of performance quantity. In a similar vein, Weibel et al. (2010) in their meta-analysis found that extrinsic incentives led to better performance on simple tasks but to poorer performance on more complex tasks. In short, PFP appears to be effective for motivating performance as quantity of simple, algorithmic tasks, but not performance as quality of complex heuristic tasks. Furthermore, PFP seems to interfere with the relation of intrinsic motivation to high-quality performance.
 
-[**Do incentive systems spur work motivations of inventors in high-tech firms**](https://www.researchgate.net/profile/Alain-Raybaut/publication/281356235_Do_incentive_systems_spur_work_motivations_of_inventors_in_high-tech_firms/links/5631365f08ae506cea677a7d/Do-incentive-systems-spur-work-motivations-of-inventors-in-high-tech-firms.pdf?origin=publication_detail)  – Lazaric and Raybaut
+[**Do incentive systems spur work motivations of inventors in high-tech firms**](external:https://www.researchgate.net/profile/Alain-Raybaut/publication/281356235_Do_incentive_systems_spur_work_motivations_of_inventors_in_high-tech_firms/links/5631365f08ae506cea677a7d/Do-incentive-systems-spur-work-motivations-of-inventors-in-high-tech-firms.pdf?origin=publication_detail)  – Lazaric and Raybaut
 
 Performance bonuses inspire competitiveness and resource guarding instead of teamwork and collaboration. The exact opposite of how we know Scrum — and productivity — thrives.
 
@@ -141,11 +141,11 @@ In a study of what happened to patent applications at Thales, a change in the bo
 
 * * *
 
-\[1\] [https://www.hibob.com/hr-glossary/performance-bonus/](https://www.hibob.com/hr-glossary/performance-bonus/)
+\[1\] [https://www.hibob.com/hr-glossary/performance-bonus/](external:https://www.hibob.com/hr-glossary/performance-bonus/)
 
-\[2\] [Numerous Gallup surveys of work over the past few decades point out this disengagement at work](https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx)
+\[2\] [Numerous Gallup surveys of work over the past few decades point out this disengagement at work](external:https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx)
 
-\[3\] [How to Reward Agile Teams: Incentives and Bonuses Are Different](https://www.mountaingoatsoftware.com/blog/how-to-reward-agile-teams)
+\[3\] [How to Reward Agile Teams: Incentives and Bonuses Are Different](external:https://www.mountaingoatsoftware.com/blog/how-to-reward-agile-teams)
 
 \[4\] [Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)
 

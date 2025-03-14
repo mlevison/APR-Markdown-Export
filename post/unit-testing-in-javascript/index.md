@@ -28,48 +28,48 @@ So it seems to him that Jsunit is the only choice we have. It is not perfect tho
 
 As a consequence, you have to switch back and forth from you IDE and all the browsers we want to support while "TDDing" in JavaScript. It is feasible but doesn't seem very effective.
 
-I tried asking about this on [StackOverflow](https://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd) generated some interesting answers:
+I tried asking about this on [StackOverflow](external:https://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd) generated some interesting answers:
 
-- Look at the Dojo Object Harness (DOH) unit test framework which is pretty much framework independent harness for JavaScript unit testing and doesn't have any Dojo dependencies. I found a very good description of it at [Medrix Observations: Dojo D.O.H. Unit Testing](https://blog.medryx.org/2008/06/08/dojo-doh-unit-testing/). Interestingly we have at least one team (Yvon's) that is experimenting with Dojo. (_got several recommendations for this_)
-- Apparently MochiKit - yet another library has a framework called [SimpleTest](https://medium.com/leos-tech-blog/interesting-open-source-surprises-87fe2ed81ec0) buried inside it.
+- Look at the Dojo Object Harness (DOH) unit test framework which is pretty much framework independent harness for JavaScript unit testing and doesn't have any Dojo dependencies. I found a very good description of it at [Medrix Observations: Dojo D.O.H. Unit Testing](external:https://blog.medryx.org/2008/06/08/dojo-doh-unit-testing/). Interestingly we have at least one team (Yvon's) that is experimenting with Dojo. (_got several recommendations for this_)
+- Apparently MochiKit - yet another library has a framework called [SimpleTest](external:https://medium.com/leos-tech-blog/interesting-open-source-surprises-87fe2ed81ec0) buried inside it.
 
-Asking on the [Test Driven Mailing](https://tech.groups.yahoo.com/group/testdrivendevelopment) List got another batch of answers:
+Asking on the [Test Driven Mailing](external:https://tech.groups.yahoo.com/group/testdrivendevelopment) List got another batch of answers:
 
-- [QUnit](https://qunitjs.com) from jQuery (_got several recommendations for this_)
-- [Mocking tool](https://jsmock.sourceforge.net/) for JavaScript
+- [QUnit](external:https://qunitjs.com) from jQuery (_got several recommendations for this_)
+- [Mocking tool](external:https://jsmock.sourceforge.net/) for JavaScript
 - Use GWT and do all your work in Java
 
 In addition two people didn't answer the question directly but instead sent my in the direction of some books:
 
-- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) by the project lead for jQuery (which will have a chapter on Unit Testing)
+- [Secrets of the JavaScript Ninja](external:https://www.manning.com/books/secrets-of-the-javascript-ninja) by the project lead for jQuery (which will have a chapter on Unit Testing)
 
 #### Conclusions
 
-There isn't one good place to ask JavaScript/Unit Testing questions. The best so far seems [StackOverflow.com](https://stackoverflow.com/questions/tagged/javascript) seems to be the only real option.
+There isn't one good place to ask JavaScript/Unit Testing questions. The best so far seems [StackOverflow.com](external:https://stackoverflow.com/questions/tagged/javascript) seems to be the only real option.
 
 Of the Unit Test Frameworks the real options seem to be:
 
-- [JSunit](https://www.jsunit.net/)
+- [JSunit](external:https://www.jsunit.net/)
 - The Dojo Object Harness (DOH) unit test framework
-- [QUnit](https://qunitjs.com) from jQuery
-- YUI Test: see [YUI Test - The New Kid on Block](https://sites.google.com/site/tedhusted/posts/yui-test---the-new-kid-on-block)
+- [QUnit](external:https://qunitjs.com) from jQuery
+- YUI Test: see [YUI Test - The New Kid on Block](external:https://sites.google.com/site/tedhusted/posts/yui-test---the-new-kid-on-block)
 
 I also did some digging for Mock Frameworks and have only come up with a list of tools:
 
-- [JSMock](https://jsmock.sourceforge.net/) - JSMock provides expectation recording and matching, and has the ability to return, throw, and stub on object method calls
+- [JSMock](external:https://jsmock.sourceforge.net/) - JSMock provides expectation recording and matching, and has the ability to return, throw, and stub on object method calls
 - Jack - The project aims to help developers write short and readable JavaScript tests.
-- [MockMe](https://johanneslink.net/projects/mockme.html) - written because of [Johanne's](https://blog.johanneslink.net/2008/08/08/ajax-travelogue-part-6-mocking-in-javascript/) [dissatisfaction](https://blog.johanneslink.net/2008/08/09/ajax-travelogue-part-7-mockme/) with other JavaScript Mock tools.
-- [QMock](https://code.google.com/p/qmock/) - very new
+- [MockMe](external:https://johanneslink.net/projects/mockme.html) - written because of [Johanne's](external:https://blog.johanneslink.net/2008/08/08/ajax-travelogue-part-6-mocking-in-javascript/) [dissatisfaction](external:https://blog.johanneslink.net/2008/08/09/ajax-travelogue-part-7-mockme/) with other JavaScript Mock tools.
+- [QMock](external:https://code.google.com/p/qmock/) - very new
 
 There is some good writing that will give you a flavour of TDD with Javascript:
 
-- [Test Driven AJAX](https://www.slideshare.net/jlink/agile08-test-driven-ajax) a presentation from Agile 2008 (long but through)
-- [TDD and Javascript with JsMock](https://www.pathf.com/blogs/2006/11/tdd_and_javascr/)
-- [Test Driven Javascript](https://www.testdrivenjavascript.com/Practice/5.aspx)
-- [TDD and Javascript with JsMock](https://www.techtarget.com/searchsoftwarequality/definition/mock-object)
+- [Test Driven AJAX](external:https://www.slideshare.net/jlink/agile08-test-driven-ajax) a presentation from Agile 2008 (long but through)
+- [TDD and Javascript with JsMock](external:https://www.pathf.com/blogs/2006/11/tdd_and_javascr/)
+- [Test Driven Javascript](external:https://www.testdrivenjavascript.com/Practice/5.aspx)
+- [TDD and Javascript with JsMock](external:https://www.techtarget.com/searchsoftwarequality/definition/mock-object)
 
-Best ongoing sources: Pathfinder Blog and [Ajaxian](https://ajaxian.com/by/topic/testing) seem to be good reading.
+Best ongoing sources: Pathfinder Blog and [Ajaxian](external:https://ajaxian.com/by/topic/testing) seem to be good reading.
 
 What tools did I miss? Are there any good JavaScript mailing lists where the participants discuss TDD?
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

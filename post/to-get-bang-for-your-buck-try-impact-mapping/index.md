@@ -61,7 +61,7 @@ Identify the **Goal** first, then **Who** (**Actor**), **How** (**Impact**), and
 
 ## Example of an Impact Map:
 
-![Impact Mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping.jpg) Figure 2 - Creative Commons 4.0 as per: [https://www.impactmapping.org/drawing.html](https://www.impactmapping.org/drawing.html). Credit: [http://impactmapping.org/](http://impactmapping.org/)
+![Impact Mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping.jpg) Figure 2 - Creative Commons 4.0 as per: [https://www.impactmapping.org/drawing.html](external:https://www.impactmapping.org/drawing.html). Credit: [http://impactmapping.org/](external:http://impactmapping.org/)
 
 ## Tips for Drawing an Impact Map
 
@@ -175,19 +175,19 @@ Want to learn more about Impact Mapping and other strategies to help your team i
 
 \[1\] The original book used “Who” for Actor; How for “Impact” and “What” for Deliverable – I find the newer versions far more clear
 
-\[2\] From Chris Matts - [https://theitriskmanager.wordpress.com/](https://theitriskmanager.wordpress.com/)
+\[2\] From Chris Matts - [https://theitriskmanager.wordpress.com/](external:https://theitriskmanager.wordpress.com/)
 
 \[3\] Gojko offers this list as a simplified version of the advice from _Competitive Engineering_ by Tom Gilb
 
-\[4\] Innovation Games by Luke Hohmann - [https://www.innovationgames.com/resources/innovation-games-book/](https://www.innovationgames.com/resources/innovation-games-book/)
+\[4\] Innovation Games by Luke Hohmann - [https://www.innovationgames.com/resources/innovation-games-book/](external:https://www.innovationgames.com/resources/innovation-games-book/)
 
-\[5\] Gamestorming by Dave Gray - [https://gamestorming.com/](https://gamestorming.com/)
+\[5\] Gamestorming by Dave Gray - [https://gamestorming.com/](external:https://gamestorming.com/)
 
-\[6\] From the Business Value Game by Andrea Tomasini - [https://www.agile42.com/en/business-value-game/](https://www.agile42.com/en/business-value-game/)
+\[6\] From the Business Value Game by Andrea Tomasini - [https://www.agile42.com/en/business-value-game/](external:https://www.agile42.com/en/business-value-game/)
 
-\[7\] [http://en.wikipedia.org/wiki/Kano\_model](http://en.wikipedia.org/wiki/Kano_model)
+\[7\] [http://en.wikipedia.org/wiki/Kano\_model](external:http://en.wikipedia.org/wiki/Kano_model)
 
-\[8\] “Splitting user stories -- the hamburger method” by Gojko Adzic - [https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
+\[8\] “Splitting user stories -- the hamburger method” by Gojko Adzic - [https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/](external:https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
 
 \9\] [https://agilepainrelief.com/glossary/facilitation
 

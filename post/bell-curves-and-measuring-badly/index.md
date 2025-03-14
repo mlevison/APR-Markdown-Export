@@ -33,7 +33,7 @@ Yet there is a very good chance that your sample included a few people with a ne
 
 Because we tend to assume that normal distribution applies to most numbers we see, we fail to correctly estimate the likelihood of extreme events.
 
-Nassim Taleb (“[Antifragile: Things That Gain from Disorder](https://www.amazon.ca/gp/product/B0083DJWGO/&tag=notesfromatoo-20)”) calls these extreme events “Black Swan events”. Events that normal distributions underpredict by a multiple of thousands. For example, assume that stock price movements on the S&P 500 index fit a normal distribution, and that events that fall 5th standard deviations from the mean have a 1 in 3.5 million chance of happening. Yet in 1987, the S&P index had 3 such days, and over 50 since it was first created. The S&P 500 was founded nearly 60 years or <22,000 days ago (this includes weekends and holidays), so if a bell curve applied, we would expect 0 or 1 extreme events thus far.
+Nassim Taleb (“[Antifragile: Things That Gain from Disorder](external:https://www.amazon.ca/gp/product/B0083DJWGO/&tag=notesfromatoo-20)”) calls these extreme events “Black Swan events”. Events that normal distributions underpredict by a multiple of thousands. For example, assume that stock price movements on the S&P 500 index fit a normal distribution, and that events that fall 5th standard deviations from the mean have a 1 in 3.5 million chance of happening. Yet in 1987, the S&P index had 3 such days, and over 50 since it was first created. The S&P 500 was founded nearly 60 years or <22,000 days ago (this includes weekends and holidays), so if a bell curve applied, we would expect 0 or 1 extreme events thus far.
 
 ![original image by AGorohov: Photodune](src/content/blog/bell-curves-and-measuring-badly/images/photodune-1447482-measures-xs.jpg)We think we know stock market, and we think we can model risk in the stock market. Yet we can’t. So don’t assume that we understand, and can model, business risk either.
 
@@ -41,6 +41,6 @@ Our attempt to use numbers as our primary way to measure and manage risk misrepr
 
 Numbers are useful, but give us only a small piece of the picture.
 
-See also: [Linear Thinking in a Nonlinear World](https://hbr.org/2017/05/linear-thinking-in-a-nonlinear-world) by Bart de Langhe, Stefano Puntoni, Richard Larrick
+See also: [Linear Thinking in a Nonlinear World](external:https://hbr.org/2017/05/linear-thinking-in-a-nonlinear-world) by Bart de Langhe, Stefano Puntoni, Richard Larrick
 
 Graph images by Agile Pain Relief. Calliper image attribution: AGorohov via Photodune

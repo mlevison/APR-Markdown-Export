@@ -20,7 +20,7 @@ The gist of Jacob’s hypothesis has five points which I summarize:
 4. Looking for information on Unit Testing? You’re most likely to find a piece encouraging you to test first.
 5. _Many developers skip Unit Testing altogether because TDD seemed too hard or too much of a change._
 
-Jacob starts off by assuming one and two proven and so moves on a lengthy demonstration that the most important mentions of Unit Testing in Google have some discussion of Test Driven Development. I will grant Jacob points three and four. Although in part I would expect this to be true since Unit Testing and Test Driven Development come from the Smalltalk community which invented both concepts. We have Kent Beck to thank for writing the earliest frameworks and also the seminal book on [Test Driven Development](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FTest-Driven-Development-Addison-Wesley-Signature%2Fdp%2F0321146530%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196457674%26sr%3D8-6). So they get mentioned together because they were invented together.
+Jacob starts off by assuming one and two proven and so moves on a lengthy demonstration that the most important mentions of Unit Testing in Google have some discussion of Test Driven Development. I will grant Jacob points three and four. Although in part I would expect this to be true since Unit Testing and Test Driven Development come from the Smalltalk community which invented both concepts. We have Kent Beck to thank for writing the earliest frameworks and also the seminal book on [Test Driven Development](external:https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FTest-Driven-Development-Addison-Wesley-Signature%2Fdp%2F0321146530%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196457674%26sr%3D8-6). So they get mentioned together because they were invented together.
 
 The most important fallacy of Jacob’s writing is to assume that TDD is merely about forcing test case to written. TDD is about:
 
@@ -44,4 +44,4 @@ My suggestion to anyone who tells me it won’t work: Find a mentor; Commit to t
 
 Have you been scared off from TDD by the amount of work you believe will be involved with trying to adopt it? Have you been scared off Unit Testing by TDD zealots (such as myself :-)) Have you encountered other reasons that people use for avoiding TDD?
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

@@ -17,13 +17,13 @@ excerpt: 'In the past week, Yahoo has said that its employees must work in a Yah
 
 ![telephone - image licensed from Photodune](src/content/blog/yahoo-bans-work-home-alternative-perspective/images/telephone-xs.jpg)
 
-In the past week, Yahoo has said that its employees must work in a Yahoo office by June. The stated goal is to bring people together to increase collaboration. In addition, comments on [Quora](https://www.quora.com/Yahoo/What-has-been-the-internal-reaction-at-Yahoo-to-Marissa-Mayers-no-work-from-home-policy?srid=Bi&share=1) suggest that current and former employees feel the old work from home policy was badly abused – with Fridays being known as a “no work day”.
+In the past week, Yahoo has said that its employees must work in a Yahoo office by June. The stated goal is to bring people together to increase collaboration. In addition, comments on [Quora](external:https://www.quora.com/Yahoo/What-has-been-the-internal-reaction-at-Yahoo-to-Marissa-Mayers-no-work-from-home-policy?srid=Bi&share=1) suggest that current and former employees feel the old work from home policy was badly abused – with Fridays being known as a “no work day”.
 
 _Please appreciate that as I and others write, we have no special insight into what is happening at Yahoo. In addition, sometimes when you’re trying to change an entrenched organizational culture, it's necessary to deliver a shock to overcome inertia._
 
-Reaction in the press castigates Yahoo, (e.g.: “[A Giant Leap Backwards](https://financialpost.com/executive/a-giant-leap-backward-marissa-mayer-under-fire-for-banning-employees-from-working-from-home?r)”, Jason Perlow says: “[Yahoo Fix Your Culture and get Better Telecommuting Tools](https://www.zdnet.com/article/yahoo-fix-your-culture-and-get-better-telecommuting-tools/)”) saying, that remote work is the wave of the future, and knocking Yahoo for not embracing it.
+Reaction in the press castigates Yahoo, (e.g.: “[A Giant Leap Backwards](external:https://financialpost.com/executive/a-giant-leap-backward-marissa-mayer-under-fire-for-banning-employees-from-working-from-home?r)”, Jason Perlow says: “[Yahoo Fix Your Culture and get Better Telecommuting Tools](external:https://www.zdnet.com/article/yahoo-fix-your-culture-and-get-better-telecommuting-tools/)”) saying, that remote work is the wave of the future, and knocking Yahoo for not embracing it.
 
-From the [Principles](https://agilemanifesto.org/principles.html) page of the Agile Manifesto: “The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.” Even though it's already 12 years old, the statement still holds true. Electronic tools are still a long way from sharing body language and emotion that face-to-face interaction provides.
+From the [Principles](external:https://agilemanifesto.org/principles.html) page of the Agile Manifesto: “The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.” Even though it's already 12 years old, the statement still holds true. Electronic tools are still a long way from sharing body language and emotion that face-to-face interaction provides.
 
 For effective Agile teams, remote work shouldn’t be the norm. Remote work increases the productivity of one team member but reduces the productivity of the whole team due to limited collaboration opportunities and increased communication costs. In addition, telecommuting disconnects people from the team. The key point: remember the goal isn’t to optimize the productivity of the individual but the productivity of the team(s).
 
@@ -31,7 +31,7 @@ On the face of it, asking employees to work in the office is a good thing. What�
 
 ## Human Impact
 
-“Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.” Another Agile Manifesto [Principle](https://agilemanifesto.org/principles.html).
+“Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.” Another Agile Manifesto [Principle](external:https://agilemanifesto.org/principles.html).
 
 As described in the press, there is no flexibility; starting in June all remote work will cease. For some, this will involve changing their childcare arrangements, while others apparently will have to relocate. Some of these people joined Yahoo on the understanding that they would be working from home; for these people, their job has just changed quite radically.
 
@@ -39,7 +39,7 @@ All of these things would be seen to be **de-motivating** and so weaken engageme
 
 ## Implementation
 
-Based on the leaks to AllThingsD (“[Physically Together](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/)”) this change appears to be have been handed down from the top. I suspect the reality is more complex. Rather than suggest what should have happened at Yahoo, it’s interesting to consider other ways of having made a change like this.
+Based on the leaks to AllThingsD (“[Physically Together](external:http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/)”) this change appears to be have been handed down from the top. I suspect the reality is more complex. Rather than suggest what should have happened at Yahoo, it’s interesting to consider other ways of having made a change like this.
 
 Taking away choices and options that people have had for a while can be demotivating. What strategies are there for engaging them in making a change?
 

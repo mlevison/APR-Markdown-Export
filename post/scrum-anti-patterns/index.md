@@ -26,7 +26,7 @@ Below, you can browse through our growing collection of articles about Anti-Patt
 
 - - [Agile Bonuses - The Damage They Do](/blog/agile-bonuses-the-damage-they-do)
     - [Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint)
-    - [Scrum Anti-Patterns: Large Product Backlog](https://resources.scrumalliance.org/Article/scrum-anti-patterns-large-product-backlog) (published on ScrumAlliance.org) ([download link for PDF version](https://www.dropbox.com/s/hnn9qte2efneyb8/Scrum%20AntiPatterns%20Large%20Product%20Backlog.pdf?dl=0) in case the Scrum Alliance link is no longer functional)
+    - [Scrum Anti-Patterns: Large Product Backlog](external:https://resources.scrumalliance.org/Article/scrum-anti-patterns-large-product-backlog) (published on ScrumAlliance.org) ([download link for PDF version](external:https://www.dropbox.com/s/hnn9qte2efneyb8/Scrum%20AntiPatterns%20Large%20Product%20Backlog.pdf?dl=0) in case the Scrum Alliance link is no longer functional)
     - [Scrum Anti-Patterns: Micromanagement](/blog/scrum-anti-patterns-micromanagement)
     
     **Watch for more articles to be added soon!**

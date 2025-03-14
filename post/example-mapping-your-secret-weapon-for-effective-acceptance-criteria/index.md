@@ -54,7 +54,7 @@ There isn't any correct order. Sometimes when a team is stuck trying to define a
 - **Reduces Finger Pointing** - when features are built in a more adhoc fashion there can be a lot of finger pointing when the tester finds a defect. Especially when found late in the game, blame is faster than fixing the underlying issue.
 - **Splitting** is easier - large product backlog items become clearly identified and split into smaller parts. Rules/Examples often make the best splitting criteria.
 
-Original idea from [Matt Wynne](https://cucumber.io/blog/bdd/example-mapping-introduction/). _(Bonus: I learned that Friends episodes can be named, "The one where…")_
+Original idea from [Matt Wynne](external:https://cucumber.io/blog/bdd/example-mapping-introduction/). _(Bonus: I learned that Friends episodes can be named, "The one where…")_
 
 ### References
 

@@ -7,9 +7,9 @@ categories:
 excerpt: 'I'm just starting to learn and implement Scrum without yet having completed the CSM'
 ---
 
-I'm just starting to learn and implement Scrum without yet having completed the CSM training. I've years of reading about Agile Software development including the original [Scrum Book](https://www.amazon.com/Agile-Software-Development-SCRUM-Schwaber/dp/0130676349/&tag=notesfromatoo-20). So I thought I had a solid understanding. However putting theory into practice always reveals questions that I'd never considered.
+I'm just starting to learn and implement Scrum without yet having completed the CSM training. I've years of reading about Agile Software development including the original [Scrum Book](external:https://www.amazon.com/Agile-Software-Development-SCRUM-Schwaber/dp/0130676349/&tag=notesfromatoo-20). So I thought I had a solid understanding. However putting theory into practice always reveals questions that I'd never considered.
 
-Recently on the [Scrum List](https://groups.yahoo.com/group/scrumdevelopment/) I asked whether people were following the book on re-estimation:
+Recently on the [Scrum List](external:https://groups.yahoo.com/group/scrumdevelopment/) I asked whether people were following the book on re-estimation:
 
 > In the first scrum book Ken talks about re-estimating the tasks daily within a sprint. Is that how people are working?
 > 

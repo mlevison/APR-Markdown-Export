@@ -38,7 +38,7 @@ To be effective, you should have a plan but also change up your retrospectives s
 
 As the facilitator, you own the design of the retrospective. You decide which activities fit the team’s circumstances and mood, so be mindful of your choices. For example, if your team had trust issues last Sprint, then don’t plan an activity like Story Oscars\[[2](#footnotes)\] that focuses on why a User Story went wrong, or there’s a good chance it will turn into a blame-and-shame session. In a situation like that, you’d be far better off to pick an exercise that is likely to promote a Systems Thinking mindset, so that the wider context becomes visible before you try to deal with trust issues.
 
-Even with the best plans, you still must be prepared to adapt. I’ve facilitated a retrospective where I could just sense the energy of the room dying and the existing activity wasn’t working for them, so I flipped to a [Sailboat Retrospective exercise](https://www.retrium.com/retrospective-techniques/sailboat), which felt a little more lighthearted and interactive. Likewise, if the conversation seems to be going in a different direction than you anticipated but it’s still productive, consider allowing it to unfold and adapt your plan based on the team’s need.
+Even with the best plans, you still must be prepared to adapt. I’ve facilitated a retrospective where I could just sense the energy of the room dying and the existing activity wasn’t working for them, so I flipped to a [Sailboat Retrospective exercise](external:https://www.retrium.com/retrospective-techniques/sailboat), which felt a little more lighthearted and interactive. Likewise, if the conversation seems to be going in a different direction than you anticipated but it’s still productive, consider allowing it to unfold and adapt your plan based on the team’s need.
 
 #### Facilitation Tips
 
@@ -63,8 +63,8 @@ This is just a quick post about one of the most essential parts of Scrum. Learn 
 
 * * *
 
-\[1\] [https://dictionary.cambridge.org/dictionary/english/facilitation](https://dictionary.cambridge.org/dictionary/english/facilitation)
+\[1\] [https://dictionary.cambridge.org/dictionary/english/facilitation](external:https://dictionary.cambridge.org/dictionary/english/facilitation)
 
-\[1\] [https://retromat.org/en/?id=54](https://retromat.org/en/?id=54)
+\[1\] [https://retromat.org/en/?id=54](external:https://retromat.org/en/?id=54)
 
-Image credit: [Prateek Katyal](https://unsplash.com/@prateekkatyal)
+Image credit: [Prateek Katyal](external:https://unsplash.com/@prateekkatyal)

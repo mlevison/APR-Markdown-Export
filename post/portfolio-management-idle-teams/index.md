@@ -34,4 +34,4 @@ The best solution is have ‘idle’ Team members look at the board and see if t
 
 The most effective thing (in terms of delivering value) is to not focus on the idle worker at all, but continue to focus on finishing the work and maximizing value delivered to the customer. This is where Portfolio Management can really excel, by understanding this fundamental truth and facilitating it.
 
-Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).
+Image by Agile Pain Relief Consulting. Elements of image [designed by Freepik](external:https://www.freepik.com/premium-vector/shopping-infographic-with-gears_714785.htm).

@@ -22,4 +22,4 @@ My confession: This iteration my team took on a very ambitious sprint goal. For 
 
 Where have you found that transparency made a difference for your team?
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

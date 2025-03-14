@@ -29,8 +29,8 @@ The problem is that rewrites never happen as rapidly as promised, and never do t
 
 \-        Allows for the organizational pressures that created the original product to change. If they don’t, then the rewritten product will suffer the same problems as the original.
 
-Use a [strangler approach](https://www.martinfowler.com/bliki/StranglerApplication.html). Replace one small part of the system, adding new features, writing tests, etc. as you go. Do that one small chunk at a time, until the new system replaces the old. Bonus points awarded for going from monolithic to a number of mid-sized services (you’ll note I didn’t say the overused MicroServices word).
+Use a [strangler approach](external:https://www.martinfowler.com/bliki/StranglerApplication.html). Replace one small part of the system, adding new features, writing tests, etc. as you go. Do that one small chunk at a time, until the new system replaces the old. Bonus points awarded for going from monolithic to a number of mid-sized services (you’ll note I didn’t say the overused MicroServices word).
 
-Hmm, I think I just summarized Feather’s book](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/&tag=notesfromatoo-20) in one paragraph. Another good legacy code book: “[The Mikado Method](https://www.amazon.ca/Mikado-Method-Ola-Ellnestam/dp/1617291218/&tag=notesfromatoo-20)”. Finally, if you need more Legacy Code reading, checkout out our [Legacy Code and Systems.
+Hmm, I think I just summarized Feather’s book](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/&tag=notesfromatoo-20) in one paragraph. Another good legacy code book: “[The Mikado Method](external:https://www.amazon.ca/Mikado-Method-Ola-Ellnestam/dp/1617291218/&tag=notesfromatoo-20)”. Finally, if you need more Legacy Code reading, checkout out our [Legacy Code and Systems.
 
 Image attribution: Unsplash: Alec Weir, Bonnie Kittle

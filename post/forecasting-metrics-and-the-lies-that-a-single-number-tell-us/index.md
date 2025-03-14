@@ -41,7 +41,7 @@ Consider reporting a range.[\[1\]](#footnotes)[\[2\]](#footnotes)
 
 Along with projecting a cone of uncertainty in your burndown/burnup/cumulative flow diagram, it can also be used to illustrate which items in the product backlog are more or less likely to be achieved by drawing lines in the product backlog.
 
-If you need a more sophisticated model than these, consider using a Monte Carlo simulation. Larry Maccherone has a Chrome only example: [https://lumenize.com/](https://lumenize.com/) and code showing how he uses it: [https://jsfiddle.net/lmaccherone/j3wh61r7/](https://jsfiddle.net/lmaccherone/j3wh61r7/).
+If you need a more sophisticated model than these, consider using a Monte Carlo simulation. Larry Maccherone has a Chrome only example: [https://lumenize.com/](external:https://lumenize.com/) and code showing how he uses it: [https://jsfiddle.net/lmaccherone/j3wh61r7/](external:https://jsfiddle.net/lmaccherone/j3wh61r7/).
 
 ![Forecasting Metrics confidence line](src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-confidence-line.jpg)With five Sprints to go, we have a clear picture of where in the product backlog we will likely get.
 
@@ -51,6 +51,6 @@ This brings up the final problem with velocity as a number (or even range). The 
 
 So even with ranges and probabilities, the use of numbers can still hide the most important thing: **Is the customer happy?**
 
-\[1\] Note that even this model of reporting velocity has an implicit bell curve behind it. \[2\] Even elections are now forecast with ranges by the better forecasters: Eric Grenier: [https://www.threehundredeight.com/2015/10/final-federal-projection-likely-liberal.html](https://www.threehundredeight.com/2015/10/final-federal-projection-likely-liberal.html)
+\[1\] Note that even this model of reporting velocity has an implicit bell curve behind it. \[2\] Even elections are now forecast with ranges by the better forecasters: Eric Grenier: [https://www.threehundredeight.com/2015/10/final-federal-projection-likely-liberal.html](external:https://www.threehundredeight.com/2015/10/final-federal-projection-likely-liberal.html)
 
 Image attributions: Photodune and Agile Pain Relief Consulting

@@ -10,7 +10,7 @@ excerpt: '“Focus on the customer. Build amazing quality stuff. Release frequen
 
 “Focus on the customer. Build amazing quality stuff. Release frequently. Always improving. Two heads are better than one.”
 
-[MJ](https://michaeljames.org) and [George](https://blog.gdinwiddie.com) both take issue with “Always Improving”. MJ prefers "continuous adaption" because improvement implies there is an agreed upon definition of up. George feels that it doesn’t imply continuous learning.
+[MJ](external:https://michaeljames.org) and [George](external:https://blog.gdinwiddie.com) both take issue with “Always Improving”. MJ prefers "continuous adaption" because improvement implies there is an agreed upon definition of up. George feels that it doesn’t imply continuous learning.
 
 What would you write for the K-12 crowd? Have fun with it.
 

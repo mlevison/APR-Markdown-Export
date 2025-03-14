@@ -28,4 +28,4 @@ Distributed/Dispersed teams (ie no shared physical environment) are the only tim
 
 _Update: I should've stated my conclusion more clearly. Electronic tools work can be made to work,_ **however** _I believe that you're giving up an opportunity to foster interaction and collaboration among your team members._
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

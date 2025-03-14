@@ -11,7 +11,7 @@ excerpt: '[![Influence- Science and Practice book'
 
 Do you ever walk into a clothing store just to buy a suit and walk out having bought the suit, tie, belt and several shirts? This chapter will explain what just happened.
 
-This is the third posting in an ongoing series of notes from Robert Caildini's " [Influence: Science and Practice](https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)". This posting covers Chapter 2 "Weapons of Influence" Other postings in this series: [Introduction](/blog/influence_why_a), [Other Sources](/blog/influence_scien) coming soon: Reciprocation, Commitment/Consistency, Authority, Social Validation, Scarcity, Liking/Friendship
+This is the third posting in an ongoing series of notes from Robert Caildini's " [Influence: Science and Practice](external:https://www.amazon.com/gp/product/0321011473/&tag=notesfromatoo-20)". This posting covers Chapter 2 "Weapons of Influence" Other postings in this series: [Introduction](/blog/influence_why_a), [Other Sources](/blog/influence_scien) coming soon: Reciprocation, Commitment/Consistency, Authority, Social Validation, Scarcity, Liking/Friendship
 
 "Weapons of Influence" introduces the concept of fixed-action patterns or automatic responses.
 
@@ -25,6 +25,6 @@ The chapter also introduces the contrast principle, a favourite of profiteers ev
 
 This post introduced the importance and use of automatic triggers, the next post will discuss the Reciprocity principle. Or why we return automatically return favours.
 
-Other reading Marshall Soules Media studies 205: promotion, persuasion and propaganda. [Janin's Surrounded by Weapons of influence](https://happening-here.blogspot.com/2006/01/surrounded-by-weapons-of-influence.html)
+Other reading Marshall Soules Media studies 205: promotion, persuasion and propaganda. [Janin's Surrounded by Weapons of influence](external:https://happening-here.blogspot.com/2006/01/surrounded-by-weapons-of-influence.html)
 
 Image via Amazon

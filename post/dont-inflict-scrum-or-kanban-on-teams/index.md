@@ -65,6 +65,6 @@ e)    Keep the team(s) involved in decisions around the change
 
 Follow these easy steps and you won’t be inflicting anything onto teams, they’ll be embracing it.
 
-\[1\] SCARF – is Status, Certainty, Autonomy, Relatedness, and Fairness. See: "[David Rock on Neuroscience, Leadership and the SCARF Model](https://www.edbatista.com/2010/03/scarf.html)" by David Rock \[2\] ARC – is Autonomy, Relatedness and Competence. See: _[Why Motivating People Doesn’t Work…And What Does](https://www.amazon.ca/Motivating-People-Doesnt-Work-What/dp/1626561826/&tag=notesfromatoo-20)_ by Susan Fowler \[3\] AMP – is Autonomy, Mastery and Purpose. See: _[Drive: The Surprising Truth About What Motivates Us](https://www.amazon.ca/Drive-Surprising-Truth-About-Motivates/dp/1594484805/&tag=notesfromatoo-20)_ by Daniel H. Pink
+\[1\] SCARF – is Status, Certainty, Autonomy, Relatedness, and Fairness. See: "[David Rock on Neuroscience, Leadership and the SCARF Model](external:https://www.edbatista.com/2010/03/scarf.html)" by David Rock \[2\] ARC – is Autonomy, Relatedness and Competence. See: _[Why Motivating People Doesn’t Work…And What Does](external:https://www.amazon.ca/Motivating-People-Doesnt-Work-What/dp/1626561826/&tag=notesfromatoo-20)_ by Susan Fowler \[3\] AMP – is Autonomy, Mastery and Purpose. See: _[Drive: The Surprising Truth About What Motivates Us](external:https://www.amazon.ca/Drive-Surprising-Truth-About-Motivates/dp/1594484805/&tag=notesfromatoo-20)_ by Daniel H. Pink
 
-[(Hand image designed by Freepik)](https://www.freepik.com/free-photos-vectors/hand)
+[(Hand image designed by Freepik)](external:https://www.freepik.com/free-photos-vectors/hand)

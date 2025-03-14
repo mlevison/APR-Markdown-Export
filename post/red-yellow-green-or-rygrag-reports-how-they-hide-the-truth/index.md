@@ -78,12 +78,12 @@ Stop using RYG reports. They’re too abstract and hide too much information. Do
 
 ### Further Reading
 
-If your forecasting needs to go beyond the simple ranges approach outlined above, Troy Magennis has written a free eBook: _[Forecasting Using Data](https://medium.com/forecasting-using-data)._ Others have taken up on it as well:
+If your forecasting needs to go beyond the simple ranges approach outlined above, Troy Magennis has written a free eBook: _[Forecasting Using Data](external:https://medium.com/forecasting-using-data)._ Others have taken up on it as well:
 
-[Greenshifting and Redshifting within Projects](https://www.solutionsiq.com/resource/blog-post/greenshifting-and-redshifting-within-projects/) [The “Green Shifting” Anti-Pattern](http://www.edmundschweppe.com/2013/12/the-green-shifting-anti-pattern/) [Green Shifting](http://calleam.com/WTPF/?p=1205)
+[Greenshifting and Redshifting within Projects](external:https://www.solutionsiq.com/resource/blog-post/greenshifting-and-redshifting-within-projects/) [The “Green Shifting” Anti-Pattern](external:http://www.edmundschweppe.com/2013/12/the-green-shifting-anti-pattern/) [Green Shifting](external:http://calleam.com/WTPF/?p=1205)
 
  
 
 Updated January 2021 from October 2015 original article
 
-Traffic lights image attribution: [www.openclipart.org](https://www.openclipart.org/). All other images by Agile Pain Relief.
+Traffic lights image attribution: [www.openclipart.org](external:https://www.openclipart.org/). All other images by Agile Pain Relief.

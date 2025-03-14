@@ -28,7 +28,7 @@ Steve spent the next few days just taking notes on the interruptions. Discountin
 
 To track these issues Steve didn't need to spy, he just watched the flow of people in and out of the team space, listened for phone calls and read the email trail that filled his inbox.
 
-Once Steve noticed the issue he mentioned into a standup and asked people to start tracking what sort of interruptions they had. In the retrospective the team discussed sources of interruptions (again using a [timeline](https://www.energizedwork.com/weblog/2006/10/timeline-retrospective) as reminder).<!--more-->
+Once Steve noticed the issue he mentioned into a standup and asked people to start tracking what sort of interruptions they had. In the retrospective the team discussed sources of interruptions (again using a [timeline](external:https://www.energizedwork.com/weblog/2006/10/timeline-retrospective) as reminder).<!--more-->
 
 Discoveries:
 
@@ -40,7 +40,7 @@ Discoveries:
 
 Caveat Emptor: Remember the Lean Principle: “Optimize the Whole”. In this case ensure that the strategies benefit the whole system and not just one team.
 
-The key issue at play is that your brain can sustain 4-5 hrs of focused “[Flow](https://en.wikipedia.org/wiki/Flow_\(psychology\))” work in a day. The question at hand is how can we help team members utilise that time?
+The key issue at play is that your brain can sustain 4-5 hrs of focused “[Flow](external:https://en.wikipedia.org/wiki/Flow_\(psychology\))” work in a day. The question at hand is how can we help team members utilise that time?
 
 First the team needs to make the cost of the interruptions visible to the organization. Very often these things happen because people think about their own needs: i.e. Martin knows the database and can answer my question quickly. vs. I can spend 15 minutes trying to figure things out for myself before turning to Martin yet again. _This assumes the person with the question isn’t on Martin’s team, perhaps not even in the development organization._
 
@@ -63,4 +63,4 @@ Next up: An aside on tracking sprint and release progress, burndowns and interru
 
 _**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)

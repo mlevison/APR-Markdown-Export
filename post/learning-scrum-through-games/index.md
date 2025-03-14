@@ -25,11 +25,11 @@ Comments from participants:
 
 Below are Dropbox links for our materials:
 
-[Intro to Scrum with Games - Slides](https://www.dropbox.com/s/lcgf3vzwicw3m9a/Intro-to-Scrum-with-Games-Slides-Mark-Levison-and-Paul-Heidema.pdf?dl=0 "Intro to Scrum with Games - Slides - Mark Levison and Paul Heidema") - only 8 slides
+[Intro to Scrum with Games - Slides](external:https://www.dropbox.com/s/lcgf3vzwicw3m9a/Intro-to-Scrum-with-Games-Slides-Mark-Levison-and-Paul-Heidema.pdf?dl=0 "Intro to Scrum with Games - Slides - Mark Levison and Paul Heidema") - only 8 slides
 
-[Introduction to Scrum with Games - Key Concepts of Scrum](https://www.dropbox.com/s/1kfin87i8gb4e0k/Introduction-to-Scrum-with-Games-Key-Concepts-of-Scrum-Mark-Levison-and-Paul-Heidema.pdf?dl=0 "Introduction to Scrum with Games - Key Concepts of Scrum - Mark Levison and Paul Heidema") - very short
+[Introduction to Scrum with Games - Key Concepts of Scrum](external:https://www.dropbox.com/s/1kfin87i8gb4e0k/Introduction-to-Scrum-with-Games-Key-Concepts-of-Scrum-Mark-Levison-and-Paul-Heidema.pdf?dl=0 "Introduction to Scrum with Games - Key Concepts of Scrum - Mark Levison and Paul Heidema") - very short
 
-[Introduction to Scrum with Games - Goldilocks](https://www.dropbox.com/s/qxcypyr8nftkptl/Introduction-to-Scrum-with-Games-Goldilocks-Mark-Levison-and-Paul-Heidema.pdf?dl=0 "Introduction to Scrum with Games - Goldilocks - Mark Levison and Paul Heidema")
+[Introduction to Scrum with Games - Goldilocks](external:https://www.dropbox.com/s/qxcypyr8nftkptl/Introduction-to-Scrum-with-Games-Goldilocks-Mark-Levison-and-Paul-Heidema.pdf?dl=0 "Introduction to Scrum with Games - Goldilocks - Mark Levison and Paul Heidema")
 
 Feel free to use this simple simulation to help teach the **very basic** concepts of Scrum.
 
@@ -61,6 +61,6 @@ Caveat - the slides were just indeed as a backdrop and not stand on their own.
 
 <iframe style="border-bottom-width: 0px; border-style: solid; border-color: #cccccc; margin-bottom: 5px;" src="https://www.slideshare.net/slideshow/embed_code/15370715" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" data-mce-fragment="1"></iframe>
 
-**[Learning Scrum through games](https://www.slideshare.net/mlevison/learning-scrum-through-games-15370715 "Learning Scrum through games")** from **[Mark Levison](https://www.slideshare.net/mlevison)**
+**[Learning Scrum through games](external:https://www.slideshare.net/mlevison/learning-scrum-through-games-15370715 "Learning Scrum through games")** from **[Mark Levison](external:https://www.slideshare.net/mlevison)**
 
 Photos by Mark Levison

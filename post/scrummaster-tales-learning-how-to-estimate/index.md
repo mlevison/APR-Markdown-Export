@@ -22,7 +22,7 @@ _[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMa
 
 Product Owner Paula has learned from her past mistakes (See [Not Ready for Planning](/blog/the-scrummaster-tales)) and she now holds Backlog Grooming/Refinement Sessions whenever she has enough Stories to be worth Estimating (typically every 2-3 Sprints). During these meetings, team members estimate New Stories, split Large Stories, and develop Acceptance Criteria.
 
-With 10 new Stories and a couple of "Epics" that need to be split, Paula has scheduled a Grooming session for the middle of the Sprint. She has invited all the team members to attend; Kirby (see [New People on the Team](https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team)) comes but is grumbling, "I don’t see the point in this. It's just going to waste precious coding time. Why can’t this just happen in Sprint Planning?" (_Editor – Kirby hasn’t quite found his rhythm yet_). Paula reminds the team that the meeting exists so the team can ensure that Product Backlog is well prepared for the next Sprint Planning meeting. In addition, it helps her understand how much of the backlog they can realistically complete before the next release in three month’s time (_Editor – yes they have infrequent releases_).
+With 10 new Stories and a couple of "Epics" that need to be split, Paula has scheduled a Grooming session for the middle of the Sprint. She has invited all the team members to attend; Kirby (see [New People on the Team](external:https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team)) comes but is grumbling, "I don’t see the point in this. It's just going to waste precious coding time. Why can’t this just happen in Sprint Planning?" (_Editor – Kirby hasn’t quite found his rhythm yet_). Paula reminds the team that the meeting exists so the team can ensure that Product Backlog is well prepared for the next Sprint Planning meeting. In addition, it helps her understand how much of the backlog they can realistically complete before the next release in three month’s time (_Editor – yes they have infrequent releases_).
 
 She asks that they start estimating her first new story:
 
@@ -35,7 +35,7 @@ Team members start asking questions requiring clarification:
 - Does this include being able to see the book in the shopping cart? _Paula - No._
 - What if we don’t have accounts implemented when we start this story? _Paula - Then just use a fake/sample account for now._
 
-When the questions peter out, Team Members begin flipping through their Planning Poker™ cards (_I will have some for my readers soon_),looking for the right numbers. Kirby just looks around in confusion. Nobody had checked to see if he understood the estimation process. There was a pause and Scrum Master Steve asked, “What do you know about our estimation process?” The reply was, “Nothing.” Steve asked if he understood the flaws of traditional estimation – Kirby was sure he had this one down cold, “Yeah, you need to double the figures and then add a fudge factor, but never tell the developers otherwise their work will expand to fit the time available.” There was some nervous laughter, as Kirby has had trouble fitting into the team in the past (see [New People on the Team](https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team)).
+When the questions peter out, Team Members begin flipping through their Planning Poker™ cards (_I will have some for my readers soon_),looking for the right numbers. Kirby just looks around in confusion. Nobody had checked to see if he understood the estimation process. There was a pause and Scrum Master Steve asked, “What do you know about our estimation process?” The reply was, “Nothing.” Steve asked if he understood the flaws of traditional estimation – Kirby was sure he had this one down cold, “Yeah, you need to double the figures and then add a fudge factor, but never tell the developers otherwise their work will expand to fit the time available.” There was some nervous laughter, as Kirby has had trouble fitting into the team in the past (see [New People on the Team](external:https://agilepainrelief.com/blog/scrummaster-tales-new-people-on-the-team)).
 
 ## Analysis
 
@@ -56,7 +56,7 @@ Steve decides to explain the flaws with traditional estimates.
 - Estimates are only valid for one person – the Estimator.
 - They miss the chance to sample the diverse ideas of the Team.
 
-Instead Steve explains that we use relative estimation. All stories are compared to an existing gold standard much like the [original metre stick](https://en.wikipedia.org/wiki/Metre#Prototype_metre_bar). This “standard story” is arbitrarily given a size of ‘2’. In addition the team have also selected  a story approximately 4 times larger and made it an ‘8’.
+Instead Steve explains that we use relative estimation. All stories are compared to an existing gold standard much like the [original metre stick](external:https://en.wikipedia.org/wiki/Metre#Prototype_metre_bar). This “standard story” is arbitrarily given a size of ‘2’. In addition the team have also selected  a story approximately 4 times larger and made it an ‘8’.
 
 ## Editor's note
 
@@ -82,7 +82,7 @@ Again Steve asks the low (Doug) and high (Ian) Estimators to explain their think
 - Averages lead to arbitrarily precise numbers – a precision that doesn’t really exist. In addition, averaging takes away the power of the individual voice.
 - Just pick ‘8’. Agile estimation is trying to give equal voice to all opinions; when we pick the largest number we’re saying the other opinions didn’t matter.
 
-In my experience the best thing to do is set aside the story until the end of the estimation session. Often when we return, its size is now entirely obvious when compared with other stories we’ve estimated since. Finally if there is still no agreement, this is telling the team there is uncertainty in the problem. Coming up with an estimate is papering over the uncertainty. Instead, I recommend the team schedule a [Spike](https://www.extremeprogramming.org/rules/spike.html): 1-2 days rapid work on the problem, the goal of which is to help the team explore the boundaries of the problem and come up with enough information to produce an estimate. A Spike is committed to, the same as any other work in Sprint planning. When you do run a Spike, you should appreciate that the result is almost always throwaway code.
+In my experience the best thing to do is set aside the story until the end of the estimation session. Often when we return, its size is now entirely obvious when compared with other stories we’ve estimated since. Finally if there is still no agreement, this is telling the team there is uncertainty in the problem. Coming up with an estimate is papering over the uncertainty. Instead, I recommend the team schedule a [Spike](external:https://www.extremeprogramming.org/rules/spike.html): 1-2 days rapid work on the problem, the goal of which is to help the team explore the boundaries of the problem and come up with enough information to produce an estimate. A Spike is committed to, the same as any other work in Sprint planning. When you do run a Spike, you should appreciate that the result is almost always throwaway code.
 
 ## Tips
 
@@ -97,4 +97,4 @@ What have you learned from your Estimation Process? What Estimation tips do you 
 
 _**[Scrum by Example](/blog/category/scrum-by-example) is a narrative-style blog series designed to help people new to Scrum, especially new ScrumMasters. If you are new to the series, we recommend you [check out the introduction](/blog/scrum-by-example) to learn more about the series and discover other helpful articles.**_
 
-Images via: [https://photodune.net/](https://photodune.net/)
+Images via: [https://photodune.net/](external:https://photodune.net/)

@@ -95,6 +95,6 @@ These practices won’t help the Product Owner or the Team avoid potential plann
 
 **Want to have a better understanding of the _why_ and _how_ of more things in Scrum, and not just the book-level _what_?** Practising Scrum without proper understanding can bring poor results and, ultimately, frustration and resistance. In our Certified ScrumMaster workshops, attendees learn in a fun and non-judgmental environment how to make Scrum work effectively in the real world, not just in principle. [Join us to learn and to gain practical, hands-on experience](/certified-scrummaster-csm-training).
 
-\[1\]  HelpFast is a purely fictional tool. No real company was harmed in the making of this article. \[2\]  Hint: thinking that Planning isn’t real work is a trap. When we think that, we rush through the process and miss the chance to avoid many time-wasting mistakes. \[3\]  These headings are quotes from the [Scrum Guide](https://scrumguides.org/).
+\[1\]  HelpFast is a purely fictional tool. No real company was harmed in the making of this article. \[2\]  Hint: thinking that Planning isn’t real work is a trap. When we think that, we rush through the process and miss the chance to avoid many time-wasting mistakes. \[3\]  These headings are quotes from the [Scrum Guide](external:https://scrumguides.org/).
 
 Image attribution: Agile Pain Relief Consulting

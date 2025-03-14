@@ -26,4 +26,4 @@ Anytime you’re about to spend time and money on something, ask if the customer
 
 BTW I smell an Agile FAQ coming out of this and other questions.
 
-Image via: [https://photodune.net/](https://photodune.net/)
+Image via: [https://photodune.net/](external:https://photodune.net/)
