@@ -21,7 +21,7 @@ We’ll use this scenario to demonstrate the different aspects of Scrum, in a wa
 
 ### Our Story So Far
 
-The [Scrum Team](/blog/scrum-team-size.html) has just completed their ninth [Sprint](/glossary/sprint) and they are about to meet with their ScrumMaster and Product Owner to begin the next one.
+The [Scrum Team](/blog/scrum-team-size) has just completed their ninth [Sprint](/glossary/sprint) and they are about to meet with their ScrumMaster and Product Owner to begin the next one.
 
 But before we let them jump into [Sprint Planning](/glossary/sprint-planning), the first event in a Sprint, we need to clear up some common confusion. And to do _that_, we need to explain what [Product Backlog Refinement](/glossary/product-backlog-refinement) is, and why it should happen _before_ Sprint Planning ever begins.
 
@@ -151,7 +151,7 @@ For the next Sprint they identified several improvements they could make:
 
 Having completed their Sprint Retrospective, the Team is ready to start planning the next Sprint tomorrow morning.
 
-#### Read more stories of the WorldsSmallestOnlineBookStore team finding their way with Scrum in [Scrum by Example](/blog/scrum-by-example.html).
+#### Read more stories of the WorldsSmallestOnlineBookStore team finding their way with Scrum in [Scrum by Example](/blog/scrum-by-example).
 
 To gain hands-on experience working your way through the different elements of a Sprint, and understanding why things are structured the way they are, join us for our [Certified ScrumMaster training](/certified-scrummaster-csm-training).
 

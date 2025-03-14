@@ -5,7 +5,7 @@ date: "2019-09-13"
 
 ### Scrum and Agile articles and interviews:
 
-[Learning Best Approaches for Your Brain](/blog/learning-best-approaches-for-your-brain-slide-deck.html) – Mark Levison, 2009
+[Learning Best Approaches for Your Brain](/blog/learning-best-approaches-for-your-brain-slide-deck) – Mark Levison, 2009
 
 [Making TDD Stick: Problems and Solutions for Adopters](https://www.infoq.com/articles/levison-TDD-adoption-strategy/) Mark observed that, after solid classroom training, teams in larger companies still struggle to adopt TDD. To better understand the problem he surveyed team members. In this article he shares the problems he uncovered and his own comprehensive strategy, designed to help anyone introducing TDD into an organization.- Mark Levison, 2009
 
@@ -15,7 +15,7 @@ date: "2019-09-13"
 
 ### These interviews feature our team:
 
-[Scrum Alone is Not Enough – An InfoQ Interview with Mark Levison](https://www.infoq.com/articles/scrum-not-enough/): Video from the Agile 2015 Conference. Mark answers questions about his Scrum Alone is Not Enough [blog series](/blog/scrum-alone-is-not-enough.html). Also available, [written interview version](https://www.infoq.com/articles/scrum-not-enough/).
+[Scrum Alone is Not Enough – An InfoQ Interview with Mark Levison](https://www.infoq.com/articles/scrum-not-enough/): Video from the Agile 2015 Conference. Mark answers questions about his Scrum Alone is Not Enough [blog series](/blog/scrum-alone-is-not-enough). Also available, [written interview version](https://www.infoq.com/articles/scrum-not-enough/).
 
 [5 Steps For Creating High Performing Teams – Mark Levison at Agile 2015](https://www.solutionsiq.com/resource/agile-amped-podcast/5-steps-for-creating-high-performing-teams-mark-levison-at-agile-2015/): Video interview with Agile Amped discussing Mark’s [e-book](/high-performance-teams) on creating high-performance teams.
 

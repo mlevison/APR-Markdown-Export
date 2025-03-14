@@ -3,7 +3,7 @@ title: "Building High-Performance Organizations Game"
 date: "2020-02-19"
 ---
 
-"Beyond Scrum: Building High-Performance Organizations – a game for Managers, ScrumMasters and Product Owners" v1.2 is a board game that builds on the success of the previous "[Building High-Performance Teams Game.](/blog/welcome-to-the-high-performance-teams-game.html)"
+"Beyond Scrum: Building High-Performance Organizations – a game for Managers, ScrumMasters and Product Owners" v1.2 is a board game that builds on the success of the previous "[Building High-Performance Teams Game.](/blog/welcome-to-the-high-performance-teams-game)"
 
 \[embed\]https://www.slideshare.net/mlevison/building-high-performance-organizations-92180159\[/embed\]
 
@@ -34,7 +34,7 @@ Play focuses on the challenges faced in any modern mid to large-sized company at
 
 The game is won, not by producing the most features, but by delighting customers. In this case customer happiness is determined by whether or not they pay you for the features you produce. Oh, and try not to go bankrupt.
 
-Players learn much about [Portfolio Kanban](/blog/kanban-portfolio-view.html) and [Portfolio Management](/blog/portfolio-management.html). They also get an introduction to Systems Thinking, and [Organizational Improvement](/blog/taking-organizational-improvement-with-scrum-seriously.html). As a result, they have an introduction as to what it will take to grow their Organization’s performance. The game is backed by the series of blog posts Mark has been writing: [Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough.html).
+Players learn much about [Portfolio Kanban](/blog/kanban-portfolio-view) and [Portfolio Management](/blog/portfolio-management). They also get an introduction to Systems Thinking, and [Organizational Improvement](/blog/taking-organizational-improvement-with-scrum-seriously). As a result, they have an introduction as to what it will take to grow their Organization’s performance. The game is backed by the series of blog posts Mark has been writing: [Scrum Alone is Not Enough](/blog/scrum-alone-is-not-enough).
 
 ### Mechanics:
 

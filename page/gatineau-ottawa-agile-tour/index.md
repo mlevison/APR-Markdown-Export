@@ -27,14 +27,14 @@ The [Gatineau-Ottawa Agile Tour](https://goagiletour.ca/) (GOAT) is the largest
 
 In addition to being a past organizer and an ongoing title sponsor, Mark Levison has been a presenting speaker at past GOAT conferences, including:
 
-[Creativity for Agile Teams](/blog/creativity-for-agile-teams-2.html) - 2017 Gatineau-Ottawa Agile Tour
+[Creativity for Agile Teams](/blog/creativity-for-agile-teams-2) - 2017 Gatineau-Ottawa Agile Tour
 
-[Agile Leadership: An Oxymoron?](/blog/agile-leadership-an-oxymoron-goat2016-presentation.html) - 2016 Gatineau-Ottawa Agile Tour
+[Agile Leadership: An Oxymoron?](/blog/agile-leadership-an-oxymoron-goat2016-presentation) - 2016 Gatineau-Ottawa Agile Tour
 
-[Beyond Scrum: Building High-Performing Organizations Game](/blog/building-high-performing-organizations-game.html) for Managers, ScrumMasters and Product Owners - 2015 Gatineau-Ottawa Agile Tour
+[Beyond Scrum: Building High-Performing Organizations Game](/blog/building-high-performing-organizations-game) for Managers, ScrumMasters and Product Owners - 2015 Gatineau-Ottawa Agile Tour
 
-[High-Performance Teams Game](/blog/welcome-to-the-high-performance-teams-game.html) - 2014 Gatineau-Ottawa Agile Tour
+[High-Performance Teams Game](/blog/welcome-to-the-high-performance-teams-game) - 2014 Gatineau-Ottawa Agile Tour
 
-[The Magic of Science and Teams](/blog/magic-of-science-and-teams-presentation.html) - 2013 Gatineau-Ottawa Agile Tour
+[The Magic of Science and Teams](/blog/magic-of-science-and-teams-presentation) - 2013 Gatineau-Ottawa Agile Tour
 
 We encourage you to consider attending GOAT, or another Agile Tour in your area!
