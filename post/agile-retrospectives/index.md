@@ -158,7 +158,7 @@ Some of this work happens in the retrospective, but a lot of it happens before. 
     - Number of User Stories that were thought complete but failed to meet Definition of “Done”
     - … _Any other sources of information that could help with the team’s awareness of their circumstances – with one caveat – please, at all costs, avoid information that is focused or directed at one individual._
 
-(For a massively long list of measures, see: [https://agilepainrelief.com/blog/measurement-for-scrum-what-are-appropriate-measures.html](/blog/measurement-for-scrum-what-are-appropriate-measures)). Start small and build as your team learns to digest and understand the data found.
+(For a massively long list of measures, see: [Measurement for Scrum](/blog/measurement-for-scrum-what-are-appropriate-measures)). Start small and build as your team learns to digest and understand the data found.
 
 It’s important to gather this data before the retrospective because we don’t have accurate or complete memories of what happened in the past Sprint. In a CSM workshop, I ask a simple question, “Without looking at your tools, can you tell me what you completed a week and a day ago?” Most people can’t. Yet when we walk into a retrospective, we magically expect people to have better memories of a 2 to 4-week Sprint. Since that is unrealistic, the team and ScrumMaster need to gather the objective data that is available to them and provide it to the Team before the retrospective, either in a handout or email. Team members then can take time, either before or during the retrospective, to review the data gathered.
 

@@ -135,7 +135,7 @@ Whatever the outcome, we need to be careful of “Resulting”\[[10](#footnotes)
 
 \[7\] [https://thedecisionlab.com/biases/the-sunk-cost-fallacy](external:https://thedecisionlab.com/biases/the-sunk-cost-fallacy) – commonly known as “throwing good money after bad”
 
-\[8\] [https://agilepainrelief.com/blog/future-perspective-for-organizational-change.html](/blog/future-perspective-for-organizational-change)
+\[8\] [/blog/future-perspective-for-organizational-change.html](/blog/future-perspective-for-organizational-change)
 
 \[9\] Attributed to Gerald Weinberg: [https://en.wikipedia.org/wiki/Gerald\_Weinberg](external:https://en.wikipedia.org/wiki/Gerald_Weinberg)
 

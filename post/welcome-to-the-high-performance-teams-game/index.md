@@ -54,7 +54,7 @@ In this session we will use this research to discover:
 
 In addition to the game material, I’ve written a paper on the “[5 Steps Towards High-Performance Teams](external:https://www.dropbox.com/s/n5k56pg8wo3vsni/Five%20Steps%20Towards%20Creating%20High%20Performance%20Teams.pdf?dl=0)”.
 
-Enjoy playing with your team. [![Creative Commons License Icon](src/content/blog/welcome-to-the-high-performance-teams-game/images/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) High-Performance Teams Game by [Mark Levison - Agile Pain Relief Consulting](external:https://agilepainrelief.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](external:https://creativecommons.org/licenses/by-sa/4.0/).
+Enjoy playing with your team. [![Creative Commons License Icon](src/content/blog/welcome-to-the-high-performance-teams-game/images/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/) High-Performance Teams Game by [Mark Levison - Agile Pain Relief Consulting](https://agilepainrelief.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](external:https://creativecommons.org/licenses/by-sa/4.0/).
 
 * * *
 

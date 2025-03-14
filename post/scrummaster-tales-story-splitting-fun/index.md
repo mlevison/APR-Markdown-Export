@@ -75,7 +75,12 @@ N.B. If the dependency is just around sizing/effort then it's okay for the team 
 
 There are several dozen interesting ways to split stories; some more ideas and examples are found in:
 
-[https://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories/](external:https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/) [https://agilepainrelief.com/blog/more-notes-on-story-splitting.html](/blog/more-notes-on-story-splitting) [https://www.agileforall.com/2009/12/10/new-to-agile-learn-how-to-split-stories/](external:https://agileforall.com/new-to-agile-learn-how-to-split-stories/) [https://xp123.com/articles/twenty-ways-to-split-stories/](external:https://xp123.com/articles/twenty-ways-to-split-stories/) [https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/](external:https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/) [https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/](external:https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/)
+- [https://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories/](external:https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/) 
+- [More Story Splitting Fun](/blog/more-notes-on-story-splitting) 
+- [https://www.agileforall.com/2009/12/10/new-to-agile-learn-how-to-split-stories/](external:https://agileforall.com/new-to-agile-learn-how-to-split-stories/) 
+- [https://xp123.com/articles/twenty-ways-to-split-stories/](external:https://xp123.com/articles/twenty-ways-to-split-stories/) 
+- [https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/](external:https://blogs.collab.net/agile/2012/06/20/15-ways-to-split-an-epic-a-team-exercise/) 
+- [https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/](external:https://blog.gdinwiddie.com/2011/05/01/splitting-user-stories/)
 
 What problems have you had splitting stories? How did you split the stories in the end? What would you do differently today?
 

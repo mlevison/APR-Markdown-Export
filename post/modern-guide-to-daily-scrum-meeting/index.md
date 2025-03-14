@@ -162,7 +162,7 @@ If you have 2–3 teams trying to coordinate work during a Sprint, some groups s
 
 This is taken from the Large Scale Scrum approach and the arrangement is usually temporary. Teams determine in Sprint Planning which other teams they need to work with that Sprint and plan the coordination mechanism.
 
-If there are more than 3 teams, some groups create a separate Scrum of Scrums. For more sources on multi-team Scrum see: https://agilepainrelief.com/glossary/scaling
+If there are more than 3 teams, some groups create a separate Scrum of Scrums. For more sources on multi-team Scrum see: [Scaling](/glossary/scaling)
 
 ## Tips for Remote Daily Scrum
 

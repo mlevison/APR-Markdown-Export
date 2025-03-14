@@ -189,6 +189,6 @@ Want to learn more about Impact Mapping and other strategies to help your team i
 
 \[8\] “Splitting user stories -- the hamburger method” by Gojko Adzic - [https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/](external:https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/)
 
-\9\] [https://agilepainrelief.com/glossary/facilitation
+\9\] [/glossary/facilitation
 
 (Updated November 2023)
