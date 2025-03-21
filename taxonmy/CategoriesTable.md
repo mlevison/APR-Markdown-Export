@@ -1,7 +1,4 @@
-Categories Table
-
 | Title | Slug |
-|-------|------|
 | Acceptance Test Driven Development | acceptance-test-driven-development |
 | Agile | agile |
 | Agile Estimation | estimations |

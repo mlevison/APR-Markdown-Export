@@ -149,4 +149,4 @@ In a study of what happened to patent applications at Thales, a change in the bo
 
 \[4\] [Overtime on a Scrum Team is an Unhealthy Sign](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)
 
-\5\] [SCARF Model
+\[5\] SCARF Model
