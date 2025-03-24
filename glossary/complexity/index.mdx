@@ -4,6 +4,10 @@ date: "2021-02-08"
 relatedTerms: ['estimation']
 excerpt: 'We encounter complexity whenever we're asked to estimate how long it will take to fix a'
 ---
+import Figure from '@/components/global/figure.astro';
+import CynefinChart from 'src/content/glossary/complexity/images/cynefin-chart.jpg';
+
+
 import HighlightBox from '@/components/global/highlight-box.astro';
 
 We encounter complexity whenever we're asked to estimate how long it will take to fix a bug. Or when we're asked how long it will take to bring a novel product to market. We don't know what we can't know.
@@ -12,7 +16,12 @@ This is where Cynefin helps. Unfortunately, this theory has a complicated descri
 
 Its creator, David Snowden, calls it a sensemaking tool, i.e. a tool to help you understand which domain your current problem lies in, and what actions to take based on that fact.
 
-![](src/content/glossary/complexity/images/cynefin-chart.jpg)
+<Figure
+  src={CynefinChart}
+  alt=""
+  caption=""
+/>
+
 
 That's a fancy picture with a lot of words.
 

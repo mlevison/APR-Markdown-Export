@@ -4,6 +4,12 @@ date: "2021-03-08"
 relatedTerms: ['interruptions', 'part-time-team-members', 'work-in-progress']
 excerpt: 'Buried in most job ads is the phrase "Looking for a great multitasker". Too bad they don't'
 ---
+import Figure from '@/components/global/figure.astro';
+import MultitaskingKillsIndividualProductivity1024x544 from 'src/content/glossary/multitasking/images/Multitasking-Kills-Individual-Productivity-1024x544.png';
+import MultiTaskingProjectCostsSlide1 from 'src/content/glossary/multitasking/images/Multi-tasking-Project-Costs-slide1.jpg';
+import MultiTaskingProjectCostsSlide3 from 'src/content/glossary/multitasking/images/Multi-tasking-Project-Costs-slide3.jpg';
+
+
 import HighlightBox from '@/components/global/highlight-box.astro';
 
 Buried in most job ads is the phrase "Looking for a great multitasker". Too bad they don't exist. Contrary to what some books would have you believe, **multitasking** effectively is not an actual thing. As humans, we suffer from the problem of dual task interference. When we're already doing one thing, splitting our focus with an additional item causes us to make mistakes with both.
@@ -17,16 +23,31 @@ This topic is insanely deep and much larger than we can cover in a short glossar
 - Tasks or work gets lost
 - Degrades short-term memory (which is probably part of the source of errors)
 
-![Multitasking Kills Individual Productivity](src/content/glossary/multitasking/images/Multitasking-Kills-Individual-Productivity-1024x544.png) **Effects of multi-tasking when individuals are members of multiple teams:**
+<Figure
+  src={MultitaskingKillsIndividualProductivity1024x544}
+  alt="Multitasking Kills Individual Productivity"
+  caption="Multitasking Kills Individual Productivity"
+/>
+ **Effects of multi-tasking when individuals are members of multiple teams:**
 
 - Work items are often stuck waiting for a team who is currently switched to another project
 - Coordination overhead is increased
 
-![illustration of the costs of multitasking costs with multi-project assignments - image by Agile Pain Relief Consulting](src/content/glossary/multitasking/images/Multi-tasking-Project-Costs-slide1.jpg) Teams working on multiple projects in parallel ensure that all projects get done later.
+<Figure
+  src={MultiTaskingProjectCostsSlide1}
+  alt="illustration of the costs of multitasking costs with multi-project assignments - image by Agile Pain Relief Consulting"
+  caption="illustration of the costs of multitasking costs with multi-project assignments - image by Agile Pain Relief Consulting"
+/>
+ Teams working on multiple projects in parallel ensure that all projects get done later.
 
 Key takeaways: Don't split people over multiple teams. Where humanly possible, get teams to focus on one major item at a time.
 
-![illustration of the reduced costs of multitasking with a focused Scrum team - image by Agile Pain Relief Consulting](src/content/glossary/multitasking/images/Multi-tasking-Project-Costs-slide3.jpg)
+<Figure
+  src={MultiTaskingProjectCostsSlide3}
+  alt="illustration of the reduced costs of multitasking with a focused Scrum team - image by Agile Pain Relief Consulting"
+  caption="illustration of the reduced costs of multitasking with a focused Scrum team - image by Agile Pain Relief Consulting"
+/>
+
 
 <HighlightBox heading="Resource Links" variant="resourceLinks">
 - [Multitasking Gets You There Later](external:https://www.infoq.com/articles/multitasking-problems/)

@@ -13,7 +13,17 @@ tags:
 excerpt: '_Julia and Rob – are personas used by the BookStore Team to keep them focused on the needs'
 ---
 
-![SprintBurndownEstimateHrsRemaining](src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownEstimateHrsRemaining.png)It’s six Sprints after the “[Overtime/Disastrous Release](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)”, which set the team back by several months. During the current Sprint Planning, the Team committed to completing the following nine User Stories:
+import Figure from '@/components/global/figure.astro';
+import SprintBurndownEstimateHrsRemaining from 'src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownEstimateHrsRemaining.png';
+import SprintBurndownNumberStoriesRemaining from 'src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownNumberStoriesRemaining.png';
+
+
+<Figure
+  src={SprintBurndownEstimateHrsRemaining}
+  alt="SprintBurndownEstimateHrsRemaining"
+  caption="SprintBurndownEstimateHrsRemaining"
+/>
+It’s six Sprints after the “[Overtime/Disastrous Release](/blog/scrummaster-tales-overtime-on-a-scrum-team-is-an-unhealthy-sign)”, which set the team back by several months. During the current Sprint Planning, the Team committed to completing the following nine User Stories:
 
 _Julia and Rob – are personas used by the BookStore Team to keep them focused on the needs of real users. Julia is a Frequent Book Buyer and Rob is Rookie or First Time Book Buyer._
 
@@ -61,7 +71,12 @@ Clearly Team ‘A’ is better off even though they have more task hours remaini
 
 Some of the most effective Teams I’ve seen dispense with Sprint Burndowns altogether and just focus on the flow of work across the Scrum Wall. They focus on getting the Stories themselves to completion and the tasks are just aids. For those who prefer to use a Sprint Burndown consider - Sample Improved Sprint Burndown:
 
-![Sprint Burndown Number of Stories Remaining](src/content/blog/scrummaster-tales-the-trouble-with-sprint-burndowns/images/SprintBurndownNumberStoriesRemaining.png)
+<Figure
+  src={SprintBurndownNumberStoriesRemaining}
+  alt="Sprint Burndown Number of Stories Remaining"
+  caption="Sprint Burndown Number of Stories Remaining"
+/>
+
 
 Just counting the number of Stories puts the emphasis on getting Stories to done. Even Story Size in Points can be distortive because it makes large items seem valuable making a cliff like burndown more likely. Just counting Stories puts the emphasis on the delivery of value.
 

@@ -11,7 +11,18 @@ tags:
 coverImage: "road-44143_640.png"
 ---
 
-### ![Speed Bump Sign - free image from Pixabay.com](src/content/blog/scrummaster-tales-stuck-waiting-for-other-teams/images/road-44143_640.png) Getting stuck waiting for people outside your Scrum Team? Some examples of how to handle this situation.
+import Figure from '@/components/global/figure.astro';
+import Road44143640 from 'src/content/blog/scrummaster-tales-stuck-waiting-for-other-teams/images/road-44143_640.png';
+import ScrumMasterTalesStuckWaitingForOtherTeamsDataTable from 'src/content/blog/scrummaster-tales-stuck-waiting-for-other-teams/images/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table.jpg';
+import ScrumMasterTalesStuckWaitingForOtherTeamsCFDChart from 'src/content/blog/scrummaster-tales-stuck-waiting-for-other-teams/images/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart.jpg';
+
+
+<Figure
+  src={Road44143640}
+  alt="Speed Bump Sign - free image from Pixabay.com"
+  caption="Speed Bump Sign - free image from Pixabay.com"
+/>
+ Getting stuck waiting for people outside your Scrum Team? Some examples of how to handle this situation.
 
 Steve (ScrumMaster) and the team are humming along nicely building great new features for the SmallestOnlineBookStore. With the huge success of the first big release nine months ago, venture capital money has come flowing into the company. Significant investments have been made in Operations, Security, and Networking in addition to creating several new Development Teams. Unfortunately, all these new people are making it more difficult for the team to get the software they built deployed.
 
@@ -29,11 +40,21 @@ Before we explore options in a situation like this I prefer to gather data. The 
 
 Steve, being aware this might be an issue, has been tracking the data for just over a month:
 
-![ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table](src/content/blog/scrummaster-tales-stuck-waiting-for-other-teams/images/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table.jpg)
+<Figure
+  src={ScrumMasterTalesStuckWaitingForOtherTeamsDataTable}
+  alt="ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table"
+  caption="ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table"
+/>
+
 
 From the data we can produce a Cumulative Flow Diagram that looks like this:
 
-![ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart](src/content/blog/scrummaster-tales-stuck-waiting-for-other-teams/images/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart.jpg)
+<Figure
+  src={ScrumMasterTalesStuckWaitingForOtherTeamsCFDChart}
+  alt="ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart"
+  caption="ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart"
+/>
+
 
 So what does this chart show? The team isn’t the bottleneck in this case. A simple test I use to tell is this:
 

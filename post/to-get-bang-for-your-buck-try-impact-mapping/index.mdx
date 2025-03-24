@@ -7,6 +7,14 @@ coverImage: "impact-mapping-WSOBS-example4.png"
 excerpt: 'Work is humming along nicely when your Marketing VP stops by your desk and says, “We need'
 ---
 
+import Figure from '@/components/global/figure.astro';
+import ImpactMapping from 'src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping.jpg';
+import ImpactMappingWSOBSExample1 from 'src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example1.png';
+import ImpactMappingWSOBSExample2 from 'src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example2.png';
+import ImpactMappingWSOBSExample3 from 'src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example3.png';
+import ImpactMappingWSOBSExample4 from 'src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example4.png';
+
+
 Work is humming along nicely when your Marketing VP stops by your desk and says, “We need to double monthly sales.”
 
 That’s it. That their entire instruction.
@@ -61,7 +69,12 @@ Identify the **Goal** first, then **Who** (**Actor**), **How** (**Impact**), and
 
 ## Example of an Impact Map:
 
-![Impact Mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping.jpg) Figure 2 - Creative Commons 4.0 as per: [https://www.impactmapping.org/drawing.html](external:https://www.impactmapping.org/drawing.html). Credit: [http://impactmapping.org/](external:http://impactmapping.org/)
+<Figure
+  src={ImpactMapping}
+  alt="Impact Mapping example"
+  caption="Impact Mapping example"
+/>
+ Figure 2 - Creative Commons 4.0 as per: [https://www.impactmapping.org/drawing.html](external:https://www.impactmapping.org/drawing.html). Credit: [http://impactmapping.org/](external:http://impactmapping.org/)
 
 ## Tips for Drawing an Impact Map
 
@@ -98,19 +111,39 @@ Our example: One month after the team complete this work they have increased sal
     - Find the Actors who could have a positive or negative effect on the milestone.
     - If people already have ideas or features, put them around the outside. Then ask some questions: Does the feature contribute towards the Goal? Is the Impact valid for the Actor it is ascribed to? Gojko offers a user story-like technique for testing: "<someone> can help us achieve our <objective> by doing <something differently>"
 
-Our example: For the “Actor” we decide to focus on current book-buying customers for our milestone: ![impact mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example1.png)
+<Figure
+  src={ImpactMappingWSOBSExample1}
+  alt="impact mapping example"
+  caption="impact mapping example"
+/>
+
 
 Then we ask ourselves: What “Impact” can the Actor have? Or: How can the Actor help us?
 
-In our example, the answer might be “buy more books” or “refer friends”. ![](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example2.png)
+<Figure
+  src={ImpactMappingWSOBSExample2}
+  alt=""
+  caption=""
+/>
+
 
 What Deliverable could we build to achieve this?
 
-![impact mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example3.png)
+<Figure
+  src={ImpactMappingWSOBSExample3}
+  alt="impact mapping example"
+  caption="impact mapping example"
+/>
+
 
 **2\. Find alternatives.** What else could these people do for us? Who else can help? Who can obstruct? If you find that you’re struggling, try Hohmann Innovation Games\[[4](#footnotes)\] or Gray Gamestorming\[[5](#footnotes)\]. Also try asking which of the following factors to consider: New Business, Upsell, Retainment, Operational Efficiency\[[6](#footnotes)\]
 
-![impact mapping example](src/content/blog/to-get-bang-for-your-buck-try-impact-mapping/images/impact-mapping-WSOBS-example4.png)
+<Figure
+  src={ImpactMappingWSOBSExample4}
+  alt="impact mapping example"
+  caption="impact mapping example"
+/>
+
 
 **3\. Identify key priorities.** Look for obstructions. What can stop us before we start? Is there high-value, low-hanging fruit? What key assumptions should be tested? These questions should all be focused on business activities, impacts, and outcomes, not software features.
 

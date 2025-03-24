@@ -16,11 +16,20 @@ tags:
 excerpt: 'In 201x, the global financial markets collapsed. Reason: mortgages were given to people'
 ---
 
+import Figure from '@/components/global/figure.astro';
+import Photodune12493274DogAndOwnerPlayingXs from 'src/content/blog/simplicity/images/photodune-12493274-dog-and-owner-playing-xs.jpg';
+
+
 In 201x, the global financial markets collapsed. Reason: mortgages were given to people who couldn’t afford them. This debt was then repackaged and sold to banks and other institutions as good debt. (“[The Big Short](external:https://www.amazon.ca/The-Big-Short-Doomsday-Machine/dp/0393072231/&tag=notesfromatoo-20)” by Michael Lewis is an excellent indictment of this time). However, the bigger question remained. Why didn’t the financial regulator system catch the problem early, while it was still small?
 
 The answer? Complexity.
 
-![Dog and frisbee - Image attribute - Photodune](src/content/blog/simplicity/images/photodune-12493274-dog-and-owner-playing-xs.jpg)
+<Figure
+  src={Photodune12493274DogAndOwnerPlayingXs}
+  alt="Dog and frisbee - Image attribute - Photodune"
+  caption="Dog and frisbee - Image attribute - Photodune"
+/>
+
 
 In “[The Dog and the Frisbee](external:https://www.bis.org/review/r120905a.pdf)” (pdf), Andrew Haldane, Executive Director Financial Stability at the Bank of England, explains all the things a dog would have to know and understand to catch a Frisbee: wind speed and direction, rotational velocity of the Frisbee, atmospheric conditions, and gravitation. It might require a degree in physics to know how to express the control problem involved in catching the Frisbee.
 

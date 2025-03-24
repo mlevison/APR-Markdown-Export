@@ -4,6 +4,10 @@ date: "2021-05-12"
 relatedTerms: ['improvement-experiments', 'large-scale-scrum-less', 'systems-thinking']
 excerpt: 'A **Causal Loop Diagram** is a visual representation and reference that helps to'
 ---
+import Figure from '@/components/global/figure.astro';
+import CausalLoopDiagram from 'src/content/glossary/causal-loop-diagram/images/Causal-Loop-Diagram.jpg';
+
+
 import LinkList from '@/components/global/link-list.astro';
 import HighlightBox from '@/components/global/highlight-box.astro';
 
@@ -11,7 +15,12 @@ A **Causal Loop Diagram** is a visual representation and reference that helps to
 
 You can see examples of CLDs in action in these anti-patterns, where the Causal Loop Diagram makes more obvious the detrimental affect they can have:
 
-![Example of a Causal Loop Diagram](src/content/glossary/causal-loop-diagram/images/Causal-Loop-Diagram.jpg) Example of a Causal Loop Diagram 
+<Figure
+  src={CausalLoopDiagram}
+  alt="Example of a Causal Loop Diagram"
+  caption="Example of a Causal Loop Diagram"
+/>
+ Example of a Causal Loop Diagram 
 <LinkList heading = "Agile Pain Relief Blog Entries">
 - [Scrum Anti-Patterns: The Hardening Sprint](/blog/antipattern-hardening-sprint)
 

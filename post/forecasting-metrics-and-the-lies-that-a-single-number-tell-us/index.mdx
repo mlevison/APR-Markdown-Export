@@ -19,6 +19,11 @@ coverImage: "photodune-1447482-measures-xs.jpg"
 excerpt: 'This post has now been replaced by the updated and expanded [Red-Yellow-Green Status'
 ---
 
+import Figure from '@/components/global/figure.astro';
+import ForecastingMetricsBurndownE1468266364183 from 'src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-burndown-e1468266364183.jpg';
+import ForecastingMetricsConfidenceLine from 'src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-confidence-line.jpg';
+
+
 This post has now been replaced by the updated and expanded [Red-Yellow-Green Status Reports and Other Models - How They Should and Shouldn’t Be Used](/blog/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth) post. Please update all bookmarks and links accordingly.
 
 We’ve previously seen that our [mental models](/blog/bell-curves-and-measuring-badly) often make false assumptions due to cognitive bias. Giving a Single number in a report has a similar problem.
@@ -37,13 +42,23 @@ Consider reporting a range.[\[1\]](#footnotes)[\[2\]](#footnotes)
 - Last three sprints – you’re 50% likely to achieve this number
 - Worst three sprints in the past year - the least you’re likely to achieve
 
-![Image by Agile Pain Relief Consulting](src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-burndown-e1468266364183.jpg)
+<Figure
+  src={ForecastingMetricsBurndownE1468266364183}
+  alt="Image by Agile Pain Relief Consulting"
+  caption="Image by Agile Pain Relief Consulting"
+/>
+
 
 Along with projecting a cone of uncertainty in your burndown/burnup/cumulative flow diagram, it can also be used to illustrate which items in the product backlog are more or less likely to be achieved by drawing lines in the product backlog.
 
 If you need a more sophisticated model than these, consider using a Monte Carlo simulation. Larry Maccherone has a Chrome only example: [https://lumenize.com/](external:https://lumenize.com/) and code showing how he uses it: [https://jsfiddle.net/lmaccherone/j3wh61r7/](external:https://jsfiddle.net/lmaccherone/j3wh61r7/).
 
-![Forecasting Metrics confidence line](src/content/blog/forecasting-metrics-and-the-lies-that-a-single-number-tell-us/images/Forecasting-Metrics-confidence-line.jpg)With five Sprints to go, we have a clear picture of where in the product backlog we will likely get.
+<Figure
+  src={ForecastingMetricsConfidenceLine}
+  alt="Forecasting Metrics confidence line"
+  caption="Forecasting Metrics confidence line"
+/>
+With five Sprints to go, we have a clear picture of where in the product backlog we will likely get.
 
 So instead of forecasting a number, now we’re forecasting which items will be delivered, i.e. we’re forecasting value. This drives a better quality conversation because we can have real discussions about which stories or features to sort into which part of the Product Backlog.
 

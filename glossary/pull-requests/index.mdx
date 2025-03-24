@@ -3,6 +3,10 @@ title: "Pull Requests"
 date: "2024-10-10"
 excerpt: 'Pull Requests are a proposal to merge a set of changes from one branch to another. They'
 ---
+import Figure from '@/components/global/figure.astro';
+import PullRequestAntiPattern from 'src/content/glossary/pull-requests/images/Pull-Request-Anti-Pattern.jpg';
+
+
 import LinkList from '@/components/global/link-list.astro';
 import HighlightBox from '@/components/global/highlight-box.astro';
 
@@ -10,7 +14,12 @@ Pull Requests are a proposal to merge a set of changes from one branch to anothe
 
 __If worker busyness were the measure of software productivity, then pull requests would be well__ __suited to the task.__ But we know that's not how quality and productivity are formed.
 
-![Pull Request Scrum Anti-Pattern](src/content/glossary/pull-requests/images/Pull-Request-Anti-Pattern.jpg)
+<Figure
+  src={PullRequestAntiPattern}
+  alt="Pull Request Scrum Anti-Pattern"
+  caption="Pull Request Scrum Anti-Pattern"
+/>
+
 
 ****Weaknesses to Pull Requests include:****
 

@@ -4,11 +4,21 @@ date: "2022-09-29"
 relatedTerms: ['unit-testing']
 excerpt: '**Agile Testing** is "collaborative testing practices that occur continuously, from'
 ---
+import Figure from '@/components/global/figure.astro';
+import AgileTestingManifesto722x1024 from 'src/content/glossary/testing/images/Agile-Testing-Manifesto-722x1024.png';
+import TestAutomationPyramid from 'src/content/glossary/testing/images/Test-Automation-Pyramid.jpg';
+
+
 import HighlightBox from '@/components/global/highlight-box.astro';
 
 **Agile Testing** is "collaborative testing practices that occur continuously, from inception to delivery and beyond, supporting frequent delivery of value for our customers. Testing activities focus on building quality into the product, using fast feedback loops to validate our understanding. The practices strengthen and support the idea of whole-team responsibility for quality." - Lisa Crispin and Janet Gregory in _Agile Testing Condensed_.
 
-![Agile Testing Manifesto image courtesy of Sam Laing and Karen Greaves](src/content/glossary/testing/images/Agile-Testing-Manifesto-722x1024.png)
+<Figure
+  src={AgileTestingManifesto722x1024}
+  alt="Agile Testing Manifesto image courtesy of Sam Laing and Karen Greaves"
+  caption="Agile Testing Manifesto image courtesy of Sam Laing and Karen Greaves"
+/>
+
 
 ## Role
 
@@ -37,7 +47,12 @@ _No separate role - rather a need that a self organizing team needs to fulfill. 
 - Collaborate with Customers
 - See the Big Picture
 
-![Test Automation Pyramid](src/content/glossary/testing/images/Test-Automation-Pyramid.jpg)
+<Figure
+  src={TestAutomationPyramid}
+  alt="Test Automation Pyramid"
+  caption="Test Automation Pyramid"
+/>
+
 
 <HighlightBox heading="Resource Links" variant="resourceLinks">
 - [Design for Testability](external:https://blog.gdinwiddie.com/2012/05/16/design-for-testability/)

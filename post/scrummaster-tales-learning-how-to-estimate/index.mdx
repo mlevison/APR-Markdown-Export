@@ -16,7 +16,17 @@ coverImage: "photodune-1602425-cards-hand-xs.jpg"
 excerpt: '_[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster'
 ---
 
-![Hand of cards - - image licensed from Photodune](src/content/blog/scrummaster-tales-learning-how-to-estimate/images/photodune-1602425-cards-hand-xs.jpg)
+import Figure from '@/components/global/figure.astro';
+import Photodune1602425CardsHandXs from 'src/content/blog/scrummaster-tales-learning-how-to-estimate/images/photodune-1602425-cards-hand-xs.jpg';
+import ArchitectsXs from 'src/content/blog/scrummaster-tales-learning-how-to-estimate/images/architects-xs.jpg';
+
+
+<Figure
+  src={Photodune1602425CardsHandXs}
+  alt="Hand of cards - - image licensed from Photodune"
+  caption="Hand of cards - - image licensed from Photodune"
+/>
+
 
 _[Scrum By Example](/blog/scrum-by-example) is a series of stories about ScrumMaster Steve who is the ScrumMaster for the WorldsSmallestOnlineBookstore._
 
@@ -76,7 +86,12 @@ Again Steve asks the low (Doug) and high (Ian) Estimators to explain their think
 
 ## Analysis
 
-![An image of two architects' hands doing work - image licensed from Photodune ](src/content/blog/scrummaster-tales-learning-how-to-estimate/images/architects-xs.jpg)What are the team’s options at this point?
+<Figure
+  src={ArchitectsXs}
+  alt="An image of two architects' hands doing work - image licensed from Photodune "
+  caption="An image of two architects' hands doing work - image licensed from Photodune "
+/>
+What are the team’s options at this point?
 
 - A difference of one size, i.e. 5 vs. 8, or 8 vs. 13, isn’t meaningful. But a difference of two steps, i.e. 5 vs. 13, is meaningful. _Editor: In this case the team could easily just pick one._
 - Averages lead to arbitrarily precise numbers – a precision that doesn’t really exist. In addition, averaging takes away the power of the individual voice.

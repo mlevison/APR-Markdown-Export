@@ -9,6 +9,11 @@ coverImage: "Kanban-Portfolio-View-2024-upstream-downstream.png"
 excerpt: 'In our Scrum Alone is Not Enough discussion on [Portfolio'
 ---
 
+import Figure from '@/components/global/figure.astro';
+import KanbanPortfolioView2024UpstreamDownstream1024x230 from 'src/content/blog/portfolio-management-with-upstream-and-downstream-teams/images/Kanban-Portfolio-View-2024-upstream-downstream-1024x230.png';
+import ValueStreamMapExample1024x261 from 'src/content/blog/portfolio-management-with-upstream-and-downstream-teams/images/value-stream-map-example-1024x261.png';
+
+
 In our Scrum Alone is Not Enough discussion on [Portfolio Management](/blog/portfolio-management), we talked about what it is, and how the use of a Portfolio Kanban Board can help visualize challenges that are inhibiting work, including with parallel teams. That was tricky enough, but now let's tackle an even bigger challenge: managing work that happens before and after Scrum development teams. We work with many government departments and large organizations and some, for structural or regulatory reasons, have systems that operate in this way with upstream and downstream teams.
 
 This article will focus on visualizing the flow of work from beginning to end, through all of the moving parts and teams. Once we establish a flow, we will learn to monitor it. Most importantly, we will start to make improvements. After all, there is little value in monitoring an existing process if it takes most of a Quarter to deliver value to the customer.
@@ -17,11 +22,21 @@ Let's look at how this works by using an example. Imagine an organization or dep
 
 Their Portfolio Kanban board might look like this:
 
-![](src/content/blog/portfolio-management-with-upstream-and-downstream-teams/images/Kanban-Portfolio-View-2024-upstream-downstream-1024x230.png)
+<Figure
+  src={KanbanPortfolioView2024UpstreamDownstream1024x230}
+  alt=""
+  caption=""
+/>
+
 
 All of the same challenges we visualized on the simpler board before still apply and some of them will get worse. Much worse. Before showing how,  we will study a fictional value stream map for this organization.
 
-![](src/content/blog/portfolio-management-with-upstream-and-downstream-teams/images/value-stream-map-example-1024x261.png)
+<Figure
+  src={ValueStreamMapExample1024x261}
+  alt=""
+  caption=""
+/>
+
 
 Assuming items never wait (which is unrealistic), it will take from two weeks to a month to get a Feature/Epic/Large PBI deployed. Worse, a system designed like this has a big failure risk built in. What happens if an item is rejected or requires rework after it goes through the legal/regulatory process? Depending on the problem, its UX may need to be redesigned or parts rewritten. Once the rework happens, it must then take another trip through the system. This will exacerbate all of the other problems illustrated on their kanban board.
 
